@@ -1,0 +1,1925 @@
+Key,Солов'їна [ua-UA]
+Consoles/,
+Consoles/ACHIEVEMENT_DESC_001,Завершіть сценарій без виснаження жодного з найманців у вашій групі
+Consoles/ACHIEVEMENT_DESC_002,Завершіть сценарій на звичайній складності або вище
+Consoles/ACHIEVEMENT_DESC_003,Зціліть понад 60 ОЗ групі за сценарій
+Consoles/ACHIEVEMENT_DESC_004,Переможете Ватажка розбійників у кампанії
+Consoles/ACHIEVEMENT_DESC_005,Дикун за сценарій 6+ разів застосував здатність притягання або відштовхування
+Consoles/ACHIEVEMENT_DESC_006,Шахрайка за сценарій зібрала 14+ куп золота
+Consoles/ACHIEVEMENT_DESC_007,Відправити найманця на спокій
+Consoles/ACHIEVEMENT_DESC_008,Переможете Іноксів-тілоохоронців у кампанії
+Consoles/ACHIEVEMENT_DESC_009,Переможете Джексеру в кампанії
+Consoles/ACHIEVEMENT_DESC_010,Переможете Безбарвного в кампанії
+Consoles/ACHIEVEMENT_DESC_011,Переможете Архідемона в кампанії
+Consoles/ACHIEVEMENT_DESC_012,Переможете Жорстокого наглядача в кампанії
+Consoles/ACHIEVEMENT_DESC_013,Переможете Невидяче око в кампанії
+Consoles/ACHIEVEMENT_DESC_014,У групі з 4 найманців мати хоча б по 1 поліпшенню карт у кожного
+Consoles/ACHIEVEMENT_DESC_015,Переможете Крилатий жах у кампанії
+Consoles/ACHIEVEMENT_DESC_016,Переможете Темного вершника в кампанії
+Consoles/ACHIEVEMENT_DESC_017,Переможете Зрадника в кампанії
+Consoles/ACHIEVEMENT_DESC_018,Переможете Начальника варти в кампанії
+Consoles/ACHIEVEMENT_DESC_019,Переможете в сценарії без атак ближнього бою
+Consoles/ACHIEVEMENT_DESC_020,За сценарій один із найманців завдав 200+ шкоди
+Consoles/ACHIEVEMENT_DESC_021,За сценарій передати 10+ звичайних або великих аптечок
+Consoles/ACHIEVEMENT_DESC_022,Переможете Дрейка-патріарха в кампанії
+Consoles/ACHIEVEMENT_DESC_023,Розблокуйте всіх найманців за одну кампанію
+Consoles/ACHIEVEMENT_DESC_024,Переможете Морока в кампанії
+Consoles/ACHIEVEMENT_DESC_025,Переможете в сценарії не вбиваючи ворогів
+Consoles/ACHIEVEMENT_DESC_026,Завершіть сценарій на шаленій складності або вище
+Consoles/ACHIEVEMENT_DESC_027,Переможете Вищого культиста в кампанії
+Consoles/ACHIEVEMENT_DESC_028,Переможете Командира нежиті в кампанії
+Consoles/ACHIEVEMENT_DESC_029,"Завершіть сценарій ""Це просто гра"" в режимі Хранителя"
+Consoles/ACHIEVEMENT_DESC_030,"Завершіть сценарій лише найманцями з доповнення ""Щелепи лева"""
+Consoles/ACHIEVEMENT_DESC_031,"Переможете Кров'яну пухлину в ""Щелепі лева"""
+Consoles/ACHIEVEMENT_DESC_032,"Переможете Кривавого жаху в ""Щелепі лева"""
+Consoles/ACHIEVEMENT_DESC_033,"Переможете Главу Ордена в ""Щелепі лева"""
+Consoles/ACHIEVEMENT_DESC_034,"Добудьте всі скрині в сценаріях ""Щелепи лева"""
+Consoles/ACHIEVEMENT_DESC_035,"Завершіть усі сценарії ""Щелепи лева"""
+Consoles/ACHIEVEMENT_DESC_036,Нанесіть 20+ ушкоджень однією атакою і завершіть сценарій
+Consoles/ACHIEVEMENT_DESC_037,Відновіть за раунд 7 спалених карт Плетучої Чари і завершіть сценарій
+Consoles/ACHIEVEMENT_DESC_038,Крадійка розуму використовувала аугменти 5+ разів за сценарій
+Consoles/ACHIEVEMENT_DESC_039,Убийте ворога з 4+ жетонами негативних станів і завершіть сценарій
+Consoles/ACHIEVEMENT_DESC_040,Винахідник 4 або більше разів наклав різні негативні стани за сценарій
+Consoles/ACHIEVEMENT_DESC_041,Пустотілий розмістив 6+ перешкод за сценарій
+Consoles/ACHIEVEMENT_DESC_042,Покращіть вашу першу карту
+Consoles/ACHIEVEMENT_DESC_043,Хранителька Сонця посилила союзників 10+ разів за сценарій
+Consoles/ACHIEVEMENT_DESC_044,Відправте 5 найманців на спокій
+Consoles/ACHIEVEMENT_DESC_045,Оспівувачка використала 5+ пісень за сценарій
+Consoles/ACHIEVEMENT_DESC_046,Активуйте 3 або більше пасток за раунд і завершіть сценарій
+Consoles/ACHIEVEMENT_DESC_047,У групі з Приреченим убийте 10+ ворогів у стані Фатуму
+Consoles/ACHIEVEMENT_DESC_048,Призивачка використала 5+ здібностей призову за сценарій
+Consoles/ACHIEVEMENT_DESC_049,Отруїть 10+ ворогів Провісником чуми за сценарій
+Consoles/ACHIEVEMENT_DESC_050,"Берсерк, ранячи себе, використала 10+ здібностей атаки за сценарій"
+Consoles/ACHIEVEMENT_DESC_051,Граючи з Інтендантом у групі проведіть 4+ атак за раунд і завершіть сценарій
+Consoles/ACHIEVEMENT_DESC_052,Елементалістом використовуйте кожну зі стихій хоча б 1 раз під час сценарію і завершіть його
+Consoles/ACHIEVEMENT_DESC_053,Завершіть усі завдання в Подорожах у режимі Хранителя
+Consoles/ACHIEVEMENT_DESC_054,Завершіть усі завдання пошуку Реліквій у режимі Хранителя
+Consoles/ACHIEVEMENT_DESC_055,Хранитель Порожнечі дарувала 10+ дій іншим найманцям у сценарії
+Consoles/ACHIEVEMENT_DESC_056,Ведмідь Повелителя Звірів завдав 100+ шкоди і вбив 6+ ворогів за сценарій
+Consoles/ACHIEVEMENT_DESC_057,"Покров ночі вбив 8+ ворогів, будучи невидимим, за сценарій"
+Consoles/ACHIEVEMENT_DESC_058,Рубака використав Улюбленця для 5+ атак за сценарій
+Consoles/ACHIEVEMENT_DESC_059,"Досягніть усіма персонажами ""Щелепи лева"" 5 рівня або вище"
+Consoles/ACHIEVEMENT_DESC_060,Червоним Вартовим пошкодіть 10+ разів ворогів здатністю Піщаний диявол за сценарій
+Consoles/ACHIEVEMENT_DESC_061,Підривником зруйнуйте 8 або більше перешкод за сценарій
+Consoles/ACHIEVEMENT_TITLE_001,Я ще не помер.
+Consoles/ACHIEVEMENT_TITLE_002,Звичайний день у Похмурій Гавані
+Consoles/ACHIEVEMENT_TITLE_003,Вакцина на підході
+Consoles/ACHIEVEMENT_TITLE_004,І хто тут бос?
+Consoles/ACHIEVEMENT_TITLE_005,Іди-но сюди!
+Consoles/ACHIEVEMENT_TITLE_006,Моє... це все моє...
+Consoles/ACHIEVEMENT_TITLE_007,Сивий ветеран
+Consoles/ACHIEVEMENT_TITLE_008,Застигнути зненацька
+Consoles/ACHIEVEMENT_TITLE_009,Фатальна торговка
+Consoles/ACHIEVEMENT_TITLE_010,Додати фарб
+Consoles/ACHIEVEMENT_TITLE_011,Ненавиджу портали
+Consoles/ACHIEVEMENT_TITLE_012,Щурячий король
+Consoles/ACHIEVEMENT_TITLE_013,Око за око
+Consoles/ACHIEVEMENT_TITLE_014,Форсаж
+Consoles/ACHIEVEMENT_TITLE_015,Прямо в горло
+Consoles/ACHIEVEMENT_TITLE_016,Головоногий
+Consoles/ACHIEVEMENT_TITLE_017,А зрадь ось це!
+Consoles/ACHIEVEMENT_TITLE_018,Капітан Крюк
+Consoles/ACHIEVEMENT_TITLE_019,Снайпер
+Consoles/ACHIEVEMENT_TITLE_020,Майстерний вбивця
+Consoles/ACHIEVEMENT_TITLE_021,Профі з Дувра
+Consoles/ACHIEVEMENT_TITLE_022,Як приручити дрейка
+Consoles/ACHIEVEMENT_TITLE_023,Увага! Спойлер!
+Consoles/ACHIEVEMENT_TITLE_024,"Морок, жадібність і смерть"
+Consoles/ACHIEVEMENT_TITLE_025,А як атакувати?
+Consoles/ACHIEVEMENT_TITLE_026,Пекельна роботенка
+Consoles/ACHIEVEMENT_TITLE_027,Пристрасний шанувальник
+Consoles/ACHIEVEMENT_TITLE_028,Тільки через твій труп
+Consoles/ACHIEVEMENT_TITLE_029,Хранитель Гільдії
+Consoles/ACHIEVEMENT_TITLE_030,Свіжа кров
+Consoles/ACHIEVEMENT_TITLE_031,"Те Зло, що творять люди"
+Consoles/ACHIEVEMENT_TITLE_032,На старт! Увага! Фарш!
+Consoles/ACHIEVEMENT_TITLE_033,Остерігайся сили моєї
+Consoles/ACHIEVEMENT_TITLE_034,Левовий хом'як
+Consoles/ACHIEVEMENT_TITLE_035,Важкі стежки героїв
+Consoles/ACHIEVEMENT_TITLE_036,Перебір
+Consoles/ACHIEVEMENT_TITLE_037,Майже видихнувся
+Consoles/ACHIEVEMENT_TITLE_038,Аугментований щур
+Consoles/ACHIEVEMENT_TITLE_039,Поширюючи чуму
+Consoles/ACHIEVEMENT_TITLE_040,Урок анатомії
+Consoles/ACHIEVEMENT_TITLE_041,Перегони з перешкодами
+Consoles/ACHIEVEMENT_TITLE_042,Прелесть!
+Consoles/ACHIEVEMENT_TITLE_043,Світло мого життя
+Consoles/ACHIEVEMENT_TITLE_044,Загартований ветеран
+Consoles/ACHIEVEMENT_TITLE_045,Зіграй ще разок
+Consoles/ACHIEVEMENT_TITLE_046,Як по нотах
+Consoles/ACHIEVEMENT_TITLE_047,Рок і Морок
+Consoles/ACHIEVEMENT_TITLE_048,Ватажок зграї
+Consoles/ACHIEVEMENT_TITLE_049,Чорна погибель
+Consoles/ACHIEVEMENT_TITLE_050,"Біль, подруга моя"
+Consoles/ACHIEVEMENT_TITLE_051,Чотирикратна шкода
+Consoles/ACHIEVEMENT_TITLE_052,Чудові вогники!
+Consoles/ACHIEVEMENT_TITLE_053,Ходіння за три моря
+Consoles/ACHIEVEMENT_TITLE_054,Яка така Лара?
+Consoles/ACHIEVEMENT_TITLE_055,Вроджена підтримка
+Consoles/ACHIEVEMENT_TITLE_056,Посміхайся і терпи
+Consoles/ACHIEVEMENT_TITLE_057,Ось тепер ти мене помітив...
+Consoles/ACHIEVEMENT_TITLE_058,Сокира війни
+Consoles/ACHIEVEMENT_TITLE_059,Тягніть великі гармати
+Consoles/ACHIEVEMENT_TITLE_060,Алое торнадо
+Consoles/ACHIEVEMENT_TITLE_061,БАМ!
+Consoles/BUY_DLC,Купити
+Consoles/COMMUNICATION_DISABLED_NOT_ALLOWED_REASON,"Вибачте, наразі вам заборонено спілкуватися з цим користувачем."
+Consoles/COMMUNICATION_DISABLED_SETTINGS_RESTRICTS_REASON,"Вибачте, наразі вам заборонено спілкуватися з цим користувачем. Змініть налаштування."
+Consoles/COMMUNICATION_DISABLED_UNKNOWN_REASON,"Вибачте, наразі вам заборонено спілкуватися з цим користувачем. Змініть налаштування."
+Consoles/COMMUNICATION_DISABLED_USER_IN_BLOCK_LIST_REASON,"Вибачте, наразі вам заборонено спілкуватися з цим користувачем. Причина: користувач у списку блокування."
+Consoles/COMMUNICATION_DISABLED_USER_IN_MUTE_LIST_REASON,"Вибачте, наразі вам заборонено спілкуватися з цим користувачем. Причина: користувач у мутелісті."
+Consoles/COMPENDIUM_AreaEffects_4_CONSOLE,"Деякі ефекти атак мають атрибут дальності, дозволяючи вицілювати ворогів здалеку. Хоча б 1 з червоних клітинок повинна бути в межах дальності і не зобов'язана мати на собі ворога.
+
+Ви можете атакувати ворогів на клітинах тільки на лінії видимості."
+Consoles/CREATE_NEW_LOCAL_SAVE,Це збереження призначене для багатокористувацької сесії. Ви хочете створити особисте збереження на своїй консолі?
+Consoles/CREATE_NEW_LOCAL_SAVE_BUTTON,Створити збереження
+Consoles/CREATE_NEW_SAVE_MESSAGE_TITLE,Створити нове особисте збереження
+Consoles/DEFAULT_SAVE_NAME,Зберегти
+Consoles/DOWNLOAD_IN_PROGRESS_TEXT,Прямо зараз завантажуються ігрові файли. До завершення завантаження Ви не зможете приєднатися до багатокористувацької сесії.
+Consoles/DOWNLOAD_IN_PROGRESS_TITLE,Йде збереження.
+Consoles/Demolitionist_SKIN_ALT,Альтернативний вигляд
+Consoles/ERROR_MULTIPLAYER_00117,"Мультиплеєр недоступний, перевірте, будь ласка, підключення до інтернету."
+Consoles/ERROR_SIGN_OUT_FROM_PSN_CLIENT,Гравець вийшов із мережі PlayStation™Network. Вийдіть із багатокористувацької гри та перейдіть до Головного меню.
+Consoles/ERROR_SIGN_OUT_FROM_PSN_HOST,Гравець вийшов із мережі PlayStation™Network. Сеанс багатокористувацької гри закрито. Повертаємося до режиму одиночної гри.
+Consoles/EULA_HEADER,ЛІЦЕНЗІЙНА УГОДА КІНЦЕВОГО КОРИСТУВАЧА TWIN SAILS INTERACTIVE
+Consoles/EULA_REJECT,"Ви не зможете отримати доступ до гри, якщо не приймете УГОДУ про ліцензію для кінцевих користувачів"
+Consoles/FTUE_10_CONTROLLER,"Похмура Гавань не славиться своїми вихованими людьми і добрими самаритянами, але на вулицях міста можна багато чого почерпнути... Зараз ви можете <color=#EACF8C>знайти міську подію</color>, натиснувши на кнопку знизу.
+(рекомендується робити це щоразу, коли ви будете в місті, оскільки вони часто дають хороші нагороди)."
+Consoles/FTUE_12_CONTROLLER,"Місцезнаходження <color=#EACF8C>першого завдання</color> відзначено на північ від Похмурої Гавані - ви побачите, що воно позначене значком. У міру вашого просування на карті з'являтиметься все більше локацій завдань. Щоб відстежувати їх, ви можете використовувати журнал завдань у правій частині екрана.
+Виберіть Чорний курган , щоб вибрати завдання, або натисніть {UI_SUBMIT} для вибору запису в Журналі завдань."
+Consoles/FTUE_2.2_CONTROLLER,Натисніть {UI_PREVIOUS_TAB} для відкриття <color=#EACF8C>Панелі групи</color>.
+Consoles/FTUE_2_CONTROLLER,"Ліворуч від вас ви знайдете <color=#EACF8C>Панель групи</color>. Тут ви побачите основну інформацію про найманців у вашій групі.
+Натисніть {UI_PREVIOUS_TAB}, щоб побачити <color=#EACF8C>Панель групи</color>"
+Consoles/FTUE_3.2_CONTROLLER,"Натисніть {UI_SUBMIT} для <color=#EACF8C>вибору ""Новий найманець""</color> і створення персонажа"
+Consoles/FTUE_3_CONTROLLER,"Ви можете створювати, переглядати і додавати Найманців до поточної групи за допомогою цієї панелі. Прямо зараз він виглядає таким же безплідним, як і Мідні гори, так що краще <color=#EACF8C> натисніть {UI_SUBMIT} </color>, щоб створити свого першого персонажа!"
+Consoles/FTUE_5_CONTROLLER,"Чудово! Майте на увазі - карти здібностей найманців - це ті дії, які найманці будуть здатні робити на полі бою. Використовуйте {CREATOR_SHOW_ABILITY_CARDS} для вибору кнопки <color=#EACF8C>початкових карт здібностей</color>, щоб переконатися, що даний найманець підійде для вашої групи.
+Коли будете готові пройти далі, натисніть {UI_SUBMIT} для <color=#EACF8C>вибору найманця</color>."
+Consoles/FTUE_7.2_CONTROLLER,"Використовуйте {UI_PREVIOUS_TAB} для доступу до <color=#EACF8C>Панелі групи</color>, а потім виберіть другий слот найманця
+"
+Consoles/FTUE_7_CONTROLLER,"Натисніть {UI_PREVIOUS_TAB} для вибору <color=#EACF8C>другого слота персонажа</color> на панелі групи і створіть нового персонажа
+Майте на увазі - у вас не можуть бути одночасно в групі 2 найманці одного класу."
+Consoles/FTUE_9.2_CONTROLLER,Використовуйте {PREVIOUS_SHIELD_TAB} або {NEXT_SHIELD_TAB} для огляду опцій міста та доступу до <color=#EACF8C>лавки Торговця</color>.
+Consoles/FTUE_9.3_CONTROLLER,"Коли будете готові, натисніть кнопку ""Карта світу"" внизу, щоб <color=#EACF8C>повернутися до карти світу</color>"
+Consoles/GUI_ABILITY_FULLY_ENHANCED,Цю здатність <color=#5FD6E5>повністю поліпшено</color>.
+Consoles/GUI_APPLY_AND_LOAD,Застосувати та Завантажити
+Consoles/GUI_AUTOSAVE_EXPLANATION_CONSOLE,"Ця програма використовує функцію автозбереження. Будь ласка, не закривайте додаток, коли побачите значок автозбереження."
+Consoles/GUI_BATTLE_GOALS_TIP_CONTROLLER,Виберіть Бойову ціль для кожного найманця перед початком сценарію
+Consoles/GUI_BUY,Купити
+Consoles/GUI_CANCEL,Скасування
+Consoles/GUI_CHARACTER_INVALID_NAME,Некоректне ім'я персонажа
+Consoles/GUI_CHARACTER_NAME_SIX_DIGITS,Ім'я найманця не може бути довшим за 6 знаків
+Consoles/GUI_CITY_QUEST_DESCR,У Похмуру Гавань
+Consoles/GUI_CITY_QUEST_TITLE,Новий
+Consoles/GUI_CONFIRMATION_KEYBOARD_MOUSE_ONLY,"Будь ласка, перемкніть пристрій введення для доступу до обраної опції"
+Consoles/GUI_CONFIRMATION_KEYBOARD_MOUSE_ONLY_HEADER,Ця опція доступна тільки з елементами управління мишею/клавіатурою
+Consoles/GUI_CONFIRMATION_KEYBOARD_MOUSE_ONLY_SWITCH_INPUT,Переключити введення
+Consoles/GUI_COST,Ціна
+Consoles/GUI_CREDITS_PEOPLE,"<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Креативний директор</color></font>
+Майк Вест
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Виконавчий продюсер</color></font>
+Крейг Оман
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>художній режисер</color></font>
+Ніл Вільямс
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Технічні режисери</color></font>
+Брінн МакКаллах
+Маркус Лінн
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Головний програміст</color></font>
+Джеймс Пейн
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>UI програміст</color></font>
+Паула Наварро Альфонсо
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>скриптер і програміст</color></font>
+Міша Колборн
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Процедурний програміст генерації</color></font>
+Сем Свейн - Apparance Ltd.
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Програміст інструментарію та геймплею</color></font>
+Шон Райт
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Графічний та геймплейний програміст</color></font>
+Віктор Заторський
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Геймплейний програміст</color></font>
+Майкл Вальдо
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Програміст мультіплеєра</color></font>
+Петтері Лампікоскі
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Додаткове програмування</color></font>
+Андрій Бичковський
+Баррі Монахан
+Естевао Арантес
+Кіт Вольф
+Нед Біркін
+Павло Конярик
+Саймон Джордан
+Тім Шейнман
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Аніматор</color></font>
+Гарі Велч
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Митець оточення</color></font>
+Сергій Білотіл
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Character Artist</color></font></font>
+Річард Хаммонд
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Технічний аніматор</color></font>
+Джаред Емблі
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Лідий художник інтерфейсу інтерфейсу </color></font>
+Майкл Санчес
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>UI-художник </color></font>
+Дженні Брюер
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>VFX-художник</color></font>
+Домінікус Райтер
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Додаткова арт-підтримка</color></font>
+Ханна Макміллан
+Марко Ковач
+Стюарт Макріт
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Концептуальний та 2D художник</color></font>
+Пітер Ламбі
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Додатковий художник-концептуаліст</color></font>
+Джеймс Ферлонг
+Джейк Гамблтон
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Автор сценарію та дизайнер рівнів</color></font>
+Леон Лінн
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Молодший дизайнер</color></font>
+Маріо Фернандес Паленсуела (Mario Fernández Palenzuela)
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Асистент продюсера</color></font>
+Ентоні Рів
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Группа з забезпечення якості</color></font>
+Ендрю Статтерс
+Ентоні Рів
+Дрю Гарнер
+Джейсон Гіле
+Маріо Фернандес Паленсуела
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Додаткове забезпечення якості</color></font>
+Кейл Стокс
+Коннор Макговерн
+Коннор Орпін
+Люк Коалтер
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Додаткова підтримка виробництва</color></font>
+Олівер Бірн
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Додатковий дизайн</color></font>
+Алекс Троуерс
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Композитор</color></font>
+Расс Шоу
+Сем Бакнелл
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Звуковий дизайн від Cedar Studios Ltd.</color></font>
+Том Путтік
+Філ Френч
+Сем Бакнелл
+Джош Янг
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Character Art</color></font></font>
+Little Red Zombies Studios
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Дослідження користувачів, проведене компанією ""Player Research - Брайтон""</color></font>.
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Особлива подяка</color></font>
+Абрам Конн
+Адріан Брукс
+Александер Хосе Зоммерфельдт
+Олексій 'Cores' Сапунов
+Аннабелла МакКаллах
+Аркадій Колборн
+Брейді Шлю
+Брендон Девіс
+Кармен Куеста Кабанес
+Колін Кеннеді
+Крістіан Джордано
+Емілі
+Gripeaway
+Ян Салін
+Джеред Еліель Мюленбрух
+Джессіка
+Джон Даннет
+Джулс Вест
+Хосе Наварро Монзо
+Джозеф Вейр
+Хуліо Фернандес Савіньон
+Джастін Калхун
+Лорен Рейнольдс
+Леслі Оман
+MandatoryQuest
+Марія дель Кармен Альфонсо Тормо
+Майк Вюрфель
+Михайло Зайцев
+Мирослав Міхов
+Моніка Клари
+Надя Колборн
+Нік Сікерт
+Ніколас Віеллард
+Ніколай Лінге Йоргенсен
+Панагіотіс Цупідіс
+Патриція Бичек
+Філ Колборн
+Пайпер Оман
+Рис Ултон
+Шарон
+Сільвія Есталл
+Софі Сандхем
+Спенсер Пауелл
+Стефан Клеменс
+Томас Шеллі
+Крістіан Геа Родрігес
+Ерік Пла Ерра
+Ніколь Де Амброзіо
+Удо Шмальфус
+та працьовиті працівники Burger Island
+
+
+<font=""MarcellusSC-Regular SDF""><color=#FF7E9C9FF>Пламенисті улюбленці пламенних птахів</color></font>
+Чарлі Тунець
+Fiskars*
+Гризельвальд
+Гера
+Інді
+Kiki Bilouteski
+Miggle*
+Оллі
+Рейнджер
+Севві
+Сміджон
+Свиняча качка
+Токток*
+Xispa*
+
+* Сумно загублений під час розробки, але все ще в наших серцях
+
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Asmodee Digital</color></font>
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Лінійний продюсер</color></font>
+Жюльєн Секверт
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Лідер лінійного продюсера</color></font>
+Ремі Шиншилла
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Продюсерський директор</color></font>
+Лоран Ліхневський
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Дизайнер гри</color></font></font>
+Максим Антонофф
+Алексіс Клерк
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Креативний директор</color></font></font>
+Ремі Ганесс
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Бренд-менеджер</color></font>
+Маттьє дю Лак
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Глава департаменту брендів і продуктів</color></font>
+Адрієн Ротондо
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Початковий бренд-менеджер</color></font>
+Ромен Мессер
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Асистент бренд-менеджера</color></font>
+Робін Лафра
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Лідер з маркетингу</color></font>
+Саша Мокке
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Кінематографіст</color></font>
+Сильвен Доллез
+Луї Дабровскі
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Подробок маркетолога</color></font>
+Ноемі Ардуен
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Директор з маркетингу</color></font>
+Філіп Дао
+Артур Досне
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Глава операційного відділу</color></font></font>
+Анн-Софі Канель
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Manager of Release</color></font>
+Елен Бертолотті
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Руководитель проекту платформи</color></font></font>
+Мехді Лекехаль
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Диджитал-проект менеджер</color></font></font>
+Елоді Домінгес
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Асистент з цифрового маркетингу</color></font>
+Емма Робін
+Орелі Лессен
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Комерційний директор</color></font>
+Марі Вольфф
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Ри-менеджер по роботі з громадськістю та інфлюенсерами</color></font>
+Косма Ніколау
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Менеджер з інфлюенсерів</color></font>
+Ален Віраво
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Соціальний та платний медіа-стратег</color></font>
+Семюель Демпсі
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Community Developer</color></font>
+Клара Терратс
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Розробник спільноти</color></font>
+Беатріс Міллеріу Хенріксен
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Руководитель видавничого відділу</color></font>
+Джулі Ле Вакон
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Агент з підтримки клієнтів</color></font>
+П'єр-Ів Руйс
+Флоріан Марі-Емільєн
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Лідер служби підтримки клієнтів</color></font>
+Максим Крозьє
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Developer BI/DBA</color></font></font>
+Квентін Томас
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Аналітик даних</color></font>
+Арно Лежандр
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Тестер трекінгу</color></font>
+Валентин Санчес де Леон
+Бенджамін Лутц
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Начальник відділу даних</color></font>
+Александр Давид
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Lead QA</color></font></font>
+Ніколя Дюпон
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Помічник керівника QA</color></font>
+Клер Хоффманн
+Мédéric Bourdillon
+Жан-Філіп Мартін
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Тестер QA</color></font></font>
+Сара Брассет
+Валентин Серрі
+Олів'є Гарін
+Себастьєн Вайсрок
+Орелі Лесесне
+Франсуа-Чав'є Яконо
+Людовик Ро
+Гарлан Чомарат
+Амелі Перре
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Керівник QA</color></font></font>
+Жан-Батист Кобленс
+
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Riotloc</color></font>
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Локалізаційна кордонізація</color></font></font>
+Володимир Конопліцький
+Анна Кисельова
+Олександр Болотін
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Французька локалізація</color></font>
+Ерік Хольвек
+Беранжер Хольвек
+Офелі Колін
+Джонатан П'єр
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Німецька локалізація</color></font>
+Роланд Остінат
+Лоренц Гоммерс
+Генріх Ленгардт
+Ульріх Онкен
+Гезине Преуссер
+Ізабель Штернер
+Констанце Фогль
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Іспанська локалізація</color></font>
+Рамон Мендес
+Альба Кальво
+Curri Barceló
+Хуан Рамон Аседо
+Еміліо Рос
+Рубен Моралехо
+Laia Díez
+Давид Нейра
+
+
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Liquid Violet</color></font></font>
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Наратор</color></font></font>
+Алек Ньюман
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Голосові режисери</color></font>
+Розі Джонс
+Денні Болдвін
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Аудіоінженери</color></font>
+Хейлі Аллен
+Шон Мохер
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Продюсерство</color></font>
+Джон Юземан
+Кріс Хопкінс
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Пост-продакшн</color></font>
+Алікс Джонс
+Кевін Дейві
+Джеймс Кірк
+Чарлі Томас
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Cephalofair Games</color></font>
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>CEO / Game Designer</color></font></font>
+Айзек Чайлдрес
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Головний операційний директор</color></font>
+Прайс Джонсон
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Графічний дизайн</color></font>
+ Джош Макдауелл
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Арт</color></font>
+ Олександр Єлічев
+Альваро Небот
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Скульптура</color></font>
+Джеймс Ван Шайк
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Редагування</color></font>
+Джим Спайві
+Matthew G. Somers
+Марсель Квертечка
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Особлива подяка</color></font>
+Крістін Чайлдрес, Кеті, Фінну, Аді та Корі МакДауелл, Харілаосу
+Бачаріс, Клінтон Бредфорд, Брендон Батчер, Тревіс Ченс,
+Джозеф Чілдрес, Роб Давіау, Пол Гроган, Брендон Голл"".
+""Річард Хем, Каспер Гансен, Уокер Хардін, Чак Хеннеманн,
+Скотт Гортон, Брайан Хантер, Девід Ісаков, Олександр Клатте, Карл
+Клуцке, Брайан Лі, Нік Літтл, Кевін Меннінг, Ян Мейберг,
+Тімо Мультамякі, Рей Пей, Джоан Пратс, Ендрю Рітчі, Адам
+Сэдлер, Брейді Сэдлер, Ерік Сансон, Скотт Старкі, Джей Сі Тромблі, Арне
+Віхаген, Майкл Вілкінс, Стефан Заппе, Марсель Квертечка,
+Тім і Кім Де Смет, Джаред Гіллеспі, Девід Ісаков, Джеремі Кеммер, Метью Дж. Сомерс
+
+<font=""MarcellusSC-Regular SDF""><size=36><color=#F7E9C9FF>TWIN SAILS INTERACTIVE</color></size></font></font>
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>керуючий директор</color></font>
+Ніколя Годеман
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Команда продюсерів</color></font>
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Продюсерський директор</color></font>
+Лоран Ліхневський
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Початковий лінійний продюсер</color></font>
+Клер Леже
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Лінійний продюсер</color></font>
+Жюльєн Секверт
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Дизайнер ігор</color></font>
+Максим Антонофф
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Маркетингова команда</color></font>
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Директор з маркетингу</color></font></font>
+Адрієн Ротондо
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Бренд-менеджер</color></font>
+Ромен Мессер
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Маркетологи</color></font>
+Крістель Ардуен
+Флаві Лукас
+Іріс Ясур
+Ноемі Ардуен
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Кінематографічні художники</color></font>
+Луї Дабровскі
+Сильвен Доллез
+Ян Башелери
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Руководитель спільноти</color></font>
+Беатріс Міллеріу Хенріксен
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Команда управління випуском</color></font>
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Manager Releases</color></font></font>
+Елен Бертолотті
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Neutrimem</color></font>
+Гарі Джейкоб
+Жоао Маркос
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Группа забезпечення якості</color></font>
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Лідер з контролю якості</color></font>
+Жан-Батист Кобленс
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>QA тестувальники</color></font>
+Médéric Bourdillon
+Жан-Філіп Мартін
+Гарлан Чомарат
+Лаура Бонду
+Валентин Дюваль
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Комерційна команда</color></font>
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Комерційний директор</color></font></font>
+Марі Вольфф
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Асистентка комерційного директора</color></font>
+Карім Амара
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Пар та підтримка</color></font>
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>менеджер з PR</color></font></font>
+Косма Ніколау
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>спеціаліст з PR</color></font>
+Océane Hurtaud
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Підтримка клієнтів</color></font>
+Матіс Марі-Емільєн
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Твін Сейлз Інтерактив - Інші послуги</color></font>
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Фінансовий менеджер</color></font></font>
+Себастьєн Лебігр
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Бухгалтер</color></font></font>
+Герлін Жан Франсуа
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Юридичний відділ компанії ""Асмоді""</color></font>
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Початковий юрисконсульт</color></font>
+Одрі Жувіон
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Юридичний радник</color></font>
+Квентін Монфронт
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Радвокат з питань ГДПР</color></font>
+Лоуренс Гардіас
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Особлива подяка</color></font>
+П'єр Ортолан, старший віце-президент з розвитку та ліцензування інтерактивного бізнесу, Asmodee
+Ремі Чінчілла
+Ян Корно
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>SABER INTERACTIVE INC.</color></font>
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>CEO</color></font>
+Метт Карч
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>COO</color></font>
+Андрій Іонес
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>CCO</color></font>
+Тім Віллітс
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>CFO</color></font>
+Гарі Левін
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>CTO</color></font>
+Антон Крупкін
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Генеральний радник</color></font>
+Джефф Ошинський
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Глава видавничого відділу</color></font>
+Тодд Холленсхед
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Глава відділу розвитку</color></font>
+Бред Доан
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Глава відділу маркетингу</color></font></font>
+Адам Тедман
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Глава зі зв'язків з громадськістю</color></font>
+Шон Нортон
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Директор по роботі з громадськістю</color></font>
+Майкл Калверт
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Координатор з маркетингу</color></font>
+Алекс Грінбаум
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Директор з розвитку бізнесу</color></font>
+Корі Вейд
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Директор з розвитку бізнесу</color></font>
+Жанна Горанська
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Директор з розвитку бізнесу</color></font>
+Метт Макнайт
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Директор з продукту</color></font>
+Кріс Мартін
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Директор з наративу</color></font>
+Крейг Шерман
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Креативний директор</color></font>
+Джейсон О'Коннелл
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Генеральний продюсер</color></font>
+Сергій Ларіонов
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Забезпечення якості шабель</color></font>
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Директор із забезпечення якості</color></font></font>
+Віктор Гляненко
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Менеджер із забезпечення якості</color></font>
+Ніна Резніченко
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Lead of Quality Assurance Lead</color></font>
+Євген Колчев
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Руководитель проекту із забезпечення якості</color></font>
+Володимир Літченко
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Команда забезпечення якості</color></font>
+Олександр Дмитрієв
+Андрій Волгін
+Данило Культін
+Дар'я Никифорова
+Дмитро Федорових
+Маргарита Митрофанова
+Михайло ""LionHead"" Рибалкін
+Надія Марченко
+Станіслав Дубейковський
+Валерій ""Воля-ля"" Безродний
+Вікторія Фірсова
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Битекс ТОВ</color></font></font>
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>CEO</color></font></font>
+Олександр Торговкін
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Ресурс-менеджер & QA Supervisor</color></font>
+Артем Стукалов
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Руководитель групи забезпечення якості</color></font>
+Микита Сисуєв
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Команда забезпечення якості</color></font>
+Олександр Перепєлкін
+Олексій Мирончев
+Антон Меркулов
+Данило Учеватов
+Денис Калашников
+Денис ""Маверад"" Пенчугін
+Євген Орін
+Кирило ""Амітей Арджі"" Данілін
+Михайло Кібаков
+Олег Баранов
+Сергій Бочкарьов
+Сергій Кургаєв
+Сергій Сафонов
+Сергій Яковлєв
+Владислав Чиндяйкин
+Ярослав ""Енай"" Столбняков
+
+<font=""MarcellusSC-Regular SDF""><size=36><color=#F7E9C9FF>SABER INTERACTIVE MINSK</color></size></font>
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>CEO</color></font>
+Тім Двоскін
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>CTO</color></font>
+Артур Мазурик
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Виконавчий директор</color></font>
+Валерій Коваленко
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Арт-директор / провідний UX-дизайнер</color></font>
+Сергій Старохозяєв
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Виконавчий продюсер</color></font>
+Іван Коптік
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Виконавчий продюсер</color></font>
+Олександр Насонов
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Асоційований продюсер та геймдизайн</color></font>
+Роман Сафін
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Art Team</color></font>
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>UI Artist</color></font></font>
+Марія Черноморова
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Концепт-художник</color></font>
+Олексій Клінов
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Технохудожник</color></font>
+Даніель Цитронов
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Команда розробників</color></font>
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Lead Developer</color></font></font>
+Михайло Печанеу
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Розробники</color></font>
+Олексій Голуб
+Олексій Зборовський
+Андрій Зубко
+Артем Артамонов
+Діма Богданов
+Катерина Гінкель
+Іван Климов
+Матвій Жоров
+Макс Клименок
+Максим Казачонак
+Михайло Горычев
+Олег Коротких
+Олег Мандражієв
+Рауль Бутаєв
+Роман Маліус
+Роман Романовський
+Ярослав Торопов
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>IT & DevOps Team</color></font></font>
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Системний адміністратор</color></font></font>
+Андрій Мурашко
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>DevOps</color></font>
+Олексій Жолнеркевич
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Команда забезпечення якості</color></font>
+Євген Андросик
+Тетяна Ніколайчук
+Іван Минець
+"
+Peter Lumby,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Additional Concept Artists</color></font>",
+James Furlong,
+Jake Gumbleton,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Writer and Level Designer </color></font>",
+Leon Lynn,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Junior Designer </color></font>",
+Mario Fernández Palenzuela,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Assistant Producer </color></font>",
+Anthony Reeve,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Quality Assurance Team </color></font>",
+Andrew Statters,
+Anthony Reeve,
+Drew Garner,
+Jason Guile,
+Mario Fernández Palenzuela,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Additional Quality Assurance</color></font>",
+Cayle Stocks,
+Connor McGovern,
+Connor Orpin,
+Luke Coalter,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Additional Production Support</color></font>",
+Oliver Byrne,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Additional Design </color></font>",
+Alex Trowers,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Composer</color></font>",
+Russ Shaw,
+Sam Bucknall,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Sound Design by Cedar Studios Ltd.</color></font>",
+Tom Puttick,
+Phil French,
+Sam Bucknall,
+Josh Young,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Character Art</color></font>",
+Little Red Zombies Studios,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>User Research carried out by Player Research - Brighton </color></font>",
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Special Thanks </color></font>",
+Abram Conn,
+Adrian Brooks,
+Alexander José Sommerfeldt,
+Alexey 'Cores' Sapunov,
+Alexey Sapunov,
+Annabella McCullagh,
+Arkady Colbourne,
+Brady Schlue,
+Brandon Davis,
+Carmen Cuesta Cabanes,
+Colin Kennedy,
+Cristian Giordano,
+Emily,
+Gripeaway ,
+Jan Sahlin,
+Jered Eliël Mühlenbruch,
+Jessica,
+John Dunnet,
+Jools West,
+Jose Navarro Monzo,
+Joseph Ware,
+Julio Fernandez Saviñon,
+Justin Calhoun,
+Lauren Reynolds,
+Lesley Oman,
+MandatoryQuest,
+Maria del Carmen Alfonso Tormo,
+Mike Würfel,
+Mikhail Zaitsev,
+Miroslav Mihov,
+Monika Klary,
+Nadia Colbourne,
+Nick Sickert,
+Nicolas Viellard,
+Nikolai Lynge Jørgensen,
+Panagiotis Tsoupidis,
+Patricia Byczek,
+Phil Colbourne,
+Piper Oman,
+Rhys Oulton,
+Sharon,
+Silvia Estall,
+Sophie Sandham,
+Spencer Powell,
+Stefan Clemens,
+Thomas Shelley,
+Cristian Gea Rodriguez,
+Eric Pla Erra,
+Nicole De Ambrosio ,
+Udo Schmalfuß,
+and the hard-working employees down at Burger Island,
+,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Flaming Fowl Pets </color></font>",
+Charlie Tuna,
+Fiskars*,
+Griselwald,
+Hera,
+Indie,
+Kiki Bilouteski,
+Miggle*,
+Ollie,
+Ranger ,
+Sevvie,
+Smidgeon,
+The Pig Duck,
+Toktok*,
+Xispa*,
+,
+* Sadly lost during development but still in our hearts,
+,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Asmodee Digital </color></font>",
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Line Producer</color></font>",
+Julien Séquert,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Lead Line Producer</color></font>",
+Rémy Chinchilla,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Production Director</color></font>",
+Laurent Lichnewsky,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Game Designer</color></font>",
+Maxime Antonoff,
+Alexis Clerc,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Creative Director</color></font>",
+Rémi Hanesse,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Brand manager</color></font>",
+Matthieu du Lac,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Head of Brands and Products</color></font>",
+Adrien Rotondo,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Junior Brand Manager</color></font>",
+Romain Messer,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Assistant brand manager</color></font>",
+Robin Laffra,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Lead Marketing Artist</color></font>",
+Sacha Mocquet,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Cinematic Artist</color></font>",
+Sylvain Dollez,
+Louis Dabrowski,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Junior Marketing Artist</color></font>",
+Noémie Ardouin,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Marketing Director</color></font>",
+Philippe Dao,
+Arthur Dosne,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Head of Operations</color></font>",
+Anne-Sophie Canel,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Release Manager</color></font>",
+Hélène Bertolotti,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Platform Project Manager</color></font>",
+Mehdi Lekehal,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Digital Project Manager</color></font>",
+Elodie Domingues,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Digital Marketing Assistant</color></font>",
+Emma Robin,
+Aurélie Lescene,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Commercial Director</color></font>",
+Marie Wolff,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>PR & Influencer Manager</color></font>",
+Cosma Nicolau,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Influencer Manager</color></font>",
+Alain Viravau,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Social & Paid Media Strategist</color></font>",
+Samuel Dempsey,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Community Developper</color></font>",
+Clara Terrats,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Community Developper</color></font>",
+Béatrice Millerioux Henriksen,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Head of Publishing</color></font>",
+Julie Le Vacon,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Customer Support Agent</color></font>",
+Pierre-Yves Ruys,
+Florian Marie-Emilienne,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Lead Customer Support</color></font>",
+Maxime Crozier,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Developer BI/DBA</color></font>",
+Quentin Thomas,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Data Analyst</color></font>",
+Arnaud Legendre,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Tracking Tester</color></font>",
+Valentin Sanchez de Leon,
+Benjamin Lutz,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Head of Data</color></font>",
+Alexandre David,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Lead QA</color></font>",
+Nicolas Dupont,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Assistant Lead QA</color></font>",
+Claire Hoffmann,
+Médéric Bourdillon,
+Jean-philippe Martin,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Tester QA</color></font>",
+Sarah Brasset,
+Valentin Serri,
+Olivier Garin,
+Sébastien Weissrock,
+Aurélie Lecesne,
+François-xavier Yacono,
+Ludovic Rault,
+Harlan Chomarat,
+Amélie Perret,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Head of QA</color></font>",
+Jean-baptiste Coblence,
+,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Riotloc</color></font>",
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Localization Cordination</color></font>",
+Vladimir Konoplitsky,
+Anna Kiseleva,
+Alexander Bolotin,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>French Localization</color></font>",
+Eric Holweck,
+Bérangère Holweck,
+Ophélie Colin,
+Jonathan Pierre,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>German Localization</color></font>",
+Roland Austinat,
+Lorenz Hommers,
+Heinrich Lenhardt,
+Ulrich Onken,
+Gesine Preusser,
+Isabel Sterner,
+Constanze Vogl,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Spanish Localization</color></font>",
+Ramón Méndez,
+Alba Calvo,
+Curri Barceló,
+Juan Ramón Acedo,
+Emilio Ros,
+Rubén Moralejo,
+Laia Díez,
+David Neira,
+,
+,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Liquid Violet</color></font>",
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Narrator</color></font>",
+Alec Newman,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Voice Directors</color></font>",
+Rosie Jones,
+Danny Baldwin,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Audio Engineers</color></font>",
+Hayley Allen,
+Sean Moher,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Production</color></font>",
+Jon Youseman,
+Chris Hopkins,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Post-Production</color></font>",
+Alyx Jones,
+Kevin Davey,
+James Kirk,
+Charlie Thomas,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Cephalofair Games </color></font>",
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>CEO / Game Designer</color></font>",
+Isaac Childres,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Chief Operating Officer</color></font>",
+Price Johnson,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Graphic Design </color></font>",
+ Josh McDowell,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Art</color></font>",
+ Alexandr Elichev,
+Álvaro Nebot,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Sculpting</color></font>",
+James Van Schaik,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Editing</color></font>",
+Jim Spivey,
+Mathew G. Somers,
+Marcel Cwertetschka,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Special Thanks</color></font>",
+Kristyn Childres, Харілаос
+Bacharis,
+Joseph Childres,
+Richard Ham,
+Scott Horton,
+Klutzke,
+Timo Multamäki,
+Sadler, Арне
+Vikhagen,
+Tim and Kim De Smet,
+,
+"<font=""""MarcellusSC-Regular SDF""""><size=36><color=#F7E9C9FF>TWIN SAILS INTERACTIVE</color></size></font>",
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Managing Director</color></font>",
+Nicolas Godement,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Production Team</color></font>",
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Production Director</color></font>",
+Laurent Lichnewsky,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Senior Line Producer</color></font>",
+Claire Leger,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Line Producer</color></font>",
+Julien Sequert,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Game Designer</color></font>",
+Maxime Antonoff,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Marketing Team</color></font>",
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Marketing Director</color></font>",
+Adrien Rotondo,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Brand Manager</color></font>",
+Romain Messer,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Marketing Artists</color></font>",
+Christelle Ardouin,
+Flavie Lucas,
+Iris Yassur,
+Noémie Ardouin,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Cinematic Artists</color></font>",
+Louis Dabrowski,
+Sylvain Dollez,
+Yann Bachelery,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Community Manager</color></font>",
+Béatrice Millerioux Henriksen,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Release Management Team</color></font>",
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Release Manager</color></font>",
+Hélène Bertolotti,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Neutrimem</color></font>",
+Gary Jacob,
+Joao Marcos,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Quality Assurance Team</color></font>",
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>QA Lead</color></font>",
+Jean-Baptiste Coblence,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>QA Testers</color></font>",
+Médéric Bourdillon,
+Jean-Philippe Martin,
+Harlan Chomarat,
+Laura Bondu,
+Valentin Duval,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Commercial Team</color></font>",
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Commercial Director</color></font>",
+Marie Wolff,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Commercial Director assistant</color></font>",
+Karim Amara,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>PR and Support</color></font>",
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>PR Manager</color></font>",
+Cosma Nicolau,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>PR Specialist</color></font>",
+Océane Hurtaud,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Customer Support</color></font>",
+Mathys Marie-Emilienne,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Twin Sails Interactive - Other services</color></font>",
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Finance Manager</color></font>",
+Sébastien Lebigre,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Accountant</color></font>",
+Guerline Jean Francois,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Asmodee Legal Department</color></font>",
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Senior Legal Counsel</color></font>",
+Audrey Jouvion,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Legal Counsel</color></font>",
+Quentin Monfront,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>GDPR Counsel</color></font>",
+Laurence Gardias,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Special Thanks</color></font>",
+Pierre Ortolan,
+Remy Chinchilla,
+Yann Corno,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>SABER INTERACTIVE INC.</color></font>",
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>CEO</color></font>",
+Matt Karch,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>COO</color></font>",
+Andrey Iones,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>CCO</color></font>",
+Tim Willits,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>CFO</color></font>",
+Gary Levin,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>CTO</color></font>",
+Anton Krupkin,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>General Counsel</color></font>",
+Jeff Oshinsky,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Head of Publishing</color></font>",
+Todd Hollenshead,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Head of Development</color></font>",
+Brad Doan,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Head of Marketing</color></font>",
+Adam Tedman,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Head of Public Relations</color></font>",
+Shaun Norton,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Director of Community</color></font>",
+Michael Calvert,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Marketing Coordinator</color></font>",
+Alex Greenbaum,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Director of Business Development</color></font>",
+Corey Wade,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Director of Business Development</color></font>",
+Janna Goranskaya,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Director of Business Development</color></font>",
+Matt McKnight,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Director of Product</color></font>",
+Chris Martin,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Director of Narrative</color></font>",
+Craig Sherman,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Creative Director</color></font>",
+Jason O'Connell,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>General Producer</color></font>",
+Sergey Larionov,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Saber Quality Assurance</color></font>",
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Quality Assurance Director</color></font>",
+Victor Glyanenko,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Quality Assurance Manager</color></font>",
+Nina Reznichenko,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Quality Assurance Lead</color></font>",
+Evgenii Kolchev,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Quality Assurance Project Lead</color></font>",
+Vladimir Litchenko,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Quality Assurance Team</color></font>",
+Aleksandr Dmitriev,
+Andrei Volgin,
+Danila Kultin,
+Daria Nikiforova,
+Dmitrii Fedorovykh,
+Margarita Mitrofanova,
+"Mikhail """"LionHead"""" Rybalkin",
+Nadezhda Marchenko,
+Stanislav Dubeikovskii,
+"Valerii """"Wolya-lya"""" Bezrodnyi",
+Viktoriya Firsova,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Bytex LLC</color></font>",
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>CEO</color></font>",
+Alexander Torgovkin,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Resource Manager & QA Supervisor</color></font>",
+Artem Stukalov,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Quality Assurance Team Lead</color></font>",
+Nikita Sysuev,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Quality Assurance Team</color></font>",
+Aleksandr Perepelkin,
+Aleksei Mironchev,
+Anton Merkulov,
+Danil Uchevatov,
+Denis Kalashnikov,
+"Denis """"Maverad"""" Penchugin",
+Evgenii Orin,
+Kirill “Amitey Arji” Danilin,
+Mikhail Kibakov,
+Oleg Baranov,
+Sergei Bochkarev,
+Sergei Kurgaev,
+Sergei Safonov,
+Sergei Yakovlev,
+Vladislav Chindiaikin,
+"Iaroslav """"Enai"""" Stolbniakov",
+,
+"<font=""""MarcellusSC-Regular SDF""""><size=36><color=#F7E9C9FF>SABER INTERACTIVE MINSK</color></size></font>",
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>CEO</color></font>",
+Tim Dvoskin,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>CTO</color></font>",
+Artur Mazurik,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Executive Director</color></font>",
+Valeriy Kovalenko,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Art Director / Lead UX Designer</color></font>",
+Sergey Starokhozyaev,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Executive Producer</color></font>",
+Ivan Koptik,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Executive Producer</color></font>",
+Alexander Nasonov,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Associate Producer & Game Design</color></font>",
+Roman Safin,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Art Team</color></font>",
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>UI Artist</color></font>",
+Maria Chernomorova,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Concept Artist</color></font>",
+Alexey Klinov,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Tech artist</color></font>",
+Daniel Citrons,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Development Team</color></font>",
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Lead Developer</color></font>",
+Mikhail Pechaneu,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Developers</color></font>",
+Alexey Golub,
+Aleksei Zborovskii,
+Andrey Zubko,
+Artem Artamonov,
+Dima Bogdanov,
+Ekaterina Hinkel,
+Ivan Klimov,
+Matvey Zhorov,
+Max Klimenok,
+Maxim Kazachonak,
+Mikhail Gorychev,
+Oleg Korotkikh,
+Oleg Mandrazhiev,
+Raul Butaev,
+Roman Malius,
+Roman Romanovsky,
+Yaroslav Toropov,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>IT & DevOps Team</color></font>",
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>System Administrator</color></font>",
+Andrey Murashko,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>DevOps</color></font>",
+Alexey Zholnerkevich,
+,
+"<font=""""MarcellusSC-Regular SDF""""><color=#F7E9C9FF>Quality Assurance Team</color></font>",
+Eugeniy Androsik,
+Tatsiana Nikolaychuk,
+"Ivan Minets""",
+Consoles/GUI_DEVOTION_TOOLTIP,Пожертвуйте золото Храму Великого Дуба для підвищення рівня благочестя вашої групи.
+Consoles/GUI_DISCONNECTION_BOX_MESSAGE,Для продовження під'єднайте контролер
+Consoles/GUI_DISCONNECTION_BOX_MESSAGE_PS4_EU,Для продовження під'єднайте DUALSHOCK®4 wireless контролер
+Consoles/GUI_DISCONNECTION_BOX_MESSAGE_PS4_US,Для продовження під'єднайте DUALSHOCK®4 wireless контролер
+Consoles/GUI_DISCONNECTION_BOX_MESSAGE_PS5_EU,Для продовження під'єднайте DualSense™ wireless контролер
+Consoles/GUI_DISCONNECTION_BOX_MESSAGE_PS5_US,Для продовження під'єднайте DualSense™ wireless контролер
+Consoles/GUI_DISCONNECTION_BOX_MESSAGE_SWITCH,Для продовження під'єднайте Joy-Con контролер
+Consoles/GUI_DISCONNECTION_BOX_MESSAGE_XboxOne,Для продовження під'єднайте Xbox Wireless контролер
+Consoles/GUI_DISCONNECTION_BOX_TITLE,Втрата введення!
+Consoles/GUI_DLC_JAWS_OF_THE_LION_DESCRIPTION,"25 нових сценаріїв
+4 унікальних найманці
+10 ворогів і босів
+22 дорожні події
+10 нових предметів
+24 додаткових Бойових цілей"
+Consoles/GUI_DLC_SOLO_SCENARIOS_DESCRIPTION,"17 нових зубодробильних сценаріїв
+17 нових предметів
+Нові унікальні вороги"
+Consoles/GUI_DLC_TITLE,Завантажуваний контент
+Consoles/GUI_ENHANCED,Покращений
+Consoles/GUI_ENTER_GUILD_NAME_TO_CONTINUE,Введіть назву Гільдії щоб продовжити
+Consoles/GUI_ERROR_CONTINUE_BUTTON,Продовжити
+Consoles/GUI_ERROR_EXIT_GAME_BUTTON,Гра на вихід
+Consoles/GUI_ERROR_MAIN_MENU_BUTTON,Перейти до головного меню
+Consoles/GUI_ERROR_MULTIPLAYER_CONNECTION_NOTIFICATION,"Схоже, виникла проблема зі з'єднанням! Вас відключили від мережі."
+Consoles/GUI_ERROR_RESET_SAVEFILE_BUTTON,Скинути файл збереження
+Consoles/GUI_ERROR_RESET_SCENARIO_BUTTON,Скинути сценарій на старт
+Consoles/GUI_ERROR_RETRY,Повторна спроба
+Consoles/GUI_ERROR_RETURN_TO_MAP_BUTTON,Повернутися до карти пригод
+Consoles/GUI_HOLD_KEY,ТРИМАТИ
+Consoles/GUI_HOTKEY_ABOUT,Про
+Consoles/GUI_HOTKEY_ACCEPT,Прийняти
+Consoles/GUI_HOTKEY_ACTIVATE_DLC,Активувати DLC
+Consoles/GUI_HOTKEY_ALL_CARDS,Усі карти
+Consoles/GUI_HOTKEY_ALL_CARD_HAND_MOVE,Рухатися
+Consoles/GUI_HOTKEY_ALL_CARD_NEXT_HAND,Слід.
+Consoles/GUI_HOTKEY_ALL_CARD_PREVIOUS_HAND,Передид.
+Consoles/GUI_HOTKEY_BACK,Назад
+Consoles/GUI_HOTKEY_BUY,Купити
+Consoles/GUI_HOTKEY_CARDS,Карти
+Consoles/GUI_HOTKEY_CHANGE_SKIN,Змінити вигляд
+Consoles/GUI_HOTKEY_CLAIM_REWARD,Отримати нагороду
+Consoles/GUI_HOTKEY_CONCEAL_PERSONAL_QUEST,Приховувати особисте завдання
+Consoles/GUI_HOTKEY_CONFIRM,Підтвердити
+Consoles/GUI_HOTKEY_CONFIRM_LANGUAGE,Підтвердити мову
+Consoles/GUI_HOTKEY_CONFIRM_TRAVEL,Подорож
+Consoles/GUI_HOTKEY_CONTINUE,Продовжити
+Consoles/GUI_HOTKEY_DELETE,Видалити
+Consoles/GUI_HOTKEY_DELETE_CHARACTER,Видалити персонажа
+Consoles/GUI_HOTKEY_EDIT,Редагувати
+Consoles/GUI_HOTKEY_END_SELECTION,Закінчити вибір
+Consoles/GUI_HOTKEY_ENTER,Вхід
+Consoles/GUI_HOTKEY_ENTER_DUNGEON,Увійти в підземелля
+Consoles/GUI_HOTKEY_FAST_FORWARD,Прискорена анімація
+Consoles/GUI_HOTKEY_FAST_FORWARD_AUTO,Авто-прискорена анімація
+Consoles/GUI_HOTKEY_FURTHER_ABILITY_CARDS,Доп. карти здібностей
+Consoles/GUI_HOTKEY_HEX_GRID,Сітка карти
+Consoles/GUI_HOTKEY_HIDE_CARDS,Сховати список карток
+Consoles/GUI_HOTKEY_HIGHLIGHT,Виділіть інтерактивні матеріали (HOLD)
+Consoles/GUI_HOTKEY_HIGHLIGHT_TACTICAL,Показати інформацію
+Consoles/GUI_HOTKEY_INFO,Інформація
+Consoles/GUI_HOTKEY_KICK_PLAYER,Кікнути гравця
+Consoles/GUI_HOTKEY_MERCENARY,Найманець
+Consoles/GUI_HOTKEY_MOVE,Рухатися
+Consoles/GUI_HOTKEY_MOVE_CAMERA,Камера
+Consoles/GUI_HOTKEY_MOVE_CAMERA_MAP,Рухати
+Consoles/GUI_HOTKEY_MOVE_CURSOR,Рухати
+Consoles/GUI_HOTKEY_NAME,Ім'я
+Consoles/GUI_HOTKEY_PING_TILE,Пінганути клітку
+Consoles/GUI_HOTKEY_QUEST_LIST,Список завдань
+Consoles/GUI_HOTKEY_RENAME,Перейменувати
+Consoles/GUI_HOTKEY_RESET_MERCENARY,Скидання найманця
+Consoles/GUI_HOTKEY_RETRY,Повторити
+Consoles/GUI_HOTKEY_RETURN_TO_MAP,Повернутися на карту
+Consoles/GUI_HOTKEY_RETURN_TO_MENU,Повернутися в меню
+Consoles/GUI_HOTKEY_ROTATE_CAMERA,Обертати
+Consoles/GUI_HOTKEY_ROTATE_TARGET,Обертати ціль
+Consoles/GUI_HOTKEY_SELECT,Вибрати
+Consoles/GUI_HOTKEY_SELECT_QUEST,Вибір завдання
+Consoles/GUI_HOTKEY_SELL,Продати
+Consoles/GUI_HOTKEY_SHOP_BUY_ITEM,Купити предмет
+Consoles/GUI_HOTKEY_SHOP_CANCEL,Скасування
+Consoles/GUI_HOTKEY_SHOP_SELL_ITEM,Продати предмет
+Consoles/GUI_HOTKEY_SHOW_CARDS,Показати список карт
+Consoles/GUI_HOTKEY_STARTING_ABILITY_CARDS,Початкові карти здібностей
+Consoles/GUI_HOTKEY_STARTING_MERCENARY_INFO,Про найманця
+Consoles/GUI_HOTKEY_STARTING_PERKS,Початкові навички
+Consoles/GUI_HOTKEY_SWITCH,Перекл.
+Consoles/GUI_HOTKEY_TIPS,Поради
+Consoles/GUI_HOTKEY_UNSELECT,Скасування вибору
+Consoles/GUI_HOTKEY_ZOOM_CAMERA,Наблизити
+Consoles/GUI_IIS_PRESS_ANY_KEY_TO_CONTINUE,"Натисніть будь-яку кнопку, щоб продовжити"
+Consoles/GUI_IIS_PRESS_A_TO_CONTINUE,Натисніть <sprite name=Xbox_A> для продовження
+Consoles/GUI_INVENTORY_EQUIPPED_INFO,Споряджено
+Consoles/GUI_INVENTORY_EQUIPPED_ITEM,Споряджено
+Consoles/GUI_INVENTORY_OWNED_ITEM,Є
+Consoles/GUI_INVENTORY_SLOT_HEADER_ALL,Усі предмети
+Consoles/GUI_INVENTORY_SLOT_HEADER_BODY,Броня
+Consoles/GUI_INVENTORY_SLOT_HEADER_HAND,У руках
+Consoles/GUI_INVENTORY_SLOT_HEADER_HEAD,Шоломи
+Consoles/GUI_INVENTORY_SLOT_HEADER_LEG,Взуття
+Consoles/GUI_INVENTORY_SLOT_HEADER_OWNED,Інвентар
+Consoles/GUI_INVENTORY_SLOT_HEADER_SMALL_ITEMS,Малі предмети
+Consoles/GUI_INVITE_USER,Запросити
+Consoles/GUI_ITEM_OUTOFSTOCK,Закінчився
+Consoles/GUI_LOAD,Завантажити
+Consoles/GUI_MAIN_MENU_LEVEL_EDITOR_TOOLTIP,"<color=#F1DBAE>Редактор рівнів</color>
+Ця опція доступна тільки під час використання клавіатури та миші"
+Consoles/GUI_MAIN_MENU_MODDING_TOOLTIP,"<color=#F1DBAE>Модифікування</color>
+Ця опція доступна тільки під час використання клавіатури та миші"
+Consoles/GUI_MAIN_MENU_MULTIPLAYER_HOW_TO_HOST_DESCR_CONSOLE,"<size=+4><sprite name=""Pointer""></size><indent=20>Перебуваючи в <color=#F1DBAE>в збереженій грі в Gloomhaven, відкрийте меню ""Пауза"" і виберіть пункт ""Багатокористувацька гра"".
+</indent>
+<size=+4><sprite name=""Pointer""></size><indent=20>Це відкриє панель ""Multiplayer"", на якій можна <color=#F1DBAE>вибирати ""Host Session""</color>, щоб почати сеанс Multiplayer.
+
+</indent>
+<size=+4><sprite name=""Pointer""></size><indent=20><color=#F1DBAE>Запросіть друзів</color> зі Steam або зв'яжіться з ними за згенерованим кодом запрошення (для успішного проведення багатокористувацької сесії потрібно запросити мінімум одного гравця).
+
+</indent>
+<size=+4><sprite name=""Указка""></size><indent=20>Ігрокам автоматично присвоюється <color=#F1DBAE>Роль персонажа</color>, коли вони приєднуються до сеансу. Як господар ви можете редагувати призначення гравців, вибравши ""Ролі персонажів"" на панелі ""Багатокористувацький сеанс"".
+
+</indent>
+<size=+4><sprite name=""Указка""></size><indent=20>У режимі багатокористувацької гри гравці можуть приєднуватися до сеансу, перебуваючи на <color=#F1DBAE>Карті світу або на фазі вибору карти</color> всередині Сценарію.
+</indent>"
+Consoles/GUI_MAIN_MENU_MULTIPLAYER_HOW_TO_HOST_DESCR_CONTROLLER,"<size=+4><sprite name=""Pointer""></size><indent=20>Перебуваючи в <color=#F1DBAE>в збереженій грі в Gloomhaven, відкрийте меню ""Пауза"" і виберіть пункт ""Багатокористувацька гра"".
+</indent>
+<size=+4><sprite name=""Pointer""></size><indent=20>Це відкриє панель ""Multiplayer"", на якій можна <color=#F1DBAE>вибирати ""Host Session""</color>, щоб почати сеанс Multiplayer.
+
+</indent>
+<size=+4><sprite name=""Pointer""></size><indent=20><color=#F1DBAE>Запросіть друзів</color> або зв'яжіться з ними за допомогою згенерованого коду запрошення (для успішного проведення багатокористувацької сесії потрібно запросити мінімум одного гравця).
+
+</indent>
+<size=+4><sprite name=""Pointer""></size><indent=20>У Multiplayer гравці можуть приєднатися до гри, перебуваючи на карті світу <color=#F1DBAE>Світова карта або на фазі вибору Карт</color> всередині Сценарію.
+</indent>"
+Consoles/GUI_MERCHANT_BUY,Купити
+Consoles/GUI_MERCHANT_INVENTORY_TITLE,Усі предмети
+Consoles/GUI_MERCHANT_SELL,Продати
+Consoles/GUI_MULTIPLAYER_CONNECTION_CROSSPLAY_DETECTED,Виявлено ще одну платформу
+Consoles/GUI_MULTIPLAYER_CONNECTION_FAILED_AuthenticationFail,Потрібно членство в Nintendo Switch Online
+Consoles/GUI_MULTIPLAYER_CONNECTION_FAILED_CrossplayDisabledByClient,"Сесію розміщено з увімкненою опцією crossplay. Перевірте, чи увімкнено опцію перехресної гри в розділі Параметри - Загальні"
+Consoles/GUI_MULTIPLAYER_CONNECTION_FAILED_CrossplayDisabledByServer,Вашій платформі заборонено приєднуватися до цієї сесії. У хоста має бути ввімкнена опція кроссплея в розділі Параметри - Загальні
+Consoles/GUI_MULTIPLAYER_CONNECTION_FAILED_CurrentUserBlockedByUserInSession,Користувач у сесії заблокував вас
+Consoles/GUI_MULTIPLAYER_CONNECTION_FAILED_DLCDoNotMatchJotl,"Завантажуваного контенту на цьому пристрої не знайдено:
+""Щелепи лева""
+Будь ласка, встановіть необхідні DLC, щоб підключитися до цієї сесії."
+Consoles/GUI_MULTIPLAYER_CONNECTION_FAILED_DLCDoNotMatchJotlAndSoloScenarious,"Завантажуваного контенту на цьому пристрої не знайдено:
+""Сценарії соло""
+""Паща лева""
+Будь ласка, встановіть необхідні DLC, щоб підключитися до цієї сесії."
+Consoles/GUI_MULTIPLAYER_CONNECTION_FAILED_DLCDoNotMatchSoloScenarious,"Завантажуваного контенту на цьому пристрої не знайдено:
+""Сценарії соло""
+Будь ласка, встановіть необхідні DLC, щоб підключитися до цієї сесії."
+Consoles/GUI_MULTIPLAYER_CONNECTION_FAILED_KickedByHost,Тебе пнув ведучий
+Consoles/GUI_MULTIPLAYER_CONNECTION_FAILED_MultiplayerValidationFail,Привілей багатокористувацької гри недоступний
+Consoles/GUI_MULTIPLAYER_CONNECTION_FAILED_NotEnoughMemory,Недостатньо пам'яті для файлу збереження хоста
+Consoles/GUI_MULTIPLAYER_CONNECTION_FAILED_Reported,{reporter} було додано {reported} до blocklist
+Consoles/GUI_MULTIPLAYER_CONNECTION_FAILED_SessionCouldNotBeJoined,Не вдалося приєднатися до сеансу
+Consoles/GUI_MULTIPLAYER_CONNECTION_FAILED_SessionShutDown,Сеанс вимкнено
+Consoles/GUI_MULTIPLAYER_CONNECTION_FAILED_UserInSessionBlockedByCurrentUser,Користувач у сесії у вашому блоклисті
+Consoles/GUI_MULTIPLAYER_CROSSPLAY_LOCKED_TOOLTIP,"Модифіковані сесії недоступні для кроссплея. Щоб провести сеанс, вимкніть кроссплей у розділі ""Параметри"
+Consoles/GUI_MULTIPLAYER_FRIENDS,Друзі
+Consoles/GUI_MULTIPLAYER_POPUP_CHARACTER_RETIRED_HEADER,{0} пішов на спокій!
+Consoles/GUI_MULTIPLAYER_POPUP_CHARACTER_RETIRED_MESSAGE,{0} завершив особистий квест:
+Consoles/GUI_MULTIPLAYER_POPUP_CITY_ENCOUNTER_HEADER,Міська подія!
+Consoles/GUI_MULTIPLAYER_POPUP_CITY_ENCOUNTER_MESSAGE,Йти в Похмуру Гавань:
+Consoles/GUI_MULTIPLAYER_POPUP_QUEST_HEADER,Ведучий вибрав завдання!
+Consoles/GUI_MULTIPLAYER_POPUP_QUEST_MESSAGE,Йти на екран завдань:
+Consoles/GUI_MULTIPLAYER_SELECT_CONTROL_TITLE,Передати управління
+Consoles/GUI_MULTIPLAYER_TIP_TITLE,Мультиплеєр
+Consoles/GUI_MULTIPLAYER_USER_AWAY,Подалі
+Consoles/GUI_MULTIPLAYER_USER_INGAME,In-Game
+Consoles/GUI_MULTIPLAYER_USER_OFFLINE,Офлайн
+Consoles/GUI_MULTIPLAYER_USER_ONLINE,Онлайн
+Consoles/GUI_MULTIPLAYER_VOICE_CHAT,Голосовий чат
+Consoles/GUI_MULTIPLAYER_VOICE_CHAT_OFF,Off
+Consoles/GUI_MULTIPLAYER_VOICE_CHAT_ON,На
+Consoles/GUI_MULTIPLAYER_VOICE_PLAYER_MICOPHONE,Мій мікрофон
+Consoles/GUI_NOTIFICATION_NOT_ENOUGH_MEMORY,Недостатньо розміру збережених даних для збереження гри
+Consoles/GUI_NOTIFICATION_NOT_ENOUGH_MEMORY_TITLE,Помилка збереження запису
+Consoles/GUI_NO_DLC_ACTIVATED,DLC не активовано
+Consoles/GUI_OK,OK
+Consoles/GUI_OPT_AUDIO_HAPTIC_HEADER,Налаштування тактильного зворотного зв'язку
+Consoles/GUI_OPT_AUDIO_HAPTIC_VIBRATION_EU,Міцність вібрації бездротового контролера
+Consoles/GUI_OPT_AUDIO_HAPTIC_VIBRATION_US,Міцність вібрації бездротового контролера
+Consoles/GUI_OPT_AUDIO_HAPTIC_VOLUME_EU,Громкість динаміка бездротового контролера
+Consoles/GUI_OPT_AUDIO_HAPTIC_VOLUME_US,Громкість динаміка бездротового контролера
+Consoles/GUI_OPT_COMBAT_LOG_CROSSPLAY,Crossplay
+Consoles/GUI_OPT_CONTROL_SCENARIO_TOGGLE_SPEED,Анімації з автоматичною перемоткою вперед
+Consoles/GUI_OPT_GENERAL,Загальні
+Consoles/GUI_OPT_INPUT_DEVICE,Пристрій введення
+Consoles/GUI_OPT_INVERSE_AXIS,Інверсна вісь
+Consoles/GUI_OPT_STICK_SENSIBILITY,Stick Sensibility
+Consoles/GUI_OPT_VIBRATION,Вібрація
+Consoles/GUI_PC_GAMEPAD_ADDED_BUTTON,Продовжити з мишею/клавіатурою
+Consoles/GUI_PC_GAMEPAD_ADDED_HEADER,Відкрито новий пристрій (геймпад)
+Consoles/GUI_PC_GAMEPAD_ADDED_TEXT,"Щоб продовжити гру, натисніть будь-яку клавішу на геймпаді."
+Consoles/GUI_PC_GAMEPAD_ADDED_WARNING,Попередження - ваша сцена незабаром буде перезавантажена.
+Consoles/GUI_PC_GAMEPAD_ADDED_WARNING_CLIENT,Попередження - відключення клієнта
+Consoles/GUI_PC_GAMEPAD_ADDED_WARNING_HOST,Попередження - відключення хоста
+Consoles/GUI_PC_Gamepad_Gamepad,Геймпад
+Consoles/GUI_PC_Gamepad_Header_Connected,"Виберіть, будь ласка, пристрій для введення"
+Consoles/GUI_PC_Gamepad_Header_Disconnected,"Ваш геймпад було відключено. Будь ласка, знову підключіть геймпад або переключіться на вхід миші/клавіатури"
+Consoles/GUI_PC_Gamepad_Info_Connected,"Змінити пристрій введення можна в розділі ""Параметри"" - ""Елементи керування"
+Consoles/GUI_PC_Gamepad_Info_Disconnected,"Змінити пристрій введення можна в розділі ""Параметри"" - ""Елементи керування
+
+Перезавантаження сцени займе кілька секунд"
+Consoles/GUI_PC_Gamepad_Mouse_Keyboard,Миша + клавіатура
+Consoles/GUI_PC_PRESS_ENTER,Натисніть Enter
+Consoles/GUI_PartyProsperity,Багатство
+Consoles/GUI_QUEST_AVAILABLE_REWARD,Доступно!
+Consoles/GUI_QUEST_GROUP_CITY_EVENT,Міська подія!
+Consoles/GUI_QUEST_SELECTED,Завдання вибрано
+Consoles/GUI_REPORT_PLAYER,Повідомити гравця
+Consoles/GUI_REPORT_SOFTLOCK,Звіт Soft Lock
+Consoles/GUI_SELECT_QUEST_HOST_ERROR_TIP,"Дочекайтеся інших гравців або поверніться до режиму одиночної гри, щоб вибрати квест"
+Consoles/GUI_SEND_ERROR_REPORT,Надіслати звіт про помилку
+Consoles/GUI_SETTINGS_CONTROLS_ABOUT,About | Tips | Hide UI (HOLD)
+Consoles/GUI_SETTINGS_CONTROLS_ALL_CARDS,Усі карти
+Consoles/GUI_SETTINGS_CONTROLS_ALL_OPTIONS,Options | Menu | Pause
+Consoles/GUI_SETTINGS_CONTROLS_BATTLE_LOG,Журнал бою
+Consoles/GUI_SETTINGS_CONTROLS_HIGHLIGHT,Виділіть інтерактивні матеріали (HOLD)
+Consoles/GUI_SETTINGS_CONTROLS_HOME,Головна
+Consoles/GUI_SETTINGS_CONTROLS_MERCENARY_CARDS,Карти найманців
+Consoles/GUI_SETTINGS_CONTROLS_MOVE_CAMERA,Переміщення камери | Переміщення списку
+Consoles/GUI_SETTINGS_CONTROLS_PING_A_TILE,Пінг на плитку
+Consoles/GUI_SETTINGS_CONTROLS_ROTATE_CAMERA,Поверніть камеру
+Consoles/GUI_SETTINGS_CONTROLS_SCREENSHOT,Скріншот | Стартове відео
+Consoles/GUI_SETTINGS_CONTROLS_SCREENSHOT_SYSTEM,Скріншот | Стартове відео (SYSTEM)
+Consoles/GUI_SETTINGS_CONTROLS_SELECT,Вибрати | Підтвердити вибір (утримувати)
+Consoles/GUI_SETTINGS_CONTROLS_SWITCH_CARDS,Карти перемикання
+Consoles/GUI_SETTINGS_CONTROLS_SWITCH_ITEMS,Елементи перемикача
+Consoles/GUI_SETTINGS_CONTROLS_SWITCH_ITEMS_SECTION,Елементи перемикача | Секція перемикача
+Consoles/GUI_SETTINGS_CONTROLS_SWITCH_MERCENARY,Switch Mercenary
+Consoles/GUI_SETTINGS_CONTROLS_SWITCH_MERCENARY_SELL_BUY,Switch Mercenary | Merchant Filter
+Consoles/GUI_SETTINGS_CONTROLS_SWITCH_ROOM,Комутаційна кімната
+Consoles/GUI_SETTINGS_CONTROLS_SWITCH_SECTION,Секція перемикача
+Consoles/GUI_SETTINGS_CONTROLS_ZOOM_CAMERA,Збільшити камеру | Використовувати панель прокрутки
+Consoles/GUI_SIGNOUT_CONFIRMATION_MESSAGE,Ви вийдете з профілю користувача і повернетеся на екран входу. Хочете продовжити?
+Consoles/GUI_SIGNOUT_CONFIRMATION_TITLE,Попередження
+Consoles/GUI_SIGNOUT_POPUP_MESSAGE,"Вас повернули на головний екран заголовка, тому що ваш профіль користувача вийшов із системи."
+Consoles/GUI_SIGNOUT_POPUP_TITLE,Попередження
+Consoles/GUI_STREAMING_INSTALL_IN_PROGRESS,"Файли гри завантажуються прямо зараз. Доки завантаження не завершилося, ви можете ознайомитися з правилами та грою, зігравши в Tutorial."
+Consoles/GUI_SWITCH_PROFILE,Профіль перемикача
+Consoles/GUI_VERSION,Версія:
+Consoles/GUI_VIEW_PROFILE,Переглянути профіль
+Consoles/GUI_VOICE_CHAT_HEADER_LABEL,Голосовий чат
+Consoles/GUI_WAIT_FOR_HOST_TIP,Дочекайтеся господаря
+Consoles/Hatchet_SKIN_ALT,Додатковий вигляд
+Consoles/INTRO_CITY_QUEST_CONTROLLER,"Вам доступні <color=#EACF8C>Міські завдання</color>!
+Ви можете використовувати {PREVIOUS_SHIELD_TAB} або {NEXT_SHIELD_TAB} для перегляду опцій у Місті та {UI_SUBMIT} для <color=#EACF8C>вибору Мапи міста</color>, або безпосередньо обравши Похмуру гавань на карті світу, або або обравши нове завдання у списку.
+"
+Consoles/Intro_Quest_CONTROLLER,"Тепер добре б пройтися по <color=#EACF8C>картам здібностей та інвентарю</color> найманців, щоб переконатися, що вони готові до битви. В описі завдання ви бачите ворогів, які протистоять вам. Дізнатися їхні характеристики можна за допомогою {MOVE_CAMERA_RIGHT}."
+Consoles/LEARN_MORE,Дізнатися більше
+Consoles/LOADING_TIP_CONSOLE_001,"Краще втратити здоров'я, а не спалювати карти.
+Спалені карти не так легко відновити, ніж здоров'я."
+Consoles/LOADING_TIP_CONSOLE_002,"Остерігайтеся пасток!
+Ви можете бачити, як вони іноді виблискують, щоб допомогти вам їх виявити."
+Consoles/LOADING_TIP_CONSOLE_003,Ви можете штовхати і тягнути ворогів у пастки.
+Consoles/LOADING_TIP_CONSOLE_004,"Шукайте синергію не тільки між вашими картами, а й картами інших членів вашої партії."
+Consoles/LOADING_TIP_CONSOLE_005,"Здібності переміщення на верхній половині карти і атаки на нижній половині карти не часті, але можуть бути особливо корисні."
+Consoles/LOADING_TIP_CONSOLE_006,"Ви можете налаштувати складність на свій смак, якщо виявите, що страждаєте або навпаки жадаєте виклику."
+Consoles/LOADING_TIP_CONSOLE_007,"Подумайте, чи хочете Ви діяти рано чи пізно.
+Дозволити ворогу рухатися до вас першим може бути вигідно."
+Consoles/LOADING_TIP_CONSOLE_008,"Для використання стихій з метою посилення здатності натисніть на кнопку, яка з'являється до вибору цілей для цієї здатності."
+Consoles/LOADING_TIP_CONSOLE_009,"Будьте готові до більшої кількості ворогів, коли ви відкриваєте двері!"
+Consoles/LOADING_TIP_CONSOLE_010,"Виберіть свою партію перед подорожжю - щойно ви опинитеся в дорозі, ви більше не зможете перемикати членів групи."
+Consoles/LOADING_TIP_CONSOLE_011,"Для справді складних місій подумайте про те, щоб заздалегідь отримати благословення від Храму."
+Consoles/LOADING_TIP_CONSOLE_012,"У завданнях типу ""Робота"" (режим Хранителя гільдії) іноді може бути скриня.
+Обов'язково зберіть здобич із неї до того як закінчите виконання сценарію!"
+Consoles/LOADING_TIP_CONSOLE_013,"Будьте уважні при спорядженні нових предметів - вони будуть прив'язані до цього найманця.
+Вам доведеться заплатити, щоб надіти їх на іншого."
+Consoles/LOADING_TIP_CONSOLE_014,"Ви можете розблокувати більше типів Поліпшень, виконавши Досягнення, а також більше слотів для найманців, досліджуючи карту."
+Consoles/LOADING_TIP_CONSOLE_015,"Завдання в подорожах і в роботах масштабуються в міру проходження гри.
+Сюжетні та особливі завдання, як правило, складніші!"
+Consoles/LOADING_TIP_CONSOLE_016,"Не всі сценарії вимагають убивства всіх ворогів для завершення.
+Обов'язково перевіряйте свої цілі!"
+Consoles/LOADING_TIP_CONSOLE_017,"Союзники можуть бути корисними в сценаріях, але часто трохи нерозумні.
+Спробуйте відвернути атаки від них, щоб зберегти їм життя!"
+Consoles/LOADING_TIP_CONSOLE_018,"Якщо ви не впевнені, чи будете Ви діяти раніше або пізніше, подумайте про те,
+щоб вибрати пару карт, які корисні незалежно від того, чи будете ви йти першим або останнім."
+Consoles/LOADING_TIP_CONSOLE_019,"Спостерігайте за рухами противника і вивчайте їхні колоди та здібності.
+Деякі істоти постійно швидкі, а інші повільні - це знання ви можете використовувати у своїх інтересах."
+Consoles/LOADING_TIP_CONSOLE_020,"Кожна половина карти, яку ви обираєте для ходу персонажа, є дією і складається з однієї або декількох здібностей."
+Consoles/LOADING_TIP_CONSOLE_021,"Дія певного типу означає, що принаймні одна зі здібностей належить до цього типу.
+Наприклад, ""Рух"" містить принаймні одну здатність руху."
+Consoles/LOADING_TIP_CONSOLE_022,"Щоразу, коли ви штовхаєте або тягнете на X, ви завжди повинні штовхати/тягнути ціль на все значення
+ (якщо тільки перешкоди/фігури не заважають подальшому руху) або ж повністю пропустити ефект."
+Consoles/LOADING_TIP_CONSOLE_023,"Майте на увазі, що якщо модифікатор атаки Промах (x0) витягнуто разом із добором модифікатора, коли у вас є перевага - ви все одно промахнетеся!
+*Якщо ви не змінювали правила гри."
+Consoles/LOADING_TIP_CONSOLE_024,"Вороги додають +1 до Атаки, коли атакують персонажа в стані Отруєння <sprite name=Poison>.
+Здатність лікування лише прибере вказаний стан, але лікувального ефекту не буде."
+Consoles/LOADING_TIP_CONSOLE_025,"Рана <sprite name=Wound> змушує персонажів отримувати по 1 од. шкоди на початку кожного ходу.
+Цей стан усувається здатністю Лікування."
+Consoles/LOADING_TIP_CONSOLE_026,Параліч <sprite name=Immobilize> перешкоджає персонажам виконувати будь-яку дію Руху до кінця їхнього наступного ходу.
+Consoles/LOADING_TIP_CONSOLE_027,Роззброєння <sprite name=Disarm> перешкоджає персонажам виконувати будь-які атакувальні здібності до кінця їхнього наступного ходу.
+Consoles/LOADING_TIP_CONSOLE_028,Оглушення <sprite name=Stun> перешкоджає персонажам виконувати будь-які дії та застосовувати предмети до кінця їхнього наступного ходу.
+Consoles/LOADING_TIP_CONSOLE_029,"Оглушені <sprite name=Stun> персонажі зобов'язані все ще вибрати карти для свого ходу, які вони потім просто скидають.
+Довгий відпочинок виконується як зазвичай."
+Consoles/LOADING_TIP_CONSOLE_030,Сум'яття <sprite name=Muddle> зобов'язує персонажа проводити всі свої атаки з утрудненням до кінця наступного його ходу.
+Consoles/LOADING_TIP_CONSOLE_031,"Прокляття <sprite name=Curse> додає карту ПРОКЛЯТТЯ (x0) у колоду карт модифікаторів атаки цілі.
+Будучи застосованим до атаки зводить у нуль всю шкоду, що наноситься, після цього цей жетон видаляється з колоди модифікаторів атаки."
+Consoles/LOADING_TIP_CONSOLE_032,"Невидимі <sprite name=Invisible> персонажі не можуть стати ціллю фокусу, а також обрані як ціль ворогами до кінця ходу цих персонажів.
+Також монстри вважають невидимих персонажів як перешкоди."
+Consoles/LOADING_TIP_CONSOLE_033,"Невидимі <sprite name=Invisible> персонажі все ще можуть бути пошкоджені атаками, що не вимагають виділення цілі, також невидимість не впливає на взаємодію з союзниками."
+Consoles/LOADING_TIP_CONSOLE_034,Посилення <sprite name=Strengthen> дарує перевагу персонажу для всіх його атак до кінця його наступного ходу.
+Consoles/LOADING_TIP_CONSOLE_035,"Благословення <sprite name=Bless> додає карту Благословення (x2) до колоди модифікаторів цілі.
+Атака з даним модифікатором завдає подвоєної шкоди, після цього цей жетон модифікатора видаляється з колоди."
+Consoles/LOADING_TIP_CONSOLE_036,"Монстри ділять між собою колоду модифікаторів атаки і цілком може бути, що Благословення або Прокляття витягне зовсім інший монстр."
+Consoles/LOADING_TIP_CONSOLE_037,"Здібності, що видаляють негативні стани (Зілля зцілення, наприклад), не видаляють Прокляття з колоди модифікаторів."
+Consoles/LOADING_TIP_CONSOLE_038,"Тільки 10 Проклять можуть бути сумарно поміщені в колоди модифікаторів атаки найманців і монстрів.
+Якщо потрібно додати ще одне, то ця дія не матиме ефекту!"
+Consoles/LOADING_TIP_CONSOLE_039,"Тільки 10 Благословень можуть бути поміщені в колоду модифікаторів атаки найманців і монстрів.
+Якщо потрібно додати ще одне, то ця дія не матиме ефекту!"
+Consoles/LOADING_TIP_CONSOLE_040,"Залишилися лише з парою карт у скиданні? Перепочинок призведе до виснаження.
+Виконайте краще довгий відпочинок - побудьте хоча б м'ясним щитом в останній раунд."
+Consoles/LOADING_TIP_CONSOLE_041,"Під час гри в мультиплеєрі ви можете ділитися з друзями цифрами ініціативи і точно описувати свої дії.
+У цьому випадку рекомендується підняти складність на 1, згідно з правилами оригінальної настільної гри.
+(За лором найманці не друзі один одному, тому краще на етапі вибору карт говорити образно і НЕ цифрами)"
+Consoles/LOADING_TIP_CONSOLE_042,"Якщо неагресивний персонаж намагається переміститися в будь-яке місце, але маршрут заблокований - цей персонаж не рухатиметься."
+Consoles/LOADING_TIP_CONSOLE_043,"Вам вирішувати, чи мати у вашій групі 2, 3 або 4 найманці - складність сценарію залежатиме від їхнього числа."
+Consoles/LOADING_TIP_CONSOLE_044,"Вибори, зроблені під час дорожніх і міських подій, можуть впливати на світ, даючи нові завдання і події."
+Consoles/LOADING_TIP_CONSOLE_045,"Ви не зможете забрати предмети за завданнями, здобуті з інкрустованих скринь, якщо провалите сценарій."
+Consoles/LOADING_TIP_CONSOLE_046,"Заклик може бути викликаний тільки на порожні клітини - пастки, важкопрохідна місцевість і навіть золото блокують заклик!"
+Consoles/OVERWRITE_EXISTING_LOCAL_SAVE,Збереження з цим ім'ям уже існує. Ви хочете перезаписати його?
+Consoles/OVERWRITE_SAVE_BUTTON,Перезапис збереження
+Consoles/OVERWRITE_SAVE_TITLE,Перезапис збереження
+Consoles/RedGuard_SKIN_ALT,Альтернативний вигляд
+Consoles/SCENARIO_PUZZLE_4A_03,"До речі, якщо вам важко розгледіти об'єкти і ворогів у підліску, ви можете натиснути {HIGHLIGHT}, щоб виділити їх.
+
+Ви також можете побачити порядок ходу монстрів одного класу. Всі вони отримують однакову <b>ініціативу</b> картою, розіграною для їхнього класу, але фактичний порядок для кожного монстра класу визначається їхніми ідентифікаційними номерами. Менші числа діють першими!
+Але Потужні найперші."
+Consoles/SCENARIO_PUZZLE_5B_ROTATE_MESSAGE,"Залишу тебе, щоб ти прикінчив інших поганців.
+До речі, форму ефекту по області можна повернути, натиснувши {UI_RETRY}."
+Consoles/TUTORIAL_1_ABILITY_CARDS_AVAILABLE_MESSAGE,"У цьому уроці <color=#a06e4b><b>Дикар</b></color> має в розпорядженні всього 2 карти, як ви можете бачити зліва: <nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>Бери і біжи</color></font></color></font></b></nobr>, <nobr><b><font=""MarcellusAlt SDF""><color=#f5e3b0>Спікіт</color></font></font></b></b></nobr></nobr>."
+Consoles/TUTORIAL_1_ABILITY_CARDS_INFO_MESSAGE,"У <b>Похмурій гавані</b>, ви керуєте групою найманців, що володіють особистими колодами <color=#FADC99><b>Карт здібностей</b></color>. Ці карти дозволять вашим найманцям досліджувати підземелля, битися і збирати скарби.
+
+На початку кожного раунду, перше, що потрібно зробити, це вибрати дві карти для кожного найманця, щоб використовувати їх у свій хід."
+Consoles/TUTORIAL_1_CLICK_CONFIRM_ATTACK_TITLE,"Натисніть кнопку, щоб підвердити цілі й атакувати!"
+Consoles/TUTORIAL_1_CLICK_CONFIRM_MOVEMENT_TITLE,"Натисніть кнопку для підтвердження руху, щоб продовжити"
+Consoles/TUTORIAL_1_CLICK_END_SELECTION_TITLE,Натисніть кнопку закінчити вибір для продовження
+Consoles/TUTORIAL_1_CLICK_END_TURN,"Натисніть кнопку Закінчити хід, щоб продовжити"
+Consoles/TUTORIAL_1_CLICK_OPEN_DOOR_TITLE,Натисніть кнопку Відкрити двері для підтвердження руху
+Consoles/TUTORIAL_1_ENEMY_ROUND_INFO_MESSAGE,"При наведенні ви можете побачити, що <color=#C53F3F><b>Розбійник</b></color> у цьому раунді планує <color=#FADC99><b>Розрухатися</b></color> і <color=#FADC99><b>Атакувати</b></color>!"
+Consoles/TUTORIAL_1_ENEMY_ROUND_INFO_MESSAGE_CONTROLLER,"Whilst focused, ви можете бачити, що <color=#C53F3F><b>Розбійник</b></color> у цьому раунді планує <color=#FADC99><b>Розрухатися</b></color> і <color=#FADC99><b>Атакувати</b></color>!"
+Consoles/TUTORIAL_1_FIRST_ENEMY_MESSAGE,"У цій кімнаті знаходиться ваш перший противник - <color=#C53F3F><b>Розбійник-страж</b></color>! Як і персонажі гравців, монстри також обирають дії для свого ходу - давайте дізнаємося, що цей <color=#C53F3F><b>розбійник</b></color> планує зробити в цьому раунді, навівши курсор на його портрет зверху на панелі."
+Consoles/TUTORIAL_1_FIRST_ENEMY_MESSAGE_CONTROLLER,"У цій кімнаті знаходиться ваш перший противник - <color=#C53F3F><b>Розбійник-страж</b></color>! Як і персонажі гравців, монстри також обирають дії для свого ходу - давайте дізнаємося, що цей <color=#C53F3F><b>Розбійник</b></color> планує зробити в цьому раунді, by focusing на його портрет зверху на панелі."
+Consoles/TUTORIAL_1_GRAB_AND_GO_FINISHED_MESSAGE,"Ви використовували <nobr><b><color=#f5e3b0>Бери і біжи</color></color></b></b></nobr> для ходу, і тепер карта в <color=#FADC99><b>скиданні</b></color> і недоступна для використання, доки ви не повернете її в руку через відпочинок, але про це пізніше.
+
+Тепер час <color=#FADC99><b>Атакувати</b></color>!"
+Consoles/TUTORIAL_1_HOVER_ENEMY_TITLE,Виберіть портрет розбійника в трекері ініціатив СВЕРХУ на екрані
+Consoles/TUTORIAL_1_HOVER_ENEMY_TITLE_CONTROLLER,Утримуйте вказівник над портретом розбійника в трекері ініціативи СВЕРХУ на екрані
+Consoles/TUTORIAL_1_INITIATIVE_INFO_MESSAGE,"Бачите, як символ ""<b>?</b>"" поруч із портретом <color=#a06e4b><b>Дикаря</b></color> у верхній частині екрана змінився на число? Це показує його <color=#FADC99><b>ініціативу</b></b></color>.
+
+Число поруч із першою обраною картою визначає <color=#FADC99><b>ініціативу</b></color> персонажа для раунду. Що менше число, то раніше в раунді діятиме персонаж."
+Consoles/TUTORIAL_1_INITIATIVE_TURN_OF_MOVES_MESSAGE,"Зверніть увагу, цей <color=#C53F3F><b>Розбійник</b></color> має <color=#FADC99><b>ініціативу</b></color> нижчу за <color=#a06e4b><b>Жирника</b></color> і, якби його було видно одразу, то діяв би раніше.
+
+Але оскільки ходить <color=#a06e4b><b>Дікар</b></color>, ви встигнете походити до ходу <color=#C53F3F><b>розбійника</b></color>."
+Consoles/TUTORIAL_1_MOVE_CLOSE_MESSAGE,"Підведіть <color=#a06e4b><b>Дикаря</b></color> досить близько, щоб використати <color=#FADC99><b>Атаку</b></color> верхньої половини карти <nobr><b><color=#f5e3b0>Спікло</color></b></b></nobr> як другу <color=#FADC99><b>дієву дію</b></color> у цьому ході!"
+Consoles/TUTORIAL_1_MOVE_INFO_MESSAGE,"<color=#a06e4b><b>Дикарю</b></color> нема чого робити в цій кімнаті, тож ви муситимете пройти крізь двері, щоб побачити, що за ними, за допомогою здатності <color=#FADC99><b>Руху</b></color>.
+
+Нижня частина <nobr><b><color=#f5e3b0>Бери й тікай</color></color></b></nobr></nobr> перемістить <color=#a06e4b><b>Дикунаря</b></color> на 4 клітини, цього достатньо, щоб пройти через двері. Давайте використаємо це!"
+Consoles/TUTORIAL_1_SELECT_BANDIX_HEX_TITLE,Виберіть Розбійника-стража як ціль атаки
+Consoles/TUTORIAL_1_SELECT_BOTTOM_AND_TOP_ACTION_MESSAGE,...або нижню половину <nobr><b><color=#f5e3b0>Топіт</color></b></b></nobr> та верхню половину <nobr><b><color=#f5e3b0>Бери й біжи</color></color></b></nobr>.
+Consoles/TUTORIAL_1_SELECT_BOTTOM_GRAB_AND_GO_TITLE,Виберіть нижню частину карти Бери і біжи
+Consoles/TUTORIAL_1_SELECT_DOOR_HEX_TITLE,Виберіть підсвічену клітинку дверного проходу
+Consoles/TUTORIAL_1_SELECT_GRAB_AND_GO_TITLE,Виберіть Бери і біжи
+Consoles/TUTORIAL_1_SELECT_NEXT_HEX_BANDIT_TITLE,Виберіть підсвічену клітку поруч із Розбійником
+Consoles/TUTORIAL_1_SELECT_TOP_AND_BOTTOM_ACTION_MESSAGE,"Приміром, ви можете вибрати або верхню половину <nobr><b><color=#f5e3b0>Топот</color></color></b></b></nobr>, або нижню половину <nobr><b><color=#f5e3b0>Бери та біжи</color></color></b></b></nobr>..."
+Consoles/TUTORIAL_1_SELECT_TOP_OF_TRAMPLE_TITLE,Виберіть верхню половину карти Тупіт
+Consoles/TUTORIAL_1_SELET_TRAMPLE_TITLE,Виберіть Тупіт
+Consoles/TUTORIAL_1_USE_ACTION_INFO_MESSAGE,"Зараз хід <color=#a06e4b><b>Дикаря</b></color>, настав час, щоб вибрати <color=#FADC99><b>дії</b></color>. Кожна половина карти показує <color=#FADC99><b>дію</b></color>, що складається з однієї або декількох <color=#FADC99><b>здібностей</b></color>.
+Ви можете використовувати дві <color=#FADC99><b>дії</b></b></color> за хід і можете вибрати будь-яку з чотирьох половинок карт зліва, щоб використати для першої <color=#FADC99><b>дії</b></color> - але увага - ви маєте використати протилежний бік іншої карти для другої."
+Consoles/TUTORIAL_1_VIEW_CONTROLS_MESSAGE,"Перш ніж ми перейдемо до справи, ви маєте ознайомитися, як налаштувати свій огляд поля бою, тому давайте перейдемо до керування камерою.
+<align=center><b>L-stick</b><color=#CCCCCC> - Панорамування</color>
+<line-height=20%>
+<line-height=100%><b>R-stick left/right</b><color=#CCCCCC> - Поворот камери в сторони</color>.
+<line-height=20%>
+<line-height=100%><b>Right-stick top/down</b><color=#CCCCCC> - Наближення / віддалення
+
+Також можна повертати камеру, утримуючи середню кнопку миші.</color></align>.
+
+</color>Спробуйте по-управляти, а потім натисніть Продовжити, коли будете готові."
+Consoles/TUTORIAL_1_VIEW_CONTROLS_MESSAGE_CONTROLLER,"Перш ніж ми перейдемо до справи, ви маєте ознайомитися, як налаштувати свій огляд поля бою, тому давайте перейдемо до керування камерою.
+<align=center><b>L-stick</b><color=#CCCCCC> - Панорамування</color>
+<line-height=20%>
+<line-height=100%><b>R-stick left/right</b><color=#CCCCCC> - Поворот камери в сторони</color>.
+<line-height=20%>
+<line-height=100%><b>Right-stick top/down</b><color=#CCCCCC> - Наближення / віддалення
+
+Також можна повертати камеру, утримуючи середню кнопку миші.</color></align>.
+
+</color>Спробуйте по-управляти, а потім натисніть Продовжити, коли будете готові."
+Consoles/TUTORIAL_1_WELCOME_MESSAGE,"Ласкаво просимо, Хранителю! Я <b>Тренер</b> Гільдії, я тут, щоб допомогти вам створити свою власну гільдію найманців. Давайте почнемо з того, що ви проведете <color=#a06e4b><b>Дикаря</b></color> через цей перший курс."
+Consoles/TUTORIAL_2_AVOID_DAMAGE_INFO_MESSAGE,"Залишилася тільки одиниця ОЗ і будь-яка отримана шкода змусить Дикуна стати <b><color=#FADC99><link=""Glossary_Exhausted"">виснаженим</link></color></b></b>. Тому доведеться уникати шкоди <b><color=#FADC99><link=""Glossary_Lost"">спалюючи</link></color></b> карти."
+Consoles/TUTORIAL_2_BANDIT_DIDNT_DIE_MESSAGE,"Чудово, ви не вмерли, але завдання було вбити <nobr><color=#C53F3F><b>Розбійницю-лучницю <link=""Glossary_Elite"">Потужного</link></link></b></color></nobr></nobr>. Може у вас є якась карта здібностей для цієї <nobr><b><color=#FADC99><link=""Glossary_Attack"">Атаки</link></color></b> <sprite name=Attack></nobr> яка б завдала багато шкоди за раз? Давайте ще разок!"
+Consoles/TUTORIAL_2_BURN_CARD_TO_AVOID_DAMAGE,Спаліть карту для уникнення шкоди
+Consoles/TUTORIAL_2_DIDNT_LOOT_CHEST_MESSAGE,"Як щодо зібрати <b><color=#FADC99><link=""Glossary_Loot"">Здобуток</link></color></b></b> зі скрині? Так, може звучить болісно, але наступного разу вам доведеться наступити в пастку, щоб досягти її."
+Consoles/TUTORIAL_2_DIDNT_LOOT_GOLD_MESSAGE,"Найманці, які залишають золото, як правило, не особливо успішні - пам'ятайте, що краще закінчувати хід на золоті, коли у вас є така можливість!"
+Consoles/TUTORIAL_2_DIES_TO_TRAP_MESSAGE,"Ох! <color=#FADC99><b>Перепочинок</b></color> гарний, коли треба швидко повернути карти в руку, але зараз не вистачає лікування від <b><color=#FADC99>Довгого відпочинку</color></b>... Обирайте правильний відпочинок наступного разу!"
+Consoles/TUTORIAL_2_DIE_TO_ARCHER_MESSAGE,"Ай-яй-яй. <b><color=#A06E4B>Дикар</color></b></b> має тільки одну одиницю ОЗ і не може отримувати шкоди по них... Спробуйте знову, але цього разу <b><color=#FADC99><link=""Glossary_Lost"">спаліть</link></color></b> одну з ваших доступних карт, щоб уникнути шкоди."
+Consoles/TUTORIAL_2_END_TURN,"Виберіть дію, що залишилася, і пропустіть її для завершення ходу"
+Consoles/TUTORIAL_2_HEAL_BEFORE_MOVE_MESSAGE,"Перш ніж бігти в пастку було б непогано трохи вилікуватися. Я рекомендую <b><color=#FADC99>Довгий відпочинок</color></b></b>, який дасть вам <b><color=#FADC99><link=""Glossary_Heal"">Здоров'я</link></color></b> <b>2</b> і відновить скинуті карти, даючи змогу вам витримати <b>урон</b> від пастки і досягти скрині."
+Consoles/TUTORIAL_2_KILLED_ARCHER_WITH_OA_MESSAGE,"Бац! <nobr><b><color=#F5E3B0>Придушення</color></b></b></nobr> - потужна карта, але така сила має свою ціну. <b><color=#FADC99><link=""Glossary_Action"">Дії</link></color></b></b> на кшталт <nobr><b><color=#F5E3B0>Придушення</color></b></b></nobr> на верхній половині мають значок палаючої карти, що означає, що карта <b><color=#FADC99><link=#F5E3B0>Придушення</color></b></b> згорає</link></color></b> після використання та стає більш недоступною в сценарії. Деякі вороги залишають після себе золото. Зазвичай, щоб його зібрати, необхідно встати на клітку із золотом і закінчити хід. Спробуйте зробити це вашою останньою <b>дією, що залишилася!"
+Consoles/TUTORIAL_2_MOVE_TO_CHEST,Рухайтеся на скриню і пропустіть залишок руху
+Consoles/TUTORIAL_2_MOVE_TO_TRAP,Рухайтеся в пастку і прийміть шкоду
+Consoles/TUTORIAL_2_OBJECTIVE_KILL_ARCHER_WITH_SINGLE_ATTACK,Убийте Лучника однією атакою
+Consoles/TUTORIAL_2_OBJECTIVE_LONG_REST,Виконайте довгий відпочинок
+Consoles/TUTORIAL_2_OBJECTIVE_LOOT_CHEST,Добудьте скриню
+Consoles/TUTORIAL_2_OBJECTIVE_LOOT_GOLD,Зберіть золото з лучника
+Consoles/TUTORIAL_2_REMAINING_ACTIONS_MESSAGE,"Чудово! Ви можете виконувати тільки частину дій і пропускати ті, що вам зараз не потрібні!"
+Consoles/TUTORIAL_2_SELECT_DISCARDED_CARD_TO_BURN,Виберіть скинуту карту щоб її спалити
+Consoles/TUTORIAL_2_SELECT_GRAB_AND_GO,Виберіть Бери і біжи
+Consoles/TUTORIAL_2_SELECT_OVERWHELMING_ASSAULT,Виберіть Придушення
+Consoles/TUTORIAL_2_TAKE_LOOT_OBJECTIVE_MESSAGE,"Гарна робота. Ворогів не залишилося, цілі виконано, по-хорошому, сценарій мав би закінчитися і ви залишилися б без скарбу в скрині. Однак заради тренування я поставлю перед вами ще одне завдання: <b><color=#FADC99><link=""Glossary_Loot"">Добати</link></color></b> скриню!"
+Consoles/TUTORIAL_2_UNABLE_TO_LOOT_MESSAGE,"Вам потрібно переміститися на купу золота, щоб <nobr><b><color=#FADC99><link=""Glossary_Loot"">Достатися</link></color></b></b> <sprite name=Loot></nobr> його після вбивства <b><color=#C53F3F>Сповітряника</color></b></b>. Можливо у вас є карта з <nobr><b><color=#FADC99><link=""Glossary_Attack"">Атакою</link></color></b> <sprite name=Attack></nobr>, яка завдасть багато шкоди за раз? Ще разок!"
+Consoles/TUTORIAL_2_VICTORY_MESSAGE,"Ооо, ці <b><color=#F8F8F8F8>Штифти великого кроку</color></b> мають стати в пригоді, додавши мобільності. Точно, просто на наступному уроці!"
+Consoles/TUTORIAL_2_WELCOME_MESSAGE,"Ласкаво просимо у вашу першу тренувальну місію! Ви вже вивчили основи, а тепер повинні сильно пораненим <color=#A06E4B><b>Дикарем</b></color> розібратися з <nobr><color=#C53F3F><b>Розбійницею-лучницею <link=""Glossary_Elite"">Потужним</link></b></color></color></nobr></nobr>, ще сильнішою, ніж звичайна!"
+Consoles/TUTORIAL_3_PRESS_SKIP_MOVEMENT,"Натисніть Пропустити рух, щоб закінчити ваш хід"
+Consoles/TUTORIAL_3_SELECT_LEAPING_CLEAVE,Виберіть Розсічення
+Consoles/TUTORIAL_3_SELECT_PROVOKING_ROAR,Виберіть Загрозливий рик
+Consoles/TUTORIAL_3_USE_BOOTS_OF_STRIDING,"Використовуйте ""Черевики великого кроку"" для отримання додаткового руху"
+Consoles/UGC_DISABLED_CONNECTION_MESSAGE,"Наразі вам заборонено бачити вміст, який створюють інші люди, гра матиме назву ""Зберегти""."
+Consoles/UGC_DISABLED_START_SESSION_MESSAGE,"Наразі ви не можете бачити вміст, який роблять інші люди."
+Consoles/Voidwarden_SKIN_ALT,Альтернативний вигляд
