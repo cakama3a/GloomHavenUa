@@ -1181,11 +1181,11 @@ GUI_DLC1_OWNED_TOOLTIP,"<b><color=#F3DDAB>DLC Щелепи Лева (RuhavenJaws
 BATTLEGOAL_Acrobat,Акробат
 BATTLEGOAL_Acrobat_Desc,"Під час проходження сценарію покласти карту в стопку ""Втрати"", щоб запобігти отриманню 5 або більше одиниць шкоди."
 BATTLEGOAL_Agoraphobe,Агорафоб
-BATTLEGOAL_Agoraphobe_Desc,"Під час проходження сценарію кожен ваш хід закінчуватиметься на клітині, сусідній зі стіною або перешкодою."
+BATTLEGOAL_Agoraphobe_Desc,"Під час проходження сценарію необхідно закінчувати кожен хід на клітині, сусідній зі стіною або перешкодою."
 BATTLEGOAL_Altruist,Альтруїст
 BATTLEGOAL_Altruist_Desc,"Під час проходження сценарію добути менше монет, ніж будь-який інший найманець."
 BATTLEGOAL_Assistant,Асистент
-BATTLEGOAL_Assistant_Desc,"Під час проходження сценарію вбити монстра, вже атакованого союзників у цьому раунді."
+BATTLEGOAL_Assistant_Desc,"Під час проходження сценарію вбити монстра, вже атакованого союзником у цьому раунді."
 BATTLEGOAL_Challenger,Здоровань
 BATTLEGOAL_Challenger_Desc,"Під час проходження сценарію не пересуватися з клітки, сусідньої з монстром."
 BATTLEGOAL_Closer,Добивач
