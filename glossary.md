@@ -28,6 +28,10 @@
 | Berserker | Берсерк |
 | Harrower | Жнець |
 | Nightshroud | Нічнотінь |
+| Demolitionist | Підривник |
+| Hatchet | Рубака |
+| RedGuard | Багряний Страж |
+| Voidwarden | Вартова Порожнечі |
 
 ## Здібності та дії
 | Англійська | Українська |
