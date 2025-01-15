@@ -1,72 +1,99 @@
-import csv
 import re
 from pathlib import Path
 import shutil
 
-def fix_term_case(text, term, upper_case=True):
+def determine_gender(text):
+    """
+    Визначає рід контексту на основі закінчень та слів
+    """
+    # Жіночі маркери
+    female_markers = [
+        r'\bвона\b', 
+        r'\bїй\b',
+        r'\bїї\b',
+        r'[а-яіїє]ла\b',  # дієслова минулого часу
+        r'[а-яіїє]лася\b',
+        r'[а-яіїє]ачка\b',
+        r'[а-яіїє]иця\b'
+    ]
+    
+    # Чоловічі маркери
+    male_markers = [
+        r'\bвін\b',
+        r'\bйому\b',
+        r'\bйого\b',
+        r'[а-яіїє]в\b',   # дієслова минулого часу
+        r'[а-яіїє]вся\b'
+    ]
+    
+    female_count = sum(1 for pattern in female_markers if re.search(pattern, text, re.IGNORECASE))
+    male_count = sum(1 for pattern in male_markers if re.search(pattern, text, re.IGNORECASE))
+    
+    return 'female' if female_count > male_count else 'male'
+
+def should_change_race_name(text, position, race_name):
+    """
+    Перевіряє, чи потрібно змінювати назву раси в даному контексті
+    """
+    # Перевіряємо, чи не є це частиною словосполучення "тіло [раси]"
+    if re.search(r'тіло\s+' + race_name, text[max(0, position-10):position+len(race_name)+1]):
+        return False
+        
+    # Перевіряємо, чи не є це присвійним прикметником
+    if re.search(r'\b' + race_name + r'\s+(?:воїн|табір|поселення|зброя|армія|народ)\b', 
+                text[position:position+30], re.IGNORECASE):
+        return False
+    
+    # Додаткові перевірки контексту
+    preceding_words = text[max(0, position-20):position].lower()
+    if any(word in preceding_words for word in ['тіло', 'група', 'загін', 'армія']):
+        return False
+        
+    return True
+
+def fix_race_names(text):
+    """
+    Виправляє назви рас відповідно до роду та контексту
+    """
     if not text:
         return text
     
-    upper_case_markers = [
-        r'\"[^\"]*{}[^\"]*\"'.format(term),
-        r'<nobr>[^<]*{}[^<]*</nobr>'.format(term),
-        r'<b>[^<]*{}[^<]*</b>'.format(term),
-        r'<link=[^>]*>[^<]*{}[^<]*</link>'.format(term),
-        r'<color=[^>]*>[^<]*{}[^<]*</color>'.format(term)
-    ]
+    # Словник рас з формами чоловічого та жіночого роду
+    races = {
+        r'\bВалрат(?:а|у|ом|ові|і|е)?\b': {'male': 'Валрат', 'female': 'Валратка'},
+        r'\bОрхід(?:а|у|ом|ові|і|е)?\b': {'male': 'Орхід', 'female': 'Орхідка'},
+        r'\bКуатрил(?:а|у|ом|ові|і|е)?\b': {'male': 'Куатрил', 'female': 'Куатрилка'},
+        r'\bЕстер(?:а|у|ом|ові|і|е)?\b': {'male': 'Естер', 'female': 'Естерка'},
+        r'\bВермлінг(?:а|у|ом|ові|і|е)?\b': {'male': 'Вермлінг', 'female': 'Вермлінжка'},
+        # Інокс потребує особливої обробки
+        r'\bІнокс(?:а|у|ом|ові|і|е)?\b': {'male': 'Інокс', 'female': 'Інокска', 'keep_original': True}
+    }
     
-    for marker in upper_case_markers:
-        matches = re.finditer(marker, text, re.IGNORECASE)
-        for match in matches:
-            matched_text = match.group(0)
-            if term.lower() in matched_text.lower():
-                new_text = re.sub(
-                    r'\b{}\b'.format(term), 
-                    term.upper() if upper_case else term.lower(), 
-                    matched_text, 
-                    flags=re.IGNORECASE
-                )
-                text = text.replace(matched_text, new_text)
+    # Визначаємо рід для всього тексту
+    gender = determine_gender(text)
+    
+    # Замінюємо назви рас відповідно до роду
+    for pattern, forms in races.items():
+        matches = list(re.finditer(pattern, text, re.IGNORECASE))
+        for match in reversed(matches):  # Йдемо з кінця, щоб не зламати індекси
+            start, end = match.span()
+            original = match.group(0)
+            
+            # Перевіряємо контекст перед заміною
+            if should_change_race_name(text, start, original):
+                replacement = forms[gender]
+                text = text[:start] + replacement + text[end:]
     
     return text
 
 def process_csv(file_path):
-    terms_to_fix = {
-        'атака': 'АТАКА',
-        'щит': 'ЩИТ',
-        'отруєння': 'ОТРУЄННЯ',
-        'лікування': 'ЛІКУВАННЯ',
-        'прикликання': 'ПРИКЛИКАННЯ',
-        'прокляття': 'ПРОКЛЯТТЯ',
-        'рух': 'РУХ',
-        'здобич': 'ЗДОБИЧ',
-        'поштовх': 'ПОШТОВХ',
-        'притягнути': 'ПРИТЯГНУТИ',
-        'пробиття': 'ПРОБИТТЯ',
-        'відплата': 'ВІДПЛАТА',
-        'посилення': 'ПОСИЛЕННЯ',
-        "сум'яття": "СУМ'ЯТТЯ",
-        'роззброєння': 'РОЗЗБРОЄННЯ',
-        'оглушення': 'ОГЛУШЕННЯ',
-        'параліч': 'ПАРАЛІЧ',
-        'рана': 'РАНА',
-        'благословення': 'БЛАГОСЛОВЕННЯ',
-        'стрибок': 'СТРИБОК',
-        'політ': 'ПОЛІТ',
-        'спожити': 'СПОЖИТИ',
-        'наповнити': 'НАПОВНИТИ',
-        'постійний ефект': 'ПОСТІЙНИЙ ЕФЕКТ',
-        'дальність': 'ДАЛЬНІСТЬ',
-        'ціль': 'ЦІЛЬ',
-        'зона': 'ЗОНА',
-        'елемент': 'ЕЛЕМЕНТ'
-    }
-    
     # Створюємо тимчасовий файл
     temp_path = file_path.with_suffix('.tmp')
     
     try:
         modified_lines = []
+        changes_made = False
+        
         # Читаємо оригінальний файл рядок за рядком
         with open(file_path, 'r', encoding='utf-8') as input_file:
             header = next(input_file)  # Читаємо заголовок
@@ -81,8 +108,13 @@ def process_csv(file_path):
                     
                     # Обробляємо текст
                     if value:
-                        for term, upper_term in terms_to_fix.items():
-                            value = fix_term_case(value, term)
+                        new_value = fix_race_names(value)
+                        if new_value != value:
+                            changes_made = True
+                            print(f"\nЗміну застосовано в рядку {key}:")
+                            print(f"Було: {value.strip()}")
+                            print(f"Стало: {new_value.strip()}")
+                        value = new_value
                     
                     # Зберігаємо модифікований рядок
                     modified_lines.append(f"{key},{value}")
@@ -94,9 +126,13 @@ def process_csv(file_path):
             output_file.writelines(modified_lines)
         
         # Замінюємо оригінальний файл
-        shutil.move(str(temp_path), str(file_path))
-        print("Файл успішно оновлено!")
-        print(f"Оброблено {len(modified_lines) - 1} рядків")
+        if changes_made:
+            shutil.move(str(temp_path), str(file_path))
+            print("\nФайл успішно оновлено!")
+            print(f"Оброблено {len(modified_lines) - 1} рядків")
+        else:
+            print("\nЗмін не було потрібно")
+            Path(temp_path).unlink()
         
     except Exception as e:
         print(f"Помилка при обробці файлу: {str(e)}")
