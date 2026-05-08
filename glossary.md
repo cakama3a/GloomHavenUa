@@ -86,6 +86,7 @@
 | Song | ПІСНЯ |
 | Doom | ПРИРЕЧЕННЯ |
 | Command | НАКАЗ |
+| Favorite | ФАВОРИТ |
 
 ## Стани та ефекти (Conditions)
 | Англійська | Українська |
@@ -167,20 +168,28 @@
 | Living Spirit | Живий Дух |
 | Chaos Demon | Демон Хаосу |
 | Prime Demon | Архідемон |
+| Entropy Demon | Демон Ентропії |
 | Lightmare | Світомар |
 | Nightbringer | Той, хто несе ніч |
 | Blood Monstrosity | Кривочуд |
 | Rat Monstrosity | Щурочудовисько |
+| Blood Horror | Кривавий Жах |
+| Blood Tumor | Кривава Пухлина |
+| Black Sludge | Чорний Слиз |
+| Filthy Sludge | Брудний Слиз |
 | Zealot | Фанатик |
 | Lurker | Скритень |
 | Ooze | Слиз |
 | Imp | Біс |
+| Blood Imp | Кривавий Біс |
 | Drakes | Дрейки |
 | Stone Golem | Кам'яний Голем |
 | Cultist | Культист |
 | Bandit | Розбійник |
 | Guard | Охоронець |
 | Archer | Лучник |
+| Fan / Crowd Member | Уболівальник |
+| First of the Order | Глава Ордену |
 
 ## Предмети (Приклади)
 | Англійська | Українська |
