@@ -26,7 +26,7 @@
 | Англійська | Українська |
 |------------|------------|
 | Brute | Дикун |
-| Scoundrel | Плутовка |
+| Scoundrel | Шахрайка |
 | Tinkerer | Винахідник |
 | Spellweaver | Чародійниця |
 | Sunkeeper | Хранителька Сонця |
@@ -95,9 +95,9 @@
 | Poisoned | ОТРУЄНИЙ |
 | Wounded | ПОРАНЕНИЙ |
 | Stunned | ОГЛУШЕНИЙ |
-| Immobilized | ЗНЕРУХОМЛЕНИЙ |
+| Immobilized | ПАРАЛІЧ |
 | Disarmed | РОЗЗБРОЄНИЙ |
-| Muddled | СПАНТЕЛИЧЕНИЙ |
+| Muddled | СУМ'ЯТТЯ |
 | Strengthened | ПОСИЛЕНИЙ |
 | Cursed | ПРОКЛЯТИЙ |
 | Blessed | БЛАГОСЛОВЕННИЙ |
@@ -190,44 +190,11 @@
 | Archer | Лучник |
 | Fan / Crowd Member | Уболівальник |
 | First of the Order | Глава Ордену |
-
-## Предмети
-| Англійська | Українська |
-|------------|------------|
-| Boots of Striding | Черевики Великого Кроку |
-| Cloak of Invisibility | Плащ-невидимка |
-| Eagle-Eye Goggles | Орлині Окуляри |
-| Minor Healing Potion | Мале Лікувальне Зілля |
-
-### Предмети Solo-сценаріїв
-| Англійська | Українська |
-| :--- | :--- |
-| Cloak of the Hunter | Плащ мисливця |
-| Doctor's Coat | Лікарський кітель |
-| Elemental Boots | Чоботи стихій |
-| Focusing Ray | Фокусуючий промінь |
-| Imposing Blade | Значний клинок |
-| Master's Lute | Лютня майстра |
-| Mask of Death | Маска смерті |
-| Pendant of the Plague | Підвіска чуми |
-| Phasing Idol | Мерехтлива статуетка |
-| Psychic Knife | Телепатичний ніж |
-| Silent Stiletto | Беззвучний стилет |
-| Staff of Command | Посох повеління |
-| Stone Charm | Кам'яний амулет |
-| Smoke Elixir | Димлячий еліксир |
-| Sun Shield | Сонячний щит |
-| Utility Belt | Практичний пояс |
-| Volatile Elixir | Летючий еліксир |
-
-### Істоти Solo-сценаріїв
-| Англійська | Українська |
-| :--- | :--- |
 | Ghost Wolf | Примарний вовк |
 | Spirit Bear | Дух ведмедя |
 | Deep Earth | Глибинна земля |
-| Earth Lord | Повелитель землі |
-| Song Of The Deep | Пісня глибин |
+| Earth Lord | Володар землі |
+| Song of the Deep | Пісня Глибин |
 | High Flame | Високе полум'я |
 | Vermling Druid | Вермлінг-друїд |
 | Inox Necromancer | Інокс-некромант |
@@ -235,3 +202,65 @@
 | Rikharn | Ріхарн |
 | Wounded Guard | Поранений стражник |
 | Lieutenant | Лейтенант |
+
+## Предмети (Приклади)
+| Англійська | Українська |
+|------------|------------|
+| Boots of Striding | Черевики Великого Кроку |
+| Cloak of Invisibility | Плащ-невидимка |
+| Eagle-Eye Goggles | Орлині Окуляри |
+| Minor Healing Potion | Мале Лікувальне Зілля |
+| War Hammer | Молот Війни |
+| Heater Shield | Трикутний Щит |
+| Weighted Net | Вагова Сітка |
+| Ring of Skulls | Кільце Черепів |
+| Drakescale Armor | Обладунок з Луски Дрейка |
+| Amulet of Life | Амулет Життя |
+
+## Квести та сценарії (Унікальні назви)
+| Англійська | Українська |
+|------------|------------|
+| A Shot in the Dark | ЧАРКА В ТЕМРЯВІ |
+| Dog and Bones | СОБАЧА КІСТОЧКА |
+| A Ritual in Stone | РИТУАЛ У КАМЕНІ |
+| Signs of the Void | ЗНАКИ ПОРОЖНЕЧІ |
+| The Heist | ПОГРАБУВАННЯ |
+| Den of Thieves | ЛІГВО ЗЛОДІЇВ |
+| Vile Harvest | МЕРЗЕННІ ЖНИВА |
+| Lock Horns | ЗІТКНУТИСЯ ЛОБАМИ |
+| Up in Smoke | ЯК ДИМ |
+| Toss a Coin to your Hangman | КАТОВІ ЗАПЛАТІТЬ КАРБОВАНОЮ МОНЕТОЮ |
+
+## Ігрові терміни та UI
+| Англійська | Українська |
+|------------|------------|
+| Exhausted | Виснажений |
+| Disadvantage | Ускладнення |
+| Advantage | Перевага |
+| Scenario | Сценарій |
+| Round | Раунд |
+| Turn | Хід |
+| Initiative | Ініціатива |
+| Experience (XP) | Досвід (XP) |
+| Health / HP | Здоров'я / HP |
+| Gold | Золото |
+| Treasure / Loot | Скарб / Здобич |
+| Trap / Obstacle | Пастка / Перешкода |
+| Attack Modifier | Модифікатор Атаки |
+| Damage | Шкода |
+| Short Rest | Короткий Відпочинок |
+| Long Rest | Довгий Відпочинок |
+
+## Системні фрази
+| Англійська | Українська |
+|------------|------------|
+| Kill all enemies | Убити всіх ворогів |
+| Unlock Road Event | Розблокувати дорожню подію |
+| Unlock City Event | Розблокувати міську подію |
+| Unlock new location | Відкрито нову локацію |
+| Loot the chest | Добудьте скриню |
+| Lose if any mercenary becomes exhausted | Поразка, якщо будь-який найманець виснажений |
+| End of Round | Кінець раунду |
+| Start of Turn | Почати хід |
+| Quest Completed | Завдання виконано |
+| Personal Quest | Особисте завдання |
