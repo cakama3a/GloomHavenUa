@@ -1,0 +1,438 @@
+﻿Keys,English [en-GB]
+ITEM_NAME_CloakOfTheHunter,Cloak of the Hunter
+Item_CloakOfTheHunter,"After performing any Doom action, you may immediately perform a ""<nobr>Move <sprite name=Move> 1</nobr>"" action."
+ITEM_NAME_DoctorsCoat,Doctor's Coat
+Item_DoctorsCoat,"After you give one or more allies a ""Medical Pack"" or ""Large Medical Pack"" card, you may gain one ""Medical Pack"" card during that turn."
+ITEM_NAME_ElementalBoots,Elemental Boots
+Item_ElementalBoots,"If you move 3 or more hexes on your turn, create any element."
+ITEM_NAME_FocusingRay,Focusing Ray
+Item_FocusingRay,"During your heal ability targeting an ally, add <nobr>+1 Heal <sprite name=Heal></nobr> and <nobr>Strengthen <sprite name=Strengthen></nobr>."
+ITEM_NAME_ImposingBlade,Imposing Blade
+Item_ImposingBlade,"Any time you kill an enemy during your turn, gain <nobr>Shield <sprite name=Shield> 1</nobr> for the rest of the round."
+ITEM_NAME_MastersLute,Master's Lute
+Item_MastersLute,"After performing any Song action, you may immediately perform an ""<nobr>Attack <sprite name=Attack> 2</nobr>"" or ""<nobr>Move <sprite name=Move> 2</nobr>"" action."
+ITEM_NAME_MaskOfDeath,Mask of Death
+Item_MaskOfDeath,"Any time you perform a melee attack and you have exactly 1 hit point, add <nobr>+2 Attack <sprite name=Attack></nobr> to the attack."
+ITEM_NAME_PendantOfThePlague,Pendant of the Plague
+Item_PendantOfThePlague,"During your turn, <nobr>POISON <sprite name=Poison></nobr> and <nobr>CURSE <sprite name=Curse></nobr> one enemy within <nobr>Range <sprite name=Range> 3</nobr>."
+ITEM_NAME_PhasingIdol,Phasing Idol
+Item_PhasingIdol,"When a summon you own is damaged by an attack, it suffers no damage instead."
+ITEM_NAME_PsychicKnife,Psychic Knife
+Item_PsychicKnife,"Any time you activate a new Augment, add <nobr>+2 Attack <sprite name=Attack></nobr> to the entire action."
+ITEM_NAME_SilentStiletto,Silent Stiletto
+Item_SilentStiletto,"Any time you perform an attack, add <nobr>PIERCE <sprite name=Pierce> 1</nobr> to the attack."
+ITEM_NAME_StaffOfCommand,Staff of Command
+Item_StaffOfCommand,"After performing a Command action, play one card from your hand and immediately perform the same side of the card as the Command action."
+ITEM_NAME_StoneCharm,Stone Charm
+Item_StoneCharm,"Whenever you create an obstacle, all enemies adjacent to the obstacle gain <nobr>MUDDLE <sprite name=Muddle></nobr>."
+ITEM_NAME_SmokeElixir,Smoke Elixir
+Item_SmokeElixir,"During your turn, gain <nobr>INVISIBLE <sprite name=Invisible></nobr>."
+ITEM_NAME_SunShield,Sun Shield
+Item_SunShield,"When damaged by an attack, you may <sprite name=ConsumeLight> to gain <nobr>Shield <sprite name=Shield> 2</nobr> and <nobr>Retaliate <sprite name=Retaliate> 1</nobr> for the attack."
+ITEM_NAME_UtilityBelt,Utility Belt
+Item_UtilityBelt,"During your turn, you or any one ally may <nobr>Refresh <sprite name=Refresh></nobr> one of your spent or consumed items."
+ITEM_NAME_VolatileElixir,Volatile Elixir
+Item_VolatileElixir,"During your ranged attack, add <nobr>+2 Attack <sprite name=Attack></nobr> and gain Advantage on the entire Attack action, but suffer 2 damage for each attack made."
+INTRO_GH_1,
+INTRO_TRAVEL_1,
+INTRO,
+Start_1,
+Room_2_1,
+Success_1,
+OUTRO_TRAVEL_1,
+OUTRO_GH_1,
+Quest_SOLO_Brute_ReturnToTheBlackBarrow_NAME,Return to the Black Barrow
+Quest_SOLO_Brute_ReturnToTheBlackBarrow_DESC,The Brute re-visits past glories
+Quest_SOLO_Brute_ReturnToTheBlackBarrow_List,The Brute's Solo Quest
+Quest_SOLO_Brute_ReturnToTheBlackBarrow_INTRO,"You sniff the air as you descend the familiar stone steps, and the stale smell of death and decay fills you with anger—an anger focused on yourself. You remember the first time you stepped down into these depths and smelled this odor. It was your first job after you arrived in Gloomhaven. And you remember being scared by it.
+
+You would never have dreamed of exposing your fear to your companions. They were depending on you to lead the charge into your bandit foes. When you’re this big, no one expects you to feel fear, but sometimes it’s inevitable.
+
+Still, your reaction to this place has haunted you ever since. When you began to hear rumors about a powerful weapon hidden in the depths of the Black Barrow, you jumped at the opportunity to return and face its dangers. Alone."
+Scenario_SOLO_Brute_ReturnToTheBlackBarrow_Start_1,"You are stronger now—more seasoned. 
+Walking down these steps no longer fills you with dread, only excitement."
+Scenario_SOLO_Brute_ReturnToTheBlackBarrow_Start_2,So you hope that more pathetic bandits have made this place their home since the last time you charged through these dark halls.
+Scenario_SOLO_Brute_ReturnToTheBlackBarrow_Start_3,You reach the bottom of the steps and bash open the door. You are not disappointed.
+Scenario_SOLO_Brute_ReturnToTheBlackBarrow_Room_3_1,"Despite your numerous wounds, you press on into the final room. Everything is exactly as you remember—smug bandits and animated bones."
+Scenario_SOLO_Brute_ReturnToTheBlackBarrow_Room_3_2,"“You shouldn’t have come—” An archer begins to talk, but you silence her with a dismissive wave of your hand. These fools aren’t important enough to waste your time with speeches."
+Scenario_SOLO_Brute_ReturnToTheBlackBarrow_Success_1,You limp toward the stairs at the back of the room and can’t help but let out a bellowing laugh. You are unstoppable—a force to be reckoned with.
+Scenario_SOLO_Brute_ReturnToTheBlackBarrow_Success_2,"Trailing blood, you make your way into the lower catacombs, looking for the telltale clues of your quarry."
+Scenario_SOLO_Brute_ReturnToTheBlackBarrow_Success_3,"Perhaps it is luck, or perhaps the rest of the bandits were terrified of your laughter, but either way, you find the sword and leave without further incident."
+Quest_SOLO_Tinkerer_AnUnfortunateIntrusion_NAME,An Unfortunate Intrusion
+Quest_SOLO_Tinkerer_AnUnfortunateIntrusion_DESC,The Tinkerer does what they do best... tinkering!
+Quest_SOLO_Tinkerer_AnUnfortunateIntrusion_List,The Tinkerer's Solo Quest
+Quest_SOLO_Tinkerer_AnUnfortunateIntrusion_INTRO_GH_1,"Ah, the joy of tinkering! Every spare moment you find, you spend at your workshop along the northwest wall in the Horn District. It is out of the way, but it is quiet, and the rent is cheap."
+Quest_SOLO_Tinkerer_AnUnfortunateIntrusion_INTRO_GH_2,Recently you’ve been making great progress on constructing a handheld potion dispenser that could really be put to good use in combat. You are finishing the final stages of construction when...
+Quest_SOLO_Tinkerer_AnUnfortunateIntrusion_INTRO_GH_3,"“They’re coming over the walls!” A great commotion erupts outside, completely breaking your concentration. In a huff, you slam your wrench down on the table and exit your workshop to see what is causing this annoying disturbance."
+Quest_SOLO_Tinkerer_AnUnfortunateIntrusion_INTRO,"You look to the walls as you emerge from your door and witness a horde of small, furry creatures climbing over the parapet and descending into the city. Your eyes dart around in a panic, noticing only a small handful of guards in the area, desperately trying to hold back the Vermling swarm.
+
+""We must protect the city until reinforcements arrive!"" Yells one of the guards. Never mind the whole city, if those Vermlings destroy your workshop, you're not sure if you can replicate the procedures that have gotten you this far in your research."
+Scenario_SOLO_Tinkerer_AnUnfortunateIntrusion_Success_1,You look at your now empty bag of bombs and your spent fuel tank as yet more of the pernicious creatures pour over the wall.
+Scenario_SOLO_Tinkerer_AnUnfortunateIntrusion_Success_2,"You load the last bolt into your crossbow and try to take aim, but shaking with exhaustion and fall to your knees"
+Scenario_SOLO_Tinkerer_AnUnfortunateIntrusion_Success_3,"As your enemies rush forward, you suddenly hear the clanking of armor from behind. A full battalion of soldiers advances past you to meet with the Vermling horde. "
+Scenario_SOLO_Tinkerer_AnUnfortunateIntrusion_Success_4,"The tide of the battle quickly turns, and after a few short minutes, the Vermlings all lay dead."
+Scenario_SOLO_Tinkerer_AnUnfortunateIntrusion_Success_5,"You cough and slowly stand back up. The soldiers don’t even acknowledge your presence, but that is no matter. You finally have the peace and quiet to finish your work."
+Quest_SOLO_Spellweaver_CorruptedLaboratory_NAME,Corrupted Laboratory
+Quest_SOLO_Spellweaver_CorruptedLaboratory_DESC,The Spellweaver seeks out a powerful new potion
+Quest_SOLO_Spellweaver_CorruptedLaboratory_List,The Spellweaver's Solo Quest
+Quest_SOLO_Spellweaver_CorruptedLaboratory_INTRO_TRAVEL_1,"Power corrupts. Every Spellweaver knows this, and heeding it is part of your mantra."
+Quest_SOLO_Spellweaver_CorruptedLaboratory_INTRO_TRAVEL_2,"Still, one should not fear power because of its dark underbelly. When the noble path stands before you, power should be embraced."
+Quest_SOLO_Spellweaver_CorruptedLaboratory_INTRO_TRAVEL_3,"Such thoughts are what led you to the Mixed District, with the intention of discovering a more potent concoction to aid you in battle."
+Quest_SOLO_Spellweaver_CorruptedLaboratory_INTRO_TRAVEL_4,"And such thoughts have now resulted in you standing outside a small alchemy shop, staring down at a red-faced Quatryl."
+Quest_SOLO_Spellweaver_CorruptedLaboratory_INTRO,"""Oh, thank the Oak you’ve arrived on time,"" he sputters, pausing to catch his breath. ""I was just finishing up the potion, when, ah, some of my test subjects, well, they got overly eager to get their claws on more of its power.""
+
+""I had to flee for my life, and I unfortunately left the vial down in the basement, guarded by my assistant.""
+
+The Quatryl points towards the door. ""I’m sorry, but the subjects have overrun my lab. If you want the potion, I fear you’ll have to find some way through them.""
+
+Wordlessly, you step forward through the threshold of the wooden building. Power corrupts, though sometimes it happens in unexpected ways."
+Scenario_SOLO_Spellweaver_CorruptedLaboratory_Misc_1,"You grab the reddish-black vial from the chest and suddenly hear the door slam behind you.
+
+""That belongs to the master. Put it back."""
+Scenario_SOLO_Spellweaver_CorruptedLaboratory_Misc_2,"You turn around to see the looming figure of a stone golem blocking your escape. That must be the alchemist’s ""assistant."" 
+Unfortunately, you’ll have to go through it if you want to escape"
+Quest_SOLO_Spellweaver_CorruptedLaboratory_OUTRO_TRAVEL_1,"You race from the shop back into the sunlight, the corrupted monsters not far behind. As you clear the door, the alchemist slams it shut and bolts it from the outside. The monsters screech and bang angrily against the wood."
+Quest_SOLO_Spellweaver_CorruptedLaboratory_OUTRO_TRAVEL_2,"""Looks like you didn’t manage to take out all of them,"" the Quatryl muses."
+Quest_SOLO_Spellweaver_CorruptedLaboratory_OUTRO_TRAVEL_3,"""No matter, not your problem anyway. Glad to see you at least found the potion. Given the nature of how this whole situation turned out, you can take it free of charge."""
+Quest_SOLO_Spellweaver_CorruptedLaboratory_OUTRO_TRAVEL_4,"You consider offering additional help, but you’d be pretty useless in your current state. It’s time to head back to your room and get some rest. Then you’ll be able to test the limits of your new power."
+Quest_SOLO_Scoundrel_ArmoryHeist_NAME,Armory Heist
+Quest_SOLO_Scoundrel_ArmoryHeist_DESC,The Scoundrel takes on one more job
+Quest_SOLO_Scoundrel_ArmoryHeist_List,The Scoundrel's Solo Quest
+Quest_SOLO_Scoundrel_ArmoryHeist_INTRO_GH_1,"""You interested in a job?"" A burly Valrath with a scar running down the length of his left cheek stands over you."
+Quest_SOLO_Scoundrel_ArmoryHeist_INTRO_GH_2,Unscrupulous work is the only reason anyone hangs around in the foul stench of the Burnt Onion.
+Quest_SOLO_Scoundrel_ArmoryHeist_INTRO_GH_3,"It certainly isn’t the company or the watered-down, piss-flavored beer You tell the Valrath."
+Quest_SOLO_Scoundrel_ArmoryHeist_INTRO_GH_4,"He scoffs at you. ""Good. You look like you can handle yourself in a fight, and we’ll be going up against some tough customers."""
+Quest_SOLO_Scoundrel_ArmoryHeist_INTRO_GH_5,He sits down at your table and introduces himself as Rikharn. He begins to tell you about an armory held by one of the lesser mercenary guilds up in the Traveler’s District.
+Quest_SOLO_Scoundrel_ArmoryHeist_INTRO_GH_6,"""The guild is going out on some massive hunt tomorrow night, and there won’t be many left behind to guard the vault,"" Rikharn says."
+Quest_SOLO_Scoundrel_ArmoryHeist_INTRO_GH_7,"""They’ll be well-equipped, but I figure, between the two of us, we should have it covered."""
+Quest_SOLO_Scoundrel_ArmoryHeist_INTRO_GH_8,"Without any other concrete plans in your calendar, you agree to the job. It is why you are here after all."
+Quest_SOLO_Scoundrel_ArmoryHeist_INTRO,"The following night, Rikharn leads you to an expensive-looking house in north Gloomhaven and walks around to a hidden back entrance leading into the basement. He grins and charges down the stairs."
+Scenario_SOLO_Scoundrel_ArmoryHeist_Misc_1,"You lift open the lid of the chest and stare down at a solitary dagger. Confused, you hold it up so that Rikharn can see."
+Scenario_SOLO_Scoundrel_ArmoryHeist_Misc_2,"""Is that all?"" He seems as dumbfounded as you. ""Well, best hand it over. Maybe you can fish your cut of the job out of these dead guards’ pockets"""
+Scenario_SOLO_Scoundrel_ArmoryHeist_Misc_3,"You laugh at his presumption and pocket the dagger. His face turns dark and he hefts his sword in your direction. ""Fine, I suppose it’s better if there were no witnesses anyway."""
+Scenario_SOLO_Scoundrel_ArmoryHeist_Success_1,"With no one left to challenge you, the treasure is yours. You quietly leave this scene of death and carnage, with no witnesses to the crime. Job well done."
+Quest_SOLO_Cragheart_StoneDefense_NAME,Stone Defense
+Quest_SOLO_Cragheart_StoneDefense_DESC,The Cragheart is called to the mountains
+Quest_SOLO_Cragheart_StoneDefense_List,The Cragheart's Solo Quest
+Quest_SOLO_Cragheart_StoneDefense_INTRO_GH_1,"The reminder is always there. Whatever successes you’ve had since leaving Savvas society, they are still colored by your humiliation and exile. The scar on your chest ensures you will never forget."
+Quest_SOLO_Cragheart_StoneDefense_INTRO_GH_2,"And yet, you constantly fight to erase your past failures. Perhaps if you prove your power enough times, the scar will hurt less."
+Quest_SOLO_Cragheart_StoneDefense_INTRO_GH_3,"During one of your long, solemn walks north of Gloomhaven, you feel a faint rumbling in the earth and the pull of some force beneath the ground."
+Quest_SOLO_Cragheart_StoneDefense_INTRO_GH_4,"You know deep in your shattered chest that the earth is calling to you, pleading for aid."
+Quest_SOLO_Cragheart_StoneDefense_INTRO_TRAVEL_1,"You head farther north into the Copperneck Mountains and deep into the mouth of an ominous cave, where you find a crystalline rock hidden in the back of a large cavern."
+Quest_SOLO_Cragheart_StoneDefense_INTRO,"The rock begins to vibrate and fill your ears with an eerie voice. “I feel the approach of danger—creatures which seek control over the earth and wish to use my essence for evil.""
+
+""I am the earth made sentient, and this is the heart of my power. I require a guardian to protect me from the threats that come. Are you up to this task?""
+
+You touch the scar once again and nod silently, prepared to face the coming onslaught."
+Scenario_SOLO_Cragheart_StoneDefense_Success_1,"Your hands are covered in blood and grime, but the deed is done. The horde of monsters lies dead before you. You did not fail this day."
+Scenario_SOLO_Cragheart_StoneDefense_Success_2,"As you walk to the back of the cave, the rock vibrates once again. ""You are a true guardian of the earth, and I owe you my continued existence."""
+Scenario_SOLO_Cragheart_StoneDefense_Success_3,"""I bestow upon you this charm. It will enhance your control over stone and will allow me to call upon you should I ever be in need again."""
+Quest_SOLO_Mindthief_RodentLiberation_NAME,Rodent Liberation
+Quest_SOLO_Mindthief_RodentLiberation_DESC,The Mindthief must help their kin
+Quest_SOLO_Mindthief_RodentLiberation_List,The Mindthief's Solo Quest
+Quest_SOLO_Mindthief_RodentLiberation_INTRO_GH_1,"""Help...us..."" You wake up from a nightmare in a cold sweat. Somewhere deep beneath the city, your rat allies are in pain, and they need your aid."
+Quest_SOLO_Mindthief_RodentLiberation_INTRO,"You grab your gear and race through the dark tunnels of the sewer, heeding the swarm’s psychic call. They have been imprisoned by some malicious force, and their will is being used in a dark ritual. You must set them free.
+
+The calls are getting close when you run into an open chamber and encounter a group of your brethren—sickly looking Vermling Scouts holding an oddly defensive position to protect the door behind them. You ask what they are doing here, and their words are also defensive. Well, you have no qualms about slaying them to aid your friends."
+Scenario_SOLO_Mindthief_RodentLiberation_Room_2_1,"You hurry through the door, and a wave of noxious fumes hits you with full force. Your mind reels as you realize some foul magic is afoot. You must stop it"
+Scenario_SOLO_Mindthief_RodentLiberation_Room_3_1,"Coughing and retching, you push into a suspicious alcove. Where you find three more Vermlings deep in meditation... giving you just enough time to recover from the fumes before they notice you and aproach with menace."
+Scenario_SOLO_Mindthief_RodentLiberation_Misc_1,"As the last Vermling falls, a brown smoke begins to rise from a grating in the center of the room. With horror, you realize you've given the ritual exactly what was required... a blood sacrifice."
+Scenario_SOLO_Mindthief_RodentLiberation_Misc_2,"Before your eyes, a massive Earth Demon materializes from the smoke. It is the last thing standing in the way of you freeing your friends."
+Scenario_SOLO_Mindthief_RodentLiberation_Success_1,"With the dark ritual finally put to rest, you feel a sense of relief from the rats wash over you. They begin to crawl out of various hiding places and swarm you in celebration."
+Scenario_SOLO_Mindthief_RodentLiberation_Success_2,"You feel your bond with them grow stronger, and the blade you wield surges with power."
+Quest_SOLO_Sunkeeper_CaravanEscort_NAME,Caravan Escort
+Quest_SOLO_Sunkeeper_CaravanEscort_DESC,The Sunkeeper decides to help those in need
+Quest_SOLO_Sunkeeper_CaravanEscort_List,The Sunkeeper's Solo Quest
+Quest_SOLO_Sunkeeper_CaravanEscort_INTRO_GH_1,"It has been an uneventful few days in Gloomhaven, but you are always looking for ways to help those in need."
+Quest_SOLO_Sunkeeper_CaravanEscort_INTRO_GH_2,"You hear from a source that a very valuable shipment of Orchid goods heading for the Capital is looking for guards, so you go to the Boiler District to offer your services."
+Quest_SOLO_Sunkeeper_CaravanEscort_INTRO_GH_3,"""We’ve been getting numerous reports from merchants coming in that the East Road is swimming with bandits"", the caravan leader says when you inquire about the job. ""We will happily accept your help, no matter the fee you require."""
+Quest_SOLO_Sunkeeper_CaravanEscort_INTRO_GH_4,"You humbly decline to be paid, and the man’s eyes go wide. All you want to do is prove your prowess and destroy the evil-doers of the world."
+Quest_SOLO_Sunkeeper_CaravanEscort_INTRO,"You prepare for the journey—not all the way to the Capital, but far enough to get the caravan clear of the Dagger Forest—and then head out of the West Gate. The first day is uneventful, but on the morning of the following day, you awake to yelling.
+
+""Bandits are attacking! Defensive positions!"""
+Scenario_SOLO_Sunkeeper_CaravanEscort_Misc_1,"These look like members of the Red Raiders, one of the caravan guards says. ""They normally travel in larger groups. There could be more nearby—we need to keep moving."""
+Scenario_SOLO_Sunkeeper_CaravanEscort_Misc_2,"Without a moment to wait, the wagons quickly pack up and continue to head down the road. Though wounded and tired, you and the other guards do your best to keep the caravan hurrying along"
+Scenario_SOLO_Sunkeeper_CaravanEscort_Misc_3,"A tense hour goes by without event, but then an arrow whistles by your head, and you look into the northern brush to see the large figures of an Inox war band approaching."
+Scenario_SOLO_Sunkeeper_CaravanEscort_Misc_4,"""We must not tarry!"" A guard barks. ""More of the beasts could be anywhere. Press on!"""
+Scenario_SOLO_Sunkeeper_CaravanEscort_Misc_5,"Despite your misgivings, the caravan quickly moves down the road, without giving you and the guards a chance to catch your breath."
+Scenario_SOLO_Sunkeeper_CaravanEscort_Misc_6,"Over the next hour, you pray that the wagons make it through this dangerous territory without further incident, but you are not so lucky."
+Scenario_SOLO_Sunkeeper_CaravanEscort_Misc_7,"You notice the small, furry shapes of Vermlings as they bear down on you, and once again you prepare for combat."
+Scenario_SOLO_Sunkeeper_CaravanEscort_Success_1,"You are on the brink of exhaustion, but when the last of the Vermlings fall, you once again press on with the caravan."
+Scenario_SOLO_Sunkeeper_CaravanEscort_Success_2,"The carnage you have seen this day will stay with you for a long time, but now you need to keep going... You push until you cannot possibly take another step."
+Scenario_SOLO_Sunkeeper_CaravanEscort_Success_3,"You collapse to the ground, and in that moment, you know at least that you have kept the caravan and its goods safe, delivering it through the dangerous territory."
+Scenario_SOLO_Sunkeeper_CaravanEscort_Success_4,"You lie in the dirt, surrounded by the caravan - now finally able to stop and rest."
+Scenario_SOLO_Sunkeeper_CaravanEscort_Success_5,"As you fade in and out of consciousness, a vision comes to you: a blinding light reaching down from the heavens; a voice commending you on your fight against evil; a warm feeling removes your body’s exhaustion."
+Scenario_SOLO_Sunkeeper_CaravanEscort_Success_6,"When you open your eyes, you see nothing, but you do feel restored. There is a heavy weight on your chest, though."
+Scenario_SOLO_Sunkeeper_CaravanEscort_Success_7,"Looking down, you see a glorious shield resting on your armor. No one seems to know where it came from."
+Quest_SOLO_Quartermaster_StorageFees_NAME,Storage Fees
+Quest_SOLO_Quartermaster_StorageFees_DESC,The Quartermaster's supplies are being robbed!
+Quest_SOLO_Quartermaster_StorageFees_List,The Quatermaster's Solo Quest
+Quest_SOLO_Quartermaster_StorageFees_INTRO_TRAVEL_1,"You take long, deep breaths as you power through the streets of Gloomhaven."
+Quest_SOLO_Quartermaster_StorageFees_INTRO_TRAVEL_2,"Going with all the haste your musuclar frame allows, you race towards the Old Docks, where you have been storing some of your excess supplies at a shipping warehouse."
+Quest_SOLO_Quartermaster_StorageFees_INTRO_TRAVEL_3,"The arrangement was all well and good until you heard some chatter at the Burnt Onion about a band of thieves planning on robbing the place.
+
+Not on your watch!"
+Quest_SOLO_Quartermaster_StorageFees_INTRO,"You arrive at the warehouse, and you are momentarily relieved to find the location quiet and peaceful. That is, until it crosses your mind that the theft could already have taken place.
+
+You hurry through the front door, cursing when you realize that your stash is all the way at the back, and the place is littered with traps to deter intruders. Still, you must check on your goods."
+Scenario_SOLO_Quartermaster_StorageFees_Misc_1,"A wave of relief washes over you when you open the chest and see all your supplies 
+still inside."
+Scenario_SOLO_Quartermaster_StorageFees_Misc_2,"The sound of shattering glass, however, makes the relief short-lived. You look up to see bandits climbing in through the warehouse windows."
+Scenario_SOLO_Quartermaster_StorageFees_Misc_3,"""Grab all the valuables, boys!"" The big one at the back yells. ""And kill the witness!"""
+Scenario_SOLO_Quartermaster_StorageFees_Success_1,You sheathe your many weapons and look around in thought. Clearly this place is not as safe as you had hoped.
+Scenario_SOLO_Quartermaster_StorageFees_Success_2,"You previously decided that the extra supplies were just too much to carry around with all your other gear, but this encounter has filled you with a new resolution to make it work."
+Scenario_SOLO_Quartermaster_StorageFees_Success_3,"You set to the task of fashioning a new belt to hold everything, and then you strap it around your waist. Job well done."
+Quest_SOLO_Summoner_PlaneOfWildBeasts_NAME,Plane of Wild Beasts
+Quest_SOLO_Summoner_PlaneOfWildBeasts_DESC,The Summoner fears their powers are failing
+Quest_SOLO_Summoner_PlaneOfWildBeasts_List,The Summoner's Solo Quest
+Quest_SOLO_Summoner_PlaneOfWildBeasts_INTRO_GH_1,"Your power is fading. It would be imperceptible to most, but you can feel it all the same."
+Quest_SOLO_Summoner_PlaneOfWildBeasts_INTRO_GH_2,"Each time you pull something from the infinite planes, it becomes ever so slightly harder. You can feel the planes pulling back."
+Quest_SOLO_Summoner_PlaneOfWildBeasts_INTRO_GH_3,"Or, at least, that is what you thought at first. When you studied the phenomenon, you discovered that really only one specific plane was pulling back..."
+Quest_SOLO_Summoner_PlaneOfWildBeasts_INTRO_GH_4,The plane from which you draw many of your companions: the Plane of Wild Beasts
+Quest_SOLO_Summoner_PlaneOfWildBeasts_INTRO,"Your curiosity is piqued by this revelation, and so you step across the threshold into the chaotic plane full of dangerous creatures, searching for answers. And It doesn’t take long to find them.
+
+""The audacity of it,"" a voice rumbles out over the trees. ""First, you pull my loyal subjects from their homes to be beaten and slaughtered at your whims. Then, you step foot in my sanctuary yourself without the slightest bit of respect for my power. I shall enjoy watching those very same subjects now tear you limb from limb.""
+
+You hear rustling in the bushes and prepare yourself to fight."
+Scenario_SOLO_Summoner_PlaneOfWildBeasts_Misc_1,"""Insolence!"" The voice is louder now, closing in on you. ""Your desire for power, for domination, will be your undoing."""
+Scenario_SOLO_Summoner_PlaneOfWildBeasts_Misc_2,"""You could have fled my realm at any time, but you remain, convinced that you have the strength to acquire whatever you desire"""
+Scenario_SOLO_Summoner_PlaneOfWildBeasts_Misc_3,"""You think your quest for knowledge has no end, but you are wrong. It ends here. I will crush you myself!"""
+Scenario_SOLO_Summoner_PlaneOfWildBeasts_Success_1,"The spirit roars and disappears into the wind, leaving nothing but a small, translucent beast-shaped gem."
+Scenario_SOLO_Summoner_PlaneOfWildBeasts_Success_2,"""Your power is truly great."" The spirit’s voice seems calmer now—more of a whisper through the air."
+Scenario_SOLO_Summoner_PlaneOfWildBeasts_Success_3,"""Perhaps it is I who was wrong. You have earned my respect and my allegiance. Use this power to protect my subjects in battle."""
+Quest_SOLO_Nightshroud_HarvestingTheNight_NAME,Harvesting the Night
+Quest_SOLO_Nightshroud_HarvestingTheNight_DESC,The Nightshroud wishes to harness the power from the Plane of Night
+Quest_SOLO_Nightshroud_HarvestingTheNight_List,The Nightshroud's Solo Quest
+Quest_SOLO_Nightshroud_HarvestingTheNight_INTRO,"The darkness calls to you. It whispers its secrets in your ear. It draws you ever closer to its endless abyss, but you know to never get too close. You stay right on the edge, using its power for your own designs, but never letting it fully consume you.
+
+Your latest scheme should prove no different. You have devised a way to distill the essence of the Plane of Night into a pure, physical form. Its presence should come in very handy on your future missions.
+
+All that is left to complete your work is to harvest the black souls of night demons and condense them into potent liquid darkness. Easy.
+
+You prepare yourself, and then step into the colorless void. Directly ahead of you, you see your first victim through the inky wisps of black dancing through the realm. Let the harvesting begin."
+Scenario_SOLO_Nightshroud_HarvestingTheNight_Success_1,"With enough souls of the night drawn into your flask, you quickly step back into your own plane before the remainder of the demons have a chance to get the upper hand and attack you in your weakened state."
+Scenario_SOLO_Nightshroud_HarvestingTheNight_Success_2,"That is what being an assassin is all about, after all. Striking when you have the advantage and then retreating back into the shadows when the job is done"
+Scenario_SOLO_Nightshroud_HarvestingTheNight_Success_3,"And the job is indeed done. With a few alchemical adjustments, your potent elixir is ready for use."
+Scenario_SOLO_Nightshroud_HarvestingTheNight_Success_4,You hope that it will keep you right on the edge of the abyss and not send you toppling over into a void of madness.
+Quest_SOLO_Plagueherald_PlaguedCrypt_NAME,Plagued Crypt
+Quest_SOLO_Plagueherald_PlaguedCrypt_DESC,The Plagueherald serves Xorn once again
+Quest_SOLO_Plagueherald_PlaguedCrypt_List,The Plagueherald's Solo Quest
+Quest_SOLO_Plagueherald_PlaguedCrypt_INTRO,"You creep through the ruins of yet another long-forgotten crypt, looking for answers. The voice of Xorn, the god of the plague, spoke to you as you hibernated. It warned you not to grow complacent in your endeavors. It said that following the path of the plague would never be easy.
+
+The voice directed you to this location, which is full of foul creatures without a purpose. It is your job to harness their power and shape it into something that can properly bring glory to Xorn."
+Scenario_SOLO_Plagueherald_PlaguedCrypt_Start_1,"You find a set of narrow stairs, overgrown with a black moss. Descending, you come to a large room of pillars and coffins. There are four ominous, ornate doors leading in different directions."
+Scenario_SOLO_Plagueherald_PlaguedCrypt_Start_2,"""Here lie the vermin and pestilence that will relinquish their power to you,"" Xorn says. ""Strike them down and take their poison as your own."""
+Scenario_SOLO_Plagueherald_PlaguedCrypt_Start_3,"There is a flash of light and six green, glowing figures appear around you. ""I cannot aid you directly, but I offer you some protection. Use these spirits however you wish."""
+Scenario_SOLO_Plagueherald_PlaguedCrypt_Start_4,"As the voice subsides, you hear a loud grating of stone against stone. The doors are slowly opening. It is time to prepare yourself."
+Scenario_SOLO_Plagueherald_PlaguedCrypt_Success_1,"The last of the creatures falls victim to your swarm, and you slowly, meticulously harvest its venom and the rest of  its spoils until you have a large coin purse full of sacs and glands."
+Scenario_SOLO_Plagueherald_PlaguedCrypt_Success_2,"Using your many claws, you raise the purse up as an offering. In a flash of green light, the bag disappears, and in its place you find a brooch radiating dark energy."
+Scenario_SOLO_Plagueherald_PlaguedCrypt_Success_3,"The halls of the crypt are silent, but you know you have fulfilled your purpose here. You return to Gloomhaven, eager to continue down the path of the plague."
+Quest_SOLO_Berserker_UnnaturalInsults_NAME,Unnatural Insults
+Quest_SOLO_Berserker_UnnaturalInsults_DESC,The Berserker must revisit their ancestor's resting place
+Quest_SOLO_Berserker_UnnaturalInsults_List,The Berserker's Solo Quest
+Quest_SOLO_Berserker_UnnaturalInsults_INTRO_GH_1,At first you thought it was just a by-product of spending too much time within the city. A strong sense of unease built up inside you until you could no longer bear it.
+Quest_SOLO_Berserker_UnnaturalInsults_INTRO_GH_2,"Though perhaps it isn't this disgusting human city causing your discomfort, perhaps its something else… now you can feel a tangible disturbance in the wilderness… an unnatural threat to your old home in the forest."
+Quest_SOLO_Berserker_UnnaturalInsults_INTRO,"You race back to your tribe, searching for the cause. They tell you of an Inox necromancer from a rival settlement who has invaded the nearby burial ground and begun to harvest corpses with the intent of overrunning your village.
+
+Your hatred burns bright and deep. This servant of corruption has the gall not only to desecrate the resting place of your ancestors, but use them to threaten your home as well?
+
+You wordlessly heft your axes and march off into the trees. This insult is deserving of every drop of blood that bastard has to shed."
+Scenario_SOLO_Berserker_UnnaturalInsults_Misc_1,"The fog lifts, and before you stands an imposing Inox adorned with the bones and skulls of many different creatures and races."
+Scenario_SOLO_Berserker_UnnaturalInsults_Misc_2,"""What whelp has come to oppose my rise to power?"" He laughs as you spit curses at him about disrupting the natural order."
+Scenario_SOLO_Berserker_UnnaturalInsults_Misc_3,"""You have the fetid stink of the city upon you and dare to lecture me on what is natural?"""
+Scenario_SOLO_Berserker_UnnaturalInsults_Misc_4,"He sneers. ""When you die, I will burn your corpse to ash. It would not be fit enough to serve in my army."""
+Scenario_SOLO_Berserker_UnnaturalInsults_Success_1,"The necromancer falls as you hack at him, but it does not quell your rage. You scream with primal fury, and, blow after blow, his corpse becomes further disfigured and mutilated."
+Scenario_SOLO_Berserker_UnnaturalInsults_Success_2,You scarcely notice when his undead minions turn to dust or when his allies flee into the trees.
+Scenario_SOLO_Berserker_UnnaturalInsults_Success_3,"Only when every last ounce of energy is drained from your limbs do you stop, and you are forced to drop to the blood-soaked ground."
+Scenario_SOLO_Berserker_UnnaturalInsults_Success_4,"Once you have rested and the red mist leaves your vision, you look down at the mangled skull of your enemy and begin to work."
+Scenario_SOLO_Berserker_UnnaturalInsults_Success_5,"After tearing off the skin and sinew, you craft a ghastly mask from the bones... one that will warn every enemy of your tribe that you are not to be trifled with."
+Quest_SOLO_Soothsinger_BattleOfTheBards_NAME,Battle of the Bards
+Quest_SOLO_Soothsinger_BattleOfTheBards_DESC,The Soothsinger meets a fellow entertainer
+Quest_SOLO_Soothsinger_BattleOfTheBards_List,The Soothsinger's Solo Quest
+Quest_SOLO_Soothsinger_BattleOfTheBards_INTRO_GH_1,"""I want to hire you to play at the Brown Door, and I need you to perform right now."""
+Quest_SOLO_Soothsinger_BattleOfTheBards_INTRO_GH_2,"The proprietor of the popular bar sits across from you at a nearby inn and stares at you stonefaced. You try to object to the incredibly short notice, but he raises a hand in protest."
+Quest_SOLO_Soothsinger_BattleOfTheBards_INTRO_GH_3,"""I booked a Vermling singer for earlier tonight,"" he continues. ""An unconventional choice, for sure, but I had heard good things about her... calls herself the Song of the Deep"""
+Quest_SOLO_Soothsinger_BattleOfTheBards_INTRO_GH_4,"""Everything was going great until my patrons started doing weird things. They all fell silent, as if in a trance, and then began to act out the song the Vermling was singing."""
+Quest_SOLO_Soothsinger_BattleOfTheBards_INTRO_GH_5,"""When some of my guards tried to stop the patrons from hurting themselves, they were viciously attacked."""
+Quest_SOLO_Soothsinger_BattleOfTheBards_INTRO_GH_6,"""It’s like the Vermling had taken over my patrons’ minds and completely swayed them into doing whatever she wanted."""
+Quest_SOLO_Soothsinger_BattleOfTheBards_INTRO_GH_7,"""I escaped and tried to get the city guards to do something about it, but of all the people who’ve gone in, no one has come out. My only hope is that another performer, such as you, can counteract the Vermling’s influence."""
+Quest_SOLO_Soothsinger_BattleOfTheBards_INTRO_TRAVEL_1,You sigh and make your way to the Brown Door. Not to help the owner... he’s a scumbag... but to stop this Vermling from giving all bards a bad name.
+Quest_SOLO_Soothsinger_BattleOfTheBards_INTRO,"Outside the entrance, the owner has assembled a motley assortment of street toughs to assist you. They look a little nervous, going up against something they don’t understand, but even just tuning your lute seems to calm them a bit. Then you begin to strum and walk into the bar."
+Scenario_SOLO_Soothsinger_BattleOfTheBards_Room_2_1,"After the decisive battle in the entryway, your allies are emboldened. You rush forward into the next room, only to narrowly dodge a barrage of crossbow bolts from the stage on other side."
+Scenario_SOLO_Soothsinger_BattleOfTheBards_Room_2_2,"""You have no hope, Soothsinger!"" A silky voice drifts from behind the curtains on the far wall. ""Take your pathetic band of drunkards and leave me be!"""
+Scenario_SOLO_Soothsinger_BattleOfTheBards_Room_2_3,"""The Song of the Deep is within us all. It is only a matter of time before it begins calling to you, as well."""
+Scenario_SOLO_Soothsinger_BattleOfTheBards_Room_4_1,"At last, hiding in a green room backstage, you find the Vermling bard, guarded by two more of her enthralled victims."
+Scenario_SOLO_Soothsinger_BattleOfTheBards_Room_4_2,"""Your performance is admirable, Soothsinger, but how much longer can you hope to play?"" The Vermling’s unnaturally deep voice clouds your mind."
+Scenario_SOLO_Soothsinger_BattleOfTheBards_Room_4_3,"She strums a strange lute as she speaks, weaving a tapestry of sound that buries you in reverberating unease."
+Scenario_SOLO_Soothsinger_BattleOfTheBards_Room_4_4,"""Can you keep up your petty songs long enough to stop me? Even as you falter, the Song of the Deep continues on into the infinite. Your soul will be mine soon enough!"""
+Scenario_SOLO_Soothsinger_BattleOfTheBards_Success_1,"A dissonant chord rings out as the Vermling falls, her lute clattering to the floor. The bellowing sound of the Song of the Deep is cut short, and its oppressive weight is immediately lifted."
+Scenario_SOLO_Soothsinger_BattleOfTheBards_Success_2,Those of your allies who were not cut down laugh and breathe a sigh of relief. The danger has passed.
+Scenario_SOLO_Soothsinger_BattleOfTheBards_Success_3,The owner of the Brown Door thanks you for your help and offers you a generous portion of the drink sales whenever you come to play.
+Scenario_SOLO_Soothsinger_BattleOfTheBards_Success_4,"The real reward, however, is the blood stained lute you pulled from the dead hands of the Song of the Deep. It is a true work of art."
+Quest_SOLO_Doomstalker_CorruptedHunt_NAME,Corrupted Hunt
+Quest_SOLO_Doomstalker_CorruptedHunt_DESC,The Doomstalker revisits the village they grew up in
+Quest_SOLO_Doomstalker_CorruptedHunt_List,The Doomstalker's Solo Quest
+Quest_SOLO_Doomstalker_CorruptedHunt_INTRO_GH_1,Your thoughts often turn to the village you used to call your home.
+Quest_SOLO_Doomstalker_CorruptedHunt_INTRO_GH_2,"You chose this mercenary lifestyle, and sometimes that very choice causes a guilt to well up inside you... a sense of shame that you are not using your skills to help protect your village from harm."
+Quest_SOLO_Doomstalker_CorruptedHunt_INTRO_GH_3,"There are others there to protect it, and you know deep down that the path you have chosen is also an important one, but still the guilt comes."
+Quest_SOLO_Doomstalker_CorruptedHunt_INTRO_GH_4,"And so, whenever you get the chance, you return to your people."
+Quest_SOLO_Doomstalker_CorruptedHunt_INTRO,"Upon arriving scouts report that a pair of powerful demons have invaded the woods near your village, corrupting the animals in the area. A number of hunters express their desire to slay the creatures, but you will not hear of it. You will wipe out the demons and their corruption by yourself.
+
+It is a short hike to the location reported by the scouts, and immediately you feel a shift in the wind... Something unseen and dangerous lies nearby. 
+
+The hunt has begun."
+Scenario_SOLO_Doomstalker_CorruptedHunt_Room_2_1,"As you move forward, the earth rumbles and a giant demon made of dirt and stone rises up from the ground."
+Scenario_SOLO_Doomstalker_CorruptedHunt_Room_2_2,"""So, the little Orchid has come to kill us, has he?"" It rumbles. ""What can one hunter hope to achieve against our power? You will be crushed!"""
+Scenario_SOLO_Doomstalker_CorruptedHunt_Room_3_1,"An intense heat greets you as you move into the next clearing. Before you stands a demon blazing with flame. The fire is so intense, the edges glow blue."
+Scenario_SOLO_Doomstalker_CorruptedHunt_Room_3_2,"""We have been granted extraordinary power"" the demon spits and hisses. ""One such as you cannot stop our rise! Little hunter."""
+Scenario_SOLO_Doomstalker_CorruptedHunt_Room_4_1,"While searching for further corruption, you stumble across a nest of vipers, and they are not happy about your presence."
+Scenario_SOLO_Doomstalker_CorruptedHunt_Room_4_2,"As they emerge, you sense in them a dark viciousness. Clearly they too have been tainted and must be destroyed."
+Scenario_SOLO_Doomstalker_CorruptedHunt_Success_1,"With the last of the beasts put to rest, you again feel a change in the wind as the corruption dissipates."
+Scenario_SOLO_Doomstalker_CorruptedHunt_Success_2,"Not wanting to waste the corpses, you fashion a beautiful cloak from their hides and take the meat back to your village."
+Scenario_SOLO_Doomstalker_CorruptedHunt_Success_3,"The people there offer a muted thanks that temporarily assuages your guilt, allowing you to return to the life of a mercenary once more."
+Quest_SOLO_Sawbones_Aftermath_NAME,Aftermath
+Quest_SOLO_Sawbones_Aftermath_DESC,The Sawbones is needed in an emergency!
+Quest_SOLO_Sawbones_Aftermath_List,The Sawbones Solo Quest
+Quest_SOLO_Sawbones_Aftermath_INTRO_GH_1,"A great, thunderous sound wakes you from your sleep... a calamitous noise of men shouting and earth cracking."
+Quest_SOLO_Sawbones_Aftermath_INTRO_GH_2,"As you leap from your bed, pull on some clothes, and grab your equipment, the chaos outside only heightens."
+Quest_SOLO_Sawbones_Aftermath_INTRO_GH_3,"There are screams, as a powerful rumble of stone and fire shakes the ground, nearly knocking you off your feet."
+Quest_SOLO_Sawbones_Aftermath_INTRO_TRAVEL_1,"You race towards the disaster as fast as you can, but by the time you arrive, the immediate danger has already passed."
+Quest_SOLO_Sawbones_Aftermath_INTRO_TRAVEL_2,"Whatever attacked has been driven off, but in their wake they left a scene of devastating destruction."
+Quest_SOLO_Sawbones_Aftermath_INTRO,"Buildings lie in ruins. Great sections of the wall have been toppled over, leaving stone and rubble scattered throughout the area. More pressing, however, are the number of dying soldiers screaming and moaning in their death throes. You immediately set to work on saving as many of them as you can."
+Scenario_SOLO_Sawbones_Aftermath_Room_3_1,You get closer to the ruined wall and see nothing but more devastation.
+Scenario_SOLO_Sawbones_Aftermath_Room_3_2,"The rubble has buried many here, including a gravely wounded lieutenant moaning for help through blood-filled lungs. 
+
+You grimly resolve to save them all."
+Scenario_SOLO_Sawbones_Aftermath_Success_1,"Many have died, but you take solace in having saved the ones you could. The lieutenant is especially grateful and commissions a special coat to be made for you."
+Quest_SOLO_Sawbones_Aftermath_OUTRO_GH_1,"You head back to your room, and, as always, your memories of the screams of dying men, eventually give way to a peaceful sleep."
+Quest_SOLO_Elementalist_ElementalSecrets_NAME,Elemental Secrets
+Quest_SOLO_Elementalist_ElementalSecrets_DESC,The Elementalist revisits the Temple of the Elements
+Quest_SOLO_Elementalist_ElementalSecrets_List,The Elementalist's Solo Quest
+Quest_SOLO_Elementalist_ElementalSecrets_INTRO_GH_1,"The study of the elements consumes you. Though the cores in your chest proved your mastery over them, they did not mean the quest for knowledge and power was complete."
+Quest_SOLO_Elementalist_ElementalSecrets_INTRO_GH_2,They marked only the beginning of a much longer journey.
+Quest_SOLO_Elementalist_ElementalSecrets_INTRO_TRAVEL_1,That journey eventually brought you back to the Temple of the Elements.
+Quest_SOLO_Elementalist_ElementalSecrets_INTRO_TRAVEL_2,"After your earlier excursions here, you knew there was more power waiting for you, somewhere in the temple’s depths. And so, you return seeking knowledge."
+Quest_SOLO_Elementalist_ElementalSecrets_INTRO,"After some investigation, you feel a strong pull of elemental energy that draws you to a false wall. Behind it, a set of stairs leads down into the unknown. As you descend, you grow faint with the influx of elemental influence. By the time you reach the bottom, you feel the elements coursing through your veins like they never have before. 
+
+With this power, you are confident you can take on anything, which is good, since you see a number of demons emerge from the shadows ahead of you."
+Scenario_SOLO_Elementalist_ElementalSecrets_Success_1,"This energy is indeed potent, allowing you to anticipate your enemies’ moves and destroy them with an efficiency that would not be possible otherwise."
+Scenario_SOLO_Elementalist_ElementalSecrets_Success_2,"Now that the nexus has been cleared of demons, you stay to study the elemental energy extensively."
+Quest_SOLO_Elementalist_ElementalSecrets_OUTRO_TRAVEL_1,"It takes days, but eventually you emerge from the temple with an even deeper understanding and appreciation of the elements."
+Quest_SOLO_Elementalist_ElementalSecrets_OUTRO_GH_1,You return to Gloomhaven and use that knowledge to craft equipment that can better harness and convert elemental power.
+Quest_SOLO_BeastTyrant_TheCagedBear_NAME,The Caged Bear
+Quest_SOLO_BeastTyrant_TheCagedBear_DESC,The Beast Tyrant explores the wilds
+Quest_SOLO_BeastTyrant_TheCagedBear_List,The Beast Tyrant's Solo Quest
+Quest_SOLO_BeastTyrant_TheCagedBear_INTRO_TRAVEL_1,You spend most nights outside Gloomhaven’s walls. You feel much more comfortable among the trees and beasts. The city can be so restrictive. And it stinks.
+Quest_SOLO_BeastTyrant_TheCagedBear_INTRO_TRAVEL_2,You wake in the middle of the night to the sound of a howling wolf. But it is no ordinary howl—the animal is in distress.
+Quest_SOLO_BeastTyrant_TheCagedBear_INTRO_TRAVEL_3,You call upon your bear and head towards the troubling call.
+Quest_SOLO_BeastTyrant_TheCagedBear_INTRO,"""That’s far enough!"" Your search is cut short by the voice of another Vermling. You stop and peer into the darkness, making out the forms of many animals on the far edge of a clearing. The Vermling steps out from among them.
+
+""The wilderness has deemed you a traitor, and has tasked me with destroying you."" You begin to object, but the Vermling yells over you. ""You spend your powers helping that blight of a city instead of destroying it! The city is a scar upon the land, and it needs to be healed!""
+
+""Your actions have made you unfit to wield nature’s force, and you are thus sentenced to death!"" She raises a staff, and you feel the earth give way beneath you.
+
+You hit the ground hard, and as the moonlight streams into the underground cavern through the rubble, you do not see your bear. 
+
+It is close... you can feel it... but you’ll have to fare on your own for a while. This is all the more troubling with the realization that there is still a beast in the cave with you. It is just not friendly."
+Scenario_SOLO_BeastTyrant_TheCagedBear_Room_2_1,"The words of the rival Vermling echo in your mind, but you simply cannot believe them. And even if you did, you certainly wouldn’t go down without a fight. You press on into the darkness."
+Scenario_SOLO_BeastTyrant_TheCagedBear_Room_3_1,"As you are forced to slay more and more beasts in your efforts to be free of this prison, your anger grows. This is madness and cannot be the will of nature."
+Scenario_SOLO_BeastTyrant_TheCagedBear_Room_3_2,"Despite your work as a mercenary, you have always put your dedication to the wilderness first. You will find this treacherous Vermling and make her answer for her lies."
+Scenario_SOLO_BeastTyrant_TheCagedBear_Room_4_1,You see a light up ahead... a way out of this cavernous prison... but you also see the object of your burning rage... the Vermling who sent you down here.
+Scenario_SOLO_BeastTyrant_TheCagedBear_Room_4_2,"""Even when your power forsakes you, you still have the determination to fight through my beasts and stand before me,"" she says. ""How futile."""
+Scenario_SOLO_BeastTyrant_TheCagedBear_Room_4_3,"There is much you wish to say to this liar, but it all comes out as a single primal yell, with the full force of nature behind it."
+Scenario_SOLO_BeastTyrant_TheCagedBear_Room_4_4,You see the fear in your enemy’s eyes as you charge forward with your bear at your side.
+Scenario_SOLO_BeastTyrant_TheCagedBear_Success_1,You stand over the corpse of the Vermling and spit. Clearly your powers have not left you. You have proven that definitively.
+Scenario_SOLO_BeastTyrant_TheCagedBear_Success_2,"You pry the staff she was using out of her dead hands and then leave her there to rot. The corpse will feed the earth and, in time, create life once again."
+,
+Scenario_SOLO_Tinkerer_AnUnfortunateIntrusion_Objective_1,Protect at least one City Guard
+Scenario_SOLO_Tinkerer_AnUnfortunateIntrusion_Objective_2,Survive twelve Rounds
+Scenario_SOLO_Mindthief_RodentLiberation_Modifier_1,"Opening the door to the second room caused the Mindthief 5 damage and <nobr>POISON <sprite name=Poison></nobr>.
+At the end of each round the Mindthief gains <nobr>POISON <sprite name=Poison></nobr>, if the Mindthief is already poisoned they suffer 3 damage instead.
+This effect ends once all altars have been destroyed"
+Scenario_SOLO_Mindthief_RodentLiberation_Objective_1,Destroy all Vermling Altars
+Scenario_SOLO_Mindthief_RodentLiberation_Altar,Vermling Altar
+Scenario_SOLO_Berserker_UnnaturalInstincts_Objective_1,Kill the Inox Necromancer
+Scenario_SOLO_Soothsinger_BattleOfTheBards_Objective_1,Kill the Song of the Deep
+Scenario_SOLO_Doomstalker_CorruptedHunt_Modifier_1,The Ghost Wolf gains invisible at the start of each round
+Scenario_SOLO_Doomstalker_CorruptedHunt_Modifier_2,All Giant Vipers add <nobr>+1 Attack <sprite name=Attack></nobr> to all their Attacks
+Scenario_SOLO_Doomstalker_CorruptedHunt_Modifier_3,"The High Flame increases it's Retaliate, Retaliate Range and Shield by 2"
+Scenario_SOLO_Sawbones_Aftermath_Objective_1,Save all wounded allies
+Scenario_SOLO_Sawbones_Aftermath_Objective_2,Lose if any City Guard dies
+Scenario_SOLO_Sawbones_Aftermath_Objective_3,Lose if the Lieutenant is not saved in 10 rounds
+Scenario_SOLO_Sawbones_Aftermath_Modifier_1,All revealed City Guards suffer 1 damage at the end of the round. To save an ally fully heal them
+Scenario_SOLO_Sawbones_Aftermath_Modifier_2,If you give an ally a Medical Pack they will immediately use it to heal
+Scenario_SOLO_Sawbones_Aftermath_Debris,Debris
+Scenario_SOLO_Elementalist_ElementalSecrets_Modifier_1,"Each round an element will be set to strong in this repeating order: Air, Ice, Earth and Fire"
+Scenario_SOLO_Elementalist_ElementalSecrets_Modifier_2,You will be able to choose your ability cards after revealng the enemy ability cards
+Scenario_SOLO_BeastTyrant_TheCagedBear_Modifier_1,"Obstacles in this scenarios cannot be moved through, even with jump or flying, and can not be destroyed or moved"
+Scenario_SOLO_BeastTyrant_TheCagedBear_Modifier_2,The bottom action of Disorienting Roar cannot be used.
+Scenario_SOLO_ObjectiveKillAll,Kill all enemies
+Scenario_SOLO_Spellweaver_CorruptedLaboratory_Objective_2,Reach the exit tiles with the spellweaver
+Scenario_SOLO_Spellweaver_CorruptedLaboratory_Objective_1,Loot the ornate chest
+Scenario_SOLO_Spellweaver_CorruptedLaboratory_Modifier_1,Kill the Stone Golem to unlock the door
+Scenario_SOLO_Sunkeeper_CaravanEscort_AllyGuardsModifier,"All ally City Guards act on initiative 99 performing a Move+0, Attack+0 based on their stats"
+Scenario_SOLO_Soothsinger_BattleOfTheBards_AllyBanditsModifier,"All ally Bandits act on initiative 49 performing a Move+0, Attack+0 based on their stats"
+Scenario_SOLO_Berserker_UnnaturalInstincts_Objective_2,Kill all revealed enemies to open the doors
+Scenario_SOLO_Nightshroud_HarvestingTheNight_objective_1,Kill 6 Night Demons
+Scenario_SOLO_Cragheart_StoneDefense_Objective_1,Survive six rounds
+Scenario_SOLO_Cragheart_StoneDefense_Objective_2,Kill all revealed enemies
+Scenario_SOLO_Plagueherald_PlaguedCrypt_Modifier_1,Starting at Round 2 a door will open every 3 Rounds in clockwise order from the last one
+GhostWolf,Ghost Wolf
+SpiritBear,Spirit Bear
+DeepEarth,Deep Earth
+EarthLord,Earth Lord
+SongOfTheDeep,Song Of The Deep
+HighFlame,High Flame
+VermlingDruid,Vermling Druid
+InoxNecromancer,Inox Necromancer
+SpiritOfXorn,Spirit Of Xorn
+Rikharn,Rikharn
+WoundedGuard,Wounded Guard
+Lieutenant,Lieutenant
+588606,Summon one Normal Living Corpse if the target is not immune to DISARM <sprite name=Disarm>
+589606,Summon one Normal Living Corpse if the target is not immune to IMMOBILIZE <sprite name=Immobilize>
+595606,Summon one Normal Living Corpse if the target is not immune to CURSE <sprite name=Curse>
+ADVENTURE_ACHIEVEMENT_1_1_BeastTyrantItem,Command and Conquer
+ADVENTURE_ACHIEVEMENT_1_1_BeastTyrantItem_Desc,Complete the Beast Tyrant's second Story Quest
+ADVENTURE_ACHIEVEMENT_1_1_BerserkerItem,Masquerade
+ADVENTURE_ACHIEVEMENT_1_1_BerserkerItem_Desc,Complete the Berserker's second Story Quest
+ADVENTURE_ACHIEVEMENT_1_1_BruteItem,The Flashing Blade
+ADVENTURE_ACHIEVEMENT_1_1_BruteItem_Desc,Complete the Brute's second Story Quest
+ADVENTURE_ACHIEVEMENT_1_1_CragheartItem,Charm Offensive
+ADVENTURE_ACHIEVEMENT_1_1_CragheartItem_Desc,Complete the Cragheart's second Story Quest
+ADVENTURE_ACHIEVEMENT_1_1_DoomstalkerItem,Hunting High and Low
+ADVENTURE_ACHIEVEMENT_1_1_DoomstalkerItem_Desc,Complete the Doomstalker's second Story Quest
+ADVENTURE_ACHIEVEMENT_1_1_ElementalistItem,Elementary
+ADVENTURE_ACHIEVEMENT_1_1_ElementalistItem_Desc,Complete the Elementalist's second Story Quest
+ADVENTURE_ACHIEVEMENT_1_1_MindthiefItem,Twist of the Knife
+ADVENTURE_ACHIEVEMENT_1_1_MindthiefItem_Desc,Complete the Mindthief's second Story Quest
+ADVENTURE_ACHIEVEMENT_1_1_NightshroudItem,Up in Smoke
+ADVENTURE_ACHIEVEMENT_1_1_NightshroudItem_Desc,Complete the Nightshroud's second Story Quest
+ADVENTURE_ACHIEVEMENT_1_1_PlagueheraldItem,Xorn Again
+ADVENTURE_ACHIEVEMENT_1_1_PlagueheraldItem_Desc,Complete the Plagueherald's second Story Quest
+ADVENTURE_ACHIEVEMENT_1_1_QuartermasterItem,Belt and Braces
+ADVENTURE_ACHIEVEMENT_1_1_QuartermasterItem_Desc,Complete the Quartermaster's second Story Quest
+ADVENTURE_ACHIEVEMENT_1_1_SawbonesItem,Doctor's Orders
+ADVENTURE_ACHIEVEMENT_1_1_SawbonesItem_Desc,Complete the Sawbones's second Story Quest
+ADVENTURE_ACHIEVEMENT_1_1_ScoundrelItem,Silent but Deadly
+ADVENTURE_ACHIEVEMENT_1_1_ScoundrelItem_Desc,Complete the Scoundrel's second Story Quest
+ADVENTURE_ACHIEVEMENT_1_1_SoothsingerItem,Take the Lute
+ADVENTURE_ACHIEVEMENT_1_1_SoothsingerItem_Desc,Complete the Soothsinger's second Story Quest
+ADVENTURE_ACHIEVEMENT_1_1_SpellweaverItem,Explosive Personality
+ADVENTURE_ACHIEVEMENT_1_1_SpellweaverItem_Desc,Complete the Spellweaver's second Story Quest
+ADVENTURE_ACHIEVEMENT_1_1_SummonerItem,Out of Phase
+ADVENTURE_ACHIEVEMENT_1_1_SummonerItem_Desc,Complete the Summoner's second Story Quest
+ADVENTURE_ACHIEVEMENT_1_1_SunkeeperItem,Catch the Sun
+ADVENTURE_ACHIEVEMENT_1_1_SunkeeperItem_Desc,Complete the Sunkeeper's second Story Quest
+ADVENTURE_ACHIEVEMENT_1_1_TinkererItem,Ray of Hope
+ADVENTURE_ACHIEVEMENT_1_1_TinkererItem_Desc,Complete the Tinkerer's second Story Quest
+Message_Unlock_Solo_DLC_1,"Ah, there you are! "
+Message_Unlock_Solo_DLC_2,I've just received a missive from the Demonsgate Council.
+Message_Unlock_Solo_DLC_3,"Apparently in an attempt to convince 'heroes' to go out into the world and remove major threats for them, they've set aside a portion of the city's coffers to be spent on 'Quest Rewards'."
+Message_Unlock_Solo_DLC_4,"I'd have thought they should really get the City guard to do it, isn't that what our taxes pay for?"
+Message_Unlock_Solo_DLC_5,"Perhaps... However, rather than a simple monetary reward, they have opened one of the vaults under the city, and have set aside a number of power artifacts to be awarded."
+Message_Unlock_Solo_DLC_6,"Artifacts you say, well, the Guards certainly won't know how to use them!"
+Message_Unlock_Solo_DLC_7,"The especially good news is that they are also awarding these retrospectively, so any of your past glories will have unlocked new equipment."
+Message_Unlock_Solo_DLC_8,Just head over to the Trainer to see what is available.
+GUI_CHOOSE_ABILITY_ITEM_NAME_MastersLute,"""Choose Move <sprite name=Move> 2, or Attack <sprite name=Attack> 2."""
+GUI_DLC2_OWNED_TOOLTIP,Ready for a new Challenge? Take your Gloomhaven mercenaries on deadly solo missions and unlock powerful new items for any that manage to survive! 
