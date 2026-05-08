@@ -7,6 +7,7 @@
 4. **Уніфікація**: Один англійський термін = один український відповідник.
 5. **Гендер**: Для рас та класів використовувати відповідні закінчення (ч.р./ж.р.), де це доречно.
 6. **UI кнопки**: Сталі відповідники: **SKIP = ПРОПУСТИТИ**, **UNDO = СКАСУВАТИ**.
+7. **Механіки та ключові слова**: Всі ключові слова (АТАКА, РУХ, ЩИТ, ВІДПЛАТА тощо) — **ВЕЛИКІ ЛІТЕРАМИ**.
 
 ---
 
@@ -23,70 +24,71 @@
 | Human | Людина | - |
 
 ## Класи персонажів
-| Англійська | Українська |
-|------------|------------|
-| Brute | Дикун |
-| Scoundrel | Шахрайка |
-| Tinkerer | Винахідник |
-| Spellweaver | Чародійниця |
-| Sunkeeper | Хранителька Сонця |
-| Cragheart | Пустотілий |
-| Doomstalker | Прирікач |
-| Elementalist | Елементаліст |
-| Plagueherald | Моровісник |
-| Quartermaster | Інтендант |
-| Mindthief | Думкокрадійка |
-| Beast Tyrant | Володар Звірів |
-| Soothsinger | Оспівувачка |
-| Berserker | Берсерк |
-| Summoner | Прикликачка/Прикликач |
-| Sawbones | Костоправ |
-| Nightshroud | Нічнотінь |
-| Demolitionist | Підривник |
-| Hatchet | Рубака |
-| Red Guard | Багряний Страж |
-| Voidwarden | Вартова Порожнечі |
+| Англійська | Українська | Примітка |
+|------------|------------|----------|
+| Brute | Дикун | |
+| Scoundrel | Шахрайка | (не "Плутовка") |
+| Tinkerer | Винахідник | |
+| Spellweaver | Чародійниця | (не "Чарівниця", не "Плетуча чари") |
+| Sunkeeper | Хранителька Сонця | |
+| Cragheart | Пустотілий | |
+| Doomstalker | Прирікач | |
+| Elementalist | Елементаліст | |
+| Plagueherald | Моровісник | |
+| Quartermaster | Інтендант | |
+| Mindthief | Думкокрадійка | |
+| Beast Tyrant | Володар Звірів | |
+| Soothsinger | Оспівувачка | |
+| Berserker | Берсерк | |
+| Summoner | Прикликачка/Прикликач | |
+| Sawbones | Костоправ | |
+| Nightshroud | Нічнотінь | |
+| Demolitionist | Підривник | |
+| Hatchet | Рубака | |
+| Red Guard | Багряний Страж | |
+| Voidwarden | Вартова Порожнечі | |
 
 ## Здібності та дії
-| Англійська | Українська |
-|------------|------------|
-| Attack | АТАКА |
-| Move | РУХ |
-| Loot | ЗДОБИЧ |
-| Heal | ЛІКУВАННЯ |
-| Push | ПОШТОВХ |
-| Pull | ПРИТЯГНУТИ |
-| Pierce | ПРОБИТТЯ |
-| Retaliate | ВІДПЛАТА |
-| Shield | ЩИТ |
-| Strengthen | ПОСИЛЕННЯ |
-| Muddle | СУМ'ЯТТЯ |
-| Disarm | РОЗЗБРОЄННЯ |
-| Stun | ОГЛУШЕННЯ |
-| Immobilize | ПАРАЛІЧ |
-| Poison | ОТРУЄННЯ |
-| Wound | РАНА |
-| Curse | ПРОКЛЯТТЯ |
-| Bless | БЛАГОСЛОВЕННЯ |
-| Jump | СТРИБОК |
-| Flying | ПОЛІТ |
-| Consume | СПОЖИТИ |
-| Infuse | НАПОВНИТИ |
-| Summon | ПРИКЛИКАННЯ |
-| Recover | ВІДНОВИТИ |
-| Refresh | ОНОВИТИ |
-| Persistent | ПОСТІЙНИЙ ЕФЕКТ |
-| Range | ДАЛЬНІСТЬ |
-| Target | ЦІЛЬ |
-| Area | ЗОНА |
-| Element | ЕЛЕМЕНТ |
-| Block Healing | БЛОКУВАННЯ ЛІКУВАННЯ |
-| Neutralize Shield | НЕЙТРАЛІЗАЦІЯ ЩИТА |
-| Augment | АУГМЕНТ |
-| Song | ПІСНЯ |
-| Doom | ПРИРЕЧЕННЯ |
-| Command | НАКАЗ |
-| Favorite | ФАВОРИТ |
+| Англійська | Українська | Примітка |
+|------------|------------|----------|
+| Attack | АТАКА | |
+| Move | РУХ | |
+| Loot | ЗДОБИЧ | |
+| Heal | ЛІКУВАННЯ | |
+| Push | ПОШТОВХ | |
+| Pull | ПРИТЯГНУТИ | |
+| Pierce | ПРОБИТТЯ | |
+| Retaliate | ВІДПЛАТА | |
+| Shield | ЩИТ | |
+| Strengthen | ПОСИЛЕННЯ | |
+| Muddle | СУМ'ЯТТЯ | |
+| Disarm | РОЗЗБРОЄННЯ | |
+| Stun | ОГЛУШЕННЯ | |
+| Immobilize | ПАРАЛІЧ | |
+| Poison | ОТРУЄННЯ | |
+| Wound | РАНА | |
+| Curse | ПРОКЛЯТТЯ | |
+| Bless | БЛАГОСЛОВЕННЯ | |
+| Jump | СТРИБОК | |
+| Flying | ПОЛІТ | |
+| Consume | СПОЖИТИ | (стихію) |
+| Infuse | НАПОВНИТИ | (стихію) |
+| Summon | ПРИКЛИКАННЯ | |
+| Recover | ВІДНОВИТИ | (карту) |
+| Refresh | ОНОВИТИ | (предмет) |
+| Persistent | ПОСТІЙНИЙ ЕФЕКТ | |
+| Range | ДАЛЬНІСТЬ | |
+| Target | ЦІЛЬ | |
+| Area | ЗОНА | |
+| Element | ЕЛЕМЕНТ | |
+| Block Healing | БЛОКУВАННЯ ЛІКУВАННЯ | |
+| Neutralize Shield | НЕЙТРАЛІЗАЦІЯ ЩИТА | |
+| Augment | АУГМЕНТ | |
+| Song | ПІСНЯ | |
+| Doom | ПРИРЕЧЕННЯ | |
+| Command | НАКАЗ | |
+| Favorite | ФАВОРИТ | |
+| Add Target | ДОДАТИ ЦІЛЬ | |
 
 ## Стани та ефекти (Conditions)
 | Англійська | Українська |
@@ -152,10 +154,37 @@
 | Echo Chamber | Галерея, що Шепоче |
 | Magma Pit | Жерло Вулкана |
 | Sahmyrt | Самирт |
-| Scurvy Bay | Цингова Бухта |
+| Scurvy Bay | Бухта цинги |
 | Blackrock Asylum | Притулок Блекрок |
 | Gibbet Hill | Пагорб Шибениці |
 | Amberhill | Бурштиновий Пагорб |
+| Fordingbridge | Літноводдя |
+| Cursekeep | Проклята Твердиня |
+| Bloodford | Кривавий Брід |
+| Silverwick | Срібновік |
+| Crystal Hollow | Кришталева Лощина |
+| Demonspine Hollow | Демонічна Лощина |
+| Drake Fire Farm | Ферма Драконячого Вогню |
+| Eaglecrest | Орлиний Гребінь |
+| Eastgrove | Східний Гай |
+| Boneshatter Pass | Перевал Розбитих Кісток |
+| Rockfall | Каменепад |
+| Summerwell | Літноводдя |
+| White Oak | Білий Дуб |
+| South Shield | Південний щит |
+| Keyport | Кейпорт |
+| Staybright Fort | Форт Стейбрайт |
+| Sweetwater | Солодководдя |
+| Watcher Mountains | Гори Вартових |
+| Ashenbond Retreat | Притулок Ешенбонд |
+| Barren Coast | Безплідне узбережжя |
+| Buried Trenches | Поховані траншеї |
+| City of Slate | Місто Слейт |
+| Copper Oasis | Мідний оазис |
+| Deadlands | Мертві землі |
+| Eerie Glade | Моторошна поляна |
+| Mournlight Hideout | Сховище Морнлайт |
+| Shadowfield Manor | Маєток Шедоуфілд |
 
 ## Істоти та вороги
 | Англійська | Українська |
@@ -166,14 +195,22 @@
 | Savvas | Саввас |
 | Living Bones | Живі Кістки |
 | Living Spirit | Живий Дух |
+| Living Corpse | Труп, що ожив |
 | Chaos Demon | Демон Хаосу |
 | Prime Demon | Архідемон |
 | Entropy Demon | Демон Ентропії |
+| Flame Demon | Вогняний демон |
+| Frost Demon | Морозний демон |
+| Wind Demon | Демон вітру |
+| Earth Demon | Демон землі |
+| Sun Demon | Демон сонця |
+| Night Demon | Демон ночі |
 | Lightmare | Світомар |
 | Nightbringer | Той, хто несе ніч |
 | Blood Monstrosity | Кривочуд |
 | Rat Monstrosity | Щурочудовисько |
 | Blood Horror | Кривавий Жах |
+| Deep Horror | Глибинний жах |
 | Blood Tumor | Кривава Пухлина |
 | Black Sludge | Чорний Слиз |
 | Filthy Sludge | Брудний Слиз |
@@ -181,9 +218,15 @@
 | Lurker | Скритень |
 | Ooze | Слиз |
 | Imp | Біс |
+| Forest Imp | Лісовий біс |
+| Black Imp | Чорний біс |
 | Blood Imp | Кривавий Біс |
 | Drakes | Дрейки |
+| Spitting Drake | Шиплячий дрейк |
 | Stone Golem | Кам'яний Голем |
+| Arcane Golem | Арканний голем |
+| Mystic Golem | Містичний голем |
+| Ancient Artillery | Стародавня артилерія |
 | Cultist | Культист |
 | Bandit | Розбійник |
 | Guard | Охоронець |
@@ -191,6 +234,7 @@
 | Fan / Crowd Member | Уболівальник |
 | First of the Order | Глава Ордену |
 | Ghost Wolf | Примарний вовк |
+| Shadow Wolf | Тіньовий вовк |
 | Spirit Bear | Дух ведмедя |
 | Deep Earth | Глибинна земля |
 | Earth Lord | Володар землі |
@@ -202,6 +246,21 @@
 | Rikharn | Ріхарн |
 | Wounded Guard | Поранений стражник |
 | Lieutenant | Лейтенант |
+| Hound | Гонча |
+| Giant Viper | Гігантська гадюка |
+| Algox | Алгокс |
+| Harrower Infester | Жнець-заразник |
+| Winged Horror | Крилатий жах |
+
+## Персонажі та імена
+| Англійська | Українська |
+|------------|------------|
+| Jekserah | Джексеру |
+| Dominic | Домінік |
+| Gavin | Гевін |
+| Sin-Ra | Сін-Ра |
+| Som | Сом |
+| Scabwit | Скабвіт |
 
 ## Предмети (Приклади)
 | Англійська | Українська |
