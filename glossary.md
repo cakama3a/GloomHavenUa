@@ -61,7 +61,7 @@
 | Retaliate | ВІДПЛАТА | |
 | Shield | ЩИТ | |
 | Strengthen | ПОСИЛЕННЯ | |
-| Muddle | СУМ'ЯТТЯ | |
+| Muddle | ДЕЗОРІЄНТАЦІЯ | |
 | Disarm | РОЗЗБРОЄННЯ | |
 | Stun | ОГЛУШЕННЯ | |
 | Immobilize | ПАРАЛІЧ | |
@@ -99,7 +99,7 @@
 | Stunned | ОГЛУШЕНИЙ |
 | Immobilized | ПАРАЛІЧ |
 | Disarmed | РОЗЗБРОЄНИЙ |
-| Muddled | СУМ'ЯТТЯ |
+| Muddled | ДЕЗОРІЄНТОВАНИЙ |
 | Strengthened | ПОСИЛЕНИЙ |
 | Cursed | ПРОКЛЯТИЙ |
 | Blessed | БЛАГОСЛОВЕННИЙ |
