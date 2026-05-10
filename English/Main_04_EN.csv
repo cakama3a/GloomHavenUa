@@ -1,0 +1,1740 @@
+Keys,"English [en-GB]"
+EVENT_ROAD_CAMPAIGN_66_OPTION_A,"Take cover."
+EVENT_ROAD_CAMPAIGN_66_OPTION_B,"Attack the Inox. "
+EVENT_ROAD_CAMPAIGN_66_RESULT_A,"You jump into a ditch and cover your head just as the Elder Drake glides over the raiding party, breathing a heavy gout of flame into their midst. Those not incinerated scream and flee for their lives. The drake lands in front of you.
+
+“Intrepid adventurers! I hope I was able to offer you some aid against your aggressors. It really was my pleasure after all you have done for me. I hope you find some things of value among the corpses. It is my gift to you.”"
+EVENT_ROAD_CAMPAIGN_66_RESULT_B,"You attack the large group of Inox while they are distracted by giant creature above you. Things suddenly get very hot, however, when the drake begins spitting fire into the melee. The Inox scatter and you are suffering from severe burns when the Elder Drake lands in front of you.
+
+“My apologies. I was only trying to help.”"
+EVENT_ROAD_CAMPAIGN_67_INTRO,"Not too far down the main road outside of Gloomhaven, you run across a merchant wagon headed into town.
+
+“Ah, I was afraid for a second you might be bandits!” The merchant says. “But now I see you are mercenaries from the town, correct? Most excellent! I have heard good things about the mercenaries of Gloomhaven. Hard to believe, coming from such a backwater place, but they are true, correct?”"
+EVENT_ROAD_CAMPAIGN_67_OPTION_A,"Demonstrate your virtue by offering to escort the merchant back to Gloomhaven."
+EVENT_ROAD_CAMPAIGN_67_OPTION_B,"Demonstrate your lack of virtue by robbing the merchant."
+EVENT_ROAD_CAMPAIGN_67_RESULT_A,"“Ah, well...no, I don’t want to be a bother. But, I mean, yes, I can’t pay you, though I’d love the company. It is rather terrifying traveling the East Road by yourself.”
+
+It is a relatively short journey back to town, but the merchant is very grateful. “I am quite impressed, sirs. I’ll be sure to tell everyone back in the capital that Gloomhaven is a safe place to do business.”"
+EVENT_ROAD_CAMPAIGN_67_RESULT_B,"“Well, I just—I mean, I’d never...” the merchant trails off incredulously. “To think there are places in the world where such barbarism still exists. It boggles the mind.
+
+“I’m going to tell everyone back in the Capital what a horrible, backward shrrggggllg...” Blood bubbles up into his mouth as you slit his throat, making it very difficult for him to continue complaining."
+EVENT_ROAD_CAMPAIGN_68_INTRO,"Not too far down the main road outside of Gloomhaven, you run across a merchant wagon headed into town.
+
+“Oh no...ah, mercenaries, I see,” the merchant stammers as you approach. “Look, ah, I know the reputation of your like around Gloomhaven. Please, just take what you want and move on. I-I don’t want any trouble.”"
+EVENT_ROAD_CAMPAIGN_68_OPTION_A,"Take what you want and move on."
+EVENT_ROAD_CAMPAIGN_68_OPTION_B,"Calm the merchant and explain that not all mercenaries are bloodthirsty thieves. "
+EVENT_ROAD_CAMPAIGN_68_RESULT_A,"The merchant remains dead silent as you sift through his cart and pull out any valuables. There’s not a whole lot in his wares, but the ease in which you are able to take what he has makes it all the sweeter.
+
+Once you are finished, you continue on your way and he continues on his."
+EVENT_ROAD_CAMPAIGN_68_RESULT_B,"“Oh, ah, really?” The merchant looks at you incredulously. “Well then, color me embarrassed. I sincerely apologize for my uneducated assumptions. Sometimes you just expect the worst traveling to such backwater locales.
+
+“I’ll be sure to tell everyone I see that not everyone in Gloomhaven is a criminal,” he says as he rides off, tipping his hat to you."
+EVENT_ROAD_CAMPAIGN_69_INTRO,"Walking along the trail, you are surprised by a group of demons who appear to your left, charging over a hill toward you. Something is off, however. Their pace is slow, and they are significantly smaller than the demons you normally deal with.
+
+Halfway down the hill, the demons pause and take stock of you. Seeing you are far from easy prey, they turn around and begin to retreat."
+EVENT_ROAD_CAMPAIGN_69_OPTION_A,"Chase them down quickly and kill them."
+EVENT_ROAD_CAMPAIGN_69_OPTION_B,"Follow them more slowly, attempting to discover where they came from. "
+EVENT_ROAD_CAMPAIGN_69_RESULT_A,"You roar and charge up the hill. The demons are no match for you, either in speed or in strength. You kill them quickly but painfully."
+EVENT_ROAD_CAMPAIGN_69_RESULT_B,"You creep slowly to the crest of the hill, watching as the demons retreat to the south. You follow them, eventually arriving at a weak, fluctuating rift in a small, earthen cave. Having experienced enough planar manipulation in your travels, you are able to mutter a few incantations and close the rift. It takes a lot out of you, but now there is one less way for demons to invade this plane."
+EVENT_ROAD_CAMPAIGN_6_INTRO,"Stumbling through the woods, you are alarmed to hear the sudden sounds of a large animal rummaging through the underbush. You crouch down, gauging the grunts and growls. 
+
+Through the trees, you see a large bear approaching your location. It has not noticed you yet, but you imagine it will soon. "
+EVENT_ROAD_CAMPAIGN_6_OPTION_A,"Take the opportunity to run from the bear before it gets any closer."
+EVENT_ROAD_CAMPAIGN_6_OPTION_B,"Attack the bear, hopefully catching it by surprise. "
+EVENT_ROAD_CAMPAIGN_6_RESULT_A,"You bolt from hiding as fast as you can. Luckily the bear was still a ways off, and it gets bored with the chase before it can catch you. Still, you keep running and running until you can't catch your breath.  "
+EVENT_ROAD_CAMPAIGN_6_RESULT_B,"The bear roars as you approach, making powerful swipes with its claws. Still, with the surprise and the commotion, the bear is not all that committed to the fight. After a bit of back and forth, the animal grunts and runs off into the trees. "
+EVENT_ROAD_CAMPAIGN_7_INTRO,"Walking along the edge of a forest, you begin to hear strange, unfamiliar sounds coming from beyond the trees. You stop and listen closer. 
+
+There's a rhythm to the sounds, and with that established, you begin to pick out different human voices in the mix. You'd venture to say that the noise vaguely sounds like chanting.  "
+EVENT_ROAD_CAMPAIGN_7_OPTION_A,"Head into the forest to investigate the chanting. "
+EVENT_ROAD_CAMPAIGN_7_OPTION_B,"Keep moving on down the road. No need to get mixed up in whatever is going on.  "
+EVENT_ROAD_CAMPAIGN_7_RESULT_A,"You quietly move through the forest toward the noise. Eventually you come upon a clearing where you see a circle of cultists performing some strange ritual. One of them notices you and shouts to the others. The situation devolves into a bloody battle. You are, of course, victorious, but it saps some of your strength. "
+EVENT_ROAD_CAMPAIGN_7_RESULT_B,"Without a second thought, you get back onto the main road and continue moving toward your destination. "
+EVENT_ROAD_CAMPAIGN_8_INTRO,"You see a lone man walking toward you on the road. As you meet on the path, he turns to you and begins to speak.
+
+""Oi there. I wouldn't suppose you lot might spare me some coin?"" he asks. ""A lotta coin, actually.""
+
+You look at him quizically as he continues. ""You see, I lead a lotta thieves and bandits in this area and we gotta make sure all the mouths are fed.""
+
+At this, a large number of bandits come out of hiding around you, emerging from the bushes. 
+
+""So about that coin,"" the man says with a smile. ""Five gold per head oughta do it."""
+EVENT_ROAD_CAMPAIGN_8_OPTION_A,"Pay the thieves."
+EVENT_ROAD_CAMPAIGN_8_OPTION_B,"Resist the robbery, killing as many thieves as you can. "
+EVENT_ROAD_CAMPAIGN_8_RESULT_A,"You sigh, and hand over what coins you have.
+
+The man maintains his grin. ""Well, thank you kind sirs. It was a pleasure meeting you, and have a pleasant day!""
+
+The bandits move off in one direction as you continue in the other.  "
+EVENT_ROAD_CAMPAIGN_8_RESULT_B,"Unfazed by the ambush, you draw your weapons and attack the bandits in the bushes. The leader tries to withdraw, but you cut him down as well. There are a lot of bandits, but they don't put up too much of a fight. They seem weak and malnourished. You guess the leader wasn't kidding about needing to buy food. "
+EVENT_ROAD_CAMPAIGN_9_INTRO,"Walking through a stretch of lowlands, you see a man in armor sitting against a large boulder. As you get closer, you see he is bleeding from his side. 
+
+""Ah, what luck,"" he says. ""I got separated from my detail and then had an unfortunate run-in with a bear. I'm afraid I no longer have the strength to stand.""
+
+He looks at you imploringly. ""You wouldn't happen to have a potion or something you would be willing to give me? I just need a little extra energy to make it back to Gloomhaven."""
+EVENT_ROAD_CAMPAIGN_9_OPTION_A,"Help out the guard. "
+EVENT_ROAD_CAMPAIGN_9_OPTION_A_UNAVAILABLE,"No small items equipped"
+EVENT_ROAD_CAMPAIGN_9_OPTION_B,"Claim you have no aid to give and move on. "
+EVENT_ROAD_CAMPAIGN_9_RESULT_A,"You happily oblige the request, letting the man partake some of your supplies. He slowly stands up, thanks you, and then heads toward Gloomhaven as you head in the opposite direction. "
+EVENT_ROAD_CAMPAIGN_9_RESULT_B,"You adopt an expression of regret and apologize for a lack of supplies. You then quickly move on your way as he shouts at your back. 
+
+""But... please! You're not just going to leave me here, are you?"""
+EVENT_RopeBridge,"The path leads you to a ravine, with a rickety old rope bridge as the only way across as far as you can see. The ropes look very worn and the wooden planks rather rotten, but looking for another way across looks like it could take quite some time."
+EVENT_RopeBridge_A,"Cross the rope bridge"
+EVENT_RopeBridge_AnotherWay,"You're in luck! Not too far along the edge of the ravine you find a large tree has fallen to form a makeshift bridge across thanks to a storm. It appears to be far more sturdy than the rotten rope bridge, so you make your way across without issue."
+EVENT_RopeBridge_AnotherWay_Gained,"You walk and walk for the rest of the day and still do not find a way across. As dusk falls you finally find the end of the ravine, allowing you to cross over and make the long walk back to the path on the other side, so exhausted by this unexpected detour that you feel a headache coming on."
+EVENT_RopeBridge_B,"Try to find another way across"
+EVENT_RopeBridge_Cross,"The rope bridge creaks and sways precariously under your weight with each step, but nonetheless holds and you make it to the other side without issue. You breathe a sigh of relief and continue with your journey."
+EVENT_RopeBridge_Cross_Lost,"The rope bridge creaks and sways precariously under your weight with each step. You nearly make it across when it suddenly one of the planks snaps and you fall from the bridge!
+
+You just manage to catch one of the ropes that held the plank before you would fall into the ravine – but a small pouch of gold flies from your belt and disappears into the darkness below.
+
+You pull yourself up and cautiously make it the rest of the way to the other side. You breathe a sigh of relief after such a close call and continue with your journey."
+EVENT_ShadowsontheWall,"The road you are on leads you to a narrow cliffside path. As the only route in sight to reach the bottom, you begin your descent."
+EVENT_ShadowsontheWall_A,"Descend"
+EVENT_ShadowsontheWall_Descent,"You notice the cliff face here is becoming smoother as you descend. Mysterious etchings and carvings start to emerge as you examine the wall. They begin to morph into shadows that swirl and dance about the surface, seemingly leading you along the wall to a spot on the ground.
+
+Tucked into a small alcove at the base of the wall lies an urn, with a small quantity of coins inside."
+EVENT_ShadowsontheWall_Descent_A,"Make an offering"
+EVENT_ShadowsontheWall_Descent_A_Subtext,"(Lose ¬ShadowsOnTheWall_Offering.GoldAmount¬ Gold)"
+EVENT_ShadowsontheWall_Descent_B,"Take the gold"
+EVENT_ShadowsontheWall_Descent_C,"Carry on walking"
+EVENT_ShadowsontheWall_Leave,"Unnerved by the magic at work here, you decide to press on without interfering."
+EVENT_ShadowsontheWall_Offering,"The shadows dance excitedly as you make the offering, before calming and fading away. You sense that your offering has not gone unnoticed..."
+EVENT_ShadowsontheWall_Take,"The shadows freeze in place as you take the coins from the urn, before taking the loose form of a menacing face which sends a chill down your spine. In the blink of an eye, the shadows and the smooth wall vanish, leaving behind only the rough cliff face with no sign of the urn you took the gold from.
+
+You continue down the path with a bad feeling niggling away at the back of your mind..."
+EVENT_StrungUp,"Up ahead you see a Quatryl suspended from a tree by his ankles, above a smoldering pile of broken laboratory equipment. As you approach he notices you and cries out:
+
+'Hey, you there, travelers! Help a poor alchemist out, would you?'"
+EVENT_StrungUp_A,"Ask him what happened"
+EVENT_StrungUp_AskHim,"I was brewing up some potions using an untested catalyst...'
+
+He gestures towards the assortment of broken vials and tubes on the floor beneath him.
+
+'...when the mixture reacted rather explosively and set off my Net Shooter! Next thing I know I'm hanging upside down from this tree! Any chance you could cut me down?'"
+EVENT_StrungUp_AskHim_A,"Attempt to help him"
+EVENT_StrungUp_AskHim_B,"Rob him"
+EVENT_StrungUp_AskHim_C,"Leave him be"
+EVENT_StrungUp_B,"Attempt to help him"
+EVENT_StrungUp_C,"Rob him"
+EVENT_StrungUp_D,"Leave him be"
+EVENT_StrungUp_HelpHim,"You cut the rope and the Quatryl manages to land gracefully on the ground.
+
+'Thank you kindly! Not too many folks travelling in these parts nowadays, was scared I'd be up there for days, or worse still...'
+
+You bid each other farewell and continue down the road."
+EVENT_StrungUp_HelpHim_Gained,"You cut the rope and the Quatryl manages to land gracefully on the ground.
+
+'Thank you kindly! Not too many folks travelling in these parts nowadays, was scared I'd be up there for days, or worse still...'
+
+He reaches into one of the many pouches fastened about his waist and pulls out a small handful of coins.
+
+'Here, a small token of my appreciation!'
+
+You bid each other farewell and continue down the road."
+EVENT_StrungUp_Leave,"The ensnared Quatryl unleashes a torrent of insults and profanities as you coldly turn and walk away without helping."
+EVENT_StrungUp_RobHim,"The ensnared Quatryl unleashes a torrent of insults and profanities as you search through the debris on the ground below him.
+
+The equipment appears to have been ruined by a recent experiment gone wrong, and you find nothing of use. You leave the fuming Quatryl to his fate."
+EVENT_StrungUp_RobHim_Gained,"The ensnared Quatryl unleashes a torrent of insults and profanities as you search through his pack on the ground below him.
+
+The equipment appears to have been ruined by a recent experiment gone wrong, but you do find an intact potion before leaving the fuming Quatryl to his fate."
+EVENT_StrungUp_Unavailable,"We will not steal from a fellow Quatryl!"
+EVENT_The WomanoftheWoods,"As you continue along your path, an old woman steps out of the trees and blocks your path. She is dressed in ragged clothing, and has a rusty necklace around her neck.
+
+""Greetings travellers,"" she says. ""I sense you are in need of aid on your quest, and perhaps I can grant you a boon. Tell me, what is it that you need most?"""
+EVENT_The WomanoftheWoods_A,"Answer ""Gold"""
+EVENT_The WomanoftheWoods_B,"Answer ""Knowledge"""
+EVENT_The WomanoftheWoods_C,"Answer ""Power"""
+EVENT_The WomanoftheWoods_D,"Leave"
+EVENT_The WomanoftheWoods_GotGold,"""How predictable you are!"" she cackles.
+
+She waves her hands and a small pile of gold appears on the ground beside you. You scoop it up and turn again to face the woman – only to find that she has disappeared. You continue down the path, coins jingling in your pocket."
+EVENT_The WomanoftheWoods_GotPower,"She smiles a toothless grin, and snaps her fingers and vanishes. You suddenly feel full of energy, all aches and pains gone in an instant. Freshly invigorated, you journey onwards."
+EVENT_The WomanoftheWoods_GotXP,"""A wise choice indeed!"" she replies. She waves her hands and you fall to the floor, blacking out. When you wake up, the woman is nowhere to be seen, but you feel your skills have improved."
+EVENT_The WomanoftheWoods_Leave,"Wary of strange old women that suddenly jump out of the treeline at you, you decide not to answer her and hastily leave the area."
+EVENT_TheFunGuy,"Walking through a wooded glade, you notice something buried in the undergrowth. Upon closer inspection, you see that it is the body of an Inox face down on the ground, clearly long dead. Mushrooms have begun sprouting in clusters all over the decomposing body, and it is giving off a foul stench.
+
+Looking for anything of value on the corpse, you see that the majority of the Inox's gear is far too rotten to be of any use. His boots, however, look potentially salvageable."
+EVENT_TheFunGuy_A,"Take off the boots"
+EVENT_TheFunGuy_B,"Leave the corpse be"
+EVENT_TheFunGuy_NoBootsForYou,"Unwilling to risk contamination, you decide to leave the corpse be."
+EVENT_TheFunGuy_TryTakingBoots,"You manage to slip the boots off of the corpse, but they are rotten through and disintegrate in your hands. Unable to bear the stench of the corpse any longer, you hurriedly leave the area."
+EVENT_TheFunGuy_TryTakingBoots_Gold,"You manage to slip the boots off of the corpse, but they are rotten through and disintegrate in your hands. Intent on leaving, you toss the sodden boots aside, when you notice a small pouch tied around the corpse's ankle.
+
+With great care, you open the pouch and find a few gold pieces inside! Unable to bear the stench of the corpse any longer, you take the gold and hurriedly leave the area."
+EVENT_TheFunGuy_TryTakingBoots_Poison,"As you remove the boots, they begin to fall apart, and large chunks of putrid flesh from the Inox's feet come off with them. A cloud of spores ejects from the mushrooms disturbed by your removal of the boots and engulfs the party.
+
+You are overwhelmed with a feeling of nausea and jump back from the corpse, but it is too late – you are poisoned. You toss the sodden boots aside and continue through the glade, feeling awful."
+EVENT_TheLongDead,"The path is getting less and less distinct as you traverse through the thick forested area. After a while you come to the conclusion that you must have taken a wrong turn, and attempt to find your way back to the path.
+
+Whilst searching for the path, you happen upon the remains of an old campfire in a small clearing, surrounded by the skeletal remains of several bodies on the ground. Whatever happened here happened quite some time ago."
+EVENT_TheLongDead_A,"Search the bodies"
+EVENT_TheLongDead_B,"Leave"
+EVENT_TheLongDead_Leave,"Sick of being lost and keen to find your way back, you leave the skeletons be and resume your search for the path."
+EVENT_TheLongDead_Search,"Anything of value these skeletons might have once had has long since rotted and rusted away. Sick of being lost and keen to find your way back, you leave the skeletons and resume your search for the path."
+EVENT_TheLongDead_Search_Gained_Damage,"You crouch down beside one of the skeletons to search for anything of value when you hear a creaking sound behind you. You turn just in time to avoid taking a rusty sword to the face courtesy of some Living Bones! The skeletons have risen up from the ground to slay those that would dare disturb their slumber.
+
+You defeat the reanimated remains with several well timed strikes, but not before taking a few hits from their surprise attack.
+
+Unfortunately, their gear is corroded beyond the point of being worth taking, so you resume your search for the path, limping slightly."
+EVENT_TheLongDead_Search_Gained_Gold,"The majority of whatever these skeletons might have once had has long since rotted and rusted away, however you do manage to find a withered pouch of coins that has managed to stand the test of time!"
+EVENT_TheLongDead_Search_Gained_Item,"The majority of whatever these skeletons might have once had has long since rotted and rusted away, however you do manage to find a small item that has managed to stand the test of time!"
+EVENT_TheOldWell,"You discover an old well at the side of the road. Some folk believe that dropping some coins in will grant good luck."
+EVENT_TheOldWell_A,"Toss in some coins"
+EVENT_TheOldWell_A_Subtext,"(Lose ¬TheOldWell.GoldAmount¬ gold)"
+EVENT_TheOldWell_B,"Leave well alone"
+EVENT_TheOldWell_CoinsDropped,"The coins make a satisfying series of plops as they reach the water at the bottom of the old well. You can't help but feel that you've fallen prey to  foolish superstition. You continue down the road feeling no luckier than before."
+EVENT_TheOldWell_CoinsDropped_Gained_Bless,"As soon as the coins slip through your fingers, you feel as if a great burden has been lifted from your shoulders.
+
+Feeling blessed, you journey on."
+EVENT_TheOldWell_CoinsDropped_Gained_Item,"Before you even hear the coins reach the bottom, you notice that there is a knapsack on the other side of the well! Whoever left it behind is long gone now, so you help yourself to its contents.
+
+Was it there the whole time? No way to know for sure..."
+EVENT_TheOldWell_Leave,"You journey on, content with your coins still jingling in your pocket."
+EVENT_TheShrine,"At a crossroads you see an ornate wooden shrine, with a slot for passing travellers to make offerings of gold in the hope of receiving a blessing."
+EVENT_TheShrine_A,"Make a small offering"
+EVENT_TheShrine_A_Subtext,"(Lose ¬TheShrine_Small.GoldAmount¬ gold)"
+EVENT_TheShrine_B,"Make a reasonable offering"
+EVENT_TheShrine_B_Subtext,"(Lose ¬TheShrine_Medium.GoldAmount¬ gold)"
+EVENT_TheShrine_C,"Make a large offering"
+EVENT_TheShrine_C_Subtext,"(Lose ¬TheShrine_Large.GoldAmount¬ gold)"
+EVENT_TheShrine_D,"Smash the shrine and take the gold"
+EVENT_TheShrine_E,"Leave"
+EVENT_TheShrine_Large,"You put a generous amount of coins into the slot, and wait...
+
+Nothing seems to happen at first, but you soon feel the warmth of the sun shining down upon you. Filled with a sense of rejuvenation from the sunlight, you turn to continue down the road – when you suddenly notice a potion atop the shrine that you are certain was not there before.
+
+Taking the potion to be a reward for your generosity, you pick it up and journey onwards, pleased that your offering seems to have been appreciated."
+EVENT_TheShrine_Leave,"You decide not to make an offering and continue on your way."
+EVENT_TheShrine_Medium,"You put a fair amount of coins into the slot, and wait...
+
+Nothing seems to happen at first, but you soon feel the warmth of the sun shining down upon you. Filled with a sense of rejuvenation from the sunlight, you continue down the road, pleased that your offering seems to have been appreciated."
+EVENT_TheShrine_Small,"You put a meagre amount of coins into the slot, and wait... but nothing happens.
+
+You continue down the road, wondering whether you might have been rewarded had you been more generous."
+EVENT_TheShrine_Smash,"The shrine is well-made and does not break easily, but it eventually succumbs to your attacks and splits open, spilling coins onto the floor in front of you.
+
+You quickly gather up the coins and continue down the path, noticing a sudden chill in the air that causes you to shudder. You can't help but wonder whether your dishonourable act perhaps did not go unnoticed..."
+EVENT_TheStorm,"As you make your way along the path, the clouds darken overhead and it begins to rain. Within moments, you find yourself in the midst of a full blown storm, complete with resounding thunderclaps and flashes of lightning.
+
+You notice through the torrential downpour that the lightning appears to be striking the same spot repeatedly."
+EVENT_TheStorm_A,"Investigate"
+EVENT_TheStorm_B,"Seek shelter"
+EVENT_TheStorm_Bridge,"It's cold and muddy under the bridge, but it at least offers you safety from the storm. You look over to the large tree you nearly considered to use as shelter, just as it is struck by lightning and explodes!
+
+You breathe a great sigh of relief for having chosen the sensible option, and reflect upon your experience as you wait out the storm."
+EVENT_TheStorm_Investigate,"You approach the spot where the lightning seems to be focused, catching a glimpse of a metallic object protruding from the ground in the flash from a lightning strike. It seems that this object is acting as a lightning rod, attracting the strikes with unusual consistency for something so small – it could quite possibly be an artefact with magical properties."
+EVENT_TheStorm_Investigate_A,"Attempt to take the object"
+EVENT_TheStorm_Investigate_B,"Ignore the item and seek shelter"
+EVENT_TheStorm_SeekShelter,"Eager to get out of the rain, you see a large tree up ahead which you could use for cover – alternatively you could double back on yourself to a bridge over a muddy creek you saw earlier."
+EVENT_TheStorm_SeekShelter_A,"Shelter under the tree"
+EVENT_TheStorm_SeekShelter_B,"Shelter under the bridge"
+EVENT_TheStorm_Take_Gained1,"You wait for a window of opportunity between strikes to approach the object – only to be suddenly struck yourself!
+
+Unwilling to risk further injury, you decide to leave the object alone lest you get struck again."
+EVENT_TheStorm_Take_Gained2,"You wait for a window of opportunity between strikes to approach the object, and wrench it from the ground.
+
+As soon as the object leaves the ground, you sense a sudden change in the air pressure around you, and the storm begins to subside. Examining the item closely, it appears to be a ¬TheStorm_Take.Item¬!
+
+Pleased with your find, you journey onwards, as rays of sunlight begin to shine down through the dissipating storm clouds."
+EVENT_TheStorm_Take_Gained3,"You wait for a window of opportunity between strikes to approach the object, and wrench it from the ground – but not before getting struck by lightning yourself!
+
+As soon as the object leaves the ground, you sense a sudden change in the air pressure around you, and the storm begins to subside. Examining the item closely, it appears to be a ¬TheStorm_Take.Item¬!
+
+Somewhat singed but nonetheless pleased with your find, you journey onwards, as rays of sunlight begin to shine down through the dissipating storm clouds."
+EVENT_TheStorm_Tree,"The branches offer some slight protection from the rain as you wait for the storm to pass – when suddenly, the tree you are under is struck by lightning! The trunk explodes violently, sending splinters and fragments flying in all directions. As if being pelted with bits of burning tree wasn't bad enough, the lightning conducts through the party, leaving you all thoroughly shocked.
+
+In searing pain, you stumble in the direction of the bridge to wait out the storm under, having learned a valuable lesson about not using trees for shelter in a thunderstorm."
+EVENT_TollRoad,"The path leads you to a narrow passage between two rocky outcrops. You are about to make your way through when several hooded figures suddenly step out from behind the rocks.
+
+'Halt!'
+
+The largest of the men steps towards you. 'This here's a toll road,' the man grunts. 'If you wanna pass, you gotta pay.'
+
+You notice several others have also emerged from the rocks behind you – you're surrounded."
+EVENT_TollRoad_A,"Pay the toll"
+EVENT_TollRoad_A_Subtext,"(Lose ¬LoseSmallGold.GoldAmount¬ Gold)"
+EVENT_TollRoad_B,"Fight them"
+EVENT_TollRoad_C,"Attempt to flee"
+EVENT_TollRoad_C_Unavailable,"Inox do not run."
+EVENT_TollRoad_Fight,"Without hesitation, you take down the bandit leader before his goons can close in on you. Several hacks and slashes later, all of the bandits lie dead on the ground.
+
+You take the coin purse from the bandit leader's belt and continue through the passage."
+EVENT_TollRoad_Fight_Gained,"You attempt to take down the bandit leader before he can react, but he is faster than you expect for a man of his stature. He catches you with a wide horizontal slash with his dagger, before falling after a blow to the head. Injured but undaunted, you turn to take on the rest of his goons.
+
+Clearly no match for the likes of you, within seconds they all lie dead on the ground. You claim the coin purse from the bandit leader's belt as a prize, and continue through the passage."
+EVENT_TollRoad_Flee,"You dash back along the path, knocking over a pair of bandits as you make your escape. A few of the bandits attempt to give chase, but you quickly lose them in the dense forest.
+
+After a long detour through the forest, you eventually rejoin the path, well beyond where you encountered the bandits."
+EVENT_TollRoad_Flee_Gained,"You dash back along the path, knocking over a pair of bandits as you make your escape. You nearly reach the treeline unscathed when you are hit in the back by several arrows from the bandit archers.
+
+A few of the bandits attempt to give chase, but despite your wounds you quickly lose them in the dense forest.
+
+After a long detour through the forest, you eventually rejoin the path, well beyond where you encountered the bandits."
+EVENT_TollRoad_Pay,"You begrudgingly hand over the gold, not wanting any trouble. 'Thank you kindly,' the man says with a grin, stepping aside to let you pass.
+
+You awkwardly make your way past the bandits and through the passage, trying to ignore their sneering and derisive laughter as you leave."
+EVENT_Unavailable_Gold,"Not enough gold"
+Eaglecrest,"Eaglecrest"
+Eaglecrest_DESCR,"The village of Eaglecrest is surrounded by Vineyards on the steeper northern edges of the Marches. Prices are high, but rare merchandise can be found in the specialist shops."
+EarthDemon,"Earth Demon"
+EarthDemonElite,"Earth Demon Elite"
+Eastgrove,"Eastgrove"
+Eastgrove_DESCR,"This small unassuming hamlet nestles in a pretty forest glade."
+Easy,"Easy"
+ElderDrake,"Elder Drake"
+Elementalist,"Elementalist"
+Elementalist3DemonSummonAltar,"Demon Summoning Altar"
+Elementalist_ADVENTURE_DESCRIPTION,"Elementalists are particularly skilled Savvas who have gained mastery of multiple elements. They are respected above others, and can wield powerful magic.
+A complicated class with a lot of complicated abilities, the Elementalist generates and consumes elements at an alarming rate. They work well with other magic users, but if the lone element user in a team, they can be underpowered, best equip them with a way to generate elements if possible."
+Elementalist_DESCRIPTION,"Elementalists are particularly skilled Savvas who have gained mastery of multiple elements, they are respected above others and can wield powerful magic."
+Elementalist_DIFFICULTY,"Very High"
+Elementalist_ROLE,"Ranged Damage"
+Elementalist_STRENGTHS,"- <indent=%15>Abilities have wide array of options</indent>
+- <indent=%15>Very effective at range</indent>
+- <indent=%15>Great at infusing elements</indent>"
+Elementalist_WEAKNESSES,"- <indent=%15>Weak with no other element infusers</indent>
+- <indent=%15>Can have turns where not much is possible</indent>
+- <indent=%15>Reading his ability cards can cause migraines</indent>"
+Elite,"Elite"
+EliteCultist,"Cultist Elite"
+EnchantressDialogName,"Enchantress"
+English,"English"
+Enhancement,"Enhancement"
+ExtraTurn,"Extra Turn"
+FIX_DUPLICATE_MAPSTATE_ITEMS,"The save being loaded has been corrupted.  Do you want to try to repair this save?  Note that some items may be lost in this process."
+FIX_DUPLICATE_MAPSTATE_ITEMS_BUTTON,"Fix Corrupted Save"
+FIX_DUPLICATE_MAPSTATE_ITEMS_TITLE,"Save Corruption Detected"
+FTUE_1,"Before going into the harrowing wilderness surrounding <color=#EACF8C>Gloomhaven</color>, you'll need at least 2 Mercenaries in your party brave or greedy enough to seek out adventures in exchange for gold."
+FTUE_10,"Gloomhaven isn't known for its well-mannered folk and good Samaritans, but there's a lot to gain from its city streets...
+You can choose to <color=#EACF8C>partake in City Encounters</color> by clicking this button below.
+<size=60><sprite name=""MapMarker_Story""></size>
+(It's encouraged that you do this whenever you're in the city, as they often give good rewards)."
+FTUE_10_CONTROLLER,"Gloomhaven isn’t known for its well-mannered folk and good samaritans, but there’s a lot to gain from the city streets…
+You can now <color=#EACF8C>partake in City Encounters</color> by using the button below.
+(it’s encouraged that you do this whenever you’re in the city, as they often give good Rewards).
+"
+FTUE_11,"If you ever find a Quest that looks too hard, or one you've repeatedly failed to complete, the <color=#EACF8C>Temple of the Great Oak</color> can grant you its blessing... for a fair price, of course.
+You can choose to access the Temple using this button below.
+<size=60><sprite name=""Temple_Icon""></size>"
+FTUE_12,"The <color=#EACF8C>first Quest</color> Location is marked just north of Gloomhaven; you'll see it flagged with an icon. As you progress more quest locations will appear across the map. To keep track of them you can use the Quest Log on the right hand side of the screen.
+Click on the Black Barrow or the entry in the Quest Log to select the Quest."
+FTUE_12_CONTROLLER,"The <color=#EACF8C>first Quest</color> Location is marked just north of Gloomhaven, you’ll see it flagged with a quest icon. As you progress more quest locations will appear across the map. To keep track of them you can use the Quest Log on the right hand side of the screen.
+Select the Black Barrow’s location or use “RT” to select the entry in the Quest Log."
+FTUE_13,"You can embark upon a Quest with <color=#EACF8C>up to four Mercenaries</color>, but the more Mercs you bring the more dangerous the Quest will be.
+Once you set out for a Quest you won't be able to change the members of your party until you return to Gloomhaven."
+FTUE_2,"On your left you'll find the <color=#EACF8C>Party Panel</color>. Here you'll see the basic information of the Mercenaries in your Party.
+Click on the first Character Slot to <color=#EACF8C>open the Roster Panel</color>."
+FTUE_2.2,"Click on the <color=#EACF8C>First Character Slot</color> to open the Roster Panel"
+FTUE_2.2_CONTROLLER,"Use {CONTROL_PARTY_PANEL} to access the <color=#EACF8C>Party Panel</color> and then {UI_SUBMIT} to select the first Character Slot"
+FTUE_2_CONTROLLER,"On the left you’ll find the <color=#EACF8C>Party Panel</color>. Here you’ll see the basic information of the Mercenaries in your Party (at least, you will once you add your first Mercenary).
+Use “LT” to  <color=#EACF8C>access the Party Panel</color> and then “A” to select the first character Slot."
+FTUE_3,"You can Create, View and Add Mercenaries to the current Party using the Roster Panel. Right now it's looking as barren as the Copperneck Mountains, so best <color=#EACF8C>click on ""New Mercenary""</color> to create your first character!"
+FTUE_3.2,"Click in the ""<color=#EACF8C>New Mercenary</color>"" button to create a character"
+FTUE_3.2_CONTROLLER,"Use “A” to <color=#EACF8C>select the “New Mercenary” button</color> and create a character"
+FTUE_3_CONTROLLER,"You’ll find all your Mercenaries and add them to the Party through the Roster Panel. Right now it’s looking as barren as the Copperneck Mountains, use “A” to <color=#EACF8C>select the “New Mercenary” button</color> and create your first character!"
+FTUE_4,"Next you'll choose one of the <color=#EACF8C>starting Character Classes</color>.
+Each one has unique abilities and game style. As you progress you'll Level Up, earning new Ability Cards and unlock more Classes.
+Click on any of the Portraits to learn more about them and select whichever you want to be your first Mercenary!"
+FTUE_4.2,"Choose one of the <color=#EACF8C>starting Character Classes</color>"
+FTUE_4.2_CONTROLLER,"Use {UI_SUBMIT} to choose one of the <color=#EACF8C>starting Character Classes</color>"
+FTUE_4.3,"Good choice! Now remember, looks aren't everything; Merc's Ability Cards are what define their actions in battle. You can click the ""<color=#EACF8C>Starting Ability Cards</color>"" button to make sure this is the right Mercenary for your party.
+Once you are sure of your decision, hit the ""<color=#EACF8C>Select Mercenary</color>"" button to move forward."
+FTUE_5,"Choose one of the <color=#EACF8C>two Personal Quests</color>"
+FTUE_5_CONTROLLER,"Good choice! Now remember, looks aren’t everything; Merc’s Ability Cards are what define their actions in battle. Use “LT” to <color=#EACF8C>select the “Starting Ability Cards”l</color> button to make sure this is the right Mercenary for your party.
+Once you are sure of your decision, use “A” to <color=#EACF8C>select the Mercenaryl</color> and move forward. "
+FTUE_6,"That's one Merc sorted - but you'll need a <color=#EACF8C>minimum of two Mercenaries</color> before you can go out seeking adventure. It's important to build a party of Mercs who complement each other in battle!"
+FTUE_7,"Click on the <color=#EACF8C>Second Character Slot</color> in the Party Panel and create a New Character.
+Know that you can't have more than one Merc of the same character class in the party at the same time, so be sure to create a different one!"
+FTUE_7.2,"Click on the <color=#EACF8C>Second Character Slot</color> to open the Roster Panel"
+FTUE_7.2_CONTROLLER,"Use “LT” to access the <color=#EACF8C>Party Panel</color> and then “A” to select the second character Slot
+"
+FTUE_7_CONTROLLER,"Use {CONTROL_PARTY_PANEL} to select the <color=#EACF8C>Second Character Slot</color> in the Party Panel and create a New Character.
+Know that you can't have more than one Merc of the same character class in the party at the same time, so be sure to create a different one!"
+FTUE_8,"Time to do some adventuring!
+If you are confident with your current party, click on the centre of the screen to close the Party Roster Panel and head back to the World Map."
+FTUE_8.2,"Click on the <color=#EACF8C>centre of the screen</color> to return to the World Map"
+FTUE_8.2_CONTROLLER,"Use {UI_CANCEL} to return to the World Map"
+FTUE_8_CONTROLLER,"Time to do some adventuring!
+If you are confident with your current party, use “B” to close the Party Roster Panel and head back to the World Map."
+FTUE_9,"Before heading out on your first quest you <color=#EACF8C>should gear up</color>, after all, it is your first time out in the open...
+You'll notice each Mercenary has a modest stash of gold.
+It's encouraged to take that money over to the <color=#EACF8C>Merchant's Shop</color> and spend it on anything that might just keep you from dying."
+FTUE_9.2,"Use the ""Merchant"" button below to <color=#EACF8C>access the Merchant's Shop</color>"
+FTUE_9.2_CONTROLLER,"Use {UI_PREVIOUS_TAB} or {UI_NEXT_TAB} to inspect the Town Options and use {UI_SUBMIT} to <color=#EACF8C>access the Merchant's Shop</color>"
+FTUE_9.3,"When ready, click the ""World Map"" button below to <color=#EACF8C>return to the World Map</color>"
+FaeStones,"Fae Stones"
+Fear,"Fear"
+Fish,"Fish"
+FlameDemon,"Flame Demon"
+FlameDemonElite,"Flame Demon Elite"
+Flying,"Flying"
+Fordingbridge,"Fordingbridge"
+ForestImp,"Forest Imp"
+ForestImpElite,"Forest Imp Elite"
+ForgoActionsForCompanion,"Can Forgo Actions to Buff Companion"
+ForgottenTunnels,"Forgotten Tunnels"
+French,"French"
+FrostDemon,"Frost Demon"
+FrostDemonElite,"Frost Demon Elite"
+GLOOMHAVEN,"Gloomhaven"
+GOAL_CHEST_TOOLTIP,"Ornate Chest"
+GUI_ABANDON_QUEST_MP_HOST_TOOLTIP,"Only the host can abandon the quest"
+GUI_ABANDON_QUEST_PHASE_TOOLTIP,"You can abandon the quest at the start of the round or on your mercenaries turn during action selection"
+GUI_ABANDON_QUEST_WHILE_PLAYERS_JOINING_MP_TOOLTIP,"There are players currently joining the session. Abandoning the quest is prevented for the duration."
+GUI_ABILITIES_TABLE,"Mastered Abilities"
+GUI_ABILITY_CARDS,"Ability Cards"
+GUI_ABILITY_CARD_RainofArrows_TOP_HELPBOX,"Perform an Attack {STRENGTH}, Range {RANGE} action"
+GUI_ABILITY_TABLE,"Mastered Ability Cards"
+GUI_ABILITY_TABLE_TOOLTIP,"<color=#CEAD5A>Mastered Abilities</color> are what allows Mercenaries to perform actions in scenarios."
+GUI_ACCEPT_CITY_EVENT,"Accept City Event"
+GUI_ACCEPT_CITY_EVENT_TIP,"all players must accept the City Event before it will start"
+GUI_ACCEPT_QUEST,"Accept Quest"
+GUI_ACCEPT_QUEST_TIP,"all players must accept the Selected Quest before Travelling"
+GUI_ACCEPT_TOWN_RECORDS,"Accept Town Records"
+GUI_ACCEPT_TOWN_RECORDS_TIP,"all players must accept the Town Records before it will start"
+GUI_ACHIEVEMENTS,"Achievements"
+GUI_ACHIEVEMENT_CLAIM_REWARD,"Claim Reward!"
+GUI_ACHIEVEMENT_COMPLETE,"Complete"
+GUI_ACHIEVEMENT_FILTER_Enhancements,"Enhancements"
+GUI_ACHIEVEMENT_FILTER_General,"General"
+GUI_ACHIEVEMENT_FILTER_Kill,"Kill"
+GUI_ACHIEVEMENT_FILTER_Mercenaries,"Mercenaries"
+GUI_ACHIEVEMENT_FILTER_None,"All Training"
+GUI_ACHIEVEMENT_FILTER_Relics,"Relics"
+GUI_ACHIEVEMENT_REWARDS,"Rewards"
+GUI_ACHIEVEMENT_REWARDS_CLOSE,"Continue"
+GUI_ACTIVE_ABILITIES,"Active Abilities"
+GUI_ACTIVE_ABILITY,"Active Ability"
+GUI_ACTIVE_BONUSES,"Active Bonuses"
+GUI_ADDITIONAL_ATTACK_MODIFIERS,"Additional Attack Modifiers"
+GUI_ADD_DESCRIPTION,"Add Description:"
+GUI_ADVENTURE,"Adventure"
+GUI_ADVENTURE2,"Guildmaster"
+GUI_ADVENTURE_COMPLETE,"Complete!"
+GUI_ADV_CHARACTER_DIFFICULTY,"Difficulty:"
+GUI_ADV_CHARACTER_ROLE,"Role:"
+GUI_ADV_SIDE_DIFFICULTY,"Run Difficulty:"
+GUI_ADV_SIDE_OBJECTIVE,"Current Objective:"
+GUI_ADV_SIDE_OBJECTIVE_REACH,"Reach {0}"
+GUI_ADV_SIDE_SCENARIO_1_LENGHT,"1 Scenario"
+GUI_ADV_SIDE_SCENARIO_DIFFICULTY,"Difficulty:"
+GUI_ADV_SIDE_SCENARIO_LENGHT,"Run Length:"
+GUI_ADV_SIDE_SCENARIO_PL_LENGHT,"{0} Scenarios"
+GUI_ADV_SIDE_SCENARIO_REWARD,"Reward:"
+GUI_ADV_TUTORIAL_BACK_BOSS_1,"Surely if the Cultists are this indifferent about their security, they can’t expect anyone is foolish enough to assault their stronghold. How wrong they are!"
+GUI_ADV_TUTORIAL_BACK_BOSS_2,"If that is where the treasure is to be found, then that is where you must head next."
+GUI_ADV_TUTORIAL_BOSS_1,"You are well aware that magical research often requires a handy supply of gold, and after asking around, you discover his hideout’s whereabouts."
+GUI_ADV_TUTORIAL_BOSS_2,"You are well aware that magical research often requires a handy supply of gold, and after asking around, you discover the whereabouts of his hideout."
+GUI_ADV_TUTORIAL_BOSS_3,"He explains that the High Cultist had been transporting their wealth to an abandoned necropolis, a distance from here, where he had been performing strange experiments."
+GUI_ADV_TUTORIAL_COMMANDER,"With the Commander slain, you expect to find his hoard of stolen treasures, but are sorely disappointed to discover a number of scrolls with correspondence from a nearby cult leader."
+GUI_ADV_TUTORIAL_COMMANDER_TITLE,"The Commander is Slain!"
+GUI_ADV_TUTORIAL_CONFIRM_BACK_BOSS_1,"Let's Go!"
+GUI_ADV_TUTORIAL_CONFIRM_BACK_BOSS_2,"Head Out"
+GUI_ADV_TUTORIAL_CONFIRM_FINISH,"Complete"
+GUI_ADV_TUTORIAL_CONFIRM_WAYWARD,"Start Adventure"
+GUI_ADV_TUTORIAL_CULTIST,"Searching the headquarters, you are again disappointed to find a distinct lack of treasure, but you do happen upon a young cult member hiding under a smashed table. You inform him that it would be in his best interest to explain where the loot can be found."
+GUI_ADV_TUTORIAL_CULTIST_TITLE,"And so to the Spoils...?"
+GUI_ADV_TUTORIAL_FINISH,"With the rotting corpse of the Bandit Commander smelling even worse than the last time you killed him, you look around this damp and empty Tomb. You realise, somewhat too late, that perhaps the best time to pick profitable adventures isn’t while you are drunk in a pub.
+
+But gold and trinkets aren’t as important as making the world a safer place for the common folk, are they? You may not be rich, but you can call yourselves Heroes, and maybe next time you want a drink, someone else might actually offer to pay for it.
+"
+GUI_ADV_TUTORIAL_FINISH_TITLE,"The Commander is Slain! …Again."
+GUI_ADV_TUTORIAL_INTRO,"While drinking at the Wayward Inn, you overhear snippets of conversation between two town militia. Apparently, a local Bandit Commander has come into possession of a number of heretical texts and has begun researching necromancy."
+GUI_ADV_TUTORIAL_INTRO_TITLE,"Welcome Mercenaries!"
+GUI_ADV_TUTORIAL_WAYWARD,"Obviously you are unprepared to assault his base just yet, so you prepare to leave Wayward and head off to raid some local crypts in search of knowledge and some better equipment."
+GUI_ALLY,"Ally"
+GUI_ALREADY_ADDED_DLC,"This DLC has been added to this Save File"
+GUI_ANNOUNCE_RETIREMENT,"Announce Retirement"
+GUI_APPLY_AND_EXIT,"Apply & Exit"
+GUI_APPLY_AND_LOAD,"Apply & Load"
+GUI_ASSEMBLE_PARTY,"Assemble Party"
+GUI_ASSEMBLE_PARTY_NEW_CHARACTER,"New Mercenary!"
+GUI_ASSEMBLE_PARTY_NEW_CHARACTER_DESC,"A new mercenary has been added to the roster!
+The character is currently concealed to avoid unwanted spoilers.
+
+Click on the glowing Mercenary emblem to reveal the new character!"
+GUI_ASSEMBLY_ABILITIES,"Ability Cards:"
+GUI_ASSEMBLY_ERROR_QUEST_MIN_HEROE,"This quest requires <color=#C53F3F>one Mercenary</color> to start"
+GUI_ASSEMBLY_ERROR_QUEST_MIN_HEROES,"Quests require at least <color=#C53F3F>{0} Mercenaries</color> to start"
+GUI_ASSEMBLY_ERROR_QUEST_REQUIRED_HEROES,"The {0} must be in the Party"
+GUI_ASSEMBLY_ERROR_QUEST_REQUIRED_ITEMS,"This quest requires the owner of the {0} item to be equipped and in the Party to start"
+GUI_ASSEMBLY_ERROR_QUEST_REQUIRED_LEVEL_HEROE,"The {0} must be at least Level {1}"
+GUI_ASSEMBLY_ERROR_QUEST_REQUIRED_PERSONAL_QUEST,"This quest requires the owner of the {0} personal quest in the Party to start"
+GUI_ASSEMBLY_ERROR_QUEST_REQUIRED_STARTING_VILLAGE,"This quest requires you to first unlock the Starting Village {0}"
+GUI_ASSEMBLY_ITEMS,"Bound Items:"
+GUI_ASSEMBLY_PARTY_DESCRIPTION,"Form a party of mercenaries to start an Adventure"
+GUI_ASSEMBLY_PARTY_INVALID_NAME,"You must name the party before you can start"
+GUI_ASSEMBLY_PARTY_LOCK1,"<color=#E6C88AFF>Locked</color>
+Unlock the third party member slot by defeating the 1st boss"
+GUI_ASSEMBLY_PARTY_LOCK2,"<color=#E6C88AFF>Locked</color>
+Unlock the fourth party member slot by defeating the 2nd boss"
+GUI_ASSEMBLY_PARTY_REMOVE_HERO,"Remove Character"
+GUI_ASSEMBLY_PARTY_REPEATED_NAME,"Choose another name. You cannot use the same name for two different parties"
+GUI_ASSEMBLY_PARTY_REVEAL_CHARACTER,"Reveal Mercenary"
+GUI_ASSEMBLY_PARTY_ROSTER,"Mercenaries"
+GUI_ASSEMBLY_PARTY_SELECT_HERO_TIP,"Select any of the available mercenaries to add them to the party or to view their ability list in further detail"
+GUI_ASSEMBLY_PARTY_SELECT_HERO_TIP_TITLE,"Add Character"
+GUI_ASSEMBLY_PARTY_START,"You're ready to start!"
+GUI_ASSEMBLY_PARTY_TIP,"A party requires a minimum of 2 mercenaries to start an adventure"
+GUI_ASSEMBLY_REMOVE_HERO,"Remove
+Mercenary"
+GUI_ASSEMBLY_SELECT_HERO,"Select a Mercenary"
+GUI_ATTACK_MODIFIERS,"Attack Modifiers"
+GUI_ATTACK_MODIFIERS_DESCRIPTION,"When an Attack Ability is performed, an Attack Modifier is dealt for each individual target"
+GUI_AUTOSAVE,"Auto-Save"
+GUI_AUTOSAVE_EXPLANATION,"This game uses an auto-save feature. Please do not turn off your game when you see the auto-save icon."
+GUI_AVOID_DAMAGE_BURN_TOOLTIP,"Choose 1 of the Mercenary's Available Ability Cards to Burn and avoid receiving physical damage."
+GUI_AVOID_DAMAGE_DISCARD_TOOLTIP,"Choose 2 of the Mercenary's Discarded Ability Cards to Burn and avoid receiving physical damage."
+GUI_BACK,"Back"
+GUI_BATTLE_GOALS,"Battle Goals"
+GUI_BATTLE_GOALS_TIP,"Choose a Battle Goal for each Mercenary before entering a Dungeon."
+GUI_BATTLE_GOALS_TIP_CONTROLLER,"Use {0} to select a Battle Goal for each Mercenary before entering the Scenario"
+GUI_BEGIN,"Begin"
+GUI_BG_UNAVAILABLE_IN_SOLO,"Battle Goals are not available during Solo Quests."
+GUI_BIND_EQUIP_ITEM_CONFIRMATION,"<color=#C53F3F>Cost to Unbind: </color><color=#FCC954><sprite name=""Gold_Icon_White"" color=#FCC954>{0}</color>"
+GUI_BIND_EQUIP_ITEM_CONFIRMATION_TITLE,"Bind and Equip"
+GUI_BIND_ITEM,"Bind Item"
+GUI_BIND_ITEM_ERROR_CONFIRMATION_TITLE,"Unable to Equip Item"
+GUI_BIND_ITEM_ERROR_REPEATED,"A Mercenary may have only one of each item"
+GUI_BIND_MOVE_ITEM_CONFIRMATION,"Bound to <color=#{0}>{1}</color> <size=140%><sprite name=""{2}"" color=#{0}></size> 
+<color=#C53F3F>Cost to move binding to {3}:</color> <color=#FCC954><sprite name=""Gold_Icon_White"" color=#FCC954>{4}</color>"
+GUI_BIND_MOVE_ITEM_CONFIRMATION_TITLE,"Bind to {0}"
+GUI_BLESSINGS_UNAVAILABLE,"No Blessings Available"
+GUI_BUY,"Buy"
+GUI_BUY_CONFIRMATION_TITLE,"Buy Item"
+GUI_BUY_DLC,"Buy DLC"
+GUI_BUY_DLC_DESCR,"New Gloomhaven <color=#F1DBAE><size=+2>DLC!</size></color> "
+GUI_BUY_ENHANCEMENT_CONFIRMATION_TITLE,"Buy Enhancement"
+GUI_BUY_PARTY_CONFIRMATION,"Are you sure you want to unlock this party?"
+GUI_CAMPAIGN,"Campaign"
+GUI_CAMPAIGN_INVALID_NAME,"Enter a valid Campaign Name"
+GUI_CAMPAIGN_REPEATED_NAME,"Campaign Name is already in use. Please enter different one."
+GUI_CAMPAIGN_RULESET,"Campaign Ruleset"
+GUI_CANCEL,"Cancel"
+GUI_CANCEL_ACTIVE_BONUS,"Click the icon to cancel the Active Ability"
+GUI_CANCEL_SENDING_ERROR_REPORT,"Cancelling Error Report... Please wait"
+GUI_CANCEL_TOWN_RECORDS,"Cancel Town Records"
+GUI_CANNOT_CANCEL_ACTIVE_BONUS,"This active ability cannot be cancelled"
+GUI_CANNOT_CANCEL_ACTIVE_BONUS_BEFORE_END_ROUND,"This card cannot be discarded before the end of the round."
+GUI_CARD_CANNOT_BE_ENHANCED,"This Ability Card <color=#C53F3FFF>cannot be Enhanced</color>"
+GUI_CARD_FULLY_ENHANCED,"This Ability Card is <color=#5FD6E5>fully Enhanced</color>"
+GUI_CARD_NOT_ENHANCED,"This Ability Card is <color=#FCC951>not Enhanced</color>"
+GUI_CARD_SECTION_BURNT,"Burned"
+GUI_CARD_SECTION_BURNT_TOOLTIP,"Burned Ability Cards"
+GUI_CARD_SECTION_BURNT_TOOLTIP_DESCR,"Ability cards with a burn icon in the bottom-right corner are burned after use, and may not be recovered by resting. They are normally only usable once per scenario, but can be recovered with some specific recover abilities."
+GUI_CARD_SECTION_DISCARDED,"Discarded"
+GUI_CARD_SECTION_DISCARDED_TOOLTIP,"Discarded Ability Cards"
+GUI_CARD_SECTION_DISCARDED_TOOLTIP_DESCR,"Ability cards without a burn icon are discarded after being used, and will appear greyed out in the list of cards for that character. Discarded cards can be retrieved for use again within a scenario by performing a rest."
+GUI_CHANGE_PARTY,"Change Party"
+GUI_CHARACTERS_EXHAUSTED_TIP,"is exhausted due to lack of available Ability Cards"
+GUI_CHARACTERS_EXHAUSTED_TITLE,"Exhaustion"
+GUI_CHARACTERS_MULTIPLE_EXHAUSTED_TIP,"are exhausted due to lack of available Ability Cards"
+GUI_CHARACTER_NAME_REPEATED,"Mercenary name already in use. Please enter a different one"
+GUI_CHARACTER_RETIRED,"{0} has Retired!"
+GUI_CHOOSE_ABILITIES_TIP,"Choose the abilities you want to perform"
+GUI_CHOOSE_ABILITY,"Choose Ability"
+GUI_CHOOSE_ABILITY_ABILITY_CARD_MobileResponse,"Select any one negative condition to remove"
+GUI_CHOOSE_ABILITY_ITEM_NAME_MinorCurePotion,"Choose one negative condition on yourself to remove"
+GUI_CHOOSE_ABILITY_TARGET_ABILITY_CARD_MobileResponse,"Select an ally to remove any one negative condition"
+GUI_CHOOSE_ACTOR_PREVENT_DAMAGE,"Who will choose whether to burn a card or let the target take damage?"
+GUI_CHOOSE_ACTOR_PREVENT_DAMAGE_HOST_TIP,"As Host, suggest who should burn an ability card"
+GUI_CHOOSE_ACTOR_PREVENT_DAMAGE_TIP_TITLE,"Negate Damage"
+GUI_CHOOSE_ELEMENTS_CONSUME,"Choose {0} Elements to be consumed"
+GUI_CHOOSE_ELEMENTS_INFUSE,"Choose {0} Elements to Create"
+GUI_CHOOSE_ELEMENT_CONSUME,"Choose an Element to be consumed"
+GUI_CHOOSE_ELEMENT_INFUSE,"Choose 1 Element to Create"
+GUI_CHOOSE_ITEM_TO_LOSE,"Choose an item to sacrifice"
+GUI_CHOOSE_OTHER_CARD,"Choose another Card"
+GUI_CITY_ENCOUNTER,"City Encounter"
+GUI_CITY_ENCOUNTER_TOOLTIP,"<size=+4><color=#F3DDABFF>City Encounter</color></size>
+You may only complete 1 City Encounter per visit to Gloomhaven."
+GUI_CITY_EVENT_BLOCKED,"<size=+2><color=#EACF8C>City Encounter</color></size>
+You cannot perform a City Encounter while a Mercenary with a completed Personal Quest is in the Party."
+GUI_CITY_EVENT_CANCEL,"Cancel City Event"
+GUI_CITY_QUEST_DESCRIPTION,"{0} Quests Available!"
+GUI_CLEARTARGETS,"Clear Targets"
+GUI_CLOSE,"Close"
+GUI_COMBATLOG_END_ROUND,"End of Round"
+GUI_COMBATLOG_END_TURN,"{0}'s Turn End"
+GUI_COMBATLOG_PLAYER_TURN,"{0}, get ready!"
+GUI_COMBATLOG_START_ROUND,"Round"
+GUI_COMBATLOG_START_TURN,"{0}'s Turn"
+GUI_COMING_SOON,"Coming Soon..."
+GUI_COMING_SOON_DLC_BUTTON,"Learn More"
+GUI_COMMIT,"Commit"
+GUI_COMPENDIUM,"How to Play"
+GUI_COMPILE,"Compile"
+GUI_COMPLETED_PERSONAL_QUEST_PROGRESS_TIP_Female,"{0} has taken the first steps towards <color=#EACF8C>accomplishing her Personal Quest</color>. Continue to see what lies ahead."
+GUI_COMPLETED_PERSONAL_QUEST_PROGRESS_TIP_Male,"{0} has taken the first steps towards <color=#EACF8C>accomplishing his Personal Quest</color>. Continue to see what lies ahead."
+GUI_COMPLETED_PERSONAL_QUEST_TIP_FEMALE,"{0} has <color=#EACF8C>accomplished her Personal Quest</color> and has no more motivation to go exploring monster-filled ruins"
+GUI_COMPLETED_PERSONAL_QUEST_TIP_MALE,"{0} has <color=#EACF8C>accomplished his Personal Quest</color> and has no more motivation to go exploring monster-filled ruins"
+GUI_CONDITIONS_EFFECTS,"Conditions & Effects"
+GUI_CONFIRM,"Confirm"
+GUI_CONFIRMATION,"Are you sure?"
+GUI_CONFIRMATION_ABANDON_ADVENTURE_SCENARIO,"You will lose this scenario and return to the map. You will keep any earned gold, XP and achievement progress."
+GUI_CONFIRMATION_ABANDON_SINGLE_SCENARIO,"You will lose this scenario and return to the main menu."
+GUI_CONFIRMATION_BUY,"Buy {0}"
+GUI_CONFIRMATION_BUY_COST,"Cost"
+GUI_CONFIRMATION_CANCEL_ABILITY,"{0} will be burned and any other active bonuses from this card will end"
+GUI_CONFIRMATION_CANCEL_DISCARD_ABILITY,"{0} will be discarded"
+GUI_CONFIRMATION_ENABLE_PERK,"Gain {0} {1}/{2}"
+GUI_CONFIRMATION_ENABLE_PERK_WARNING,"Once applied, a Perk cannot be removed"
+GUI_CONFIRMATION_END_SESSION,"Return to play in Single Player Mode"
+GUI_CONFIRMATION_EXIT_GAME_MAP,"All progress will be saved."
+GUI_CONFIRMATION_EXIT_GAME_SCENARIO,"All progress made on this round will be lost."
+GUI_CONFIRMATION_EXIT_GAME_TITLE,"Exit Game"
+GUI_CONFIRMATION_EXIT_SCENARIO,"Abandon Scenario"
+GUI_CONFIRMATION_GUI_RESTART_TURN,"All progress of the current Turn will be lost."
+GUI_CONFIRMATION_LEVELUP_CARD,"Add this card to your available abilities?"
+GUI_CONFIRMATION_LOG_OUT_EPICSTORE,"You won't be able to access your Friends list."
+GUI_CONFIRMATION_LOG_OUT_EPICSTORE_TITLE,"Log out of Epic Games"
+GUI_CONFIRMATION_PARTY_LOCKED,"You cannot change Mercenaries now."
+GUI_CONFIRMATION_PARTY_LOCKED_TITLE,"The Party is Locked In"
+GUI_CONFIRMATION_PERK_MISSING_REMOVE_CONDITION,"Locked Perk"
+GUI_CONFIRMATION_PERK_MISSING_REMOVE_CONDITION_WARNING,"This Perk cannot be chosen as you do not have the required Attack Modifier in your deck"
+GUI_CONFIRMATION_RESTART_MESSAGE,"All progress of the current Round will be lost. All Mercenaries will return to the Ability Selection Phase."
+GUI_CONFIRMATION_RESTART_TITLE,"Restart Round"
+GUI_CONFIRMATION_RETURN_MAINMENU,"Return to Main Menu"
+GUI_CONFIRMATION_RETURN_MAINMENU_MAP,"All progress will be saved."
+GUI_CONFIRMATION_RETURN_MAINMENU_SCENARIO,"All progress made on this round will be lost."
+GUI_CONFIRMATION_SELL,"Sell {0}"
+GUI_CONFIRMATION_SELL_EQUIPPED,"{0}  is currently equipped by {1}, sell anyway?"
+GUI_CONFIRMATION_SELL_RECEIVE,"Receive:"
+GUI_CONFIRMATION_SKIP_FTUE,"Gloomhaven is a complex game. It's advised you play through the entire Tutorial before getting started."
+GUI_CONFIRMATION_SKIP_MISSION,"Gloomhaven is a complex game. It's advised you play through the entire Tutorial before getting started."
+GUI_CONFIRMATION_START_ADVENTURE,"Start a Journey"
+GUI_CONFIRMATION_TURN_OFF_TUTORIAL,"By turning the Tutorial off you won't be continue it unless you create a new game and start over."
+GUI_CONFIRMATION_TURN_OFF_TUTORIAL_MULTIPLAYER,"Multiplayer Session started. This will turn off the Tutorial."
+GUI_CONFIRM_ACTION,"Confirm Action"
+GUI_CONFIRM_ATTACK,"Confirm Attack"
+GUI_CONFIRM_MOVEMENT,"Confirm Movement"
+GUI_CONFIRM_PULL,"Confirm Pull"
+GUI_CONFIRM_PUSH,"Confirm Push"
+GUI_CONFIRM_TARGETS,"Confirm Targets"
+GUI_CONFIRM_USE_ITEM,"Use Item"
+GUI_CONSUME_ELEMENT,"Consume {0}"
+GUI_CONSUME_ITEMS_TIP,"Choose 1 {0} to consume before the turn starts"
+GUI_CONSUME_ITEMS_TITLE,"Consume 1 {0} "
+GUI_CONTINUE,"Continue"
+GUI_CONTINUE_PERSONAL_QUEST_PROGRESSION,"Continue Personal Quest"
+GUI_CONTROLLER_CLOSE_GROUP,"Hide Quest"
+GUI_CONTROLLER_EXPAND_GROUP,"Show Quest"
+GUI_CONTROLLER_SELECT_PQ,"Select Personal Quest"
+GUI_COPY,"Copy"
+GUI_CORE_QUEST,"Core Quest"
+GUI_CREATE_CAMPAIGN_ENHANCEMENT,"Ability Enhancements"
+GUI_CREATE_CAMPAIGN_ENHANCEMENT_DESCR,"Enhancements Settings cannot be modified once the Campaign starts. Choose wisely!"
+GUI_CREATE_CAMPAIGN_ENHANCEMENT_ORIGINAL,"Original"
+GUI_CREATE_CAMPAIGN_ENHANCEMENT_VARIANT,"Updated"
+GUI_CREATE_CHARACTER_CLASS_CARDS,"Starting Ability Cards"
+GUI_CREATE_CHARACTER_CLASS_CONFIRM,"Select Class"
+GUI_CREATE_CHARACTER_CLASS_ROSTER_DESCR,"Choose a Mercenary Class"
+GUI_CREATE_CHARACTER_CLASS_ROSTER_TITLE,"Create Mercenary"
+GUI_CREATE_CHARACTER_CLASS_TAB,"Class"
+GUI_CREATE_CHARACTER_CONFIRMATION,"{0} has joined the party"
+GUI_CREATE_CHARACTER_NAME,"Character Name"
+GUI_CREATE_CHARACTER_NAME_CONFIRM,"Create Mercenary"
+GUI_CREATE_CHARACTER_NAME_TAB,"Name"
+GUI_CREATE_CHARACTER_PERSONAL_QUEST_CONFIRM,"Choose Personal Quest"
+GUI_CREATE_CHARACTER_PERSONAL_QUEST_HELP,"A Mercenary's Personal Quest is their reason for participating in a party. <color=#EACF8C>Beware</color> – once the Personal Quest is complete, the Mercenary will retire and can no longer be used."
+GUI_CREATE_CHARACTER_PERSONAL_QUEST_HELP_TITLE,"Choose A Personal Quest"
+GUI_CREATE_CHARACTER_PERSONAL_QUEST_TAB,"Personal Quest"
+GUI_CREATE_ERROR_REPORT,"Create Error Report"
+GUI_CREATE_MODCONFIG,"Create ModConfig"
+GUI_CREATE_MODDING,"Create Mod"
+GUI_CREATE_MODS_DESC,"Create and manage your own personal mods and share them with the modding community"
+GUI_CREATE_MODS_TITLE,"Create Mods"
+GUI_CREATE_MOD_CONFIRMATION,"Create New Mod"
+GUI_CREATOR_CLASS_REPEATED_TOOLTIP,"You can only have one Mercenary per class"
+GUI_CREDITS,"Credits"
+GUI_CREDITS_PEOPLE,"<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Creative Director </color></font>
+Mike West 
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Executive Producer</color></font>
+Craig Oman
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Art Director </color></font>
+Neale Williams
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Technical Directors</color></font>
+Brynn McCullagh
+Marcus Lynn
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Lead Programmer </color></font>
+James Payne
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>UI Programmer</color></font>
+Paula Navarro Alfonso
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Scripter and Programmer</color></font>
+Misha Colbourne
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Procedural Generation Programmer</color></font>
+Sam Swain - Apparance Ltd.
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Tools and Gameplay Programmer</color></font>
+Sean Wright
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Graphical and Gameplay Programmer</color></font>
+Viktor Zatorskyi
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Gameplay Programmer </color></font>
+Michael Waldo
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Multiplayer Programmer </color></font>
+Petteri Lampikoski
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Additional Programming</color></font>
+Andriy Bychkovskyi
+Barry Monahan
+Estevão Arantes
+Keith Wolf
+Ned Birkin
+Pavel Koňarik
+Simon Jordan
+Tim Sheinman
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>The Animator</color></font>
+Gary Welch
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Environment Artist </color></font>
+Serhii Bilotil
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Character Artist</color></font>
+Richard Hammond
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Technical Animator</color></font>
+Jared Embley
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Lead UI Artist </color></font>
+Michael Sanchez
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>UI Artist </color></font>
+Jenny Brewer
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>VFX Artist</color></font>
+Dominikus Reiter
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Additional Art Support</color></font>
+Hannah McMillan
+Marco Kovacs
+Stuart McReath
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Concept and 2D Artist </color></font>
+Peter Lumby
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Additional Concept Artists</color></font>
+James Furlong
+Jake Gumbleton
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Writer and Level Designer </color></font>
+Leon Lynn
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Junior Designer </color></font>
+Mario Fernández Palenzuela
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Assistant Producer </color></font>
+Anthony Reeve
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Quality Assurance Team </color></font>
+Andrew Statters
+Anthony Reeve
+Drew Garner
+Jason Guile
+Mario Fernández Palenzuela
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Additional Quality Assurance</color></font>
+Cayle Stocks
+Connor McGovern
+Connor Orpin
+Luke Coalter
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Additional Production Support</color></font>
+Oliver Byrne
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Additional Design </color></font>
+Alex Trowers
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Composer</color></font>
+Russ Shaw
+Sam Bucknall
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Sound Design by Cedar Studios Ltd.</color></font>
+Tom Puttick
+Phil French
+Sam Bucknall
+Josh Young
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Character Art</color></font>
+Little Red Zombies Studios
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>User Research carried out by Player Research - Brighton </color></font>
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Special Thanks </color></font>
+Abram Conn
+Adrian Brooks
+Alexander José Sommerfeldt
+Alexey 'Cores' Sapunov
+Alexey Sapunov
+Annabella McCullagh
+Arkady Colbourne
+Brady Schlue
+Brandon Davis
+Carmen Cuesta Cabanes
+Colin Kennedy
+Cristian Giordano
+Emily
+Gripeaway 
+Jan Sahlin
+Jered Eliël Mühlenbruch
+Jessica
+John Dunnet
+Jools West
+Jose Navarro Monzo
+Joseph Ware
+Julio Fernandez Saviñon
+Justin Calhoun
+Lauren Reynolds
+Lesley Oman
+MandatoryQuest
+Maria del Carmen Alfonso Tormo
+Mike Würfel
+Mikhail Zaitsev
+Miroslav Mihov
+Monika Klary
+Nadia Colbourne
+Nick Sickert
+Nicolas Viellard
+Nikolai Lynge Jørgensen
+Panagiotis Tsoupidis
+Patricia Byczek
+Phil Colbourne
+Piper Oman
+Rhys Oulton
+Sharon
+Silvia Estall
+Sophie Sandham
+Spencer Powell
+Stefan Clemens
+Thomas Shelley
+Cristian Gea Rodriguez
+Eric Pla Erra
+Nicole De Ambrosio 
+Udo Schmalfuß
+and the hard-working employees down at Burger Island
+
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Flaming Fowl Pets </color></font>
+Charlie Tuna
+Fiskars*
+Griselwald
+Hera
+Indie
+Kiki Bilouteski
+Miggle*
+Ollie
+Ranger 
+Sevvie
+Smidgeon
+The Pig Duck
+Toktok*
+Xispa*
+
+* Sadly lost during development but still in our hearts
+
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Asmodee Digital </color></font>
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Line Producer</color></font>
+Julien Séquert
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Lead Line Producer</color></font>
+Rémy Chinchilla
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Production Director</color></font>
+Laurent Lichnewsky
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Game Designer</color></font>
+Maxime Antonoff
+Alexis Clerc
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Creative Director</color></font>
+Rémi Hanesse
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Brand manager</color></font>
+Matthieu du Lac
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Head of Brands and Products</color></font>
+Adrien Rotondo
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Junior Brand Manager</color></font>
+Romain Messer
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Assistant brand manager</color></font>
+Robin Laffra
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Lead Marketing Artist</color></font>
+Sacha Mocquet
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Cinematic Artist</color></font>
+Sylvain Dollez
+Louis Dabrowski
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Junior Marketing Artist</color></font>
+Noémie Ardouin
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Marketing Director</color></font>
+Philippe Dao
+Arthur Dosne
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Head of Operations</color></font>
+Anne-Sophie Canel
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Release Manager</color></font>
+Hélène Bertolotti
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Platform Project Manager</color></font>
+Mehdi Lekehal
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Digital Project Manager</color></font>
+Elodie Domingues
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Digital Marketing Assistant</color></font>
+Emma Robin
+Aurélie Lescene
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Commercial Director</color></font>
+Marie Wolff
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>PR & Influencer Manager</color></font>
+Cosma Nicolau
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Influencer Manager</color></font>
+Alain Viravau
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Social & Paid Media Strategist</color></font>
+Samuel Dempsey
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Community Developper</color></font>
+Clara Terrats
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Community Developper</color></font>
+Béatrice Millerioux Henriksen
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Head of Publishing</color></font>
+Julie Le Vacon
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Customer Support Agent</color></font>
+Pierre-Yves Ruys
+Florian Marie-Emilienne
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Lead Customer Support</color></font>
+Maxime Crozier
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Developer BI/DBA</color></font>
+Quentin Thomas
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Data Analyst</color></font>
+Arnaud Legendre
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Tracking Tester</color></font>
+Valentin Sanchez de Leon
+Benjamin Lutz
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Head of Data</color></font>
+Alexandre David
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Lead QA</color></font>
+Nicolas Dupont
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Assistant Lead QA</color></font>
+Claire Hoffmann
+Médéric Bourdillon
+Jean-philippe Martin
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Tester QA</color></font>
+Sarah Brasset
+Valentin Serri
+Olivier Garin
+Sébastien Weissrock
+Aurélie Lecesne
+François-xavier Yacono
+Ludovic Rault
+Harlan Chomarat
+Amélie Perret
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Head of QA</color></font>
+Jean-baptiste Coblence
+
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Riotloc</color></font>
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Localization Cordination</color></font>
+Vladimir Konoplitsky
+Anna Kiseleva
+Alexander Bolotin
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>French Localization</color></font>
+Eric Holweck
+Bérangère Holweck
+Ophélie Colin
+Jonathan Pierre
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>German Localization</color></font>
+Roland Austinat
+Lorenz Hommers
+Heinrich Lenhardt
+Ulrich Onken
+Gesine Preusser
+Isabel Sterner
+Constanze Vogl
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Spanish Localization</color></font>
+Ramón Méndez
+Alba Calvo
+Curri Barceló
+Juan Ramón Acedo
+Emilio Ros
+Rubén Moralejo
+Laia Díez
+David Neira
+
+
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Liquid Violet</color></font>
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Narrator</color></font>
+Alec Newman
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Voice Directors</color></font>
+Rosie Jones
+Danny Baldwin
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Audio Engineers</color></font>
+Hayley Allen
+Sean Moher
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Production</color></font>
+Jon Youseman
+Chris Hopkins
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Post-Production</color></font>
+Alyx Jones
+Kevin Davey
+James Kirk
+Charlie Thomas
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Cephalofair Games </color></font>
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>CEO / Game Designer</color></font>
+Isaac Childres
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Chief Operating Officer</color></font>
+Price Johnson
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Graphic Design </color></font>
+ Josh McDowell
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Art</color></font>
+ Alexandr Elichev
+Álvaro Nebot
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Sculpting</color></font>
+James Van Schaik
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Editing</color></font>
+Jim Spivey
+Mathew G. Somers
+Marcel Cwertetschka
+
+<font=""MarcellusSC-Regular SDF""><color=#F7E9C9FF>Special Thanks</color></font>
+Kristyn Childres, Katie, Finn, Ada, and Cora McDowell, Charilaos
+Bacharis, Clinton Bradford, Brandon Butcher, Travis Chance,
+Joseph Childres, Rob Daviau, Paul Grogan, Brendon Hall,""
+""Richard Ham, Kasper Hansen, Walker Hardin, Chuck Hennemann,
+Scott Horton, Brian Hunter, David Isakov, Alexander Klatte, Carl
+Klutzke, Brian Lee, Nick Little, Kevin Manning, Jan Meyberg,
+Timo Multamäki, Ray Phay, Joan Prats, Andrew Ritchey, Adam
+Sadler, Brady Sadler, Eric Sanson, Scott Starkey, JC Trombley, Arne
+Vikhagen, Michael Wilkins, Stefan Zappe, Marcel Cwertetschka,
+Tim and Kim De Smet, Jared Gillespie, David Isakov, Jeremy Kaemmer, Mathew G. Somers"
+GUI_CREDITS_THANKYOU," <color=#F1DBAE>Thank you</color> to all the community who backed us in Early Access and helped us get Gloomhaven ready for the release!"
+GUI_CURRENT_TURN,"Current Turn"
+GUI_CUSTOM_MODS_TITLE,"Custom Mods:"
+GUI_CUSTOM_RULESETS_DESC,"Activate Mods to apply them to your game's Ruleset."
+GUI_CUSTOM_RULESETS_TITLE,"Custom Rulesets"
+GUI_DEFAULT_ATTACK,"Default Attack"
+GUI_DEFAULT_MOVE,"Default Move"
+GUI_DELETE,"Delete"
+GUI_DELETE_CHARACTER,"Delete Character"
+GUI_DELETE_CHARACTER_CONFIRMATION,"Any items the character owned will return to the Merchant's shop supply, and all money the character owned is gone"
+GUI_DELETE_PARTY_CONFIRMATION,"Do you want to delete this save?"
+GUI_DELETE_WARNING,"This action can't be undone. Do you want to continue?"
+GUI_DEVOTION_LEVEL,"Devotion {0}"
+GUI_DEVOTION_TOOLTIP,"<size=+2><color=#EACF8C>Devotion</color></size>
+Donate Gold to the Temple of the Great Oak to increase the Party's Devotion."
+GUI_DIFFICULTY_BRUTAL,"Brutal"
+GUI_DIFFICULTY_DEADLY,"Deadly"
+GUI_DIFFICULTY_DESCR_CAMPAIGN,"Difficulty settings can be changed during the game"
+GUI_DIFFICULTY_DESCR_CAMPAIGN_V2,"Difficulty settings can be modified during the game. These can be found in the Options menu"
+GUI_DIFFICULTY_EASY,"Easy"
+GUI_DIFFICULTY_FRIENDLY,"Friendly"
+GUI_DIFFICULTY_HARD,"Hard"
+GUI_DIFFICULTY_INSANE,"Brutal"
+GUI_DIFFICULTY_NORMAL,"Normal"
+GUI_DIFFICULTY_SELECT,"Choose Difficulty"
+GUI_DISABLE,"Disable"
+GUI_DISABLED,"Disabled"
+GUI_DISCARD_CARD,"Discard ""{0}""
+"
+GUI_DISCARD_CARDS,"Discard Cards
+"
+GUI_DISTRIBUTED_GOLD_POINTS,"<color=#FCC951FF><sprite name=""Gold_Icon_White"" color=#FCC951FF>{0} Gold</color> Remaining"
+GUI_DISTRIBUTE_ATTACK_MODIFIER,"Choose 1 Mercenary to gain {0} Modifiers"
+GUI_DISTRIBUTE_ConsumeItem,"Choose a Mercenary to consume 1 {0} at the start of the next Scenario"
+GUI_DISTRIBUTE_GOLD_CONFIRM,"Distribute Gold"
+GUI_DISTRIBUTE_GOLD_POINTS,"<color=#C53F3F><sprite name=""Gold_Icon_White"" color=#C53F3F>{0} Gold Remaining"
+GUI_DISTRIBUTE_HEALTH,"Redistribute Health Points"
+GUI_DISTRIBUTE_HEALTH_POINTS,"<color=#C53F3FFF>Redistribute <sprite name=""Heal"" color=#C53F3FFF>{0} Health Points</color>"
+GUI_DISTRIBUTE_HEALTH_UNAVAILABLE,"<color=#C53F3FFF>You haven't taken any Damage</color>"
+GUI_DISTRIBUTE_ITEM,"Bind Item to a Mercenary"
+GUI_DISTRIBUTE_LOSEITEM,"1 Mercenary must lose the Item"
+GUI_DISTRIBUTE_SELECT_GAIN,"Select 1 character to gain {0}"
+GUI_DISTRIBUTE_SELECT_lose,"Select 1 character to lose {0}"
+GUI_DLC_DESCR,"The DLC cannot be enabled during the game. However, these can be enabled later on the ""Load"" Screen."
+GUI_DLC_SELECTOR_DESCR,"Play Gloomhaven with the {0} DLC enabled."
+GUI_DLC_SELECTOR_DISABLED_TOOLTIP,"<color=#F1DBAE>{0} - Disabled</color>
+The {0} DLC is currently disabled.
+Click the toggle to turn on the DLC and enhance your Gloomhaven experience with extra content!"
+GUI_DLC_SELECTOR_ENABLED_TOOLTIP,"<color=#F1DBAE>{0} - Enabled</color>
+The {0} DLC is currently enabled.
+Click the toggle to turn off the DLC and enjoy a standard playthrough of Gloomhaven."
+GUI_DLC_SELECTOR_UNAVAILABLE_TOOLTIP,"<color=#F1DBAE>{0}</color>
+To use the DLC settings you first have to buy the {0} DLC"
+GUI_DRAW_CITY_EVENT,"City Event"
+GUI_DUNGEON_VICTORY,"Congratulations.  You have beaten the scenario."
+GUI_DV_CHARACTER_STRENGTHS,"Strengths:"
+GUI_DV_CHARACTER_WEAKNESSES,"Weaknesses:"
+GUI_EARLY_ACCESS,"Early Access Build"
+GUI_EARLY_ACCESS_PAGE_1_INFO_1,"When a sinister cabal starts disappearing the less fortunate of the city, it somehow falls to you to get to the bottom of it....so long as you get paid for your trouble."
+GUI_EARLY_ACCESS_PAGE_1_INFO_2,"Recruit four new mercenaries with unique gameplay and explore a previously hidden side of the city of Gloomhaven through an arching storyline filled with a plethora of new enemies and bosses."
+GUI_EARLY_ACCESS_PAGE_1_INFO_3,"Featuring 4 unique mercenaries, 25 new scenarios, 10 new enemies and bosses, new road events and battle goals and 10 new items to acquire, the Jaws of the Lion DLC is packed full with new content. "
+GUI_EARLY_ACCESS_PAGE_1_INFO_4,"The new Campaign scenarios unlock directly on Gloomhaven’s existing map once the core game’s second scenario is completed and it Guildmaster and Campaign you’ll find the four new characters automatically available. 
+"
+GUI_EARLY_ACCESS_PAGE_1_TITLE,"Jaws of the Lion DLC"
+GUI_EARLY_ACCESS_PAGE_2_INFO_1,"Do you have questions or want to share some feedback? 
+Need some help as a new player or looking to recruit some extra players for multiplayer? 
+
+Then come and join our ever growing community on Discord where you will find plenty of like-minded individuals ready to help and discuss and you’ll often see the development team active in the server. 
+"
+GUI_EARLY_ACCESS_PAGE_2_INFO_2,"Click the links below to join us on social media and stay up to date with all the latest Gloomhaven news!
+"
+GUI_EARLY_ACCESS_PAGE_2_TITLE,"Join the Community"
+GUI_EARLY_ACCESS_PAGE_3_INFO,"After 2 years in Early Access and finally reaching version 1.0 with the release of the Campaign, we would just like to take this opportunity to say a massive thank you to all our Early Access players. Every one of you has contributed in some way to the end result and we really could not have done this without your help and support. 
+
+We’ve come a long way since July 2019, with a completely revamped Guildmaster mode, Multiplayer and now the Campaign, not to mention all the characters, monsters and items we have gradually added! This has been a behemoth of a project to work on but we have loved every minute of it thanks to the passion and enthusiasm we’ve received from the community. 
+
+We hope we have done you proud.
+
+Flaming Fowl Studios"
+GUI_EARLY_ACCESS_PAGE_3_TITLE,"Thank You!"
+GUI_EARLY_ACCESS_PAGE_4_TITLE,"Tutorial and Learning the Game"
+GUI_EARLY_ACCESS_TITLE,"Welcome to Gloomhaven!"
+GUI_EASY,"Easy"
+GUI_EDIT,"Edit"
+GUI_EFFECTS,"Effects"
+GUI_ELEMENT_AIR,"Air"
+GUI_ELEMENT_ANY,"Any"
+GUI_ELEMENT_DARK,"Dark"
+GUI_ELEMENT_EARTH,"Earth"
+GUI_ELEMENT_FIRE,"Fire"
+GUI_ELEMENT_ICE,"Ice"
+GUI_ELEMENT_INFUSION_CREATED,"{0} Element Created!"
+GUI_ELEMENT_INFUSION_CREATING,"Creating ..."
+GUI_ELEMENT_LIGHT,"Light"
+GUI_ELEMENT_STATUS_INERT,"Inert"
+GUI_ELEMENT_STATUS_INFUSING,"Infusing"
+GUI_ELEMENT_STATUS_STRONG,"Strong"
+GUI_ELEMENT_STATUS_WANING,"Waning"
+GUI_ENABLE,"Enable"
+GUI_ENABLED,"Enabled"
+GUI_ENABLE_DLC_CONFIRMATION,"Once a DLC is enabled on a save it cannot return to its previous settings."
+GUI_ENCHANTMENT_POINTS,"Enchantment Points"
+GUI_ENCHANTMENT_POINTS_TOOLTIP,"<size=+2><color=#EACF8C>Enchantment Points</color></size>
+Earn Enchantment Points <sprite name=""Enchantress_Icon""> every time the Gloomhaven Wealth level increases. Spend Enchantment Points on Ability Cards you wish to Enhance. Once an Ability Card has been Enchanted, you can add as many enhancements to it as slots appear on the card."
+GUI_ENCOUNTER,"Encounter"
+GUI_ENCOUNTER_RECEIVED,"You've received"
+GUI_END_EXTRA_TURN,"End Extra Turn"
+GUI_END_PULL,"End Pull"
+GUI_END_PUSH,"End Push"
+GUI_END_ROUND,"End Round"
+GUI_END_SELECTION,"End Selection"
+GUI_END_TURN,"End {0}’s Turn"
+GUI_ENEMY,"Enemy"
+GUI_ENEMY2,"Enemy Team 2"
+GUI_ENHANCE,"Enhance"
+GUI_ENHANCEMENTS,"Enhancements"
+GUI_ENHANCEMENTS_TOOLTIP,"This screen allows you to add Enhancements to all of your abilities. Select the Ability, then the Enhancement Slot, and then the Enhancement you wish to add to that slot. Be aware that different Enhancements cost a different base amount, and that cost is modified by the number of Enhancements already on the card and the type of ability it is. When you remove an Enhancement, you recover its original cost."
+GUI_ENHANCEMENTS_UNAVAILABLE,"No Enhancements available"
+GUI_ENHANCEMENT_CARDS_ENHANCED,"All <sprite name=""Card_Icon""><color=#CEAD5A> Ability Cards</color> are fully Enhanced"
+GUI_ENHANCEMENT_CARD_CANT_BE_ENHANCED,"This <sprite name=""Card_Icon""> Ability Card cannot be <color=#CEAD5A>Enhanced</color>"
+GUI_ENHANCEMENT_CARD_FULLY_ENHANCED,"This <sprite name=""Card_Icon""> Ability Card has been <color=#CEAD5A>fully Enhanced</color>"
+GUI_ENHANCEMENT_CARD_NOT_ENHANCED,"This <sprite name=""Card_Icon""> Ability Card is <color=#CEAD5A>not Enhanced</color>"
+GUI_ENHANCEMENT_COST_BASE,"Base Cost "
+GUI_ENHANCEMENT_COST_CARD_LEVEL,"Card Level "
+GUI_ENHANCEMENT_COST_EXISTING,"Existing Enhancement "
+GUI_ENHANCEMENT_COST_ORIGINAL,"Original price"
+GUI_ENHANCEMENT_FILTER,"Enhance: <color=white>{0}</color>"
+GUI_ENHANCEMENT_MODE_ORIGINAL,"Original: Permanent Enhancements will affect all current and future Mercenaries of the same class. Enhancements cannot be sold."
+GUI_ENHANCEMENT_MODE_VARIANT,"Updated: Temporary Enhancements will affect individual Mercenaries, and can be removed to regain 75% of their original cost. The costs have also been rebalanced to encourage experimentation. *Recommended"
+GUI_ENTER_NAME,"Enter Name"
+GUI_ENTER_VILLAGE,"Enter Village"
+GUI_EQUIPPED,"Equipped"
+GUI_ERROR_CONTINUE_BUTTON,"Continue"
+GUI_ERROR_EXIT_GAME_BUTTON,"Exit Game"
+GUI_ERROR_LOAD_CHECKPOINT_BUTTON,"Reset Save to Checkpoint"
+GUI_ERROR_MAIN_MENU_BUTTON,"Go to Main Menu"
+GUI_ERROR_REBUILD_RULESET_BUTTON,"Rebuild Ruleset"
+GUI_ERROR_REPORT_PLACEHOLDER,"Please tell us what happened before the error occurred..."
+GUI_ERROR_RESET_QUEST_BUTTON,"Reset Quest and Return To Map"
+GUI_ERROR_RESET_SAVEFILE_BUTTON,"Reset Save File"
+GUI_ERROR_RESET_SCENARIO_BUTTON,"Reset Scenario To Start"
+GUI_ERROR_RETRY,"Retry"
+GUI_ERROR_RETURN_TO_MAP_BUTTON,"Return to Adventure Map"
+GUI_ERROR_TITLE,"Sorry, An Error Has Occurred"
+GUI_ESC_MENU_TITLE,"Pause"
+GUI_EXIT,"Exit"
+GUI_EXIT_GAME,"Exit Game"
+GUI_EXIT_JOURNEY,"Abandon Quest"
+GUI_EXIT_SHOP,"Exit Shop"
+GUI_EXIT_TRAINER,"Exit Trainer"
+GUI_EXIT_VILLAGE,"Leave {0}"
+GUI_EXPORTING_MODS,"Exporting ..."
+GUI_EXPORTING_MODS_COPY_PATH,"Copy Path"
+GUI_EXPORTING_MODS_COPY_PATH_NOTIFICATION,"Path copied to clipboard!"
+GUI_EXPORTING_MODS_TOOLTIP,"<color=#F1DBAEFF>Exporting Moddable Content to:</color> {0}"
+GUI_EXPORT_MODS,"Export YML"
+GUI_EXTRAS,"Extras"
+GUI_EXTRA_CARDS_HEADER,"Extra Cards"
+GUI_EnemiesKilled,"This is an Objective that you must complete to win the Scenario. A bar underneath shows the progress towards completion."
+GUI_FINISH,"Finish"
+GUI_FINISH_TARGET_SELECT,"Finish Target Selection"
+GUI_FIRST_RETIRED_CHARACTERS_STORY_1,"After a phlegmatic farewell with one of the band's most determined mercenaries, you find yourself wondering if others may have shaped Gloomhaven’s future, only to leave the city."
+GUI_FIRST_RETIRED_CHARACTERS_STORY_2,"You have heard of a Town Records building in the Coin District, but never visited. Deciding that it would be the best place to satiate your curiosity, you make your way to the large, circular structure deep in the heart of the District."
+GUI_FrontEndTutorial_01_Description,"Taking the first steps in the boots of a Mercenary is never easy. Start the Tutorial to learn the very basics of Gloomhaven’s mechanics."
+GUI_FrontEndTutorial_01_Tilte,"1. The Basics"
+GUI_FrontEndTutorial_02_Description,"You know how to get about, that’s good. Now it’s time to learn the important things, like killing and looting your enemies."
+GUI_FrontEndTutorial_02_Tilte,"2. Grab and Go"
+GUI_FrontEndTutorial_03_Description,"Combine the skills you’ve learnt to take down the bandit Archer. You’ll need some extra help to get across those nasty traps…"
+GUI_FrontEndTutorial_03_Tilte,"3. Light on your Feet"
+GUI_FrontEndTutorial_04_Description,"It’s all about knowing where you stand and finding the best spot in the Dungeon."
+GUI_FrontEndTutorial_04_Tilte,"4. Don’t Get Close!"
+GUI_FrontEndTutorial_05_Description,"Get acquainted with Attack Modifiers, how they work and how they will affect each and every one of your attacks."
+GUI_FrontEndTutorial_05_Tilte,"5. Attack Modifiers"
+GUI_FrontEndTutorial_06_Description,"The Brute is in a struggle against the Living Bones. Use everything you’ve got to make sure they stay dead for good."
+GUI_FrontEndTutorial_06_Tilte,"6. I am Brute"
+GUI_FrontEndTutorial_07_Description,"The Scoundrel has two daggers and a lot of gold to loot, and she  isn’t planning on leaving anything behind."
+GUI_FrontEndTutorial_07_Tilte,"7. A Blade in the Night"
+GUI_FrontEndTutorial_08_Description,"Spellweavers are a powerful race, but vulnerable in close combat. Learn how to use the Elements to your advantage"
+GUI_FrontEndTutorial_08_Tilte,"8. Master the Elements"
+GUI_FrontEndTutorial_09_Description,"Tinkerers are very resourceful creatures, but can’t get up to much while Wounded…"
+GUI_FrontEndTutorial_09_Tilte,"9. Brain over Brawn"
+GUI_FrontEndTutorial_10_Description,"Four Living Bones surround the Cragheart and the clock is ticking, can you defeat them all in time?"
+GUI_FrontEndTutorial_10_Tilte,"10. Heart of Stone"
+GUI_FrontEndTutorial_11_Description,"Why do all the fighting when you can summon someone (or something) to do it for you?"
+GUI_FrontEndTutorial_11_Tilte,"11. Mind over Matter"
+GUI_GAINED_GOLD,"Party Gold Earned"
+GUI_GAINED_HEALTH,"Gained {0} health"
+GUI_GAINED_LEVEL,"Gained {0} level(s)"
+GUI_GIFT_ABILITY_CARD,"You've received an Ability Card"
+GUI_GIFT_ADVANTAGE,"You have gained Advantage"
+GUI_GIFT_ADVANTAGE_COMBINED,"One character gains ADVANTADGE"
+GUI_GIFT_BLESS,"You have been Blessed"
+GUI_GIFT_BLESS_COMBINED,"One character gains BLESS"
+GUI_GIFT_CURSE,"You have been Cursed"
+GUI_GIFT_CURSE_COMBINED,"One character gains CURSE"
+GUI_GIFT_DAMAGE,"Each character starts the next scenario suffering {0} damage"
+GUI_GIFT_DAMAGE_NOW,"Suffer {0} Damage"
+GUI_GIFT_DISADVANTAGE,"You have gained Disadvantage"
+GUI_GIFT_DISADVANTAGE_COMBINED,"One character gains DISADVANTADGE"
+GUI_GIFT_DISARM,"You have been Disarmed"
+GUI_GIFT_DISARM_COMBINED,"One character gains DISARM"
+GUI_GIFT_EACH_LOST_GOLD,"You've lost {0} Gold each"
+GUI_GIFT_EACH_WIN_GOLD,"You've gained {0} Gold each"
+GUI_GIFT_ENEMY_ADVANTAGE,"The next scenario's enemies start with Advantage"
+GUI_GIFT_ENEMY_BLESS,"The next scenario's enemies start Blessed"
+GUI_GIFT_ENEMY_CURSE,"The next scenario's enemies start Cursed"
+GUI_GIFT_ENEMY_DISADVANTAGE,"The next scenario's enemies start with Disadvantage"
+GUI_GIFT_ENEMY_DISARMED,"The next scenario's enemies start Disarmed"
+GUI_GIFT_ENEMY_IMMOBILIZE,"The next scenario's enemies start Immobilized"
+GUI_GIFT_ENEMY_INVISIBLE,"The next scenario's enemies start with Invisibility"
+GUI_GIFT_ENEMY_MUDDLE,"The next scenario's enemies start Muddled"
+GUI_GIFT_ENEMY_POISON,"The next scenario's enemies start Poisoned"
+GUI_GIFT_ENEMY_STRENGTHEN,"The next scenario's enemies start Strengthened"
+GUI_GIFT_ENEMY_STUN,"The next scenario's enemies start Stunned"
+GUI_GIFT_ENEMY_WOUND,"The next scenario's enemies start Wounded"
+GUI_GIFT_ENHANCEMENT,"You've received an Enhancement"
+GUI_GIFT_IMMOBILIZE,"You have been Immobilized"
+GUI_GIFT_IMMOBILIZE_COMBINED,"One character gains IMMOBILIZE"
+GUI_GIFT_INFUSION,"Start the next scenario with {0} infused"
+GUI_GIFT_INVISIBLE,"You have been granted Invisibility"
+GUI_GIFT_INVISIBLE_COMBINED,"One character gains INVISIBLE"
+GUI_GIFT_ITEM,"You've received an Item"
+GUI_GIFT_ITEM_DESIGN,"You've received an Item Design"
+GUI_GIFT_LOST_GOLD,"You've lost {0} Gold"
+GUI_GIFT_MUDDLE,"You have been Muddled"
+GUI_GIFT_MUDDLE_COMBINED,"One character gains MUDDLE"
+GUI_GIFT_NEGATIVE_CONDITION,"You suffer from an unknown condition"
+GUI_GIFT_NONE,"I've got nothing for you"
+GUI_GIFT_PERK,"You've received a Perk"
+GUI_GIFT_POISON,"You have been Poisoned"
+GUI_GIFT_POISON_COMBINED,"One character gains POISON"
+GUI_GIFT_POSITIVE_CONDITION,"You have gained a positive effect"
+GUI_GIFT_ROUNDS_DURATION," for the first round of the next scenario"
+GUI_GIFT_SEVERAL_ROUNDS_DURATION," for {0} rounds"
+GUI_GIFT_STRENGTHEN,"You have been Strengthened"
+GUI_GIFT_STRENGTHEN_COMBINED,"One character gains STRENGTH"
+GUI_GIFT_STUN,"You have been Stunned"
+GUI_GIFT_STUN_COMBINED,"One character gains STUN"
+GUI_GIFT_WIN_GOLD,"You've gained {0} Gold"
+GUI_GIFT_WOUND,"You have been Wounded"
+GUI_GIFT_WOUND_COMBINED,"One character gains WOUND"
+GUI_GIFT_XP,"You've gained {0} XP"
+GUI_GUILD,"Guild"
+GUI_GUILDMASTER_DIFFICULTY_TITLE,"Difficulty"
+GUI_GUILDMASTER_REPEATED_NAME,"Guild Name is already in use. Please enter different one."
+GUI_GUILDMASTER_RULESET,"Guildmaster Ruleset"
+GUI_GUILDMASTER_START_GAME,"Start Game"
+GUI_GUILDMASTER_TUTORIAL_FULL,"Full Tutorial"
+GUI_GUILDMASTER_TUTORIAL_INTRODUCTION_DESCR,"Introduction: Experience the initial Story and Puzzle Quests"
+GUI_GUILDMASTER_TUTORIAL_SKIP_FTUE,"Story Intro"
+GUI_GUILDMASTER_TUTORIAL_SKIP_FTUE_INTRO,"Quick Start"
+GUI_GUILDMASTER_TUTORIAL_SKIP_FTUE_INTRO_DESCR,"Skip Tutorial and Introduction"
+GUI_GUILDMASTER_TUTORIAL_TUTORIAL_DESCR,"Tutorial: Get to know the basic mechanics of Gloomhaven"
+GUI_GUILD_City,"Gloomhaven"
+GUI_GUILD_Enchantress,"Enchantress"
+GUI_GUILD_Enhancer,"Enchantress"
+GUI_GUILD_MercenaryLog,"Town Records - Mercenary Log"
+GUI_GUILD_Merchant,"Merchant"
+GUI_GUILD_Temple,"Temple of the Great Oak"
+GUI_GUILD_TownRecords,"Town Records - Narrative"
+GUI_GUILD_Trainer,"Trainer"
+GUI_GUILD_WorldMap,"World Map"
+GUI_Gold_mode_selector_DESCR,"Gold Settings cannot be modified once the game starts. Choose wisely!"
+GUI_HARD,"Hard"
+GUI_HOUSE_RULES,"House Rules"
+GUI_HOUSE_RULES_ADVANTAGE,"Advantage/Disadvantage"
+GUI_HOUSE_RULES_ADVANTAGE_ORIGINAL,"Original: Can roll into a null modifier with advantage."
+GUI_HOUSE_RULES_ADVANTAGE_ORIGINAL_TOOLTIP,"<color=#F1DBAE>Original:</color> When attacking with Advantage, if a single Rolling Modifier is drawn, both Attack Modifiers will be applied to the attack. In Disadvantage, only the non-rolling Modifier will be applied.
+If both draws are Rolling Modifiers, keep drawing until a non-rolling modifier is drawn. In Advantage, all Modifiers are applied to the attack. In Disadvantage, only the non-rolling Modifier is applied to the attack."
+GUI_HOUSE_RULES_ADVANTAGE_VARIANT,"Variant: Can't roll into a null modifier with advantage. *Recommended"
+GUI_HOUSE_RULES_ADVANTAGE_VARIANT_TOOLTIP,"<color=#F1DBAE>Variant:</color> When attacking with Advantage or Disadvantage, if the first Attack Modifier is a Rolling Modifier, keep drawing until a non-rolling Modifier is drawn. Then draw one additional Attack Modifier, ignore any rolling icon. With Advantage, all Rolling Modifiers are applied to the better of the two final draws. With Disadvantage, all Rolling Modifiers are ignored and the worst of the last two draws will be applied."
+GUI_HOUSE_RULES_ATTACK_MODIFIERS,"Attack Modifiers"
+GUI_HOUSE_RULES_ATTACK_MODIFIERS_ORIGINAL,"Original: x2 and x0 Attack Modifiers. *Recommended"
+GUI_HOUSE_RULES_ATTACK_MODIFIERS_ORIGINAL_TOOLTIP,"Attack Modifier decks will contain x2 and x0 Attack Modifiers."
+GUI_HOUSE_RULES_ATTACK_MODIFIERS_variant,"Variant: +2 and -2 Attack Modifiers."
+GUI_HOUSE_RULES_ATTACK_MODIFIERS_variant_tooltip,"x2 Attack modifiers will be replaced with +2
+x0 Attack modifiers will be replaced with -2"
+GUI_HOUSE_RULES_DESCR,"House Rules can be modified during the game. These can be found in the Options Menu."
+GUI_HOUSE_RULES_LINE_OF_SIGHT,"Line of Sight"
+GUI_HOUSE_RULES_LINE_OF_SIGHT_ORIGINAL,"Original: Standard LOS Rules."
+GUI_HOUSE_RULES_LINE_OF_SIGHT_ORIGINAL_tooltip,"If a character has line of sight, a line can be drawn from any corner of the attacker’s hex to any corner of the defender’s hex without touching any part of a wall."
+GUI_HOUSE_RULES_LINE_OF_SIGHT_variant,"Variant: Centre Hex LOS Added. *Recommended"
+GUI_HOUSE_RULES_LINE_OF_SIGHT_variant_tooltip,"A line can be drawn from the centre or any corner of the attacker’s hex to the centre or any corner of the defender’s hex without touching any part of a wall."
+GUI_HOUSE_RULES_SCENARIO_WARNING,"You cannot change the House Rules Settings while in a Scenario."
+GUI_HOUSE_RULES_SPAWNED_MONSTER_GOLD,"Spawned Monster Gold Drops"
+GUI_HOUSE_RULES_SPAWNED_MONSTER_GOLD_ORIGINAL,"Original: Spawned monsters do not drop gold on death. *Recommended"
+GUI_HOUSE_RULES_SPAWNED_MONSTER_GOLD_ORIGINAL_TOOLTIP,"Spawned monsters do not drop gold on death."
+GUI_HOUSE_RULES_SPAWNED_MONSTER_GOLD_VARIANT,"Variant: Spawned monsters drop gold on death."
+GUI_HOUSE_RULES_SPAWNED_MONSTER_GOLD_VARIANT_TOOLTIP,"Spawned monsters drop gold on death."
+GUI_HOUSE_RULES_SUMMON_MOVEMENT,"Summons Movement"
+GUI_HOUSE_RULES_SUMMON_MOVEMENT_ORIGINAL,"Original: No Focus, No Move."
+GUI_HOUSE_RULES_SUMMON_MOVEMENT_ORIGINAL_tooltip,"If there are no enemies or no valid path to a hex from which the Summon can attack an enemy, the Summon will not move."
+GUI_HOUSE_RULES_SUMMON_MOVEMENT_variant,"Variant: No Focus, Move Choice. *Recommended"
+GUI_HOUSE_RULES_SUMMON_MOVEMENT_variant_tooltip,"If there are no enemies or no valid path to a hex from which the Summon can attack an enemy, the Mercenary who summoned them can choose whether the summon will move towards that Mercenary or will not move."
+GUI_HOW_TO_PLAY,"How to Play"
+GUI_HeroLevel,"Character level."
+GUI_IMPROVED_SHORT_REST_ACTIVE_BONUS_TOOLTIP,"During your next turn, Short Rest with all the benefits of a Long Rest:
+- <indent=%15>Choose one Discarded Card to Burn and recover all the other discarded cards.</indent>
+- <indent=%15>Heal 2 self.</indent>
+- <indent=%15>Refresh all your spent Items.</indent>"
+GUI_IMPROVED_SHORT_REST_TITLE_TOOLTIP,"Unstoppable Destruction"
+GUI_IMPROVED_SHORT_REST_TOOLTIP,"On this turn only, Short Rest with all the benefits of a Long Rest:
+- <indent=%15>Choose one Discarded Card to Burn and recover all the other discarded cards.</indent>
+- <indent=%15>Heal 2 self.</indent>
+- <indent=%15>Refresh all your spent Items.</indent>"
+GUI_INOX_PREVIEW,"Also, a group of rebellious Inox Warriors have set up a base in the forest and are raiding the local populous. Head to their location and take them down! "
+GUI_INOX_WIN,"With the Inox dead, this area is once again safe from their attacks. Hopefully you picked up one of their large axes before you left?"
+GUI_INVENTORY,"Inventory"
+GUI_INVENTORY_ITEMS,"Equipment"
+GUI_INVENTORY_SLOT_Body,"Body Item"
+GUI_INVENTORY_SLOT_Hands,"Hand Items"
+GUI_INVENTORY_SLOT_Head,"Head Item"
+GUI_INVENTORY_SLOT_Legs,"Legs Item"
+GUI_INVENTORY_SLOT_OneHand,"Hand Item {0}"
+GUI_INVENTORY_SLOT_POCKET,"Pocket {0}"
+GUI_INVENTORY_SLOT_SmallItem,"Small Item {0}"
+GUI_INVENTORY_SLOT_SmallItems,"Small Items"
+GUI_INVENTORY_SLOT_TwoHand,"Hand Item 2"
+GUI_ITEMS_LOSE_DURABILITY,"Your items have lost 1 durability"
+GUI_ITEMS_TABLE,"Items"
+GUI_ITEMS_UNAVAILABLE,"No Items Available"
+GUI_ITEM_BOUND_TO,"Bound to <color=#{0}>{1}</color> <size=140%><sprite name=""{2}"" color=#{0}></size>"
+GUI_ITEM_BUY_FOR,"Buy item for <color=#{0}>{1}</color> <size=140%><sprite name=""{2}"" color=#{0}></size>"
+GUI_ITEM_CARDS_BODY,"Body Cards"
+GUI_ITEM_CARDS_HAND,"Hand Cards"
+GUI_ITEM_CARDS_HEAD,"Head Cards"
+GUI_ITEM_CARDS_LEGS,"Legs Cards"
+GUI_ITEM_CARDS_NONE,"None"
+GUI_ITEM_CARDS_SMALLITEM,"Small Item Cards"
+GUI_ITEM_EQUIPPED_DIFFERENT_SLOT,"Equipped in slot <color=#F1DBAEFF> {0}</color>"
+GUI_ITEM_GUI_ITEM_SLOT_SMALLITEM_LOCKED_DESCRIPTION,"Unlock this item slot by levelling this character up to level {0}"
+GUI_ITEM_GUI_ITEM_SLOT_SMALLITEM_LOCKED_MYSTERY,"How could this slot be unlocked?"
+GUI_ITEM_REPUTATION_DISCOUNT_TOOLTIP,"<color=#{3}><rotate={4}><sprite name=""ReputationLevel_Icon"" color=#{3}></rotate> Reputation Modifier: {2}<sprite name=""Gold_Icon_White"" color=#{3}></color>
+{1}<sprite name=""Gold_Icon_White""> + <color=#{3}><rotate={4}><sprite name=""ReputationLevel_Icon"" color=#{3}></rotate>{2}</color> = <color=#FCC954FF>{0}<sprite name=""Gold_Icon_White"" color=#FCC954FF></color>"
+GUI_ITEM_SLOT_BODY,"Body"
+GUI_ITEM_SLOT_HAND,"Hand"
+GUI_ITEM_SLOT_HEAD,"Head"
+GUI_ITEM_SLOT_LEGS,"Legs"
+GUI_ITEM_SLOT_ONEHAND,"Hand"
+GUI_ITEM_SLOT_SMALLITEM,"Small Item"
+GUI_ITEM_SOLDOUT,"Sold Out!"
+GUI_JOURNEY,"Journey"
+GUI_JOURNEY_START_TIP,"Choose a path to a settlement. Failing the Journey will return you back to the starting village."
+GUI_JOURNEY_START_TIP_TITLE,"Start a Journey"
+GUI_JOURNEY_TO,"Journey to {0}"
+GUI_LEAVE,"Leave"
+GUI_LEVEL,"Level"
+GUI_LEVELUP,"LEVEL {0}!"
+GUI_LEVELUP_AVAILABLE_CARDS,"<color=#CEAD5A>{0}</color> Ability Cards available!"
+GUI_LEVELUP_BUTTON,"Level Up!"
+GUI_LEVELUP_CHARACTER,"{0} has reached"
+GUI_LEVELUP_CHOOSE_CARD,"Add 1 new card to the {0}'s deck"
+GUI_LEVELUP_NEW_CARDS,"Further Ability Cards"
+GUI_LEVELUP_NEW_CARDS_TOOLTIP,"<color=#CEAD5A>Further Abilities</color> are those that don't make it into a Mercenary's Mastered Abilities set.
+1 Locked card can be added to Mastered Abilities set after leveling up"
+GUI_LEVELUP_RECEIVED_CARDS,"You've unlocked <sprite name=""Card_Icon""><color=#CEAD5A>{0} new ability cards!</color>
+Choose <color=#CEAD5A>one</color> to permanently add to this mercenary's deck."
+GUI_LEVELUP_WEALTH_BUTTON_TOOLTIP,"Level Up to match the current Gloomhaven Wealth Level."
+GUI_LEVEL_EDITOR,"Level Editor"
+GUI_LEVEL_EDITOR_CREATE_NEW,"Create New Level"
+GUI_LEVEL_EDITOR_CREATE_NEW_PARTY,"Create New Party"
+GUI_LEVEL_EDITOR_LOAD_EXISITING_PARTY,"Load Existing Party"
+GUI_LEVEL_EDITOR_LOAD_IN_EDITOR,"Open In Editor"
+GUI_LEVEL_EDITOR_MULTIPLE_LEVELS_SAME_NAME,"Multiple levels with the same name. Saved a copy in the Custom Levels Directory."
+GUI_LEVEL_EDITOR_PLAY,"Play"
+GUI_LEVEL_UP_OUTSIDE_GLOOMHAVEN,"You must return to Gloomhaven to level up"
+GUI_LINKED_QUEST_CHOOSE_TOOLTIP,"Continue to {0} or Return to Gloomhaven"
+GUI_LINKED_QUEST_HEADQUARTERS_CHOICE,"Return to Gloomhaven"
+GUI_LINKED_QUEST_INVALID_CHOICE,"You must return to Gloomhaven before taking this Quest"
+GUI_LINKED_QUEST_LINKEDQUEST_CHOICE,"You won’t face a Road Encounter if you accept the Quest now"
+GUI_LOAD,"Load"
+GUI_LOADING,"Loading"
+GUI_LOADING_DOTS,"Loading..."
+GUI_LOADING_STATE_COMPARE,"Comparing Player States.  Please wait..."
+GUI_LOADING_WAITING_FOR_PLAYERS,"Waiting for other players..."
+GUI_LOADOUT_ENEMIES,"Enemies"
+GUI_LOADOUT_ENTER_SCENARIO,"Enter Dungeon"
+GUI_LOADOUT_OVERVIEW,"Overview"
+GUI_LOADOUT_SPECIAL_RULES,"Special Rules"
+GUI_LOAD_ADVENTURE,"Load Adventure"
+GUI_LOAD_ADVENTURE_DESCRIPTION,"Choose saved data to resume..."
+GUI_LOAD_ADVENTURE_DIFFICULTY,"Difficulty:"
+GUI_LOAD_ADVENTURE_GOLD,"Party Gold:"
+GUI_LOAD_ADVENTURE_ITEMS,"Items:"
+GUI_LOAD_ADVENTURE_LOCATION,"Location:"
+GUI_LOAD_ADVENTURE_QUEST,"Quest:"
+GUI_LOAD_ADVENTURE_START_JOURNEY,"Ready to start a new journey!"
+GUI_LOAD_ADVENTURE_START_QUEST,"Ready to start a new quest!"
+GUI_LOAD_CAMPAIGN,"Load Campaign"
+GUI_LOAD_GAME_DLC_QUEST,"DLC Mission"
+GUI_LOAD_MODCONFIG,"Load ModConfig"
+GUI_LOAD_MODDING,"Load Mod"
+GUI_LOAD_PARTY_SLOT_OWNER,"Owner:"
+GUI_LOAD_SAVE_MISSING_DLC,"<color=#F1DBAE>{0} Save File</color>
+This shared save file contains data from the {0} DLC. To load this save file you must buy the {0} DLC."
+GUI_LOAD_SCENARIO,"Load Scenario"
+GUI_LOCKED,"Locked"
+GUI_LOCKED_CARD_TOOLTIP,"Cards that haven't been added to Mastered Abilities remain <color=#CEAD5A>locked</color> unless an unlock point is spent to do so.
+Choose <color=#CEAD5A>Reset Mercenary</color> to rebuild the Mastered Ability set."
+GUI_LOCKED_OBJECT,"Locked {0}"
+GUI_LOGIN,"Log In"
+GUI_LOGOUT,"Log Out"
+GUI_LONG_REST,"Long rest"
+GUI_LOSE_CARD,"<sprite name=""Lost""> Burn ""{0}""
+"
+GUI_LOSE_CARDS,"<sprite name=""Lost""> Burn Cards
+"
+GUI_MAIN_MENU,"Main Menu"
+GUI_MAIN_MENU_CAMPAIGN_TOOLTIP,"<color=#F1DBAE>Campaign</color>
+Play the original board game's campaign and face the horrors beyond the walls of Gloomhaven in a 95-quest campaign plus any unlocked Expansions!"
+GUI_MAIN_MENU_EXTRAS_TOOLTIP,"<color=#F1DBAE>Extras</color>
+Delve into the full extent of Gloomhaven's rules in 'How to Play', unleash your creative side in the 'Level Editor' or make the game your own in 'Modding'."
+GUI_MAIN_MENU_GUILDMASTER_TOOLTIP,"<color=#F1DBAE>Guildmaster</color>
+A new Digital-only mode designed for players to master Gloomhaven's rules and mercenaries with over 100 new missions."
+GUI_MAIN_MENU_MULTIPLAYER_HOW_TO_HOST,"How to Host a Session"
+GUI_MAIN_MENU_MULTIPLAYER_HOW_TO_HOST_DESCR,"<size=+4><sprite name=""Pointer""></size><indent=20>While <color=#F1DBAE>in an existing Gloomhaven saved game</color>, click ""Esc"" to open the Pause menu and select ""Multiplayer"".
+</indent>
+<size=+4><sprite name=""Pointer""></size><indent=20>This will open the Multiplayer panel, on which you can <color=#F1DBAE>select ""Host Session""</color> to start a Multiplayer session.
+
+</indent>
+<size=+4><sprite name=""Pointer""></size><indent=20><color=#F1DBAE>Invite friends</color> from Steam or reach out to them with a generated invite code (you need to invite a minimum of one player to successfully Host a Multiplayer session).
+
+</indent>
+<size=+4><sprite name=""Pointer""></size><indent=20>Players will automatically be assigned a <color=#F1DBAE>Character Role</color> as they join the session. As the Host you can edit how players have been assigned by selecting the Character Roles on the Multiplayer panel.
+
+</indent>
+<size=+4><sprite name=""Pointer""></size><indent=20>When in Multiplayer, players can join while on the <color=#F1DBAE>World Map or the Card selection phase</color> inside a Scenario.
+</indent>"
+GUI_MAIN_MENU_MULTIPLAYER_HOW_TO_HOST_TITLE,"Host a Session"
+GUI_MAIN_MENU_MULTIPLAYER_TOOLTIP,"<color=#F1DBAE>Multiplayer</color>
+Join an existing Multiplayer game using an invite code."
+GUI_MAIN_MENU_OPTIONS_TOOLTIP,"<color=#F1DBAE>Options</color>
+View and change the game settings to fit your playstyle."
+GUI_MAIN_MENU_TUTORIAL_TOOLTIP,"<color=#F1DBAE>Tutorial</color>
+New to Gloomhaven? Play the tutorial to familiarise yourself with the basic mechanics of the game. This can also be experienced as part of the intro to the Guildmaster mode."
+GUI_MANAGE_MODS,"Manage Mods"
+GUI_MANAGE_MODS_TITLE,"Manage Mods"
+GUI_MEDIUM,"Medium"
+GUI_MIND_CONTROL,"Mind Control"
+GUI_MIND_CONTROL_ACTION,"This character is under the effect of mind control for one action"
+GUI_MIND_CONTROL_TURN,"This character is under the effect of mind control for their next turn this round"
+GUI_MODDED,"Modded"
+GUI_MODDING,"Modding"
+GUI_MODDING_ADD_MOD_TOOLTIP,"Add Mod"
+GUI_MODDING_APPLY_MOD,"Please Wait.  Processing '{0}'"
+GUI_MODDING_CAMPAIGN_MOD,"Campaign Mod"
+GUI_MODDING_CANCEL_CREATE_RULESET_CONFIRMATION_TITLE,"Cancel Create Ruleset"
+GUI_MODDING_CANCEL_EDIT_RULESET_CONFIRMATION_TITLE,"Cancel Editing"
+GUI_MODDING_CHANGE_DIRECTORY,"Change Mod Directory"
+GUI_MODDING_CHANGE_DIRECTORY_FAILED,"Changing Mod Directory Failed"
+GUI_MODDING_COMPILING,"Compiling..."
+GUI_MODDING_CREATED_MOD_NOTIFICATION,"<color=#F1DBAE>{0}</color> Mod Created"
+GUI_MODDING_CREATE_MOD,"Create New Mod"
+GUI_MODDING_CREATE_NEW_RULESET,"Create New Ruleset"
+GUI_MODDING_CREATE_RULESET_CONFIRMATION,"Choose a Game Mode for your Ruleset.
+You will not be able to change this when editing Ruleset."
+GUI_MODDING_CREATE_RULESET_CONFIRMATION_TITLE,"Game Mode"
+GUI_MODDING_CREATE_RULESET_NOTIFICATION,"<color=#F1DBAE>{0}</color> Created!"
+GUI_MODDING_CREATE_VIEW_TITLE,"Create New Mod"
+GUI_MODDING_CUSTOMLEVEL_MOD,"Custom Level Mod"
+GUI_MODDING_CUSTOM_MOD,"Custom Mod"
+GUI_MODDING_DELETE_RULESET,"Delete Ruleset"
+GUI_MODDING_DELETE_RULESET_NOTIFICATION,"<color=#C53F3F>{0} has been deleted</color>"
+GUI_MODDING_EDIT_RULESET,"Edit Ruleset"
+GUI_MODDING_ERROR_CREATING_MOD,"An error occured while attempting to create a new mod"
+GUI_MODDING_ERROR_SAVING_MOD,"An error occurred while attempting to save the mod."
+GUI_MODDING_EXPORT_FAILED_CONFIRMATION,"Make sure no files or folders in the export directory are open while exporting"
+GUI_MODDING_EXPORT_FAILED_CONFIRMATION_TITLE,"Exporting Failed!"
+GUI_MODDING_EXPORT_SUCCESS_NOTIFICATION,"Moddable content has been successfully exported!"
+GUI_MODDING_FAILED_TO_CREATE_PREVIEW,"An error occurred while attempting to create the preview image for the mod."
+GUI_MODDING_FILE_CONFLICT,"File Conflict"
+GUI_MODDING_FILE_CONFLICT_DESC,"There is a collision between mods!"
+GUI_MODDING_FINISH_EDIT_RULESET,"Finish Editing"
+GUI_MODDING_FINISH_EDIT_RULESET_CONFIRMATION,"Editing this Ruleset will delete all existing save data for it"
+GUI_MODDING_GUILDMASTER_MOD,"Guildmaster Mod"
+GUI_MODDING_HASH_COMPARE_FAIL_MESSAGE,"The current ruleset has been modified since it was last compiled.  You will need to recompile this ruleset in order to play it."
+GUI_MODDING_HASH_COMPARE_FAIL_TITLE,"Hash Compare Failure"
+GUI_MODDING_INVALID_RULESET_CHAR,"The name for the Ruleset can't contain any characters that are not supported for directory names on your OS"
+GUI_MODDING_INVALID_RULESET_NAME,"Invalid Ruleset name"
+GUI_MODDING_LANGUAGE_MOD,"Language Mod"
+GUI_MODDING_LIST_RULESETS,"Your Rulesets"
+GUI_MODDING_LIST_VIEW_TITLE,"Your Mods"
+GUI_MODDING_LOAD_ERROR,"Current ModConfig has not been loaded. 
+Reverting to Core ModConfig.
+All ModConfig upgrades & fixes could be done in Modding Menu."
+GUI_MODDING_MENU,"Modding"
+GUI_MODDING_MOD_ALREADY_EXISTS,"Mod already exists.  Unable to create a new mod with this name."
+GUI_MODDING_MOD_TYPE,"Mod Type"
+GUI_MODDING_NEED_WORKSHOP_AGREEMENT,"You must agree to the Steam Workshop terms to complete the upload"
+GUI_MODDING_NOTIFICATION,"Modding Notification"
+GUI_MODDING_OPEN_STEAM_WORKSHOP,"Visit Steam Workshop"
+GUI_MODDING_PLAY_RULESET_NOTIFICATION,"<color=#F1DBAE>{0}</color> Ruleset is active!"
+GUI_MODDING_REMOVE_MOD_TOOLTIP,"Remove Mod"
+GUI_MODDING_RULESET_CREATED,"A new Ruleset folder has been created with the name '{0}'"
+GUI_MODDING_RULESET_DIR_ERROR,"An error occurred attempting to create the new Ruleset directory"
+GUI_MODDING_RULESET_LOADED_FAIL,"Failed to load '{0}'"
+GUI_MODDING_RULESET_LOADED_OK,"Successfully loaded '{0}'"
+GUI_MODDING_RULESET_LOSE_CHANGES_CONFIRMATION,"All changes to the Ruleset will be lost"
+GUI_MODDING_RULESET_PLAY,"Play"
+GUI_MODDING_STEAM_MOD,"Steam Mod"
+GUI_MODDING_UNABLE_TO_FIND_MOD,"Unable to find the files for this mod.  "
+GUI_MODDING_UPLOADING_WITH_DOTS,"Uploading Mod..."
+GUI_MODDING_UPLOAD_FAILED,"Upload failed"
+GUI_MODDING_UPLOAD_MOD_TOOLTIP,"Upload Mod to Steam"
+GUI_MODDING_UPLOAD_SUCCESSFUL,"Upload completed successfully"
+GUI_MODDING_VALIDATED_NOTIFICATION,"{0} successfully validated!"
+GUI_MODDING_VALIDATING,"Validating..."
+GUI_MODDING_VALIDATION_FAIL_CONFIRMATION_TITLE,"Validation Failed!"
+GUI_MODDING_VALIDATION_MOD_FAIL_CONFIRMATION,"Click on ""View Error"" to see what went wrong"
+GUI_MODDING_VALIDATION_RULESET_FAIL_CONFIRMATION,"Make sure you've first validated all Mods in the Ruleset.
+If any Mod has been Editor or Updated, it will need validating."
+GUI_MODDING_VALIDATION_VIEW_MOD_ERRORS,"View Errors"
+GUI_MODDING_WAIT_CREATING_RULESET,"Please Wait. Creating new Ruleset '{0}'"
+GUI_MODDING_WAIT_LOADING_RULESET,"Please Wait.  Loading '{0}'"
+GUI_MODDING_WELCOME_DESC,"The first thing you will need to do is create a Custom Ruleset. 
+
+Each Custom Ruleset can have multiple mods applied, as long as the mods don't edit the same files. Warning messages will be displayed if this happens.
+
+The mods you download from the Steam Workshop are not officially supported, so if you have any issues please contact the mod creator. We also can't promise you won't find spoilers in these mods."
+GUI_MODDING_WELCOME_TITLE,"Welcome to Modding in Gloomhaven!"
+GUI_MOD_CAMPAIGN,"Modded Campaign"
+GUI_MOD_CAMPAIGN_TYPE,"Campaign Mod"
+GUI_MOD_CREATED,"Mod '{0}' has been created"
+GUI_MOD_CREATE_EMPTY_NAME,"Empty Mod name"
+GUI_MOD_CREATE_INVALID_CHAR,"The name for the Mod can't contain any characters that are not supported for directory names on your OS"
+GUI_MOD_CREATE_MOD_EXIST,"Mod with name '{0}' already exists"
+GUI_MOD_CUSTOMLEVELS_TYPE,"Custom Level Mod"
+GUI_MOD_DELETED,"Mod '{0}' has been deleted"
+GUI_MOD_GLOBAL_TYPE,"Global Mod"
+GUI_MOD_GUILDMASTER,"Modded Guildmaster"
+GUI_MOD_GUILDMASTER_TYPE,"Guildmaster Mod"
+GUI_MOD_HAS_EXECUTABLES,"Mod has executable"
+GUI_MOD_INVALID_TYPE,"Invalid Mod Type"
+GUI_MOD_IS_ACTIVE,"Active"
+GUI_MOD_IS_INACTIVE,"Inactive"
+GUI_MOD_LANGUAGE_TYPE,"Language Mod"
+GUI_MOD_LOADING_DOTS,"Loading Mods..."
+GUI_MOD_NOT_TESTED_VERSION,"Not Tested Version"
+GUI_MOD_NOT_TESTED_VERSION_DESC,"Mod was not tested on your build version. Do you want to continue?"
+GUI_MOD_SOURCE_CUSTOM,"Local Mod"
+GUI_MOD_SOURCE_WORKSHOP,"Steam Mod"
+GUI_MOD_TOO_BIG,"Mod size is too big. Must be under 20MB"
+GUI_MOD_TYPE_CHOOSE,"Choose a Mod Type"
+GUI_MOD_UPDATE,"Update"
+GUI_MOD_UPLOADING_BEGIN,"Uploading Mod '{0}'"
+GUI_MOD_UPLOAD_FAILED,"Upload Failed"
+GUI_MOD_UPLOAD_FINISH,"Upload Complete"
+GUI_MOD_VERSION,"Version {0}"
+GUI_MONSTER_CARD,"Monster"
+GUI_MOVE,"Travel to {0}"
+GUI_MP_SEND_INVITE,"Invite Player"
+GUI_MULTIPLAYER,"Multiplayer"
+GUI_MULTIPLAYER_CONNECTING,"Connecting..."
+GUI_MULTIPLAYER_CONNECTING_CancelingConnection,"Canceling session."
+GUI_MULTIPLAYER_CONNECTING_Connecting,"Establishing connection."
+GUI_MULTIPLAYER_CONNECTING_DownloadingNewSave,"Downloading new save."
+GUI_MULTIPLAYER_CONNECTING_DownloadingRuleset,"Downloading modded ruleset."
+GUI_MULTIPLAYER_CONNECTING_None,""
+GUI_MULTIPLAYER_CONNECTING_SavePointReached,"The party has reached the save point."
+GUI_MULTIPLAYER_CONNECTING_SearchingForSession,"Searching for session."
+GUI_MULTIPLAYER_CONNECTING_SessionFound,"Session found!"
+GUI_MULTIPLAYER_CONNECTING_StartingClient,"Starting client."
+GUI_MULTIPLAYER_CONNECTING_WaitUntilSavePoint,"Waiting for the party to return to Gloomhaven or reach a save point in a scenario."
+GUI_MULTIPLAYER_CONNECTION_FAILED,"Connection Failed"
+GUI_MULTIPLAYER_CONNECTION_FAILED_ConnectionToBackendFailed,"Backend Connection Failure"
+GUI_MULTIPLAYER_CONNECTION_FAILED_ConnectionToSessionFailed,"Connection Timed Out"
+GUI_MULTIPLAYER_CONNECTION_FAILED_DLCDoNotMatch,"DLC do not match"
+GUI_MULTIPLAYER_CONNECTION_FAILED_DifferentBuildType,"Different Build Type"
+GUI_MULTIPLAYER_CONNECTION_FAILED_DifferentVersion,"Different Version"
+GUI_MULTIPLAYER_CONNECTION_FAILED_HostEndedSession,"Host Ended Session"
+GUI_MULTIPLAYER_CONNECTION_FAILED_IncorrectPassword,"Incorrect Password"
+GUI_MULTIPLAYER_CONNECTION_FAILED_InvalidCode,"Invalid Code"
+GUI_MULTIPLAYER_CONNECTION_FAILED_InvalidFilePath,"Invalid File Path"
+GUI_MULTIPLAYER_CONNECTION_FAILED_InvalidGameMode,"Invalid Game Mode"
+GUI_MULTIPLAYER_CONNECTION_FAILED_InvalidSessionData,"Invalid Session Data"
+GUI_MULTIPLAYER_CONNECTION_FAILED_InvalidUserData,"Invalid User Data"
+GUI_MULTIPLAYER_CONNECTION_FAILED_ModsDoNotMatch,"Mods do not match"
+GUI_MULTIPLAYER_CONNECTION_FAILED_None,"Unknown Error Occured"
+GUI_MULTIPLAYER_CONNECTION_FAILED_SessionFull,"Session Full"
+GUI_MULTIPLAYER_CONNECTION_FAILED_SessionNotFound,"Session Not Found"
+GUI_MULTIPLAYER_CONNECTION_FAILED_SessionShuttingDown,"Session shutting down"
+GUI_MULTIPLAYER_CONNECTION_FAILED_UserBlocked,"User Blocked"
+GUI_MULTIPLAYER_DISABLED_ASSIGN_PLAYER,"This option is disabled while a client is creating a new Mercenary"
+GUI_MULTIPLAYER_DISCONNECTED,"Disconnected"
+GUI_MULTIPLAYER_DISCONNECTED_Desynchronization,"Desynchronization Detected"
+GUI_MULTIPLAYER_DISCONNECTED_HostEndedSession,"Host Ended Session"
+GUI_MULTIPLAYER_DISCONNECTED_None,"Unknown Reason"
+GUI_MULTIPLAYER_END_SESSION,"End Session"
+GUI_MULTIPLAYER_ENTER_INVITE_CODE,"Enter Invite Code"
+GUI_MULTIPLAYER_GAME_PAUSED,"Game paused while the Host is changing settings"
+GUI_MULTIPLAYER_GENERATE_INVITE_CODE,"Generate New Invite"
+GUI_MULTIPLAYER_HERO_SLOT,"Mercenary {0}"
+GUI_MULTIPLAYER_HOST,"Host"
+GUI_MULTIPLAYER_HOST_DISCONNECTED_CONFIRMATION,"Connection with <color=#FFAA00>{0}</color> has been lost.
+Shared game session has ended."
+GUI_MULTIPLAYER_HOST_DISCONNECTED_CONFIRMATION_TITLE,"Host Disconnected!"
+GUI_MULTIPLAYER_INVITE_ACCEPTED,"Invitation Accepted!"
+GUI_MULTIPLAYER_INVITE_CODE,"Invite Code"
+GUI_MULTIPLAYER_JOIN,"Join Session"
+GUI_MULTIPLAYER_JOINING_SESSION,"Loading Scene..."
+GUI_MULTIPLAYER_JOIN_SESSION_DESCR,"You can <color=#F1DBAE>join a hosted game</color> and be given control over one or more mercenaries from the host's game. 
+To do so, you must <color=#F1DBAE>first receive an Invite Code</color> from the host. Once you have the invite code you must enter it in the box below and submit it to start playing with friends!"
+GUI_MULTIPLAYER_JOIN_SESSION_TITLE,"Join Session:"
+GUI_MULTIPLAYER_JOIN_SESSION_TITLE_V2,"Play With Friends"
+GUI_MULTIPLAYER_LOCKED_PARTY_NOT_HQ_TOOLTIP,"Multiplayer is locked until you return to Gloomhaven or enter a Scenario"
+GUI_MULTIPLAYER_LOCKED_TOOLTIP,"Multiplayer is unlocked after completing the full tutorial."
+GUI_MULTIPLAYER_MY_TURN,"Your <color=#F1DBAE>Turn</color>"
+GUI_MULTIPLAYER_PARTY,"Roles"
+GUI_MULTIPLAYER_PLAYER_TURN,"{0}<color=#F1DBAE>'s Turn</color>"
+GUI_MULTIPLAYER_READYING,"Readying..."
+GUI_MULTIPLAYER_REMOVE_USER,"Remove User"
+GUI_MULTIPLAYER_START_SESSION,"Host Session"
+GUI_MULTIPLAYER_UNREADYING,"Unreadying..."
+GUI_MULTIPLAYER_VIEW_PLAYER_DECK,"<color=#F1DBAE>Viewing</color> {0}<color=#F1DBAE>'s Ability Deck</color>"
+GUI_MULTIPLAYER_WAITING_PLAYERS_REWARD,"Waiting for Players to return to the World Map..."
+GUI_MULTIPLAYER_WARNING_TEXT_WaitingForCharAssignment,"Waiting for all players to have mercs assigned"
+GUI_MULTIPLAYER_WARNING_TEXT_WaitingForConnectingPlayersToJoin,"New players are currently joining the game. Halting progression until everyone has joined."
+GUI_MULTIPLAYER_WARNING_TEXT_WaitingForMorePlayers,"Invite another player to continue playing Multiplayer or switch back to Single-player in the Player Menu."
+GUI_MULTIPLAYER_WARNING_TEXT_WaitingForMyCharAssignment,"Waiting for the host to assign a character to me"
+GUI_MULTIPLAYER_WARNING_TITLE_PROGRESSION_DISABLED,"Progression disabled"
+GUI_NEGATIVE_CONDITIONS,"Negative Conditions"
+GUI_NEUTRAL,"Neutral"
+GUI_NEW_ADVENTURE,"New Adventure"
+GUI_NEW_CAMPAIGN,"New Campaign"
+GUI_NEW_CARD_NOTIFICATION,"New Ability Cards have been added that are below your current level. For this reason we're giving you a chance to <color=#CEAD5A>reset your Ability Deck for free</color> and try out some abilities you might have missed!"
+GUI_NEW_CARD_NOTIFICATION_TITLE,"New cards have been added!"
+GUI_NEW_CHARACTER,"New Mercenary"
+GUI_NEW_QUEST_LOCATION_TITLE,"New Quest Location!"
+GUI_NEW_RULESET,"New Ruleset:"
+GUI_NOTIFICATION_ASSIGN_ALL_MY_SLOTS,"Any empty slots must be assigned to the Host before adventuring"
+GUI_NOTIFICATION_CITY_EVENT_SELECTED,"{0} has selected a City Event!"
+GUI_NOTIFICATION_GENERATE_INVITE_CODE,"<color=#92BF6E>Invite Code generated!</color>
+Copy the Invite Code and sent it to friends so they may join the party."
+GUI_NOTIFICATION_MULTIPLAYER_STARTED,"<color=#92BF6E>You've started a Multiplayer session!</color>
+Invite friends to your party to continue playing."
+GUI_NOTIFICATION_PLAYER_DISCONNECTED,"<color=#C53F3FFF>{0} has disconnected!</color>
+<color=#EACF8C>Host</color> {1} has control over {2}"
+GUI_NOTIFICATION_PLAYER_DISCONNECTED_END_SESSION,"<color=#C53F3FFF>{0} has disconnected!</color>
+End Session to continue playing in Single Player Mode"
+GUI_NOTIFICATION_PLAYER_JOINED,"<color=#92BF6E>{0} has joined the party!</color>"
+GUI_NOTIFICATION_PLAYER_WON_CONTROL,"<color=#92BF6E>{0} has control of {1}!</color>"
+GUI_NOTIFICATION_QUEST_SELECTED,"{0} has selected a Quest!"
+GUI_NOTIFICATION_QUEST_SELECTED_TITLE,"Call to Arms!"
+GUI_NOTIFICATION_SHARE_INVITE_CODE,"<color=#92BF6E>Invite Code copied to clipboard!</color>
+Share the Invite Code with friends so they may join the party."
+GUI_NOTIFICATION_TOWN_RECORDS_SELECTED,"<color=#EACF8C>Host</color> {0} wants to visit the Town Records!"
+GUI_NOTIFICATION_WAITING_PLAYERS_JOIN,"<color=#92BF6E>Waiting for players to join!</color>
+If no player joins, End Session to continue playing in Single Player Mode."
+GUI_NOTIFICATION_WAITING_PLAYERS_JOINING,"New players are currently joining the game."
+GUI_NO_MODS_MESSAGE,"You have created new Custom Ruleset!
+<color=#f3ddab>Visit the Workshop</color> by clicking the link below and start
+adding Mods to your Ruleset!"
+GUI_OBJECTIVE_ACTIVATE_PRESSUREPLATE_X_LOSE,"Lose if you occupy {0} pressure plates"
+GUI_OBJECTIVE_ACTIVATE_PRESSUREPLATE_X_WIN,"Occupy {0} pressure plates to win"
+GUI_OBJECTIVE_ACTIVATE_X_SPAWNERS_LOSE,"Lose if {0} spawners are activated"
+GUI_OBJECTIVE_ACTIVATE_X_SPAWNERS_WIN,"Activate {0} spawners to win"
+GUI_OBJECTIVE_DEACTIVATE_X_SPAWNERS_LOSE,"Lose if {0} spawners are deactivated"
+GUI_OBJECTIVE_DEACTIVATE_X_SPAWNERS_WIN,"Deactivate {0} spawners to win"
+GUI_OBJECTIVE_DEAL_X_DAMAGE_LOSE,"Lose if {0} damage is dealt"
+GUI_OBJECTIVE_DEAL_X_DAMAGE_LOSE_FILTERED,"Lose if {0} damage is dealt to {1}"
+GUI_OBJECTIVE_DEAL_X_DAMAGE_WIN,"Deal {0} damage to win"
+GUI_OBJECTIVE_DEAL_X_DAMAGE_WIN_FILTERED,"Deal {0} damage to {1} to win"
+GUI_OBJECTIVE_FILTER_ACTOR_ENEMY,"Enemies"
+GUI_OBJECTIVE_FILTER_ACTOR_PLAYER,"Mercenaries"
+GUI_OBJECTIVE_FILTER_ACTOR_SUMMON,"Allies"
+GUI_OBJECTIVE_KILL_BOSSES_LOSE,"Lose if all bosses die"
+GUI_OBJECTIVE_KILL_BOSSES_WIN,"Kill all bosses"
+GUI_OBJECTIVE_KILL_ENEMY_LOSE,"Lose if all enemies die"
+GUI_OBJECTIVE_KILL_ENEMY_WIN,"Kill all enemies in all rooms"
+GUI_OBJECTIVE_KILL_X_LOSE,"Lose if {0} enemies die
+"
+GUI_OBJECTIVE_KILL_X_LOSE_FILTERED,"Lose if {0} {1} die
+"
+GUI_OBJECTIVE_KILL_X_WIN,"Kill {0} enemies to win"
+GUI_OBJECTIVE_KILL_X_WIN_FILTERED,"Kill {0} {1} to win"
+GUI_OBJECTIVE_LOOT_X_LOSE,"Lose if you loot {0}"
+GUI_OBJECTIVE_LOOT_X_LOSE_FILTERED,"Lose if you loot {0} {1}"
+GUI_OBJECTIVE_LOOT_X_WIN,"Loot {0} to win"
+GUI_OBJECTIVE_LOOT_X_WIN_FILTERED,"Loot {0} {1} to win"
