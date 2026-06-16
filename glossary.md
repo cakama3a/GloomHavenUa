@@ -100,6 +100,11 @@
 | Debris | УЛАМОК | |
 | Altar | ВІВТАР | |
 | Summoned creature | ПРИКЛИКАНА ІСТОТА | |
+| Leaping Cleave | Стрибок із Розсіканням | |
+| Overwhelming Assault | Нищівний Штурм | |
+| Provoking Roar | Провокаційний Рик | |
+| Trample | Топтання | |
+| Crimson Tornado | Багряне Торнадо | |
 
 ## Стани та ефекти (Conditions)
 | Англійська | Українська |
@@ -196,6 +201,17 @@
 | Eerie Glade | Моторошна поляна |
 | Mournlight Hideout | Сховище Морнлайт |
 | Shadowfield Manor | Маєток Шедоуфілд |
+| Great Oak | Великий Дуб |
+| Jaws Of The Lion | Щелепи Лева |
+| Adventure Map | Карта Пригод |
+| World Map | Карта Світу |
+| City Map | Карта міста |
+| Merchant's Shop | Крамниця Купця |
+| Quest Log | Журнал Завдань |
+| City Encounter | Міська Пригода |
+| City Encounters | Міські Пригоди |
+| Relic Scenarios | Релікварні Сценарії |
+| Solo Scenarios | Соло-сценарії |
 
 ## Істоти та вороги
 | Англійська | Українська |
@@ -262,6 +278,19 @@
 | Algox | Алгокс |
 | Harrower Infester | Жнець-заразник |
 | Winged Horror | Крилатий жах |
+| Bandit Commander | Ватажок Бандитів |
+| Inox Bodyguards | Тілоохоронці Іноксів |
+| Elder Drake | Стародавній Дрейк |
+| Gloom | Морок |
+| High Cultist | Верховний Культист |
+| Undead Commander | Ватажок Нежиті |
+| The Rat King | Щурячий Король |
+| Sightless Eye | Незряче Око |
+| Dark Rider | Темний Вершник |
+| Betrayer | Зрадник |
+| Captain of the Guard | Капітан Варти |
+| Bandit Archer | Розбійник-лучник |
+| Bandit Guard | Розбійник-охоронець |
 
 ## Персонажі та імена
 | Англійська | Українська |
@@ -286,6 +315,8 @@
 | Ring of Skulls | Кільце Черепів |
 | Drakescale Armor | Обладунок з Луски Дрейка |
 | Amulet of Life | Амулет Життя |
+| Medical Packs | Медичні Набори |
+| Large Medical Packs | Великі Медичні Набори |
 
 ## Квести та сценарії (Унікальні назви)
 | Англійська | Українська |
@@ -300,6 +331,13 @@
 | Lock Horns | ЗІТКНУТИСЯ ЛОБАМИ |
 | Up in Smoke | ЯК ДИМ |
 | Toss a Coin to your Hangman | КАТОВІ ЗАПЛАТІТЬ КАРБОВАНОЮ МОНЕТОЮ |
+| The Cartographer | Картограф |
+| The Cephalophore | Цефалофор |
+| The Pro from Dover | Професіонал з Дувра |
+| The Sniper | Снайпер |
+| Master Assassin | Майстер-асасин |
+| The Pacifist | Пацифіст |
+| MacReady Steady.. Go! | Мак-Ріді, приготуватися... Руш! |
 
 ## Ігрові терміни та UI
 | Англійська | Українська |
@@ -320,6 +358,15 @@
 | Damage | Шкода |
 | Short Rest | Короткий Відпочинок |
 | Long Rest | Довгий Відпочинок |
+| Sand Devil | Піщаний Диявол |
+| The Favourite | Фаворит |
+| Beast Tyrant's Bear | Ведмідь Володаря Звірів |
+| Battle Goal | Бойова Ціль |
+| Battle Goals | Бойові Цілі |
+| Initiative Tracker | Трекер Ініціативи |
+| Character Role | Роль Персонажа |
+| Character Roles | Ролі Персонажів |
+| Ornate Chests | Оздоблені Скрині |
 
 ## Системні фрази
 | Англійська | Українська |
