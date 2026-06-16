@@ -212,6 +212,15 @@
 | City Encounters | Міські Пригоди |
 | Relic Scenarios | Релікварні Сценарії |
 | Solo Scenarios | Соло-сценарії |
+| Horn District | Роговий Округ |
+| Mixed District | Змішаний Округ |
+| Boiler District | Котельний Округ |
+| Old Docks | Старі Доки |
+| Burnt Onion | «Підгоріла Цибулина» |
+| Brown Door | «Бурі Двері» |
+| East Road | Східний Шлях |
+| West Gate | Західна Брама |
+| Temple of the Elements | Храм Стихій |
 
 ## Істоти та вороги
 | Англійська | Українська |
@@ -317,6 +326,23 @@
 | Amulet of Life | Амулет Життя |
 | Medical Packs | Медичні Набори |
 | Large Medical Packs | Великі Медичні Набори |
+| Cloak of the Hunter | Плащ Мисливця |
+| Doctor's Coat | Халат Лікаря |
+| Elemental Boots | Черевики Стихій |
+| Focusing Ray | Фокусуючий Промінь |
+| Imposing Blade | Грізний Клинок |
+| Master's Lute | Лютня Майстра |
+| Mask of Death | Маска Смерті |
+| Pendant of the Plague | Амулет Чуми |
+| Phasing Idol | Мерехтливий Ідол |
+| Psychic Knife | Психічний Ніж |
+| Silent Stiletto | Безшумний Стилет |
+| Staff of Command | Посох Наказу |
+| Stone Charm | Кам'яний Амулет |
+| Smoke Elixir | Димовий Еліксир |
+| Sun Shield | Сонячний Щит |
+| Utility Belt | Пояс Спорядження |
+| Volatile Elixir | Нестабільний Еліксир |
 
 ## Квести та сценарії (Унікальні назви)
 | Англійська | Українська |
@@ -338,6 +364,39 @@
 | Master Assassin | Майстер-асасин |
 | The Pacifist | Пацифіст |
 | MacReady Steady.. Go! | Мак-Ріді, приготуватися... Руш! |
+| Return to the Black Barrow | Повернення до Чорного Кургану |
+| An Unfortunate Intrusion | Прикре Вторгнення |
+| Corrupted Laboratory | Осквернена Лабораторія |
+| Armory Heist | Пограбування Арсеналу |
+| Stone Defense | Кам'яний Захист |
+| Rodent Liberation | Визволення Гризунів |
+| Caravan Escort | Супровід Каравану |
+| Storage Fees | Плата за Зберігання |
+| Plane of Wild Beasts | Вимір Диких Звірів |
+| Harvesting the Night | Жнива Ночі |
+| Plagued Crypt | Чумна Крипта |
+| Unnatural Insults | Неприродні Образи |
+| Battle of the Bards | Битва Бардів |
+| Corrupted Hunt | Осквернене Полювання |
+| Aftermath | Наслідки |
+| Elemental Secrets | Таємниці Стихій |
+| The Caged Bear | Ув'язнений Ведмідь |
+| Command and Conquer | Командуй та підкорюй |
+| Masquerade | Маскарад |
+| The Flashing Blade | Сліпуче Лезо |
+| Charm Offensive | Атака Чарівністю |
+| Hunting High and Low | Пошуки Повсюди |
+| Elementary | Елементарно |
+| Twist of the Knife | Поворот Ножа |
+| Xorn Again | Відродження Зорна |
+| Belt and Braces | Підстраховка |
+| Doctor's Orders | Вказівки Лікаря |
+| Silent but Deadly | Тихий, але Смертоносний |
+| Take the Lute | Беріть Лютню |
+| Explosive Personality | Вибуховий Характер |
+| Out of Phase | Поза Фазою |
+| Catch the Sun | Спіймати Сонце |
+| Ray of Hope | Промінь Надії |
 
 ## Ігрові терміни та UI
 | Англійська | Українська |
