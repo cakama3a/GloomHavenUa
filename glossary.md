@@ -300,6 +300,8 @@
 | Captain of the Guard | Капітан Варти |
 | Bandit Archer | Розбійник-лучник |
 | Bandit Guard | Розбійник-охоронець |
+| Vermling Raider | Вермлінг-нападник |
+| Vermling Raider Elite | Елітний вермлінг-нападник |
 
 ## Персонажі та імена
 | Англійська | Українська |
@@ -343,6 +345,17 @@
 | Sun Shield | Сонячний Щит |
 | Utility Belt | Пояс Спорядження |
 | Volatile Elixir | Нестабільний Еліксир |
+| Oak Charm | Дубовий амулет |
+| Black Candle | Чорна свічка |
+| Robes of Command | Мантія Наказу |
+| Barbed Axe | Шипована сокира |
+| Bladed Armor | Лезовий обладунок |
+| Ring of Restoration | Кільце Відновлення |
+| Ring of Strength | Кільце Сили |
+| Chain Armor | Кольчужний обладунок |
+| Throwing Hammer | Метальний молот |
+| Jet Boots | Реактивні черевики |
+| Weathered Boots | Поношені черевики |
 
 ## Квести та сценарії (Унікальні назви)
 | Англійська | Українська |
@@ -397,6 +410,28 @@
 | Out of Phase | Поза Фазою |
 | Catch the Sun | Спіймати Сонце |
 | Ray of Hope | Промінь Надії |
+| Roadside Ambush | Засідка біля дороги |
+| A Hole In The Wall | Діра в стіні |
+| The Black Ship | Чорний корабель |
+| A Ritual In Stone | Ритуал у камені |
+| A Deeper Understanding | Глибше розуміння |
+| Corrupted Research | Осквернене дослідження |
+| Sunken Tumor | Затонула пухлина |
+| Hidden Tumor | Прихована пухлина |
+| Explosive Evolution | Вибухова еволюція |
+| The Gauntlet | Випробування |
+| Defiled Sewers | Осквернена каналізація |
+| Beguiling Sewers | Оманлива каналізація |
+| Tainted Blood | Осквернена кров |
+| Mixed Results | Змішані результати |
+| Red Twilight | Багряні сутінки |
+| Misplaced Goods | Загублені товари |
+| Agents of Chaos | Агенти Хаосу |
+| Unfriendly Message | Недружнє послання |
+| Best of the Best | Найкращі з найкращих |
+| Warding The Void | Захист від Пустки |
+| The Greatest Job in the World | Найкраща робота у світі |
+| Toxic Harvest | Токсичні жнива |
 
 ## Ігрові терміни та UI
 | Англійська | Українська |
@@ -426,6 +461,33 @@
 | Character Role | Роль Персонажа |
 | Character Roles | Ролі Персонажів |
 | Ornate Chests | Оздоблені Скрині |
+
+## Бойові цілі (Battle Goals)
+| Англійська | Українська | Примітка |
+|------------|------------|----------|
+| Acrobat | Акробат | |
+| Agoraphobe | Агорафоб | |
+| Altruist | Альтруїст | |
+| Assistant | Помічник | |
+| Challenger | Дуелянт | |
+| Closer | Ліквідатор | |
+| Conservator | Хранитель | |
+| Egoist | Егоїст | |
+| Gambler | Авантюрист | |
+| Hothead | Гаряча голова | |
+| Insomniac | Безсонний | |
+| Mugger | Грабіжник | |
+| Pickpocket | Кишенькар | |
+| Pincushion | Мішень | |
+| Plebeian | Плебей | |
+| Prohibitionist | Утримувач | |
+| Ravager | Руйнівник | |
+| Recluse | Самітник | |
+| Shirker | Ухилянт | |
+| Specialist | Спеціаліст | |
+| Trailblazer | Першопроходець | |
+| Transmitter | Провідник | |
+| Weakling | Слабкодухий | |
 
 ## Системні фрази
 | Англійська | Українська |
