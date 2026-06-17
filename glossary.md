@@ -302,6 +302,9 @@
 | Bandit Guard | Розбійник-охоронець |
 | Vermling Raider | Вермлінг-нападник |
 | Vermling Raider Elite | Елітний вермлінг-нападник |
+| Head Out | Вирушити |
+| Kill all bosses | Учити всіх босів |
+| Lose if all bosses die | Поразка, якщо всі боси загинуть |
 
 ## Персонажі та імена
 | Англійська | Українська |
@@ -356,6 +359,132 @@
 | Throwing Hammer | Метальний молот |
 | Jet Boots | Реактивні черевики |
 | Weathered Boots | Поношені черевики |
+| Ancient Drill | Стародавній бур |
+| Balanced Blade | Збалансований клинок |
+| Battle Axe | Бойова сокира |
+| Black Card | Чорна карта |
+| Black Censer | Чорне кадило |
+| Black Knife | Чорний ніж |
+| Blinking Cape | Мерехтлива накидка |
+| Bloody Axe | Кривава сокира |
+| Boots of Dashing | Черевики Стрімкості |
+| Boots of Levitation | Черевики Левітації |
+| Boots of Quickness | Черевики Швидкості |
+| Boots of Speed | Черевики Швидкості |
+| Boots of Sprinting | Черевики Спринту |
+| Brilliant Blade | Блискучий клинок |
+| Chain Hood | Кольчужний каптур |
+| Chainmail | Кольчуга |
+| Circlet of Elements | Обруч Стихій |
+| Cloak of Phasing | Плащ Фазового зсуву |
+| Cloak of Pockets | Плащ із кишенями |
+| Comfortable Shoes | Зручне взуття |
+| Crystal of Zenith | Кристал Зеніту |
+| Curious Gear | Дивна Шестірня |
+| Dampening Ring | Кільце Глушіння |
+| Doom Powder | Порошок Приречення |
+| Doomed Compass | Приречений Компас |
+| Drakescale Boots | Чоботи з Луски Дрейка |
+| Drakescale Helm | Шолом з Луски Дрейка |
+| Empowering Talisman | Талісман Наділення Силою |
+| Endurance Footwraps | Обмотки Витривалості |
+| Falcon Figurine | Фігурка Сокола |
+| Flea-Bitten Shawl | Поїдена Блохами Шаль |
+| Frigid Blade | Крижаний Клинок |
+| Fueled Falchion | Заряджений Фальшіон |
+| Giant Remote Spider | Гігантський Дистанційний Павук |
+| Halberd | Алебарда |
+| Hawk Helm | Яструбиний Шолом |
+| Heart of the Betrayer | Серце Зрадника |
+| Heavy Basinet | Важкий Бацинет |
+| Heavy Greaves | Важкі Поножі |
+| Helix Ring | Спіральне Кільце |
+| Helm of the Mountain | Шолом Гори |
+| Hide Armor | Обладунок зі Шкур |
+| Hooked Chain | Ланцюг із Гаком |
+| Horned Helm | Рогатий Шолом |
+| Inferno Blade | Клинок Пекла |
+| Iron Helmet | Залізний Шолом |
+| Jagged Sword | Зазубрений Меч |
+| Leather Armor | Шкіряний Обладунок |
+| Long Spear | Довгий Спис |
+| Lucky Eye | Щасливе Око |
+| Magma Waders | Магматичні Заброди |
+| Major Cure Potion | Велике Зілля Очищення |
+| Major Healing Potion | Велике Лікувальне Зілля |
+| Major Mana Potion | Велике Зілля Мани |
+| Major Power Potion | Велике Зілля Сили |
+| Major Stamina Potion | Велике Зілля Витривалості |
+| Mask of Terror | Маска Жаху |
+| Minor Cure Potion | Мале Зілля Очищення |
+| Minor Mana Potion | Мале Зілля Мани |
+| Minor Power Potion | Мале Зілля Сили |
+| Minor Stamina Potion | Мале Зілля Витривалості |
+| Moon Earring | Місячна Сережка |
+| Mountain Hammer | Гірський Молот |
+| Necklace of Teeth | Намисто із Зубів |
+| Night Blade | Клинок Ночі |
+| Occult Dagger | Окультний Кинджал |
+| Orb of Dawn | Сфера Світанку |
+| Orb of Twilight | Сфера Сутінків |
+| Pendant of Dark Pacts | Амулет Темних Угод |
+| Piercing Bow | Пронизливий Лук |
+| Platemail | Латний Обладунок |
+| Poison Dagger | Отруйний Кинджал |
+| Power Core | Енергетичне Ядро |
+| Protective Charm | Захисний Амулет |
+| Reaping Scythe | Коса Жнив |
+| Remote Spider | Дистанційний Павук |
+| Resonant Crystal | Резонуючий Кристал |
+| Ring of Brutality | Кільце Жорстокості |
+| Ring of Haste | Кільце Поспіху |
+| Robes of Evocation | Мантія Пробудження |
+| Robes of Summoning | Мантія Прикликання |
+| Rocket Boots | Реактивні Чоботи |
+| Sacrificial Robes | Жертовна Мантія |
+| Scroll of Healing | Сувій Лікування |
+| Scroll of Power | Сувій Сили |
+| Scroll of Stamina | Сувій Витривалості |
+| Second Chance Ring | Кільце Другого Шансу |
+| Second Skin | Друга Шкіра |
+| Serene Sandals | Безтурботні Сандалії |
+| Shadow Armor | Тіньовий Обладунок |
+| Shoes of Happiness | Черевики Щастя |
+| Skull of Hatred | Череп Ненависті |
+| Skullbane Axe | Сокира Погибелі Черепів |
+| Sphere of Midnight | Сфера Півночі |
+| Spiked Shield | Шипований Щит |
+| Splintmail | Пластинчастий Обладунок |
+| Staff of Elements | Посох Стихій |
+| Staff of Eminence | Посох Величі |
+| Staff of Summoning | Посох Прикликання |
+| Staff of Xorn | Посох Зорна |
+| Star Earring | Зоряна Сережка |
+| Steam Armor | Паровий Обладунок |
+| Steel Ring | Сталеве Кільце |
+| Steel Sabatons | Сталеві Сабатони |
+| Storm Blade | Клинок Бурі |
+| Studded Leather | Заклепаний Шкіряний Обладунок |
+| Stun Powder | Порошок Оглушення |
+| Sun Earring | Сонячна Сережка |
+| Super Healing Potion | Суперлікувальне Зілля |
+| Swordedge Armor | Обладунок з Лезами |
+| Telescopic Lens | Телескопічна Lінза |
+| Thief's Hood | Капюшон Злодія |
+| Tower Shield | Бастіонний Щит |
+| Tremor Blade | Клинок Землетрусу |
+| Unstable Explosives | Нестабільна Вибухівка |
+| Versatile Dagger | Універсальний Кинджал |
+| Volatile Bomb | Нестабільна Бомба |
+| Wall Shield | Стіновий Щит |
+| Wand of Brilliance | Паличка Сяйва |
+| Wand of Darkness | Паличка Темряви |
+| Wand of Frost | Паличка Морозу |
+| Wand of Infernos | Паличка Пекла |
+| Wand of Storms | Паличка Бурі |
+| Wand of Tremors | Паличка Землетрусу |
+| Wave Crest | Гребінь Хвилі |
+| Winged Shoes | Крилаті Черевики |
 
 ## Квести та сценарії (Унікальні назви)
 | Англійська | Українська |
@@ -432,6 +561,249 @@
 | Warding The Void | Захист від Пустки |
 | The Greatest Job in the World | Найкраща робота у світі |
 | Toxic Harvest | Токсичні жнива |
+| A Blade in the Night | Клинок у ночі |
+| A Boon | Дар |
+| A Falling Star | Зірка, що падає |
+| A Great Disturbance | Велике збурення |
+| A Hive of Activity | Гніздо Активності |
+| A Just Cause | Права справа |
+| A Shaky Alliance | Незручний союз |
+| A Tomb of Horrors | Гробниця жахів |
+| Abandoned Sewers | Покинута Каналізація |
+| Accidents Will Happen | Незвички Трапляються |
+| Alchemy Lab | Алхімічна Лабораторія |
+| Allied Assault | Спільний штурм |
+| An Eye for an Eye | Око за Око |
+| An Imbalance in the Elements | Дисбаланс стихій |
+| An Unlikely Alliance | Неймовірний союз |
+| Ancient Cistern | Стародавній Резервуар |
+| Ancient Defense Network | Стародавня Оборонна Мережа |
+| Animal Liberation | Визволення тварин |
+| Arcane Library | Арканна Бібліотека |
+| Armed to the Teeth | Озброєні до зубів |
+| Armoured Conflict | Броньоване протистояння |
+| Back Alley Brawl | Бійка в провулку |
+| Bandit's Wood | Розбійницький Ліс |
+| Bandits on the Prowl | Розбійники на полюванні |
+| Bloody Shack | Кривава Халупа |
+| Bones of Contention | Кістки розбрату |
+| Bounty Hunting | Полювання за головами |
+| Brain Over Brawn | Розум сильніший за м'язи |
+| Break The Ice | Розтопити лід |
+| Broken Harrow | Зламаний плуг |
+| Burning Mountain | Палаюча гора |
+| Call of the Wild | Поклик Предків |
+| Call to Action | Заклик до дії |
+| Caught Off Guard | Зненацька |
+| Chained Isle | Прикутий Острів |
+| Choose A Personal Quest | Виберіть особисте завдання |
+| Civil War | Громадянська Війна |
+| Climb Every Mountain | Підкорити кожну гору |
+| Conceal Personal Quest | Приховати особисте завдання |
+| Corrupted Cove | Осквернена бухта |
+| Crypt Basement | Підвал Крипти |
+| Dead Meat | Свіже М'ясо |
+| Dead to the World | Мертвий для світу |
+| Dealing with Demons | Угода з демонами |
+| Death Becomes Her | Смерть їй личить |
+| Decaying Crypt | Занепадаюча Крипта |
+| Decrepit Wood | Тлінний Ліс |
+| Deep Ruins | Глибокі Руїни |
+| Demonic Dissent | Демонічний Розбрат |
+| Demonic Dissertation | Демонічна дисертація |
+| Demonic Rift | Демонічний розлом |
+| Diamond Mine | Діамантова Шахта |
+| Disenchanted | Розчаровані |
+| Doom Trench | Жолоб Приречених |
+| Drake Nest | Гніздо Дрейків |
+| Drill Power | Сила дриля |
+| Dungeon of Misfortune | Підземелля Нещастя |
+| Déjà vu | Дежавю |
+| Face your Demons | Зіткнутися з демонами |
+| Fading Lookout | Згасаюча Вежа |
+| Fairy Tales | Казки |
+| Faith of the Faithless | Віра невіруючих |
+| Fell Hounds | Люті Гончі |
+| Fire Extinguisher | Вогнегасник |
+| Foggy Thicket | Туманна Чаща |
+| Follow The Ledger | Слідом за Журналом |
+| Forgotten Crypt | Забута Крипта |
+| Forgotten Grove | Забутий Гай |
+| Gift of the Gods | Дарунок Богів |
+| Gloomhaven Battlements A | Оборонні Вали Похмурої Гавані А |
+| Gloomhaven Battlements B | Оборонні Вали Похмурої Гавані Б |
+| Gloomhaven Square A | Площа Похмурої Гавані A |
+| Gloomhaven Square B | Площа Похмурої Гавані B |
+| Gloomhaven Warehouse | Склад Похмурої Гавані |
+| Goin’ Downtown | Розваги в місті |
+| Harried Village | Сплюндроване село |
+| Harrower Hive | Вулик Женців |
+| Heart of Stone | Кам'яне серце |
+| Heart of the Maelstrom | Серце виру |
+| Homecoming | Повернення додому |
+| Hot Under The Collar | Гаряча штучка |
+| Hungry Mouths | Голодні роти |
+| Hunting The Hunters | Полювання на мисливців |
+| I Am Brute | Я — Дикун |
+| Ice to Meet You | Радий заморозити |
+| Infernal Throne | Пекельний Трон |
+| Inn-surrection | Бунт у Таверні |
+| Inox Encampment | Табір Іноксів |
+| Insecticide | Інсектицид |
+| Into The Dark | У темряву |
+| Into The Darkness | У темряву |
+| Into the Dark | У темряву |
+| Into the Viper’s Pit | У зміїне лігво |
+| Investigation | Розслідування |
+| It's All Just A Game | Це всього лише гра |
+| Just One Ring | Всього одне кільце |
+| Lair of the Unseeing Eye | Лігво Незрячого Ока |
+| Lockdown in Lowtown | Карантин у Нижньому Місті |
+| Lost Island | Загублений Острів |
+| Lost Temple | Втрачений храм |
+| Master the Elements | Володіння стихіями |
+| Mind Control | Контроль Розуму |
+| Mind Over Matter | Перевага розуму |
+| Mountain Pass | Гірський Перевал |
+| Mountain Rescue | Порятунок у горах |
+| Necromancer's Sanctum | Святилище Некроманта |
+| Night Raid | Нічний набіг |
+| Night of The Living Sewage | Ніч живих нечистот |
+| Nightmare Peak | Кошмарний Пік |
+| Not Safe for Work | Небезпечно для роботи |
+| Not so Sleepy Hollow | Не така вже й сонна лощина |
+| Noxious Cellar | Отруйний Льох |
+| Official Business | Офіційні справи |
+| Old Friends | Старі друзі |
+| On the Hunt | На Полюванні |
+| Oozing Grove | Гай Слизу |
+| Operation 'Unlock' | Операція «Відмикання» |
+| Outer Ritual Chamber | Зовнішня Ритуальна Зала |
+| Overgrown Graveyard | Заросле Кладовище |
+| Palace of Ice | Палац Льоду |
+| Partner in Crime | Спільник |
+| Pay Day | День оплати |
+| Payback | Відплата |
+| Payment Due | Час платити за рахунками |
+| Pest Control | Боротьба зі шкідниками |
+| Pit of Souls | Яма Душ |
+| Pit of Vipers | Зміїне лігво |
+| Plane of Elemental Power | Вимір Стихійної Сили |
+| Plane of Night | Вимір Ночі |
+| Plane of Water | Вимір Води |
+| Practical Studies | Практичні заняття |
+| Prison Break | Втеча з в'язниці |
+| Prison Painting Party | Вечірка Тюремного Малювання |
+| Protect the Nest | Захистити гніздо |
+| Quaking in their Boots | Душа в п'яти |
+| Radiant Darkness | Сяюча темрява |
+| Raising Hell | Підняття Пекла |
+| Readying for War | Підготовка до війни |
+| Realm of the Voice | Царство Голосу |
+| Rebel Swamp | Повстанське Болото |
+| Rebel's Stand | Оплот Повстанців |
+| Relic Hunters | Мисливці за реліквіями |
+| Rescue Run | Рятувальна місія |
+| Restless Spirits | Невпокоєні духи |
+| Rockslide Ridge | Гребінь Каменепаду |
+| Ruinous Crypt | Руйнівна Крипта |
+| Sacred Pilgrimage | Священне Паломництво |
+| Sacrifice Pit | Яма жертвопринесення |
+| Sanctuary of Gloom | Святилище Мороку |
+| Sandbox Scenario | Сценарій-пісочниця |
+| Savvas Armory | Арсенал Саввасів |
+| Savvas Showdown | Протистояння Саввасів |
+| School's Out | Уроки закінчено |
+| Scorched Summit | Випалена Вершина |
+| Set A Trap | Пастка |
+| Shadow Weald | Тіньова Пуща |
+| Shadows Within | Тіні всередині |
+| Show Personal Quest | Показати особисте завдання |
+| Shrine of Strength | Святилище Сили |
+| Shrine of the Depths | Святилище Глибин |
+| Sickly Sweet | Нудотно солодкий |
+| Slave Pens | Загони для Рабів |
+| Smelting Pot | Плавильний котел |
+| Snake Eyes | Зміїні очі |
+| Something Fishy | Щось підозріле |
+| Something Wicked | Щось лихе |
+| Spice Route | Шлях спецій |
+| Spirited Away | Віднесені привидами |
+| Staff Meeting | Збори з посохом |
+| Stop The Rot | Зупинити Гниль |
+| Stuck In The Mud | Грязьова пастка |
+| Sulfur Mine | Сірчана Шахта |
+| Sun Temple | Храм Сонця |
+| Syndicate Hideout | Сховище синдикату |
+| Take out the trash | Викинути сміття |
+| Temple of the Eclipse | Храм затемнення |
+| Temple of the Seer | Храм Провидця |
+| The Angry Djinns | Розлючені джини |
+| The Burning Light | Палюче світло |
+| The Cave of Temptation | Печера спокуси |
+| The Coast Road | Прибережна дорога |
+| The Corpsewood | Мертволісся |
+| The Dark Brotherhood | Темне братство |
+| The Death of Magic | Смерть магії |
+| The Djinn Palace | Палац Джина |
+| The Drakefens | Драконячі болота |
+| The Eternal Champion | Вічний воїтель |
+| The Final Showdown | Вирішальна сутичка |
+| The Forest of Bloom | Квітучий ліс |
+| The Harrowed House | Осквернений будинок |
+| The Haunting | Привиди |
+| The Heart of The Night | Серце Ночі |
+| The Heart of The Sun | Серце Сонця |
+| The Hollow Men | Порожні люди |
+| The Hounds of Despair | Гончі розпачу |
+| The Lesser of Two Evils | Менше з двох зол |
+| The Lonely Tower | Самотна Вежа |
+| The March North | Марш на північ |
+| The Maze of Mystery | Лабіринт Загадок |
+| The Proving Grounds | Випробувальний полігон |
+| The Rat’s Refrain | Приспів Щура |
+| The Retaliator’s Refrain | Приспів Месника |
+| The Rogue’s Refrain | Приспів Шахрая |
+| The Rumbling Deep | Гуркітливі глибини |
+| The Saltmarsh Flattening | Руйнування Солончаків |
+| The Sanctuary | Святилище |
+| The Shrine of Ashes | Храм Попелу |
+| The Shrine of the Roots | Святилище Коріння |
+| The Shrine of the Verglas | Святилище Вергласа |
+| The Shrine of the Zephyrs | Святилище Зефірів |
+| The Stone Man | Кам'яний Чоловік |
+| The Temple of Ice | Храм льоду |
+| The Thesis | Дисертація |
+| The Trial of the Elements | Випробування Стихій |
+| The Umbran League | Умбранська Ліга |
+| The Unending Blizzard | Нескінченна завірюха |
+| The Vermling Village | Село Вермлінгів |
+| The Void | Пустка |
+| The Wild Things | Там, де живуть чудовиська |
+| The Winds of Change | Вітер змін |
+| Timeworn Tomb | Стародавня Гробниця |
+| Toxic Moor | Токсичне Болото |
+| Treacherous Divide | Підступна Розселина |
+| Trench Foot | Траншейна стопа |
+| Tribal Assault | Штурм Племені |
+| Tunnel Vision | Тунельний зір |
+| Two Tribes | Два Племені |
+| Undead Infestation | Навала нежиті |
+| Under Siege | В облозі |
+| Underwater Lagoon | Підводна Лагуна |
+| Unholy Experiments | Нечестиві експерименти |
+| Vault of Secrets | Сховище Таємниць |
+| Vaults of Pus | Склепи Гною |
+| Vermling Nest | Лігво Вермлінгів |
+| Vibrant Grotto | Квітучий Грот |
+| Vigil Keep | Фортеця Варти |
+| Weird Science | Дивна наука |
+| Welcome Vault Hunters | Ласкаво просимо, шукачі сховищ |
+| Well of the Unfortunate | Колодязь Нещасних |
+| Wild Melee | Дика сутичка |
+| Windswept Highlands | Вітряне Нагір'я |
+| Wrecked Ship | Затонулий Корабель |
+| You Shall Not Pass | Ти не пройдеш |
 
 ## Ігрові терміни та UI
 | Англійська | Українська |
