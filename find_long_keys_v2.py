@@ -17,18 +17,8 @@ FILE_PAIRS = [
 
 # Ability card key patterns: 
 #   NNN_T, NNN_B, NNN_T_1, NNN_B_2, JOTL_NNN_T, JOTL_NNN_B, etc.
-#   Also: XXXX_NNN_T patterns (class-prefixed ability cards)
 ABILITY_KEY_PATTERN = re.compile(
     r'^(?:[A-Za-z]+_)?\d+_[TB](?:_\d+)?$'
-)
-
-# Keys to EXCLUDE from criterion 2 (they are not ability cards, just happen to match)
-# Quest, Scenario, Credits, Tutorial, etc.
-EXCLUDE_PREFIXES = (
-    'Quest_', 'Scenario_', 'Credits_', 'Tutorial_', 'TutorialPopup_',
-    'ITEM_NAME_', 'Item_', 'PQ_', 'CLASS_', 'EVENT_', 'PERK_',
-    'Summon_', 'UNLOCK_', 'RULE_', 'UI_', 'CITY_', 'Modifier_',
-    'Menu_', 'Settings_', 'Tooltip_', 'Help_',
 )
 
 def strip_tags(text):
@@ -53,21 +43,17 @@ def load_entries(filepath):
     return entries
 
 def is_ability_key(key):
-    """Check if a key looks like an ability card key."""
-    # Exclude known non-ability prefixes
-    for prefix in EXCLUDE_PREFIXES:
-        if key.startswith(prefix):
-            return False
+    """Check if a key is an ability card key (NNN_T, NNN_B, JOTL_NNN_T, etc.)."""
     return bool(ABILITY_KEY_PATTERN.match(key))
 
 def main():
     output_lines = []
-    output_lines.append("=== РОЗШИРЕНИЙ СПИСОК КЛЮЧІВ ДЛЯ ОПТИМІЗАЦІЇ ===")
+    output_lines.append("=== СПИСОК КАРТОК ЗДІБНОСТЕЙ ДЛЯ ОПТИМІЗАЦІЇ ===")
+    output_lines.append("Включено ЛИШЕ картки здібностей персонажів (ключі типу NNN_T, NNN_B, JOTL_NNN_T тощо)")
     output_lines.append("Критерії включення:")
-    output_lines.append("  1. UA >10% довше за EN (при UA видимому тексті >30 символів)")
-    output_lines.append("  2. Картки здібностей (_T, _B) де видимий текст UA >100 символів")
-    output_lines.append("     (навіть якщо різниця у відсотках невелика — довгий текст на картці потребує стислості)")
-    output_lines.append("Format: File | Key | EN Length | UA Length | Excess % | Reason")
+    output_lines.append("  1. UA >10% довше за EN (при видимому тексті UA >30 символів)")
+    output_lines.append("  2. Видимий текст UA >100 символів (довгий текст на картці потребує стислості)")
+    output_lines.append("Format: File | Key | EN Len | UA Len | Excess % | Visible UA chars | Reason")
     output_lines.append("")
     
     total_keys = 0
@@ -95,6 +81,10 @@ def main():
             if key not in en_entries:
                 continue
             
+            # ONLY ability card keys
+            if not is_ability_key(key):
+                continue
+            
             en_text = en_entries[key]
             ua_text = ua_entries[key]
             
@@ -111,19 +101,18 @@ def main():
             
             excess_pct = ((ua_len - en_len) / en_len) * 100
             
-            # Criterion 1: UA >10% longer than EN, and UA visible text > 30 chars
+            # Criterion 1: UA >10% longer than EN, and visible text > 30 chars
             criterion1 = (excess_pct > 10 and ua_visible_len > 30)
             
-            # Criterion 2: Ability card key with long visible text (>100 chars)
-            # These are displayed on physical cards with limited space
-            criterion2 = (is_ability_key(key) and ua_visible_len > 100)
+            # Criterion 2: Long visible text on ability card (>100 chars)
+            criterion2 = (ua_visible_len > 100)
             
             if criterion1 or criterion2:
                 reasons = []
                 if criterion1:
                     reasons.append(f">10% довше (+{excess_pct:.1f}%)")
                 if criterion2:
-                    reasons.append(f"довга картка здібності ({ua_visible_len} видимих символів)")
+                    reasons.append(f"довгий текст ({ua_visible_len} символів)")
                 
                 reason_str = " + ".join(reasons)
                 
@@ -162,6 +151,7 @@ def main():
                     f"{ua_file} | {entry['key']} | "
                     f"EN: {entry['en_len']} | UA: {entry['ua_len']} | "
                     f"{'+' if entry['excess_pct'] >= 0 else ''}{entry['excess_pct']:.1f}% | "
+                    f"Visible UA: {entry['ua_visible_len']} | "
                     f"[{entry['reason']}]"
                 )
                 output_lines.append(f"  EN: {entry['en_text']}")
@@ -170,18 +160,18 @@ def main():
     
     output_lines.append("")
     output_lines.append("=" * 60)
-    output_lines.append(f"Загальна кількість ключів для оптимізації: {total_keys}")
-    output_lines.append(f"  - Лише за критерієм 1 (>10% довше): {criteria1_only}")
-    output_lines.append(f"  - Лише за критерієм 2 (довга картка здібності): {criteria2_only}")
+    output_lines.append(f"Загальна кількість карток здібностей для оптимізації: {total_keys}")
+    output_lines.append(f"  - Лише за критерієм 1 (>10% довше, видимий текст >30): {criteria1_only}")
+    output_lines.append(f"  - Лише за критерієм 2 (видимий текст >100 символів): {criteria2_only}")
     output_lines.append(f"  - За обома критеріями: {both_count}")
     
     output_path = r"c:\Users\cakam\Documents\GitHub\GloomHavenUa\long_keys_list.txt"
     with open(output_path, mode='w', encoding='utf-8') as f:
         f.write("\n".join(output_lines))
     
-    print(f"Done! Written {total_keys} keys to {output_path}")
+    print(f"Done! Written {total_keys} ability card keys to {output_path}")
     print(f"  - Criterion 1 only (>10% longer): {criteria1_only}")
-    print(f"  - Criterion 2 only (long ability card): {criteria2_only}")  
+    print(f"  - Criterion 2 only (long visible text >100): {criteria2_only}")  
     print(f"  - Both criteria: {both_count}")
 
 if __name__ == "__main__":
