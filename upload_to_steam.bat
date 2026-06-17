@@ -20,6 +20,7 @@ if not exist "%DEST_DIR%\LangPacks" mkdir "%DEST_DIR%\LangPacks"
 
 copy /Y "%SRC_DIR%\gloom.mod" "%DEST_DIR%\" > nul
 copy /Y "%SRC_DIR%\thumbnail.png" "%DEST_DIR%\" > nul
+copy /Y "%SRC_DIR%\thumbnail.png" "%DEST_DIR%\preview.png" > nul
 xcopy /E /I /Y "%SRC_DIR%\LangPacks" "%DEST_DIR%\LangPacks" > nul
 
 if %ERRORLEVEL% equ 0 (
@@ -37,12 +38,14 @@ set /p STEAM_USER="Login: "
 
 :: VDF File
 set "VDF_FILE=%SRC_DIR%\steamcmd\workshop_upload.vdf"
+set "PREVIEW_FILE=%DEST_DIR%\preview.png"
 (
 echo "workshopitem"
 echo {
 echo   "appid" "780290"
 echo   "publishedfileid" "3400827393"
 echo   "contentfolder" "%DEST_DIR%"
+echo   "previewfile" "%PREVIEW_FILE%"
 echo   "changenote" "Localization update"
 echo }
 ) > "%VDF_FILE%"
