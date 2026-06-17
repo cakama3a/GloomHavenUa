@@ -1,0 +1,6 @@
+
+
+[2026-06-17 15:55:21] Client version: 1781219792
+[2026-06-17 15:55:21] ThreadedReadFromDisk: loading appinfo cache from: C:\Users\cakam\Documents\GitHub\GloomHavenUa/appcache/appinfo.vdf
+[2026-06-17 15:55:21] ThreadedReadFromDisk: failed to open file: C:\Users\cakam\Documents\GitHub\GloomHavenUa/appcache/appinfo.vdf
+[2026-06-17 15:55:21] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize

@@ -1,0 +1,7 @@
+
+
+[2026-06-17 15:55:21] Client version: 1781219792
+[2026-06-17 15:55:21] Failed to read store 'install' from 'C:\Users\cakam\Documents\GitHub\GloomHavenUa\config\config.vdf.tmp'
+[2026-06-17 15:55:21] Failed to read store 'install' from 'C:\Users\cakam\Documents\GitHub\GloomHavenUa\config\config.vdf.tmp'
+[2026-06-17 15:55:21] Failed to read store 'install' from 'C:\Users\cakam\Documents\GitHub\GloomHavenUa\config\config.vdf.tmp'
+[2026-06-17 15:55:21] Flushed store 'install' to 'C:\Users\cakam\Documents\GitHub\GloomHavenUa\config\config.vdf'
