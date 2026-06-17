@@ -1,0 +1,1511 @@
+=== KEYS WHERE UKRAINIAN IS > 10% LONGER THAN ENGLISH ===
+Format: File | Key | EN Length | UA Length | Excess %
+
+
+--- FILE: Main.csv ---
+Main.csv | 002_T | EN: 75 | UA: 87 | +16.0%
+  EN: Gain <sprite name=XP1> for each time you Retaliate <nobr>this round.</nobr>
+  UA: Отримуйте <sprite name=XP1> щоразу, коли здійснюєте ВІДПЛАТУ <nobr>цього раунду.</nobr>
+
+Main.csv | 022_T | EN: 74 | UA: 94 | +27.0%
+  EN: Kill one adjacent normal enemy <nobr>with  STUN <sprite name=Stun></nobr>.
+  UA: Убийте одного сусіднього звичайного ворога <nobr>під дією ОГЛУШЕННЯ <sprite name=Stun></nobr>.
+
+Main.csv | 026_B | EN: 233 | UA: 257 | +10.3%
+  EN: Add +3 <nobr>Attack <sprite name=Attack></nobr> to all your attacks targeting enemies with <nobr>DISARM <sprite name=Disarm></nobr>, <nobr>IMMOBILIZE <sprite name=Immobilize></nobr> or <nobr>STUN <sprite name=Stun></nobr> this round.
+  UA: Додайте +3 до <nobr>АТАКИ <sprite name=Attack></nobr> для всіх ваших атак, спрямованих на ворогів із <nobr>РОЗЗБРОЄННЯМ <sprite name=Disarm></nobr>, <nobr>ПАРАЛІЧЕМ <sprite name=Immobilize></nobr> або <nobr>ОГЛУШЕННЯМ <sprite name=Stun></nobr> цього раунду.
+
+Main.csv | 030_T_1 | EN: 50 | UA: 62 | +24.0%
+  EN: Create one 6 damage trap in an adjacent empty hex.
+  UA: Створіть одну пастку на 6 шкоди в сусідньому порожньому гексі.
+
+Main.csv | 031_T | EN: 12 | UA: 18 | +50.0%
+  EN: Summon Decoy
+  UA: Прикличте Приманку
+
+Main.csv | 043_T | EN: 78 | UA: 95 | +21.8%
+  EN: Create one 2 damage POISON <sprite name=Poison> trap in an adjacent empty hex.
+  UA: Створіть одну пастку з ОТРУЄННЯМ <sprite name=Poison> на 2 шкоди в сусідньому порожньому гексі.
+
+Main.csv | 044_T | EN: 76 | UA: 99 | +30.3%
+  EN: On your next four Heal actions, add <nobr>+2 Heal <sprite name=Heal></nobr>.
+  UA: Для ваших наступних чотирьох дій Лікування додайте <nobr>+2 до ЛІКУВАННЯ <sprite name=Heal></nobr>.
+
+Main.csv | 045_B | EN: 130 | UA: 145 | +11.5%
+  EN: One ally within <nobr>Range <sprite name=Range> 3</nobr> may <nobr>Recover <sprite name=Recover></nobr> one of their burned cards.
+  UA: Один союзник у межах <nobr>ДАЛЬНОСТІ <sprite name=Range> 3</nobr> може <nobr>ВІДНОВИТИ <sprite name=Recover></nobr> одну зі своїх втрачених карт.
+
+Main.csv | 047_B | EN: 64 | UA: 83 | +29.7%
+  EN: Create one STUN<sprite name=Stun> trap in an adjacent empty hex.
+  UA: Створіть одну пастку з ОГЛУШЕННЯМ <sprite name=Stun> у сусідньому порожньому гексі.
+
+Main.csv | 049_T | EN: 17 | UA: 23 | +35.3%
+  EN: Summon Battle Bot
+  UA: Прикличте Бойового Бота
+
+Main.csv | 051_T | EN: 126 | UA: 140 | +11.1%
+  EN: One adjacent ally may <nobr>Refresh <sprite name=Refresh></nobr> one of their consumed Small Items <sprite name=InvSmallItem>.
+  UA: Один сусідній союзник може <nobr>ОНОВИТИ <sprite name=Refresh></nobr> один зі своїх використаних малих предметів <sprite name=InvSmallItem>.
+
+Main.csv | 052_T_2 | EN: 45 | UA: 54 | +20.0%
+  EN: Gain <sprite name=XP1> for each enemy killed.
+  UA: Отримуйте <sprite name=XP1> за кожного вбитого ворога.
+
+Main.csv | 053_B | EN: 169 | UA: 186 | +10.1%
+  EN: At the end of your next four turns, one ally within <nobr>Range <sprite name=Range> 3</nobr> may <nobr>Recover <sprite name=Recover></nobr> one of their discarded cards.
+  UA: Наприкінці ваших наступних чотирьох ходів один союзник у межах <nobr>ДАЛЬНОСТІ <sprite name=Range> 3</nobr> може <nobr>ВІДНОВИТИ <sprite name=Recover></nobr> одну зі своїх скинутих карт.
+
+Main.csv | 055_T | EN: 15 | UA: 21 | +40.0%
+  EN: Summon Kill Bot
+  UA: Прикличте Бота-Вбивцю
+
+Main.csv | 057_T | EN: 92 | UA: 105 | +14.1%
+  EN: All summoned allies within <nobr>Range <sprite name=Range> 3</nobr> <nobr>may perform</nobr>
+  UA: Усі прикликані союзники в межах <nobr>ДАЛЬНОСТІ <sprite name=Range> 3</nobr> <nobr>можуть виконати</nobr>
+
+Main.csv | 069_T_1 | EN: 83 | UA: 96 | +15.7%
+  EN: On your next four attacks, <nobr>add +*TActive* Attack <sprite name=Attack>.</nobr>
+  UA: Для ваших наступних чотирьох атак <nobr>додайте +*TActive* до АТАКИ <sprite name=Attack>.</nobr>
+
+Main.csv | 069_T_1_Alt | EN: 75 | UA: 88 | +17.3%
+  EN: On your next four attacks, <nobr>add +2 Attack <sprite name=Attack>.</nobr>
+  UA: Для ваших наступних чотирьох атак <nobr>додайте +2 до АТАКИ <sprite name=Attack>.</nobr>
+
+Main.csv | 069_T_2 | EN: 43 | UA: 51 | +18.6%
+  EN: Add +2 Attack <sprite name=Attack> instead.
+  UA: Натомість додайте +2 до АТАКИ <sprite name=Attack>.
+
+Main.csv | 071_T | EN: 18 | UA: 29 | +61.1%
+  EN: Summon Mystic Ally
+  UA: Прикличте Містичного Союзника
+
+Main.csv | 076_B_1 | EN: 83 | UA: 104 | +25.3%
+  EN: where X is half of that ally's maximum hit point value <nobr>(rounded down).</nobr>
+  UA: де X — половина максимального значення здоров'я цього союзника <nobr>(округлена в меншу сторону).</nobr>
+
+Main.csv | 076_B_2 | EN: 49 | UA: 59 | +20.4%
+  EN: X is that ally's maximum hit point value instead.
+  UA: Натомість X — максимальне значення здоров'я цього союзника.
+
+Main.csv | 079_B | EN: 111 | UA: 123 | +10.8%
+  EN: On the next five melee attacks targeting you, gain <nobr>Retaliate <sprite name=Retaliate> *BRetaliate*.</nobr>
+  UA: Для наступних п'яти ближніх атак, спрямованих на вас, отримуйте <nobr>ВІДПЛАТУ <sprite name=Retaliate> *BRetaliate*.</nobr>
+
+Main.csv | 080_B | EN: 21 | UA: 27 | +28.6%
+  EN: Summon Burning Avatar
+  UA: Прикличте Палаючого Аватара
+
+Main.csv | 086_B_2 | EN: 108 | UA: 126 | +16.7%
+  EN: Target all enemies within <nobr>Range <sprite name=Range> 4</nobr> of the chosen hex and pull them toward it
+  UA: Виберіть ціллю всіх ворогів у межах <nobr>ДАЛЬНОСТІ <sprite name=Range> 4</nobr> від вибраного гекса та притягніть їх до нього
+
+Main.csv | 087_T_1 | EN: 42 | UA: 56 | +33.3%
+  EN: Target all enemies in the same room as you
+  UA: Виберіть ціллю всіх ворогів у тій самій кімнаті, що й ви
+
+Main.csv | 087_T_2 | EN: 51 | UA: 60 | +17.6%
+  EN: All allies in the same room as you suffer 2 damage.
+  UA: Усі союзники в тій самій кімнаті, що й ви, зазнають 2 шкоди.
+
+Main.csv | 088_B | EN: 126 | UA: 159 | +26.2%
+  EN: On your next four attacks targeting enemies adjacent to none of their allies, add <nobr>+2 Attack <sprite name=Attack>.</nobr>
+  UA: Для ваших наступних чотирьох атак, спрямованих на ворогів, які не сусідять із жодним зі своїх союзників, додайте <nobr>+2 до АТАКИ <sprite name=Attack>.</nobr>
+
+Main.csv | 088_T | EN: 138 | UA: 165 | +19.6%
+  EN: Add <nobr>+2 Attack <sprite name=Attack></nobr> and gain <sprite name=XP1> when the target is adjacent to any <nobr>of your allies.</nobr>
+  UA: Додайте <nobr>+2 до АТАКИ <sprite name=Attack></nobr> та отримайте <sprite name=XP1>, коли ціль знаходиться по сусідству з будь-яким <nobr>із ваших союзників.</nobr>
+
+Main.csv | 092_T | EN: 25 | UA: 31 | +24.0%
+  EN: Disarm one adjacent trap.
+  UA: Знешкодьте одну сусідню пастку.
+
+Main.csv | 097_B_1 | EN: 35 | UA: 41 | +17.1%
+  EN: Force one adjacent enemy to perform
+  UA: Змусьте одного сусіднього ворога виконати
+
+Main.csv | 097_T_2 | EN: 75 | UA: 83 | +10.7%
+  EN: Add <nobr>+2 Attack <sprite name=Attack></nobr> instead, <sprite name=XP1>.
+  UA: Натомість додайте <nobr>+2 до АТАКИ <sprite name=Attack></nobr>, <sprite name=XP1>.
+
+Main.csv | 098_B | EN: 69 | UA: 84 | +21.7%
+  EN: The next time you suffer damage this round, suffer no damage instead.
+  UA: Наступного разу, коли ви зазнаєте шкоди цього раунду, натомість не зазнавайте шкоди.
+
+Main.csv | 099_B | EN: 61 | UA: 90 | +47.5%
+  EN: Loot <sprite name=Loot> every hex you enter with this action.
+  UA: Здійснюйте ЗДОБИЧ <sprite name=Loot> у кожному гексі, в який ви заходите під час цієї дії.
+
+Main.csv | 100_T | EN: 120 | UA: 143 | +19.2%
+  EN: Add WOUND <sprite name=Wound> and gain <sprite name=XP1> when the target is adjacent to any <nobr>of your allies.</nobr>
+  UA: Додайте РАНУ <sprite name=Wound> та отримайте <sprite name=XP1>, коли ціль знаходиться по сусідству з будь-ким <nobr>із ваших союзників.</nobr>
+
+Main.csv | 103_B | EN: 117 | UA: 144 | +23.1%
+  EN: Add +2 Attack <sprite name=Attack> to all your attacks this round targeting enemies adjacent to none of their allies.
+  UA: Додайте +2 до АТАКИ <sprite name=Attack> для всіх ваших атак цього раунду, спрямованих на ворогів, які не сусідять із жодним зі своїх союзників.
+
+Main.csv | 105_T_1 | EN: 138 | UA: 165 | +19.6%
+  EN: Add <nobr>+3 Attack <sprite name=Attack></nobr> and gain <sprite name=XP1> when the target is adjacent to any <nobr>of your allies.</nobr>
+  UA: Додайте <nobr>+3 до АТАКИ <sprite name=Attack></nobr> та отримайте <sprite name=XP1>, коли ціль знаходиться по сусідству з будь-яким <nobr>із ваших союзників.</nobr>
+
+Main.csv | 106_B | EN: 228 | UA: 256 | +12.3%
+  EN: On your next six attacks targeting enemies with <nobr>DISARM <sprite name=Disarm></nobr>, <nobr>IMMOBILIZE <sprite name=Immobilize></nobr> or <nobr>STUN <sprite name=Stun></nobr>, <nobr>add +2 Attack <sprite name=Attack>.</nobr>
+  UA: Для ваших наступних шести атак, спрямованих на ворогів із <nobr>РОЗЗБРОЄННЯМ <sprite name=Disarm></nobr>, <nobr>ПАРАЛІЧЕМ <sprite name=Immobilize></nobr> або <nobr>ОГЛУШЕННЯМ <sprite name=Stun></nobr>, <nobr>додайте +2 до АТАКИ <sprite name=Attack>.</nobr>
+
+Main.csv | 107_T | EN: 123 | UA: 154 | +25.2%
+  EN: Kill one adjacent normal enemy that is adjacent to none of its allies and also adjacent to any <nobr>of your allies.</nobr>
+  UA: Убийте одного сусіднього звичайного ворога, який не сусідній із жодним зі своїх союзників і водночас сусідній із будь-ким <nobr>із ваших союзників.</nobr>
+
+Main.csv | 110_T | EN: 125 | UA: 152 | +21.6%
+  EN: Add <nobr>+4 Attack <sprite name=Attack></nobr> and gain <sprite name=XP2> when the target is adjacent to any of your allies.
+  UA: Додайте <nobr>+4 до АТАКИ <sprite name=Attack></nobr> та отримайте <sprite name=XP2>, коли ціль знаходиться по сусідству з будь-яким із ваших союзників.
+
+Main.csv | 111_B | EN: 169 | UA: 200 | +18.3%
+  EN: On your next attack targeting an enemy adjacent to none of its allies and also adjacent to any of your allies, double the value of the attack and gain <sprite name=XP2>.
+  UA: Для вашої наступної атаки, спрямованої на ворога, який не сусідній із жодним зі своїх союзників і водночас сусідній із будь-яким із ваших союзників, подвойте силу атаки та отримайте <sprite name=XP2>.
+
+Main.csv | 111_T | EN: 121 | UA: 139 | +14.9%
+  EN: Target one enemy within <nobr>Range <sprite name=Range> 3</nobr> to suffer the effects of the <nobr>disarmed trap</nobr>.
+  UA: Виберіть ціллю одного ворога в межах <nobr>ДАЛЬНОСТІ <sprite name=Range> 3</nobr>, щоб він зазнав ефектів <nobr>знешкодженої пастки</nobr>.
+
+Main.csv | 113_B | EN: 78 | UA: 88 | +12.8%
+  EN: Kill one adjacent enemy whose current hit point value is equal or less than 3.
+  UA: Убийте одного сусіднього ворога, чиє поточне значення здоров'я дорівнює або менше ніж 3.
+
+Main.csv | 116_B | EN: 110 | UA: 123 | +11.8%
+  EN: On the next six melee attacks targeting you, gain <nobr>Retaliate <sprite name=Retaliate> *BRetaliate*.</nobr>
+  UA: Для наступних шести ближніх атак, спрямованих на вас, отримуйте <nobr>ВІДПЛАТУ <sprite name=Retaliate> *BRetaliate*.</nobr>
+
+Main.csv | 118_B | EN: 63 | UA: 71 | +12.7%
+  EN: Create two single-hex obstacles in empty hexes adjacent to you.
+  UA: Створіть дві одногексові перешкоди в порожніх гексах, сусідніх із вами.
+
+Main.csv | 121_T | EN: 78 | UA: 95 | +21.8%
+  EN: On your next four ranged Attack actions, gain ADD TARGET <sprite name=Target>.
+  UA: Для ваших наступних чотирьох дій далекобійної Атаки отримайте ДОДАТИ ЦІЛЬ <sprite name=Target>.
+
+Main.csv | 127_B | EN: 76 | UA: 87 | +14.5%
+  EN: Add +1 Attack <sprite name=Attack> to all of your ranged attacks this round.
+  UA: Додайте +1 до АТАКИ <sprite name=Attack> для всіх ваших далекобійних атак цього раунду.
+
+Main.csv | 130_T | EN: 53 | UA: 63 | +18.9%
+  EN: Target all enemies adjacent to the destroyed obstacle
+  UA: Виберіть ціллю всіх ворогів, сусідніх зі зруйнованою перешкодою
+
+Main.csv | 132_B | EN: 57 | UA: 71 | +24.6%
+  EN: Destroy all obstacles and disarm all traps moved through.
+  UA: Руйнуйте всі перешкоди та знешкоджуйте всі пастки, через які проходите.
+
+Main.csv | 132_T_1 | EN: 102 | UA: 117 | +14.7%
+  EN: Move one adjacent single-hex obstacle to an empty hex within <nobr>Range <sprite name=Range> 4</nobr>.
+  UA: Перемістіть одну сусідню одногексову перешкоду на порожній гекс у межах <nobr>ДАЛЬНОСТІ <sprite name=Range> 4</nobr>.
+
+Main.csv | 132_T_2 | EN: 49 | UA: 63 | +28.6%
+  EN: Target all enemies adjacent to the moved obstacle
+  UA: Виберіть ціллю всіх ворогів, сусідніх із переміщеною перешкодою
+
+Main.csv | 136_T_1 | EN: 70 | UA: 85 | +21.4%
+  EN: Kill one normal enemy within <nobr>Range <sprite name=Range> 4.</nobr>
+  UA: Убийте одного звичайного ворога в межах <nobr>ДАЛЬНОСТІ <sprite name=Range> 4.</nobr>
+
+Main.csv | 137_B | EN: 128 | UA: 144 | +12.5%
+  EN: On your next four melee attacks, when possible, destroy an adjacent obstacle to add <nobr>+3 Attack <sprite name=Attack></nobr>.
+  UA: Для ваших наступних чотирьох ближніх атак, за можливості, зруйнуйте сусідню перешкоду, щоб додати <nobr>+3 до АТАКИ <sprite name=Attack>.</nobr>
+
+Main.csv | 138_T | EN: 74 | UA: 94 | +27.0%
+  EN: Create one 2 damage STUN <sprite name=Stun> trap in an adjacent empty hex.
+  UA: Створіть одну пастку з ОГЛУШЕННЯМ <sprite name=Stun> на 2 шкоди в сусідньому порожньому гексі.
+
+Main.csv | 140_T_1 | EN: 104 | UA: 115 | +10.6%
+  EN: Create one three-hex triangular obstacle in empty hexes within <nobr>Range <sprite name=Range> 3</nobr>.
+  UA: Створіть одну тригексову трикутну перешкоду в порожніх гексах у межах <nobr>ДАЛЬНОСТІ <sprite name=Range> 3</nobr>.
+
+Main.csv | 140_T_2 | EN: 43 | UA: 56 | +30.2%
+  EN: Target all enemies adjacent to the obstacle
+  UA: Виберіть ціллю всіх ворогів, сусідніх із цією перешкодою
+
+Main.csv | 141_B_1 | EN: 76 | UA: 87 | +14.5%
+  EN: Add +1 Attack <sprite name=Attack> to all of your ranged attacks this round.
+  UA: Додайте +1 до АТАКИ <sprite name=Attack> для всіх ваших далекобійних атак цього раунду.
+
+Main.csv | 141_B_1_Alt | EN: 76 | UA: 87 | +14.5%
+  EN: Add +2 Attack <sprite name=Attack> to all of your ranged attacks this round.
+  UA: Додайте +2 до АТАКИ <sprite name=Attack> для всіх ваших далекобійних атак цього раунду.
+
+Main.csv | 141_B_2 | EN: 62 | UA: 70 | +12.9%
+  EN: Add +2 Attack <sprite name=Attack> instead, <sprite name=XP1>.
+  UA: Натомість додайте +2 до АТАКИ <sprite name=Attack>, <sprite name=XP1>.
+
+Main.csv | 144_B | EN: 104 | UA: 116 | +11.5%
+  EN: All allies and enemies adjacent to any hexes you enter during the movement suffer <nobr>2 damage.</nobr>
+  UA: Усі союзники та вороги, сусідні з будь-якими гексами, в які ви заходите під час руху, зазнають <nobr>2 шкоди.</nobr>
+
+Main.csv | 146_B_1 | EN: 75 | UA: 84 | +12.0%
+  EN: Force one enemy within <nobr>Range <sprite name=Range> 5 </nobr> to perform
+  UA: Змусьте одного ворога в межах <nobr>ДАЛЬНОСТІ <sprite name=Range> 5 </nobr> виконати
+
+Main.csv | 150_T | EN: 17 | UA: 22 | +29.4%
+  EN: Summon Plague Rat
+  UA: Прикличте Чумного Щура
+
+Main.csv | 152_B | EN: 75 | UA: 84 | +12.0%
+  EN: Force one enemy within <nobr>Range <sprite name=Range> 4 </nobr> to perform
+  UA: Змусьте одного ворога в межах <nobr>ДАЛЬНОСТІ <sprite name=Range> 4 </nobr> виконати
+
+Main.csv | 157_B | EN: 81 | UA: 92 | +13.6%
+  EN: One ally within <nobr>Range <sprite name=Range> 3</nobr> <nobr>may perform</nobr>
+  UA: Один союзник у межах <nobr>ДАЛЬНОСТІ <sprite name=Range> 3</nobr> <nobr>може виконати</nobr>
+
+Main.csv | 157_T | EN: 29 | UA: 35 | +20.7%
+  EN: One adjacent ally may perform
+  UA: Один сусідній союзник може виконати
+
+Main.csv | 159_T | EN: 20 | UA: 26 | +30.0%
+  EN: Summon Monstrous Rat
+  UA: Прикличте Чудовищного Щура
+
+Main.csv | 160_B | EN: 169 | UA: 191 | +13.0%
+  EN: Force one normal or elite enemy within <nobr>Range <sprite name=Range> 3</nobr> to perform its turn this round as if its allies were enemies and its enemies were allies.
+  UA: Змусьте одного звичайного або елітного ворога в межах <nobr>ДАЛЬНОСТІ <sprite name=Range> 3</nobr> виконати свій хід цього раунду так, ніби його союзники були ворогами, а вороги — союзниками.
+
+Main.csv | 163_T | EN: 53 | UA: 66 | +24.5%
+  EN: Gain one additional gold pile for each adjacent enemy
+  UA: Отримайте один додатковий стос золота за кожного сусіднього ворога
+
+Main.csv | 164_T_1 | EN: 70 | UA: 85 | +21.4%
+  EN: Kill one normal enemy within <nobr>Range <sprite name=Range> 4.</nobr>
+  UA: Убийте одного звичайного ворога в межах <nobr>ДАЛЬНОСТІ <sprite name=Range> 4.</nobr>
+
+Main.csv | 164_T_2 | EN: 47 | UA: 55 | +17.0%
+  EN: Target all enemies adjacent to the killed enemy
+  UA: Виберіть ціллю всіх ворогів, сусідніх із вбитим ворогом
+
+Main.csv | 166_B | EN: 75 | UA: 84 | +12.0%
+  EN: Force one enemy within <nobr>Range <sprite name=Range> 5 </nobr> to perform
+  UA: Змусьте одного ворога в межах <nobr>ДАЛЬНОСТІ <sprite name=Range> 5 </nobr> виконати
+
+Main.csv | 173_T_1 | EN: 15 | UA: 25 | +66.7%
+  EN: Summon Rat King
+  UA: Прикличте Щурячого Короля
+
+Main.csv | 173_T_2 | EN: 65 | UA: 90 | +38.5%
+  EN: X is half of <nobr>Rat King's</nobr> current health (rounded up).
+  UA: X — половина поточного здоров'я <nobr>Щурячого Короля</nobr> (округлена в більшу сторону).
+
+Main.csv | 175_T | EN: 111 | UA: 123 | +10.8%
+  EN: On the next five melee attacks targeting you, gain <nobr>Retaliate <sprite name=Retaliate> *TRetaliate*.</nobr>
+  UA: Для наступних п'яти ближніх атак, спрямованих на вас, отримуйте <nobr>ВІДПЛАТУ <sprite name=Retaliate> *TRetaliate*.</nobr>
+
+Main.csv | 177_T | EN: 91 | UA: 101 | +11.0%
+  EN: One adjacent ally may <nobr>Recover <sprite name=Recover></nobr> one of their burned cards.
+  UA: Один сусідній союзник може <nobr>ВІДНОВИТИ <sprite name=Recover></nobr> одну зі своїх втрачених карт.
+
+Main.csv | 184_B | EN: 54 | UA: 67 | +24.1%
+  EN: Deduct -1 Move <sprite name=Move> from all your moves.
+  UA: Відніміть -1 від РУХУ <sprite name=Move> для всіх ваших переміщень.
+
+Main.csv | 185_T | EN: 50 | UA: 63 | +26.0%
+  EN: Heal all damage on one <nobr>adjacent ally.</nobr>
+  UA: Вилікуйте всю шкоду на одному <nobr>сусідньому союзнику.</nobr>
+
+Main.csv | 192_B | EN: 83 | UA: 94 | +13.3%
+  EN: All allies within <nobr>Range <sprite name=Range> 5</nobr> <nobr>may perform</nobr>
+  UA: Усі союзники в межах <nobr>ДАЛЬНОСТІ <sprite name=Range> 5</nobr> <nobr>можуть виконати</nobr>
+
+Main.csv | 194_B | EN: 122 | UA: 150 | +23.0%
+  EN: All attacks targeting you or any ally within <nobr>Range <sprite name=Range> 4</nobr> of you gain Disadvantage this round.
+  UA: Усі атаки, спрямовані на вас або будь-якого союзника в межах <nobr>ДАЛЬНОСТІ <sprite name=Range> 4</nobr> від вас, отримують ускладнення цього раунду.
+
+Main.csv | 197_B | EN: 85 | UA: 102 | +20.0%
+  EN: All allies add <nobr>+2 Move <sprite name=Move></nobr> to all their moves this round.
+  UA: Усі союзники додають <nobr>+2 до РУХУ <sprite name=Move></nobr> до всіх своїх переміщень цього раунду.
+
+Main.csv | 202_T | EN: 57 | UA: 73 | +28.1%
+  EN: Kill one normal or elite enemy instead, <sprite name=XP1>
+  UA: Натомість убийте одного звичайного або елітного ворога, <sprite name=XP1>
+
+Main.csv | 204_T | EN: 78 | UA: 92 | +17.9%
+  EN: When any ally suffers damage, you may suffer that damage reduced by 1 instead.
+  UA: Коли будь-який союзник зазнає шкоди, ви можете натомість зазнати цієї шкоди, зменшеної на 1.
+
+Main.csv | 205_T | EN: 139 | UA: 163 | +17.3%
+  EN: All allies within <nobr>Range <sprite name=Range> 2</nobr> <nobr>Refresh <sprite name=Refresh></nobr> one of their spent or consumed items.
+  UA: Усі союзники в межах <nobr>ДАЛЬНОСТІ <sprite name=Range> 2</nobr> <nobr>ОНОВЛЮЮТЬ <sprite name=Refresh></nobr> один зі своїх витрачених або використаних предметів.
+
+Main.csv | 217_T | EN: 202 | UA: 230 | +13.9%
+  EN: You or one adjacent ally may <nobr>Refresh <sprite name=Refresh></nobr> one spent or consumed <nobr>One-Hand Item <sprite name=InvOneHand></nobr> or <nobr>Two-Hand Item <sprite name=InvTwoHands></nobr>.
+  UA: Ви або один сусідній союзник можете <nobr>ОНОВИТИ <sprite name=Refresh></nobr> один витрачений або використаний <nobr>одноручний предмет <sprite name=InvOneHand></nobr> або <nobr>дворучний предмет <sprite name=InvTwoHands></nobr>.
+
+Main.csv | 223_T | EN: 93 | UA: 104 | +11.8%
+  EN: At the end of each round, <nobr>Refresh <sprite name=Refresh></nobr> one of your spent items.
+  UA: Наприкінці кожного раунду <nobr>ОНОВІТЬ <sprite name=Refresh></nobr> один зі своїх витрачених предметів.
+
+Main.csv | 226_T | EN: 129 | UA: 145 | +12.4%
+  EN: If any adjacent ally performs a ranged attack action, that ally gains <nobr>ADD TARGET<sprite name=Target></nobr> for the attack.
+  UA: Якщо будь-який сусідній союзник виконує дію далекобійної атаки, цей союзник отримує <nobr>ДОДАТИ ЦІЛЬ <sprite name=Target></nobr> для цієї атаки.
+
+Main.csv | 228_T | EN: 95 | UA: 128 | +34.7%
+  EN: Each time you long rest, <nobr>Refresh <sprite name=Refresh></nobr> one of your consumed items.
+  UA: Щоразу, коли ви здійснюєте довгий відпочинок, <nobr>ОНОВЛЮЙТЕ <sprite name=Refresh></nobr> один зі своїх використаних предметів.
+
+Main.csv | 230_T | EN: 122 | UA: 135 | +10.7%
+  EN: At the end of your next five turns, perform a "<nobr>Heal <sprite name=Heal> 2</nobr>, Affect all adjacent allies" action.
+  UA: Наприкінці ваших наступних п'яти ходів виконайте дію «<nobr>Лікування <sprite name=Heal> 2</nobr>, Впливає на всіх сусідніх союзників».
+
+Main.csv | 231_T | EN: 40 | UA: 56 | +40.0%
+  EN: Kill one adjacent normal or elite enemy.
+  UA: Убийте одного сусіднього звичайного або елітного ворога.
+
+Main.csv | 235_B | EN: 79 | UA: 95 | +20.3%
+  EN: All attacks targeting you and all summoned allies gain Disadvantage this round.
+  UA: Усі атаки, спрямовані на вас та всіх прикликаних союзників, отримують ускладнення цього раунду.
+
+Main.csv | 238_T | EN: 35 | UA: 41 | +17.1%
+  EN: One adjacent summoned ally performs
+  UA: Один сусідній прикликаний союзник виконує
+
+Main.csv | 250_T | EN: 75 | UA: 87 | +16.0%
+  EN: Two summoned allies within <nobr>Range <sprite name=Range> 2</nobr> perform
+  UA: Два прикликаних союзники в межах <nobr>ДАЛЬНОСТІ <sprite name=Range> 2</nobr> виконують
+
+Main.csv | 257_T | EN: 88 | UA: 97 | +10.2%
+  EN: The next three times summoned allies would suffer damage, they suffer no damage instead.
+  UA: Наступні три рази, коли прикликані союзники мали зазнати шкоди, вони натомість не зазнають шкоди.
+
+Main.csv | 258_B | EN: 42 | UA: 54 | +28.6%
+  EN: Swap positions with any one summoned ally.
+  UA: Поміняйтеся місцями з будь-яким прикликаним союзником.
+
+Main.csv | 258_T | EN: 74 | UA: 85 | +14.9%
+  EN: One summoned ally within <nobr>Range <sprite name=Range> 3</nobr> performs
+  UA: Один прикликаний союзник у межах <nobr>ДАЛЬНОСТІ <sprite name=Range> 3</nobr> виконує
+
+Main.csv | 260_B | EN: 75 | UA: 86 | +14.7%
+  EN: All summoned allies within <nobr>Range <sprite name=Range> 3</nobr> perform
+  UA: Усі прикликані союзники в межах <nobr>ДАЛЬНОСТІ <sprite name=Range> 3</nobr> виконують
+
+Main.csv | 268_T | EN: 133 | UA: 164 | +23.3%
+  EN: Add <nobr>+2 Attack <sprite name=Attack></nobr> and gain <sprite name=XP1> if you are <nobr>INVISIBLE <sprite name=Invisible></nobr>.
+  UA: Додайте <nobr>+2 до АТАКИ <sprite name=Attack></nobr> та отримайте <sprite name=XP1>, якщо ви перебуваєте під дією <nobr>НЕВИДИМОСТІ <sprite name=Invisible></nobr>.
+
+Main.csv | 271_B | EN: 66 | UA: 85 | +28.8%
+  EN: Move to any unoccupied hex. You cannot move through a closed door.
+  UA: Перемістіться на будь-який порожній гекс. Ви не можете рухатися крізь зачинені двері.
+
+Main.csv | 274_T | EN: 126 | UA: 147 | +16.7%
+  EN: Add <nobr>STUN <sprite name=Stun></nobr> and gain <sprite name=XP1> if you are <nobr>INVISIBLE <sprite name=Invisible></nobr>.
+  UA: Додайте ОГЛУШЕННЯ <sprite name=Stun> та отримайте <sprite name=XP1>, якщо ви перебуваєте під дією <nobr>НЕВИДИМОСТІ <sprite name=Invisible></nobr>.
+
+Main.csv | 283_T_2 | EN: 70 | UA: 91 | +30.0%
+  EN: You can target <nobr>INVISIBLE <sprite name=Invisible></nobr> enemies.
+  UA: Ви можете вибирати ціллю ворогів під дією <nobr>НЕВИДИМОСТІ <sprite name=Invisible></nobr>.
+
+Main.csv | 286_T | EN: 212 | UA: 249 | +17.5%
+  EN: Add <nobr>POISON <sprite name=Poison></nobr>, <nobr>MUDDLE <sprite name=Muddle></nobr>, <nobr>WOUND <sprite name=Wound></nobr> and gain <sprite name=XP1> if you are <nobr>INVISIBLE <sprite name=Invisible></nobr>.
+  UA: Додайте <nobr>ОТРУЄННЯ <sprite name=Poison></nobr>, <nobr>ДЕЗОРІЄНТАЦІЮ <sprite name=Muddle></nobr>, <nobr>РАНУ <sprite name=Wound></nobr> та отримайте <sprite name=XP1>, якщо ви перебуваєте под дією <nobr>НЕВИДИМОСТІ <sprite name=Invisible></nobr>.
+
+Main.csv | 287_B | EN: 50 | UA: 62 | +24.0%
+  EN: Kill one adjacent normal enemy, <sprite name=XP1>.
+  UA: Убийте одного сусіднього звичайного ворога, <sprite name=XP1>.
+
+Main.csv | 287_T | EN: 51 | UA: 59 | +15.7%
+  EN: Kill all normal targets instead, <sprite name=XP2>.
+  UA: Натомість убийте всіх звичайних ворогів, <sprite name=XP2>.
+
+Main.csv | 290_B | EN: 78 | UA: 93 | +19.2%
+  EN: Deduct <nobr>-1 Range <sprite name=Range></nobr> from all your ranged attacks.
+  UA: Відніміть <nobr>-1 від ДАЛЬНОСТІ <sprite name=Range></nobr> для всіх ваших далекобійних атак.
+
+Main.csv | 305_T | EN: 116 | UA: 138 | +19.0%
+  EN: Kill one normal enemy with <nobr>POISON <sprite name=Poison></nobr> within <nobr>Range <sprite name=Range> 3.</nobr>
+  UA: Убийте одного звичайного ворога зі станом <nobr>ОТРУЄННЯ <sprite name=Poison></nobr> в межах <nobr>ДАЛЬНОСТІ <sprite name=Range> 3.</nobr>
+
+Main.csv | 316_T | EN: 198 | UA: 236 | +19.2%
+  EN: During your next six Attack actions, <nobr>CURSE <sprite name=Curse></nobr> one ally within <nobr>Range <sprite name=Range> 2</nobr> to gain two <nobr>ADD TARGET <sprite name=Target></nobr> effects.
+  UA: Під час ваших наступних шести дій Атаки накладіть <nobr>ПРОКЛЯТТЯ <sprite name=Curse></nobr> на одного союзника в межах <nobr>ДАЛЬНОСТІ <sprite name=Range> 2</nobr>, щоб отримати два ефекти <nobr>ДОДАТИ ЦІЛЬ <sprite name=Target></nobr>.
+
+Main.csv | 318_B_1 | EN: 86 | UA: 96 | +11.6%
+  EN: All allies with <nobr>POISON <sprite name=Poison></nobr> suffer <nobr>2 damage.</nobr>
+  UA: Усі союзники зі станом <nobr>ОТРУЄННЯ <sprite name=Poison></nobr> зазнають <nobr>2 шкоди.</nobr>
+
+Main.csv | 318_B_2 | EN: 135 | UA: 154 | +14.1%
+  EN: For each two allies damaged, add <nobr>+1 Attack <sprite name=Attack></nobr> to all your attacks this round and gain <sprite name=XP1>.
+  UA: За кожних двох травмованих союзників додайте <nobr>+1 до АТАКИ <sprite name=Attack></nobr> до всіх ваших атак цього раунду та отримайте <sprite name=XP1>.
+
+Main.csv | 320_B | EN: 116 | UA: 149 | +28.4%
+  EN: If you have fewer hit points than half your maximum hit point value (rounded up), gain <sprite name=XP1> and perform
+  UA: Якщо у вас менше здоров'я, ніж половина вашого максимального значення здоров'я (округлена в більшу сторону), отримайте <sprite name=XP1> та виконайте
+
+Main.csv | 321_T | EN: 102 | UA: 114 | +11.8%
+  EN: You may suffer 2 damage to add <nobr>+2 Attack <sprite name=Attack></nobr> and gain <sprite name=XP1>.
+  UA: Ви можете зазнати 2 шкоди, щоб додати <nobr>+2 до АТАКИ <sprite name=Attack></nobr> та отримати <sprite name=XP1>.
+
+Main.csv | 322_T | EN: 167 | UA: 198 | +18.6%
+  EN: Add <nobr>+2 Attack <sprite name=Attack></nobr> and gain <sprite name=XP1> if your current hit point value is less than half your maximum hit point value (rounded up).
+  UA: Додайте <nobr>+2 до АТАКИ <sprite name=Attack></nobr> та отримайте <sprite name=XP1>, якщо ваше поточне здоров'я менше половини вашого максимального значення здоров'я (округленого в більшу сторону).
+
+Main.csv | 324_T | EN: 73 | UA: 90 | +23.3%
+  EN: Suffer damage equal to half of your current hit point value (rounded up).
+  UA: Зазнайте шкоди в розмірі половини вашого поточного здоров'я (округленої в більшу сторону).
+
+Main.csv | 325_B | EN: 80 | UA: 98 | +22.5%
+  EN: The next four times you are healed, add <nobr>+2 Heal <sprite name=Heal></nobr>.
+  UA: Наступні чотири рази, коли вас вилікують, додайте <nobr>+2 до ЛІКУВАННЯ <sprite name=Heal></nobr>.
+
+Main.csv | 331_B | EN: 83 | UA: 110 | +32.5%
+  EN: You may suffer 2 damage to <nobr>STUN <sprite name=Stun></nobr> one adjacent enemy.
+  UA: Ви можете зазнати 2 шкоди, щоб накласти <nobr>ОГЛУШЕННЯ <sprite name=Stun></nobr> на одного сусіднього ворога.
+
+Main.csv | 332_B | EN: 80 | UA: 91 | +13.8%
+  EN: All melee attacks targeting you add <nobr>+1 Attack <sprite name=Attack></nobr>.
+  UA: Усі ближні атаки, спрямовані на вас, додають <nobr>+1 до АТАКИ <sprite name=Attack></nobr>.
+
+Main.csv | 333_B | EN: 141 | UA: 169 | +19.9%
+  EN: Add <nobr>+2 Move <sprite name=Move></nobr> if you have fewer hit points than half of your maximum hit point value <nobr>(rounded up).</nobr>
+  UA: Додайте <nobr>+2 до РУХУ <sprite name=Move></nobr>, якщо ваше здоров'я менше половини вашого максимального значення здоров'я <nobr>(округленого в більшу сторону).</nobr>
+
+Main.csv | 337_B | EN: 105 | UA: 118 | +12.4%
+  EN: Gain advantage on all of your attacks this round. All attacks targeting you gain Disadvantage this round.
+  UA: Отримайте перевагу для всіх ваших атак цього раунду. Усі атаки, спрямовані на вас, отримують ускладнення цього раунду.
+
+Main.csv | 337_B_2 | EN: 55 | UA: 65 | +18.2%
+  EN: All attacks targeting you gain Disadvantage this round.
+  UA: Усі атаки, спрямовані на вас, отримують ускладнення цього раунду.
+
+Main.csv | 338_B | EN: 167 | UA: 194 | +16.2%
+  EN: Add <nobr>+1 Attack <sprite name=Attack></nobr> to all your attacks when you have fewer hit points than half of your maximum hit point value <nobr>(rounded up).</nobr>
+  UA: Додайте <nobr>+1 до АТАКИ <sprite name=Attack></nobr> до всіх ваших атак, коли ваше здоров'я менше за половину вашого максимального значення здоров'я <nobr>(округленого в більшу сторону).</nobr>
+
+Main.csv | 338_T | EN: 167 | UA: 192 | +15.0%
+  EN: Gain <nobr>Shield <sprite name=Shield> 1</nobr> and <sprite name=XP1> if you have fewer hit points than half of your maximum hit point value <nobr>(rounded up).</nobr>
+  UA: Отримайте <nobr>ЩИТ <sprite name=Shield> 1</nobr> та <sprite name=XP1>, якщо ваше здоров'я менше за половину вашого максимального значення здоров'я <nobr>(округленого в більшу сторону).</nobr>
+
+Main.csv | 341_B | EN: 91 | UA: 124 | +36.3%
+  EN: If you short rest during your next turn, gain all the benefits of a <nobr>long rest</nobr>.
+  UA: Якщо ви здійсните короткий відпочинок під час свого наступного ходу, отримайте всі переваги <nobr>довгого відпочинку</nobr>.
+
+Main.csv | 343_T | EN: 164 | UA: 186 | +13.4%
+  EN: <nobr>WOUND <sprite name=Wound></nobr> self and all adjacent allies to add <nobr>PUSH <sprite name=Push> 2,</nobr> <nobr>IMMOBILIZE <sprite name=Immobilize>.</nobr>
+  UA: Накладіть <nobr>РАНУ <sprite name=Wound></nobr> на себе та всіх сусідніх союзників, щоб додати <nobr>ПОШТОВХ <sprite name=Push> 2</nobr> та <nobr>ПАРАЛІЧ <sprite name=Immobilize>.</nobr>
+
+Main.csv | 347_T | EN: 87 | UA: 99 | +13.8%
+  EN: Perform a "<nobr>Heal <sprite name=Heal> 2</nobr>, Self" action for each enemy damaged.
+  UA: Виконайте дію «<nobr>Лікування <sprite name=Heal> 2</nobr>, на Себе» за кожного ушкодженого ворога.
+
+Main.csv | 348_T | EN: 80 | UA: 91 | +13.8%
+  EN: All allies add +1 Attack <sprite name=Attack> to one of their attacks each turn.
+  UA: Усі союзники додають +1 до АТАКИ <sprite name=Attack> до однієї зі своїх атак кожного ходу.
+
+Main.csv | 349_B | EN: 128 | UA: 150 | +17.2%
+  EN: The next time any ally within <nobr>Range <sprite name=Range> 2</nobr> suffers damage this round, they suffer no damage instead.
+  UA: Наступного разу, коли будь-який союзник у межах <nobr>ДАЛЬНОСТІ <sprite name=Range> 2</nobr> зазнає шкоди цього раунду, він натомість не зазнає шкоди.
+
+Main.csv | 350_T | EN: 159 | UA: 179 | +12.6%
+  EN: All allies add <nobr>+1 Move <sprite name=Move></nobr> to all their Move actions and add <nobr>+1 Range <sprite name=Range></nobr> to all their ranged attacks.
+  UA: Усі союзники додають <nobr>+1 до РУХУ <sprite name=Move></nobr> до всіх своїх дій Руху та додають <nobr>+1 до ДАЛЬНОСТІ <sprite name=Range></nobr> до всіх своїх далекобійних атак.
+
+Main.csv | 352_B | EN: 81 | UA: 92 | +13.6%
+  EN: One ally within <nobr>Range <sprite name=Range> 3</nobr> <nobr>may perform</nobr>
+  UA: Один союзник у межах <nobr>ДАЛЬНОСТІ <sprite name=Range> 3</nobr> <nobr>може виконати</nobr>
+
+Main.csv | 358_T | EN: 136 | UA: 180 | +32.4%
+  EN: The next five times you <nobr>CURSE <sprite name=Curse></nobr> an enemy, <nobr>CURSE <sprite name=Curse></nobr> them an additional time.
+  UA: Наступні п'ять разів, коли ви накладаєте <nobr>ПРОКЛЯТТЯ <sprite name=Curse></nobr> на ворога, накладіть на нього <nobr>ПРОКЛЯТТЯ <sprite name=Curse></nobr> ще один додатковий раз.
+
+Main.csv | 365_T | EN: 24 | UA: 31 | +29.2%
+  EN: Any one ally may perform
+  UA: Будь-який союзник може виконати
+
+Main.csv | 370_T | EN: 137 | UA: 154 | +12.4%
+  EN: At the beginning of each of your turns, <nobr>CURSE <sprite name=Curse></nobr> one enemy within <nobr>Range <sprite name=Range> 5</nobr>.
+  UA: На початку кожного вашого ходу накладіть <nobr>ПРОКЛЯТТЯ <sprite name=Curse></nobr> на одного ворога в межах <nobr>ДАЛЬНОСТІ <sprite name=Range> 5</nobr>.
+
+Main.csv | 371_B | EN: 83 | UA: 94 | +13.3%
+  EN: All allies within <nobr>Range <sprite name=Range> 3</nobr> <nobr>may perform</nobr>
+  UA: Усі союзники в межах <nobr>ДАЛЬНОСТІ <sprite name=Range> 3</nobr> <nobr>можуть виконати</nobr>
+
+Main.csv | 375_B | EN: 83 | UA: 94 | +13.3%
+  EN: Two allies within <nobr>Range <sprite name=Range> 3</nobr> <nobr>may perform</nobr>
+  UA: Два союзники в межах <nobr>ДАЛЬНОСТІ <sprite name=Range> 3</nobr> <nobr>можуть виконати</nobr>
+
+Main.csv | 376_B | EN: 89 | UA: 102 | +14.6%
+  EN: Add <nobr>+2 Attack <sprite name=Attack></nobr> to all your attacks targeting this enemy.
+  UA: Додайте <nobr>+2 до АТАКИ <sprite name=Attack></nobr> до всіх ваших атак, спрямованих на цього ворога.
+
+Main.csv | 378_B | EN: 55 | UA: 61 | +10.9%
+  EN: When this enemy dies, move to the hex in which it died.
+  UA: Коли цей ворог помирає, перемістіться в гекс, де він загинув.
+
+Main.csv | 381_B | EN: 101 | UA: 115 | +13.9%
+  EN: All allies add <nobr>+1 Attack <sprite name=Attack></nobr> to all their attacks targeting this enemy.
+  UA: Усі союзники додають <nobr>+1 до АТАКИ <sprite name=Attack></nobr> до всіх своїх атак, спрямованих на цього ворога.
+
+Main.csv | 382_T_1 | EN: 50 | UA: 62 | +24.0%
+  EN: Create one 3 damage trap in an adjacent empty hex.
+  UA: Створіть одну пастку на 3 шкоди в сусідньому порожньому гексі.
+
+Main.csv | 387_T | EN: 161 | UA: 188 | +16.8%
+  EN: Add <nobr>+2 Attack <sprite name=Attack></nobr> and gain <sprite name=XP1> if the target is <nobr><b><color=#39BEED>Doomed</color> <sprite name=Doom></b></nobr>.
+  UA: Додайте <nobr>+2 до АТАКИ <sprite name=Attack></nobr> та отримайте <sprite name=XP1>, якщо ціль перебуває під дією <nobr><b><color=#39BEED>ПРИРЕЧЕННЯ</color> <sprite name=Doom></b></nobr>.
+
+Main.csv | 389_B | EN: 110 | UA: 126 | +14.5%
+  EN: All summoned allies add <nobr>+2 Attack <sprite name=Attack></nobr> to all their attacks targeting this enemy.
+  UA: Усі прикликані союзники додають <nobr>+2 до АТАКИ <sprite name=Attack></nobr> до всіх своїх атак, спрямованих на цього ворога.
+
+Main.csv | 391_B | EN: 108 | UA: 123 | +13.9%
+  EN: You and all allies gain <nobr>PIERCE <sprite name=Pierce> 2</nobr> on all your attacks targeting this enemy.
+  UA: Ви та всі союзники отримуєте <nobr>ПРОБИТТЯ <sprite name=Pierce> 2</nobr> для всіх ваших атак, спрямованих на цього ворога.
+
+Main.csv | 391_T_1 | EN: 130 | UA: 153 | +17.7%
+  EN: You gain Advantage on one attack each turn targeting a <nobr><b><color=#39BEED>Doomed</color> <sprite name=Doom></b></nobr> enemy.
+  UA: Ви отримуєте перевагу на одну атаку кожного ходу, спрямовану на ворога під дією <nobr><b><color=#39BEED>ПРИРЕЧЕННЯ</color> <sprite name=Doom></b></nobr>.
+
+Main.csv | 392_B | EN: 166 | UA: 192 | +15.7%
+  EN: Add <nobr>+2 Attack <sprite name=Attack></nobr> to all your attacks targeting <nobr><b><color=#39BEED>Doomed</color> <sprite name=Doom></b></nobr> enemies this round.
+  UA: Додайте <nobr>+2 до АТАКИ <sprite name=Attack></nobr> до всіх ваших атак, спрямованих на ворогів під дією <nobr><b><color=#39BEED>ПРИРЕЧЕННЯ</color> <sprite name=Doom></b></nobr> цього раунду.
+
+Main.csv | 394_T | EN: 161 | UA: 188 | +16.8%
+  EN: Add <nobr>+3 Attack <sprite name=Attack></nobr> and gain <sprite name=XP1> if the target is <nobr><b><color=#39BEED>Doomed</color> <sprite name=Doom></b></nobr>.
+  UA: Додайте <nobr>+3 до АТАКИ <sprite name=Attack></nobr> та отримайте <sprite name=XP1>, якщо ціль перебуває під дією <nobr><b><color=#39BEED>ПРИРЕЧЕННЯ</color> <sprite name=Doom></b></nobr>.
+
+Main.csv | 395_B | EN: 75 | UA: 84 | +12.0%
+  EN: You and all allies gain Advantage on all your attacks targeting this enemy.
+  UA: Ви та всі союзники отримуєте перевагу на всі ваші атаки, спрямовані на цього ворога.
+
+Main.csv | 396_T_2 | EN: 97 | UA: 113 | +16.5%
+  EN: <nobr>WOUND <sprite name=Wound></nobr> all enemies adjacent to this trap when the trap is sprung.
+  UA: Накладіть <nobr>РАНУ <sprite name=Wound></nobr> на всіх ворогів, сусідніх із цією пасткою, коли вона активується.
+
+Main.csv | 397_B_Reminder | EN: 71 | UA: 99 | +39.4%
+  EN: Mark any one normal or elite enemy as <b><color=#39BEED>Doomed</color>.
+  UA: Позначте будь-якого одного звичайного або елітного ворога як <b><color=#39BEED>Приреченого</color>.
+
+Main.csv | 398_B | EN: 98 | UA: 132 | +34.7%
+  EN: Target one <nobr><b><color=#39BEED>Doomed</color> <sprite name=Doom></b></nobr> enemy at any range
+  UA: Виберіть ціллю одного ворога під дією <nobr><b><color=#39BEED>ПРИРЕЧЕННЯ</color> <sprite name=Doom></b></nobr> на будь-якій відстані
+
+Main.csv | 401_B | EN: 132 | UA: 159 | +20.5%
+  EN: Add +3 Attack to all your attacks targeting <nobr><b><color=#39BEED>Doomed</color> <sprite name=Doom></b></nobr> enemies this round.
+  UA: Додайте +3 до Атаки для всіх ваших атак, спрямованих на ворогів під дією <nobr><b><color=#39BEED>ПРИРЕЧЕННЯ</color> <sprite name=Doom></b></nobr> цього раунду.
+
+Main.csv | 402_B | EN: 72 | UA: 86 | +19.4%
+  EN: You and all allies apply CURSE on all your attacks targeting this enemy.
+  UA: Ви та всі союзники накладаєте ПРОКЛЯТТЯ на всі ваші атаки, спрямовані на цього ворога.
+
+Main.csv | 406_T | EN: 106 | UA: 124 | +17.0%
+  EN: Force the target to move up to three hexes directly toward the closest hex adjacent to one of its enemies.
+  UA: Змусьте ціль переміститися на відстань до трьох гексів безпосередньо до найближчого гекса, сусіднього з одним із її ворогів.
+
+Main.csv | 407_T | EN: 68 | UA: 84 | +23.5%
+  EN: Give one adjacent ally one “<nobr>Medical Pack</nobr>” ability card.
+  UA: Дайте одному сусідньому союзнику одну карту здібності «<nobr>Медичний Набір</nobr>».
+
+Main.csv | 408_B | EN: 68 | UA: 83 | +22.1%
+  EN: All your Heal actions this round affect you and all adjacent allies.
+  UA: Усі ваші дії Лікування цього раунду впливають на вас та на всіх сусідніх союзників.
+
+Main.csv | 409_B | EN: 62 | UA: 73 | +17.7%
+  EN: All your melee attacks this round target all adjacent enemies.
+  UA: Усі ваші ближні атаки цього раунду вибирають ціллю всіх сусідніх ворогів.
+
+Main.csv | 410_B | EN: 88 | UA: 104 | +18.2%
+  EN: Place this card in one adjacent ally's active area and treat it as if they own the card.
+  UA: Покладіть цю карту в активну зону одного сусіднього союзника і вважайте її так, ніби вона належить йому.
+
+Main.csv | 414_T | EN: 61 | UA: 79 | +29.5%
+  EN: Give one adjacent ally one “Large Medical Pack” ability card.
+  UA: Дайте одному сусідньому союзнику одну карту здібності «Великий Медичний Набір».
+
+Main.csv | 415_T | EN: 77 | UA: 90 | +16.9%
+  EN: Once during each of your next four turns, perform a “Heal 2, Range 1” action.
+  UA: Один раз під час кожного з ваших наступних чотирьох ходів виконайте дію «Heal 2, Range 1».
+
+Main.csv | 439_T | EN: 69 | UA: 82 | +18.8%
+  EN: Kill one adjacent normal enemy with at least two negative conditions.
+  UA: Убийте одного сусіднього звичайного ворога щонайменше з двома негативними станами.
+
+Main.csv | 440_B | EN: 63 | UA: 76 | +20.6%
+  EN: Give all adjacent allies one “Large Medical Pack” ability card.
+  UA: Дайте всім сусіднім союзникам одну карту здібності «Великий Медичний Набір».
+
+Main.csv | 440_T | EN: 70 | UA: 81 | +15.7%
+  EN: Give all adjacent allies one “<nobr>Medical Pack</nobr>” ability card.
+  UA: Дайте всім сусіднім союзникам одну карту здібності «<nobr>Медичний Набір</nobr>».
+
+Main.csv | 441_B | EN: 80 | UA: 97 | +21.2%
+  EN: Add <nobr>+4 Heal <sprite name=Heal></nobr> to all your Heal actions this round.
+  UA: Додайте <nobr>+4 до ЛІКУВАННЯ <sprite name=Heal></nobr> до всіх ваших дій Лікування цього раунду.
+
+Main.csv | 441_T | EN: 88 | UA: 100 | +13.6%
+  EN: Before your next six Heal abilities, remove all negative conditions on the Heal targets.
+  UA: Перед вашими наступними шістьма здібностями Лікування зніміть усі негативні стани з цілей Лікування.
+
+Main.csv | 459_B | EN: 55 | UA: 65 | +18.2%
+  EN: All attacks targeting you gain Disadvantage this round.
+  UA: Усі атаки, спрямовані на вас, отримують ускладнення цього раунду.
+
+Main.csv | 463_T_1 | EN: 238 | UA: 262 | +10.1%
+  EN: Attack <sprite name=Attack> X-1 on a new enemy within <nobr>Range <sprite name=Range> 2</nobr> of the first target, then Attack <sprite name=Attack> X-2 on a third enemy within <nobr>Range <sprite name=Range> 2</nobr> of the second target
+  UA: Виконайте АТАКУ <sprite name=Attack> X-1 на нового ворога в межах <nobr>ДАЛЬНОСТІ <sprite name=Range> 2</nobr> від першої цілі, потім виконайте АТАКУ <sprite name=Attack> X-2 на третього ворога в межах <nobr>ДАЛЬНОСТІ <sprite name=Range> 2</nobr> від другої цілі
+
+Main.csv | 463_T_2 | EN: 117 | UA: 131 | +12.0%
+  EN: Attack <sprite name=Attack> X-3 on a fourth enemy within <nobr>Range <sprite name=Range> 2</nobr> of the third target
+  UA: Виконайте АТАКУ <sprite name=Attack> X-3 на четвертого ворога в межах <nobr>ДАЛЬНОСТІ <sprite name=Range> 2</nobr> від третьої цілі
+
+Main.csv | 468_T | EN: 91 | UA: 108 | +18.7%
+  EN: Target all enemies within <nobr>Range <sprite name=Range> 2</nobr> of the healed character.
+  UA: Виберіть ціллю всіх ворогів у межах <nobr>ДАЛЬНОСТІ <sprite name=Range> 2</nobr> від вилікуваного персонажа.
+
+Main.csv | 469_B_2 | EN: 65 | UA: 77 | +18.5%
+  EN: You may perform Attack actions as if you occupy the summon's hex.
+  UA: Ви можете виконувати дії Атаки так, ніби ви займаєте гекс прикликаної істоти.
+
+Main.csv | 470_T | EN: 64 | UA: 72 | +12.5%
+  EN: Kill all normal <nobr>targets instead, <sprite name=XP1></nobr>.
+  UA: Натомість убийте всіх звичайних <nobr>ворогів, <sprite name=XP1></nobr>.
+
+Main.csv | 472_B_1 | EN: 124 | UA: 146 | +17.7%
+  EN: <nobr>+2 Move <sprite name=Move>, WOUND <sprite name=Wound></nobr> <nobr>all enemies moved through, <sprite name=XP1></nobr>
+  UA: <nobr>+2 до РУХУ <sprite name=Move>, накладіть РАНУ <sprite name=Wound></nobr> <nobr>на всіх ворогів, через яких пройшли, <sprite name=XP1></nobr>
+
+Main.csv | 472_B_2 | EN: 134 | UA: 154 | +14.9%
+  EN: <nobr>+2 Move <sprite name=Move>, IMMOBILIZE <sprite name=Immobilize></nobr> <nobr>all enemies moved through, <sprite name=XP1></nobr>
+  UA: <nobr>+2 до РУХУ <sprite name=Move>, накладіть ПАРАЛІЧ <sprite name=Immobilize></nobr> <nobr>на всіх ворогів, через яких пройшли, <sprite name=XP1></nobr>
+
+Main.csv | 474_T | EN: 18 | UA: 23 | +27.8%
+  EN: Summon Mana Sphere
+  UA: Прикличте Магічну Сферу
+
+Main.csv | 481_B_1 | EN: 154 | UA: 177 | +14.9%
+  EN: Before your bear acts, you may forgo the top action of your turn to add <nobr>+3 Attack <sprite name=Attack></nobr> to all your bear’s attacks this round.
+  UA: Перед ходом вашого ведмедя ви можете відмовитися від верхньої дії вашого ходу, щоб додати <nobr>+3 до АТАКИ <sprite name=Attack></nobr> до всіх атак вашого ведмедя цього раунду.
+
+Main.csv | 481_B_2 | EN: 151 | UA: 179 | +18.5%
+  EN: Before your bear acts, you may forgo the bottom action of your turn to add <nobr>+3 Move <sprite name=Move></nobr> to all your bear’s moves this round.
+  UA: Перед ходом вашого ведмедя ви можете відмовитися від нижньої дії вашого ходу, щоб додати <nobr>+3 до РУХУ <sprite name=Move></nobr> до всіх переміщень вашого ведмедя цього раунду.
+
+Main.csv | 489_B_1 | EN: 78 | UA: 93 | +19.2%
+  EN: Redistribute all damage taken by you and all summoned allies however you like.
+  UA: Перерозподіліть усю шкоду, отриману вами та всіма прикликаними союзниками, як вам заманеться.
+
+Main.csv | 489_B_2 | EN: 73 | UA: 105 | +43.8%
+  EN: No character may end with more damage than their maximum hit point value.
+  UA: Жоден персонаж не може закінчити хід із кількістю шкоди, що перевищує його максимальне значення здоров'я.
+
+Main.csv | 496_B | EN: 30 | UA: 37 | +23.3%
+  EN: Any one summoned ally performs
+  UA: Будь-який прикликаний союзник виконує
+
+Main.csv | 498_B | EN: 30 | UA: 38 | +26.7%
+  EN: Swap positions with your bear.
+  UA: Поміняйтеся місцями зі своїм ведмедем.
+
+Main.csv | 501_B | EN: 75 | UA: 86 | +14.7%
+  EN: All summoned allies within <nobr>Range <sprite name=Range> 3</nobr> perform
+  UA: Усі прикликані союзники в межах <nobr>ДАЛЬНОСТІ <sprite name=Range> 3</nobr> виконують
+
+Main.csv | 538 | EN: 68 | UA: 80 | +17.6%
+  EN: Create a 3 damage trap in an adjacent empty hex closest to an enemy.
+  UA: Створіть пастку на 3 шкоди в сусідньому порожньому гексі, найближчому до ворога.
+
+Main.csv | 542 | EN: 103 | UA: 121 | +17.5%
+  EN: Add <nobr>+2 Attack <sprite name=Attack> </nobr>if the target is adjacent to any of the Hound’s allies.
+  UA: Додайте <nobr>+2 до АТАКИ <sprite name=Attack> </nobr>якщо ціль знаходиться по сусідству з будь-яким із союзників Гончої.
+
+Main.csv | 635 | EN: 68 | UA: 80 | +17.6%
+  EN: Create a 4 damage trap in an adjacent empty hex closest to an enemy.
+  UA: Створіть пастку на 4 шкоди в сусідньому порожньому гексі, найближчому до ворога.
+
+Main.csv | 636 | EN: 53 | UA: 63 | +18.9%
+  EN: Target all enemies within Range <sprite name=Range> 3
+  UA: Виберіть ціллю всіх ворогів у межах Range <sprite name=Range> 3
+
+Main.csv | 684 | EN: 109 | UA: 133 | +22.0%
+  EN: Add <nobr>+2 Attack <sprite name=Attack></nobr> if the target is adjacent to any of the Giant Viper's allies.
+  UA: Додайте <nobr>+2 до АТАКИ <sprite name=Attack></nobr>, якщо ціль знаходиться по сусідству з будь-ким із союзників Гігантської гадюки.
+
+Main.csv | 689 | EN: 63 | UA: 79 | +25.4%
+  EN: All attacks targeting Giant Viper this round gain Disadvantage.
+  UA: Усі атаки, спрямовані на Гігантську гадюку цього раунду, отримують ускладнення.
+
+Main.csv | 697_B | EN: 158 | UA: 182 | +15.2%
+  EN: Summon normal Ooze with a hit point value equal to the summoning Ooze’s current hit point value (limited by a normal Ooze’s specified maximum hit point value)
+  UA: Прикличте звичайний Слиз із поточним значенням здоров'я, рівним поточному здоров'ю Слизу, що здійснює прикликання (але не більше від максимального значення здоров'я звичайного Слизу)
+
+Main.csv | ITEM_NAME_AncientDrill | EN: 13 | UA: 15 | +15.4%
+  EN: Ancient Drill
+  UA: Стародавній бур
+
+Main.csv | ITEM_NAME_BalancedBlade | EN: 14 | UA: 20 | +42.9%
+  EN: Balanced Blade
+  UA: Збалансований клинок
+
+Main.csv | ITEM_NAME_BattleAxe | EN: 10 | UA: 13 | +30.0%
+  EN: Battle Axe
+  UA: Бойова сокира
+
+Main.csv | ITEM_NAME_BlinkingCape | EN: 13 | UA: 18 | +38.5%
+  EN: Blinking Cape
+  UA: Мерехтлива накидка
+
+Main.csv | ITEM_NAME_BloodyAxe | EN: 10 | UA: 14 | +40.0%
+  EN: Bloody Axe
+  UA: Кривава сокира
+
+Main.csv | ITEM_NAME_BootsofDashing | EN: 16 | UA: 19 | +18.8%
+  EN: Boots of Dashing
+  UA: Черевики Стрімкості
+
+Main.csv | ITEM_NAME_BootsofSpeed | EN: 14 | UA: 18 | +28.6%
+  EN: Boots of Speed
+  UA: Черевики Швидкості
+
+Main.csv | ITEM_NAME_BootsofStriding | EN: 17 | UA: 23 | +35.3%
+  EN: Boots of Striding
+  UA: Черевики Великого Кроку
+
+Main.csv | ITEM_NAME_ChainHood | EN: 10 | UA: 17 | +70.0%
+  EN: Chain Hood
+  UA: Кольчужний каптур
+
+Main.csv | ITEM_NAME_CloakofPhasing | EN: 16 | UA: 19 | +18.8%
+  EN: Cloak of Phasing
+  UA: Плащ Фазового зсуву
+
+Main.csv | ITEM_NAME_CuriousGear | EN: 12 | UA: 14 | +16.7%
+  EN: Curious Gear
+  UA: Дивна Шестірня
+
+Main.csv | ITEM_NAME_DoomPowder | EN: 11 | UA: 18 | +63.6%
+  EN: Doom Powder
+  UA: Порошок Приречення
+
+Main.csv | ITEM_NAME_DoomedCompass | EN: 14 | UA: 17 | +21.4%
+  EN: Doomed Compass
+  UA: Приречений Компас
+
+Main.csv | ITEM_NAME_DrakescaleArmor | EN: 16 | UA: 24 | +50.0%
+  EN: Drakescale Armor
+  UA: Обладунок з Луски Дрейка
+
+Main.csv | ITEM_NAME_DrakescaleBoots | EN: 16 | UA: 21 | +31.2%
+  EN: Drakescale Boots
+  UA: Чоботи з Луски Дрейка
+
+Main.csv | ITEM_NAME_DrakescaleHelm | EN: 15 | UA: 20 | +33.3%
+  EN: Drakescale Helm
+  UA: Шолом з Луски Дрейка
+
+Main.csv | ITEM_NAME_EmpoweringTalisman | EN: 19 | UA: 24 | +26.3%
+  EN: Empowering Talisman
+  UA: Талісман Наділення Силою
+
+Main.csv | ITEM_NAME_FleaBittenShawl | EN: 17 | UA: 20 | +17.6%
+  EN: Flea-Bitten Shawl
+  UA: Поїдена Блохами Шаль
+
+Main.csv | ITEM_NAME_FrigidBlade | EN: 12 | UA: 15 | +25.0%
+  EN: Frigid Blade
+  UA: Крижаний Клинок
+
+Main.csv | ITEM_NAME_FueledFalchion | EN: 15 | UA: 19 | +26.7%
+  EN: Fueled Falchion
+  UA: Заряджений Фальшіон
+
+Main.csv | ITEM_NAME_GiantRemoteSpider | EN: 19 | UA: 30 | +57.9%
+  EN: Giant Remote Spider
+  UA: Гігантський Дистанційний Павук
+
+Main.csv | ITEM_NAME_Halberd | EN: 7 | UA: 8 | +14.3%
+  EN: Halberd
+  UA: Алебарда
+
+Main.csv | ITEM_NAME_HawkHelm | EN: 9 | UA: 16 | +77.8%
+  EN: Hawk Helm
+  UA: Яструбиний Шолом
+
+Main.csv | ITEM_NAME_HelixRing | EN: 10 | UA: 16 | +60.0%
+  EN: Helix Ring
+  UA: Спіральне Кільце
+
+Main.csv | ITEM_NAME_HideArmor | EN: 10 | UA: 17 | +70.0%
+  EN: Hide Armor
+  UA: Обладунок зі Шкур
+
+Main.csv | ITEM_NAME_HookedChain | EN: 12 | UA: 15 | +25.0%
+  EN: Hooked Chain
+  UA: Ланцюг із Гаком
+
+Main.csv | ITEM_NAME_HornedHelm | EN: 11 | UA: 13 | +18.2%
+  EN: Horned Helm
+  UA: Рогатий Шолом
+
+Main.csv | ITEM_NAME_IronHelmet | EN: 11 | UA: 14 | +27.3%
+  EN: Iron Helmet
+  UA: Залізний Шолом
+
+Main.csv | ITEM_NAME_JaggedSword | EN: 12 | UA: 14 | +16.7%
+  EN: Jagged Sword
+  UA: Зазубрений Меч
+
+Main.csv | ITEM_NAME_LeatherArmor | EN: 13 | UA: 18 | +38.5%
+  EN: Leather Armor
+  UA: Шкіряний Обладунок
+
+Main.csv | ITEM_NAME_LuckyEye | EN: 9 | UA: 11 | +22.2%
+  EN: Lucky Eye
+  UA: Щасливе Око
+
+Main.csv | ITEM_NAME_MagmaWaders | EN: 12 | UA: 18 | +50.0%
+  EN: Magma Waders
+  UA: Магматичні Заброди
+
+Main.csv | ITEM_NAME_MajorCurePotion | EN: 17 | UA: 21 | +23.5%
+  EN: Major Cure Potion
+  UA: Велике Зілля Очищення
+
+Main.csv | ITEM_NAME_MajorHealingPotion | EN: 20 | UA: 23 | +15.0%
+  EN: Major Healing Potion
+  UA: Велике Лікувальне Зілля
+
+Main.csv | ITEM_NAME_MajorStaminaPotion | EN: 20 | UA: 25 | +25.0%
+  EN: Major Stamina Potion
+  UA: Велике Зілля Витривалості
+
+Main.csv | ITEM_NAME_MinorCurePotion | EN: 17 | UA: 19 | +11.8%
+  EN: Minor Cure Potion
+  UA: Мале Зілля Очищення
+
+Main.csv | ITEM_NAME_MinorStaminaPotion | EN: 20 | UA: 23 | +15.0%
+  EN: Minor Stamina Potion
+  UA: Мале Зілля Витривалості
+
+Main.csv | ITEM_NAME_MoonEarring | EN: 12 | UA: 15 | +25.0%
+  EN: Moon Earring
+  UA: Місячна Сережка
+
+Main.csv | ITEM_NAME_OccultDagger | EN: 13 | UA: 17 | +30.8%
+  EN: Occult Dagger
+  UA: Окультний Кинджал
+
+Main.csv | ITEM_NAME_OrbofDawn | EN: 11 | UA: 14 | +27.3%
+  EN: Orb of Dawn
+  UA: Сфера Світанку
+
+Main.csv | ITEM_NAME_PiercingBow | EN: 12 | UA: 15 | +25.0%
+  EN: Piercing Bow
+  UA: Пронизливий Лук
+
+Main.csv | ITEM_NAME_Platemail | EN: 9 | UA: 16 | +77.8%
+  EN: Platemail
+  UA: Латний Обладунок
+
+Main.csv | ITEM_NAME_PoisonDagger | EN: 13 | UA: 16 | +23.1%
+  EN: Poison Dagger
+  UA: Отруйний Кинджал
+
+Main.csv | ITEM_NAME_PowerCore | EN: 10 | UA: 16 | +60.0%
+  EN: Power Core
+  UA: Енергетичне Ядро
+
+Main.csv | ITEM_NAME_RemoteSpider | EN: 13 | UA: 18 | +38.5%
+  EN: Remote Spider
+  UA: Дистанційний Павук
+
+Main.csv | ITEM_NAME_ResonantCrystal | EN: 16 | UA: 18 | +12.5%
+  EN: Resonant Crystal
+  UA: Резонуючий Кристал
+
+Main.csv | ITEM_NAME_RocketBoots | EN: 12 | UA: 16 | +33.3%
+  EN: Rocket Boots
+  UA: Реактивні Чоботи
+
+Main.csv | ITEM_NAME_SecondChanceRing | EN: 18 | UA: 20 | +11.1%
+  EN: Second Chance Ring
+  UA: Кільце Другого Шансу
+
+Main.csv | ITEM_NAME_SereneSandals | EN: 14 | UA: 20 | +42.9%
+  EN: Serene Sandals
+  UA: Безтурботні Сандалії
+
+Main.csv | ITEM_NAME_ShadowArmor | EN: 12 | UA: 18 | +50.0%
+  EN: Shadow Armor
+  UA: Тіньовий Обладунок
+
+Main.csv | ITEM_NAME_SkullbaneAxe | EN: 13 | UA: 23 | +76.9%
+  EN: Skullbane Axe
+  UA: Сокира Погибелі Черепів
+
+Main.csv | ITEM_NAME_Splintmail | EN: 10 | UA: 23 | +130.0%
+  EN: Splintmail
+  UA: Пластинчастий Обладунок
+
+Main.csv | ITEM_NAME_StarEarring | EN: 12 | UA: 14 | +16.7%
+  EN: Star Earring
+  UA: Зоряна Сережка
+
+Main.csv | ITEM_NAME_SteamArmor | EN: 11 | UA: 17 | +54.5%
+  EN: Steam Armor
+  UA: Паровий Обладунок
+
+Main.csv | ITEM_NAME_SteelRing | EN: 10 | UA: 14 | +40.0%
+  EN: Steel Ring
+  UA: Сталеве Кільце
+
+Main.csv | ITEM_NAME_SteelSabatons | EN: 14 | UA: 16 | +14.3%
+  EN: Steel Sabatons
+  UA: Сталеві Сабатони
+
+Main.csv | ITEM_NAME_StuddedLeather | EN: 15 | UA: 29 | +93.3%
+  EN: Studded Leather
+  UA: Заклепаний Шкіряний Обладунок
+
+Main.csv | ITEM_NAME_StunPowder | EN: 11 | UA: 17 | +54.5%
+  EN: Stun Powder
+  UA: Порошок Оглушення
+
+Main.csv | ITEM_NAME_SunEarring | EN: 11 | UA: 15 | +36.4%
+  EN: Sun Earring
+  UA: Сонячна Сережка
+
+Main.csv | ITEM_NAME_SwordedgeArmor | EN: 15 | UA: 18 | +20.0%
+  EN: Swordedge Armor
+  UA: Обладунок з Лезами
+
+Main.csv | ITEM_NAME_TelescopicLens | EN: 15 | UA: 18 | +20.0%
+  EN: Telescopic Lens
+  UA: Телескопічна Lінза
+
+Main.csv | ITEM_NAME_ThiefsHood | EN: 12 | UA: 14 | +16.7%
+  EN: Thief's Hood
+  UA: Капюшон Злодія
+
+Main.csv | ITEM_NAME_TowerShield | EN: 12 | UA: 14 | +16.7%
+  EN: Tower Shield
+  UA: Бастіонний Щит
+
+Main.csv | ITEM_NAME_TremorBlade | EN: 12 | UA: 17 | +41.7%
+  EN: Tremor Blade
+  UA: Клинок Землетрусу
+
+Main.csv | ITEM_NAME_UnstableExplosives | EN: 19 | UA: 21 | +10.5%
+  EN: Unstable Explosives
+  UA: Нестабільна Вибухівка
+
+Main.csv | ITEM_NAME_VersatileDagger | EN: 16 | UA: 21 | +31.2%
+  EN: Versatile Dagger
+  UA: Універсальний Кинджал
+
+Main.csv | ITEM_NAME_VolatileBomb | EN: 13 | UA: 17 | +30.8%
+  EN: Volatile Bomb
+  UA: Нестабільна Бомба
+
+Main.csv | ITEM_NAME_WandofTremors | EN: 15 | UA: 18 | +20.0%
+  EN: Wand of Tremors
+  UA: Паличка Землетрусу
+
+Main.csv | ITEM_NAME_WaveCrest | EN: 10 | UA: 13 | +30.0%
+  EN: Wave Crest
+  UA: Гребінь Хвилі
+
+Main.csv | ITEM_NAME_WingedShoes | EN: 12 | UA: 16 | +33.3%
+  EN: Winged Shoes
+  UA: Крилаті Черевики
+
+Main.csv | Item_BlackCard_1 | EN: 42 | UA: 57 | +35.7%
+  EN: Choose one adjacent normal or elite enemy.
+  UA: Оберіть одного сусіднього звичайного або елітного ворога.
+
+Main.csv | Item_BlackCenser | EN: 119 | UA: 133 | +11.8%
+  EN: During your turn, <nobr>MUDDLE <sprite name=Muddle></nobr> all enemies within <nobr>Range <sprite name=Range> 2.</nobr>
+  UA: Під час свого ходу <nobr>ДЕЗОРІЄНТУЙТЕ <sprite name=Muddle></nobr> усіх ворогів у межах <nobr>Дальності <sprite name=Range> 2.</nobr>
+
+Main.csv | Item_BootsOfLevitation | EN: 12 | UA: 16 | +33.3%
+  EN: Gain Flying.
+  UA: Отримайте Політ.
+
+Main.csv | Item_CircletOfElements | EN: 65 | UA: 76 | +16.9%
+  EN: During your turn, <sprite name=ConsumeAny> to create any element.
+  UA: Під час свого ходу <sprite name=ConsumeAny>, щоб створити будь-який елемент.
+
+Main.csv | Item_CloakOfInvisibility | EN: 70 | UA: 78 | +11.4%
+  EN: During your turn, gain <nobr>INVISIBLE <sprite name=Invisible>.</nobr>
+  UA: Під час свого ходу отримайте <nobr>НЕВИДИМІСТЬ <sprite name=Invisible>.</nobr>
+
+Main.csv | Item_CloakOfPockets | EN: 62 | UA: 79 | +27.4%
+  EN: You can carry two additional <sprite name=InvSmallItem> items.
+  UA: Ви можете мати при собі два додаткові предмети типу <sprite name=InvSmallItem>.
+
+Main.csv | Item_CuriousGear | EN: 83 | UA: 94 | +13.3%
+  EN: During your turn, disarm all traps within <nobr>Range <sprite name=Range> 2.</nobr>
+  UA: Під час свого ходу роззбройте всі пастки в межах <nobr>Дальності <sprite name=Range> 2.</nobr>
+
+Main.csv | Item_DampeningRing | EN: 59 | UA: 65 | +10.2%
+  EN: During your turn, consume up to two elements for no effect.
+  UA: Під час свого ходу спожийте до двох елементів без жодного ефекту.
+
+Main.csv | Item_DrakescaleHelm | EN: 96 | UA: 121 | +26.0%
+  EN: Whenever you gain MUDDLE <sprite name=Muddle>, gain STRENGTHEN <sprite name=Strengthen> instead.
+  UA: Щоразу, коли ви отримуєте ДЕЗОРІЄНТАЦІЮ <sprite name=Muddle>, замість цього отримуйте ПОСИЛЕННЯ <sprite name=Strengthen>.
+
+Main.csv | Item_EnduranceFootwraps | EN: 106 | UA: 134 | +26.4%
+  EN: If you move 4 or more hexes on your turn, perform a <nobr>"Heal <sprite name=Heal> 1, Self"</nobr> action.
+  UA: Якщо під час свого ходу ви переміщуєтеся на 4 або більше гексів, виконайте дію <nobr>«Лікування <sprite name=Heal> 1, на себе»</nobr>.
+
+Main.csv | Item_FalconFigurine | EN: 18 | UA: 29 | +61.1%
+  EN: Summon Jade Falcon
+  UA: Прикликати Нефритового Сокола
+
+Main.csv | Item_HeavyBasinet | EN: 73 | UA: 87 | +19.2%
+  EN: You are immune to STUN <sprite name=Stun> and MUDDLE <sprite name=Muddle>
+  UA: Ви маєте імунітет до ОГЛУШЕННЯ <sprite name=Stun> та ДЕЗОРІЄНТАЦІЇ <sprite name=Muddle>
+
+Main.csv | Item_HeavyGreaves | EN: 84 | UA: 101 | +20.2%
+  EN: You are immune to all forced movement caused by either enemies or scenario mechanics
+  UA: Ви маєте імунітет до будь-якого примусового переміщення, спричиненого ворогами або механікою сценарію
+
+Main.csv | Item_HelmOfTheMountain | EN: 98 | UA: 125 | +27.6%
+  EN: When attacked, if <sprite name=Earth> is Strong, IMMOBILIZE <sprite name=Immobilize> the attacker.
+  UA: У разі атаки на вас, якщо елемент Землі <sprite name=Earth> сильний, накладіть ПАРАЛІЧ <sprite name=Immobilize> на нападника.
+
+Main.csv | Item_HornedHelm | EN: 127 | UA: 161 | +26.8%
+  EN: After moving 4 or more hexes on your turn, add <nobr>+1 Attack <sprite name=Attack></nobr> to your next melee attack this turn.
+  UA: Після переміщення на 4 або більше гексів під час свого ходу додайте <nobr>+1 до Атаки <sprite name=Attack></nobr> до своєї наступної ближньої атаки в цьому ходу.
+
+Main.csv | Item_IronHelmet | EN: 87 | UA: 98 | +12.6%
+  EN: When attacked, consider any x2 attack modifier card the enemy draws to be a +0 instead.
+  UA: У разі атаки на вас вважайте будь-яку витягнуту ворогом карту модифікатора атаки «x2» картою «+0».
+
+Main.csv | Item_MajorManaPotion | EN: 42 | UA: 50 | +19.0%
+  EN: During your turn, create any two elements.
+  UA: Під час свого ходу створіть будь-які два елементи.
+
+Main.csv | Item_MaskOfTerror | EN: 69 | UA: 79 | +14.5%
+  EN: During your melee attack, add <nobr>PUSH <sprite name=Push> 1.</nobr>
+  UA: Під час своєї ближньої атаки додайте <nobr>ПОШТОВХ <sprite name=Push> 1.</nobr>
+
+Main.csv | Item_MountainHammer_3 | EN: 18 | UA: 21 | +16.7%
+  EN: Attack: 3 Range: -
+  UA: Атака: 3 Дальність: -
+
+Main.csv | Item_NecklaceOfTeeth | EN: 109 | UA: 121 | +11.0%
+  EN: Any time you kill an enemy during your turn, perform a <nobr>"Heal <sprite name=Heal> 1, Self"</nobr> action.
+  UA: Щоразу, коли ви вбиваєте ворога під час свого ходу, виконайте дію <nobr>«Лікування <sprite name=Heal> 1, на себе»</nobr>.
+
+Main.csv | Item_OrbOfDawn | EN: 105 | UA: 130 | +23.8%
+  EN: During your turn, consume <nobr>Dark <sprite name=ConsumeDark> to infuse <nobr>Light <sprite name=Light>.
+  UA: Під час свого ходу спожийте <nobr>ТЕМРЯВУ <sprite name=ConsumeDark></nobr>, щоб наповнити <nobr>СВІТЛО <sprite name=Light>.</nobr>
+
+Main.csv | Item_RingOfSkulls | EN: 15 | UA: 18 | +20.0%
+  EN: Summon Skeleton
+  UA: Прикликати Скелета
+
+Main.csv | Item_RobesOfSummoning | EN: 95 | UA: 116 | +22.1%
+  EN: During your turn, perform a "<nobr>Heal <sprite name=Heal> 2, target any summoned ally" action.
+  UA: Під час свого ходу виконайте дію «<nobr>Лікування <sprite name=Heal> 2, ціль: будь-який прикликаний союзник»</nobr>.
+
+Main.csv | Item_SecondSkin | EN: 45 | UA: 60 | +33.3%
+  EN: Remove two -1 from your attack modifier deck.
+  UA: Вилучіть дві карти «-1» зі своєї колоди модифікаторів атаки.
+
+Main.csv | Item_ShadowArmor | EN: 74 | UA: 95 | +28.4%
+  EN: When you are damaged by an attack targeting you, suffer no damage instead.
+  UA: Коли ви отримуєте шкоду від спрямованої на вас атаки, замість цього не зазнавайте жодної шкоди.
+
+Main.csv | Item_ShoesOfHappiness | EN: 65 | UA: 93 | +43.1%
+  EN: If you move 6 or more hexes on your turn, gain <sprite name=XP1>.
+  UA: Якщо під час свого ходу ви переміщуєтеся на 6 або більше гексів, отримайте <sprite name=XP1>.
+
+Main.csv | Item_StaffOfElements | EN: 37 | UA: 46 | +24.3%
+  EN: During your turn, create any element.
+  UA: Під час свого ходу створіть будь-який елемент.
+
+Main.csv | Item_SteelSabatons | EN: 105 | UA: 127 | +21.0%
+  EN: If you move 1 or fewer hexes on your turn, gain <nobr>Shield <sprite name=Shield> 1</nobr> for the Round.
+  UA: Якщо під час свого ходу ви переміщуєтеся на 1 або менше гексів, отримайте <nobr>Щит <sprite name=Shield> 1</nobr> на цей раунд.
+
+Main.csv | Item_ThiefsHood | EN: 129 | UA: 151 | +17.1%
+  EN: During your <nobr>"Loot <sprite name=Loot> 1"</nobr> ability, perform a <nobr>"Loot <sprite name=Loot> 2"</nobr> ability instead.
+  UA: Під час використання здібності <nobr>«Здобич <sprite name=Loot> 1»</nobr> замість цього виконайте здібність <nobr>«Здобич <sprite name=Loot> 2»</nobr>.
+
+Main.csv | Item_WandOfBrilliance | EN: 31 | UA: 35 | +12.9%
+  EN: During your turn, create Light.
+  UA: Під час свого ходу створіть Світло.
+
+Main.csv | Item_WandOfDarkness | EN: 30 | UA: 36 | +20.0%
+  EN: During your turn, create Dark.
+  UA: Під час свого ходу створіть Темряву.
+
+Main.csv | Item_WandOfFrost | EN: 29 | UA: 32 | +10.3%
+  EN: During your turn, create Ice.
+  UA: Під час свого ходу створіть Лід.
+
+Main.csv | Item_WandOfInfernos | EN: 30 | UA: 35 | +16.7%
+  EN: During your turn, create Fire.
+  UA: Під час свого ходу створіть Вогонь.
+
+Main.csv | Item_WandOfStorms | EN: 29 | UA: 36 | +24.1%
+  EN: During your turn, create Air.
+  UA: Під час свого ходу створіть Повітря.
+
+Main.csv | Item_WaveCrest | EN: 113 | UA: 125 | +10.6%
+  EN: When attacked, if <sprite name=Ice> is Strong, perform a "PUSH<sprite name=Push>2" action targeting the attacker.
+  UA: У разі атаки на вас, якщо елемент Льоду <sprite name=Ice> сильний, виконайте дію «ПОШТОВХ <sprite name=Push> 2» на нападника.
+
+
+--- FILE: Lions.csv ---
+Lions.csv | JOTL_015_B | EN: 48 | UA: 55 | +14.6%
+  EN: Double the value of your next attack this round.
+  UA: Подвойте значення вашої наступної атаки в цьому раунді.
+
+Lions.csv | JOTL_019_B | EN: 105 | UA: 119 | +13.3%
+  EN: Add <nobr>+2 Move <sprite name=Move></nobr> and gain <sprite name=XP1> if you killed an enemy this round.
+  UA: Додайте <nobr>+2 до Руху <sprite name=Move></nobr> та отримайте <sprite name=XP1>, якщо ви вбили ворога в цьому раунді.
+
+Lions.csv | JOTL_021_B | EN: 78 | UA: 96 | +23.1%
+  EN: On your next four Move abilities, add <nobr>+2 Move <sprite name=Move></nobr>.
+  UA: Для ваших наступних чотирьох здібностей Руху додайте <nobr>+2 до Руху <sprite name=Move></nobr>.
+
+Lions.csv | JOTL_022_B | EN: 79 | UA: 88 | +11.4%
+  EN: Add <nobr>+1 Attack <sprite name=Attack></nobr> to all your attacks this round.
+  UA: Додайте <nobr>+1 до Атаки <sprite name=Attack></nobr> до всіх ваших атак у цьому раунді.
+
+Lions.csv | JOTL_024_B | EN: 91 | UA: 101 | +11.0%
+  EN: On your next four attacks when possible, one enemy adjacent to the target suffers 2 damage.
+  UA: Під час ваших наступних чотирьох атак, коли це можливо, один ворог, суміжний з ціллю, зазнає 2 шкоди.
+
+Lions.csv | JOTL_025_B | EN: 109 | UA: 122 | +11.9%
+  EN: Add <nobr>+2 Attack <sprite name=Attack></nobr> and gain <sprite name=XP1> if you killed an enemy this round.
+  UA: Додайте <nobr>+2 до Атаки <sprite name=Attack></nobr> та отримайте <sprite name=XP1>, якщо ви вбили ворога в цьому раунді.
+
+Lions.csv | JOTL_032_B | EN: 63 | UA: 80 | +27.0%
+  EN: If your Favorite is in or adjacent to your hex, you may perform
+  UA: Якщо ваш Фаворит перебуває у вашому гексі або суміжний з ним, ви можете виконати
+
+Lions.csv | JOTL_033_T | EN: 117 | UA: 135 | +15.4%
+  EN: On your next five attacks targeting an enemy that has your Favorite, add <nobr>+2 Attack <sprite name=Attack></nobr>.
+  UA: Для ваших наступних п'яти атак, спрямованих на ворога, який має вашого Фаворита, додайте <nobr>+2 до Атаки <sprite name=Attack></nobr>.
+
+Lions.csv | JOTL_036_B | EN: 109 | UA: 121 | +11.0%
+  EN: Add <nobr>+2 Attack <sprite name=Attack></nobr> to your next attack this turn if you are adjacent to an ally.
+  UA: Додайте <nobr>+2 до Атаки <sprite name=Attack></nobr> до вашої наступної атаки в цьому ходу, якщо ви суміжні з союзником.
+
+Lions.csv | JOTL_037_B | EN: 105 | UA: 121 | +15.2%
+  EN: If you killed an enemy this round, return your Favorite to its Active Ability and gain <sprite name=XP1>.
+  UA: Якщо ви вбили ворога в цьому раунді, поверніть вашого Фаворита до його активної здібності та отримайте <sprite name=XP1>.
+
+Lions.csv | JOTL_038_B | EN: 179 | UA: 203 | +13.4%
+  EN: The next four times you kill an enemy, perform a "<nobr>Heal <sprite name=Heal> 3</nobr>, <nobr>Range <sprite name=Range> 2</nobr>, <nobr>BLESS <sprite name=Bless></nobr>" action.
+  UA: У наступні чотири рази, коли ви вбиваєте ворога, виконайте дію «<nobr>Лікування <sprite name=Heal> 3</nobr>, <nobr>Дальність <sprite name=Range> 2</nobr>, <nobr>БЛАГОСЛОВЕННЯ <sprite name=Bless></nobr>».
+
+Lions.csv | JOTL_082_T | EN: 74 | UA: 84 | +13.5%
+  EN: On your next two attacks, add <nobr>+2 Attack <sprite name=Attack></nobr>.
+  UA: Для ваших наступних двох атак додайте <nobr>+2 до Атаки <sprite name=Attack></nobr>.
+
+Lions.csv | JOTL_082_B | EN: 48 | UA: 54 | +12.5%
+  EN: Double the value of your next <nobr>Move.</nobr>
+  UA: Подвойте значення вашого наступного <nobr>Руху.</nobr>
+
+Lions.csv | JOTL_084_B | EN: 76 | UA: 94 | +23.7%
+  EN: Destroy one adjacent obstacle. If you do, gain <sprite name=XP1> and perform
+  UA: Зруйнуйте одну сусідню перешкоду. Якщо ви це зробите, отримайте <sprite name=XP1> та виконайте
+
+Lions.csv | JOTL_085_T_1 | EN: 76 | UA: 94 | +23.7%
+  EN: Destroy one adjacent obstacle. If you do, gain <sprite name=XP2> and perform
+  UA: Зруйнуйте одну сусідню перешкоду. Якщо ви це зробите, отримайте <sprite name=XP2> та виконайте
+
+Lions.csv | JOTL_086_B | EN: 114 | UA: 127 | +11.4%
+  EN: Destroy one adjacent obstacle to create two single-hex obstacles in empty hexes adjacent to the original obstacle.
+  UA: Зруйнуйте одну сусідню перешкоду, щоб створити дві одногексові перешкоди на порожніх гексах, суміжних із початковою перешкодою.
+
+Lions.csv | JOTL_089_B | EN: 76 | UA: 94 | +23.7%
+  EN: Destroy one adjacent obstacle. If you do, gain <sprite name=XP1> and perform
+  UA: Зруйнуйте одну сусідню перешкоду. Якщо ви це зробите, отримайте <sprite name=XP1> та виконайте
+
+Lions.csv | JOTL_090_T | EN: 181 | UA: 210 | +16.0%
+  EN: Add <nobr>PUSH <sprite name=Push> 2</nobr>, <nobr>MUDDLE <sprite name=Muddle></nobr> and gain <sprite name=XP1> if this attack targets the same enemy as the previous Attack ability.
+  UA: Додайте <nobr>ПОШТОВХ <sprite name=Push> 2</nobr>, <nobr>ДЕЗОРІЄНТАЦІЮ <sprite name=Muddle></nobr> та отримайте <sprite name=XP1>, якщо ця атака спрямована на того самого ворога, що й попередня здібність Атаки.
+
+Lions.csv | JOTL_092_B | EN: 85 | UA: 96 | +12.9%
+  EN: Add <nobr>+1 Attack <sprite name=Attack></nobr> to all your melee attacks this round.
+  UA: Додайте <nobr>+1 до Атаки <sprite name=Attack></nobr> до всіх ваших ближніх атак у цьому раунді.
+
+Lions.csv | JOTL_093_T | EN: 130 | UA: 156 | +20.0%
+  EN: Create one 3-damage <nobr>MUDDLE <sprite name=Muddle></nobr> trap in an empty hex within <nobr>Range <sprite name=Range> 3</nobr>.
+  UA: Створіть одну пастку з 3 шкоди та <nobr>ДЕЗОРІЄНТАЦІЄЮ <sprite name=Muddle></nobr> на порожньому гексі в межах <nobr>Дальності <sprite name=Range> 3</nobr>.
+
+Lions.csv | JOTL_095_T | EN: 112 | UA: 133 | +18.8%
+  EN: On your next four attacks targeting enemies adjacent to a wall, add <nobr>+2 Attack <sprite name=Attack></nobr>.
+  UA: Для ваших наступних чотирьох атак, спрямованих на ворогів, суміжних зі стіною, додайте <nobr>+2 до Атаки <sprite name=Attack></nobr>.
+
+Lions.csv | JOTL_095_B_2 | EN: 61 | UA: 71 | +16.4%
+  EN: All enemies moved through suffer 1 damage, <sprite name=XP1>.
+  UA: Усі вороги, через яких ви пройшли, зазнають 1 шкоди, <sprite name=XP1>.
+
+Lions.csv | JOTL_096_B | EN: 132 | UA: 149 | +12.9%
+  EN: Destroy one adjacent obstacle. If you do, gain <sprite name=XP1> and all enemies adjacent to the destroyed obstacle suffer 2 damage.
+  UA: Зруйнуйте одну сусідню перешкоду. Якщо ви це зробите, отримайте <sprite name=XP1>, і всі вороги, суміжні зі зруйнованою перешкодою, зазнають 2 шкоди.
+
+Lions.csv | JOTL_097_B | EN: 89 | UA: 104 | +16.9%
+  EN: Move a single-hex obstacle adjacent to your starting hex to an empty hex adjacent to you.
+  UA: Перемістіть одногексову перешкоду, суміжну з вашим початковим гексом, на порожній гекс, суміжний з вами.
+
+Lions.csv | JOTL_098_T_1 | EN: 88 | UA: 108 | +22.7%
+  EN: Destroy one obstacle within <nobr>Range <sprite name=Range> 4</nobr>. If you do, perform
+  UA: Зруйнуйте одну перешкоду в межах <nobr>Дальності <sprite name=Range> 4</nobr>. Якщо ви це зробите, виконайте
+
+Lions.csv | JOTL_098_B | EN: 91 | UA: 102 | +12.1%
+  EN: Create three 3-damage traps in empty hexes within <nobr>Range <sprite name=Range> 4</nobr>.
+  UA: Створіть три пастки з 3 шкоди на порожніх гексах у межах <nobr>Дальності <sprite name=Range> 4</nobr>.
+
+Lions.csv | JOTL_102_B | EN: 76 | UA: 94 | +23.7%
+  EN: Destroy one adjacent obstacle. If you do, gain <sprite name=XP1> and perform
+  UA: Зруйнуйте одну сусідню перешкоду. Якщо ви це зробите, отримайте <sprite name=XP1> та виконайте
+
+Lions.csv | JOTL_103_B | EN: 83 | UA: 93 | +12.0%
+  EN: You and all allies may ignore the Shield value of target adjacent enemy this round.
+  UA: Ви та всі союзники можете ігнорувати значення Щита обраного сусіднього ворога в цьому раунді.
+
+Lions.csv | JOTL_105_T | EN: 133 | UA: 157 | +18.0%
+  EN: On your next three attacks targeting enemies you attacked earlier in the same round, add <nobr>+3 Attack <sprite name=Attack></nobr>.
+  UA: Для ваших наступних трьох атак, спрямованих на ворогів, яких ви вже атакували раніше в цьому ж раунді, додайте <nobr>+3 до Атаки <sprite name=Attack></nobr>.
+
+Lions.csv | JOTL_105_B_2 | EN: 68 | UA: 80 | +17.6%
+  EN: Also add <nobr>MUDDLE <sprite name=Muddle></nobr>, <sprite name=XP1>
+  UA: Також додайте <nobr>ДЕЗОРІЄНТАЦІЮ <sprite name=Muddle></nobr>, <sprite name=XP1>
+
+Lions.csv | JOTL_108_T_1 | EN: 98 | UA: 118 | +20.4%
+  EN: Destroy one adjacent obstacle or object with health. If you do, gain <sprite name=XP1> and perform
+  UA: Зруйнуйте одну сусідню перешкоду або об'єкт зі здоров'ям. Якщо ви це зробите, отримайте <sprite name=XP1> та виконайте
+
+Lions.csv | JOTL_108_B | EN: 140 | UA: 161 | +15.0%
+  EN: Destroy one adjacent obstacle. If you do, gain <sprite name=XP1> and all enemies in the same room as the destroyed obstacle suffer 2 damage.
+  UA: Зруйнуйте одну сусідню перешкоду. Якщо ви це зробите, отримайте <sprite name=XP1>, і всі вороги в тій самій кімнаті, що й зруйнована перешкода, зазнають 2 шкоди.
+
+Lions.csv | JOTL_109_B | EN: 114 | UA: 138 | +21.1%
+  EN: You may perform any destroy obstacle ability as if one empty hex within range of the ability contains an obstacle.
+  UA: Ви можете виконати будь-яку здібність руйнування перешкод так, ніби один порожній гекс у межах дальності цієї здібності містить перешкоду.
+
+Lions.csv | JOTL_151_T_1 | EN: 68 | UA: 79 | +16.2%
+  EN: One ally within <nobr>Range <sprite name=Range> 3</nobr> may perform
+  UA: Один союзник у межах <nobr>Дальності <sprite name=Range> 3</nobr> може виконати
+
+Lions.csv | JOTL_151_T_2 | EN: 26 | UA: 31 | +19.2%
+  EN: That same ally may perform
+  UA: Цей самий союзник може виконати
+
+Lions.csv | JOTL_152_T | EN: 122 | UA: 156 | +27.9%
+  EN: All allies who remove <nobr>POISON <sprite name=Poison></nobr> with this heal gain <nobr>BLESS <sprite name=Bless></nobr>.
+  UA: Усі союзники, які позбуваються <nobr>ОТРУЄННЯ <sprite name=Poison></nobr> завдяки цьому лікуванню, отримують <nobr>БЛАГОСЛОВЕННЯ <sprite name=Bless></nobr>.
+
+Lions.csv | JOTL_153_T_1 | EN: 29 | UA: 35 | +20.7%
+  EN: One adjacent ally may perform
+  UA: Один сусідній союзник може виконати
+
+Lions.csv | JOTL_154_B | EN: 68 | UA: 79 | +16.2%
+  EN: One ally within <nobr>Range <sprite name=Range> 3</nobr> may perform
+  UA: Один союзник у межах <nobr>Дальності <sprite name=Range> 3</nobr> може виконати
+
+Lions.csv | JOTL_156_T | EN: 68 | UA: 79 | +16.2%
+  EN: One ally within <nobr>Range <sprite name=Range> 2</nobr> may perform
+  UA: Один союзник у межах <nobr>Дальності <sprite name=Range> 2</nobr> може виконати
+
+Lions.csv | JOTL_157_B_1 | EN: 74 | UA: 83 | +12.2%
+  EN: Force one enemy within <nobr>Range <sprite name=Range> 3</nobr> to perform
+  UA: Змусьте одного ворога в межах <nobr>Дальності <sprite name=Range> 3</nobr> виконати
+
+Lions.csv | JOTL_158_B_1 | EN: 68 | UA: 79 | +16.2%
+  EN: One ally within <nobr>Range <sprite name=Range> 3</nobr> may perform
+  UA: Один союзник у межах <nobr>Дальності <sprite name=Range> 3</nobr> може виконати
+
+Lions.csv | JOTL_158_B_2 | EN: 66 | UA: 78 | +18.2%
+  EN: If they do, gain <sprite name=XP1> and that ally suffers 2 damage.
+  UA: Якщо він це робить, отримайте <sprite name=XP1>, а цей союзник зазнає 2 шкоди.
+
+Lions.csv | JOTL_161_T_1 | EN: 74 | UA: 83 | +12.2%
+  EN: Force one enemy within <nobr>Range <sprite name=Range> 4</nobr> to perform
+  UA: Змусьте одного ворога в межах <nobr>Дальності <sprite name=Range> 4</nobr> виконати
+
+Lions.csv | JOTL_162_T_2 | EN: 50 | UA: 56 | +12.0%
+  EN: targeting enemies of your choice adjacent to them.
+  UA: спрямовані на суміжних із ними ворогів за вашим вибором.
+
+Lions.csv | JOTL_165_T_1 | EN: 71 | UA: 83 | +16.9%
+  EN: Target self or one ally within <nobr>Range <sprite name=Range> 2</nobr>
+  UA: Ціль: ви самі або один союзник у межах <nobr>Дальності <sprite name=Range> 2</nobr>
+
+Lions.csv | JOTL_166_T | EN: 68 | UA: 79 | +16.2%
+  EN: One ally within <nobr>Range <sprite name=Range> 3</nobr> may perform
+  UA: Один союзник у межах <nobr>Дальності <sprite name=Range> 3</nobr> може виконати
+
+Lions.csv | JOTL_167_T | EN: 94 | UA: 107 | +13.8%
+  EN: Shuffle one <nobr>BLESS <sprite name=Bless></nobr> card into the monster attack modifier deck.
+  UA: Замішайте одну карту <nobr>БЛАГОСЛОВЕННЯ <sprite name=Bless></nobr> до колоди модифікаторів атаки монстрів.
+
+Lions.csv | JOTL_167_B_2 | EN: 56 | UA: 64 | +14.3%
+  EN: Add <nobr>+2 Attack <sprite name=Attack></nobr> instead.
+  UA: Натомість додайте <nobr>+2 до Атаки <sprite name=Attack></nobr>.
+
+Lions.csv | JOTL_168_B_2 | EN: 68 | UA: 79 | +16.2%
+  EN: One ally within <nobr>Range <sprite name=Range> 3</nobr> may perform
+  UA: Один союзник у межах <nobr>Дальності <sprite name=Range> 3</nobr> може виконати
+
+Lions.csv | JOTL_169_T_1 | EN: 74 | UA: 83 | +12.2%
+  EN: Force one enemy within <nobr>Range <sprite name=Range> 3</nobr> to perform
+  UA: Змусьте одного ворога в межах <nobr>Дальності <sprite name=Range> 3</nobr> виконати
+
+Lions.csv | JOTL_170_B_1 | EN: 35 | UA: 41 | +17.1%
+  EN: Force one adjacent enemy to perform
+  UA: Змусьте одного сусіднього ворога виконати
+
+Lions.csv | JOTL_172_T | EN: 316 | UA: 355 | +12.3%
+  EN: Place a Ward in an adjacent empty hex. It is considered a summon for all purposes. All enemies that enter a hex adjacent to the Ward gain <nobr>POISON <sprite name=Poison></nobr>. All enemies gain Disadvantage on all their attacks not granted by you while within <nobr>Range <sprite name=Range> 3</nobr> of the Ward.
+  UA: Розмістіть Оберіг на сусідньому порожньому гексі. Він вважається прикликаною істотою для всіх цілей. Усі вороги, які заходять на гекс, суміжний з Оберегом, отримують <nobr>ОТРУЄННЯ <sprite name=Poison></nobr>. Усі вороги отримують Ускладнення на всі свої атаки, не надані вами, перебуваючи в межах <nobr>Дальності <sprite name=Range> 3</nobr> від Оберега.
+
+Lions.csv | JOTL_172_B_1 | EN: 77 | UA: 89 | +15.6%
+  EN: One ally or enemy within <nobr>Range <sprite name=Range> 3</nobr> may perform
+  UA: Один союзник або ворог у межах <nobr>Дальності <sprite name=Range> 3</nobr> може виконати
+
+Lions.csv | JOTL_172_B_2 | EN: 34 | UA: 38 | +11.8%
+  EN: targeting an enemy of your choice.
+  UA: спрямовану на ворога за вашим вибором.
+
+Lions.csv | JOTL_173_T | EN: 119 | UA: 151 | +26.9%
+  EN: Up to two allies within <nobr>Range <sprite name=Range> 2</nobr> each suffer 2 damage. Each ally who does then performs
+  UA: До двох союзників у межах <nobr>Дальності <sprite name=Range> 2</nobr> зазнають по 2 шкоди кожен. Кожен союзник, який зазнав шкоди, після цього виконує
+
+Lions.csv | JOTL_174_T | EN: 145 | UA: 187 | +29.0%
+  EN: Heal all damage on one ally within <nobr>Range <sprite name=Range> 3</nobr>. If you do, that ally gains <nobr>MUDDLE <sprite name=Muddle></nobr>.
+  UA: Повністю вилікуйте всю шкоду одного союзника в межах <nobr>Дальності <sprite name=Range> 3</nobr>. Якщо ви це зробите, цей союзник отримає <nobr>ДЕЗОРІЄНТАЦІЮ <sprite name=Muddle></nobr>.
+
+Lions.csv | JOTL_174_B | EN: 140 | UA: 158 | +12.9%
+  EN: Any time you or any ally loses <nobr>POISON <sprite name=Poison></nobr>, that figure gains <nobr>STRENGTHEN <sprite name=Strengthen></nobr>.
+  UA: Щоразу, коли ви або будь-який союзник втрачаєте <nobr>ОТРУЄННЯ <sprite name=Poison></nobr>, ця фігура отримує <nobr>ПОСИЛЕННЯ <sprite name=Strengthen></nobr>.
+
+Lions.csv | JOTL_175_B | EN: 74 | UA: 83 | +12.2%
+  EN: Force one enemy within <nobr>Range <sprite name=Range> 3</nobr> to perform
+  UA: Змусьте одного ворога в межах <nobr>Дальності <sprite name=Range> 3</nobr> виконати
+
+Lions.csv | JOTL_176_T_1 | EN: 68 | UA: 79 | +16.2%
+  EN: One ally within <nobr>Range <sprite name=Range> 2</nobr> may perform
+  UA: Один союзник у межах <nobr>Дальності <sprite name=Range> 2</nobr> може виконати
+
+Lions.csv | JOTL_176_T_2 | EN: 33 | UA: 45 | +36.4%
+  EN: If they do, that ally may perform
+  UA: Якщо він це робить, цей союзник може виконати
+
+Lions.csv | JOTL_177_B | EN: 78 | UA: 87 | +11.5%
+  EN: You and all allies within <nobr>Range <sprite name=Range> 2</nobr> may perform
+  UA: Ви та всі союзники в межах <nobr>Дальності <sprite name=Range> 2</nobr> можете виконати
+
+Lions.csv | JOTL_178_T | EN: 75 | UA: 101 | +34.7%
+  EN: On your next three Heal abilities when possible, target an additional ally.
+  UA: Для ваших наступних трьох здібностей Лікування, коли це можливо, обирайте ціллю додаткового союзника.
+
+Lions.csv | JOTL_180_B_1 | EN: 68 | UA: 79 | +16.2%
+  EN: One ally within <nobr>Range <sprite name=Range> 3</nobr> may perform
+  UA: Один союзник у межах <nobr>Дальності <sprite name=Range> 3</nobr> може виконати
+
+Lions.csv | JOTL_180_B_2 | EN: 96 | UA: 114 | +18.8%
+  EN: If they do, gain <sprite name=XP1> and that ally gains <nobr>POISON <sprite name=Poison></nobr>.
+  UA: Якщо він це робить, отримайте <sprite name=XP1>, а цей союзник отримує <nobr>ОТРУЄННЯ <sprite name=Poison></nobr>.
+
+Lions.csv | JOTL_225_B | EN: 55 | UA: 67 | +21.8%
+  EN: All attacks targeting you gain Disadvantage this round.
+  UA: Усі атаки, спрямовані на вас, отримують Ускладнення в цьому раунді.
+
+Lions.csv | JOTL_235_B_1 | EN: 42 | UA: 55 | +31.0%
+  EN: All enemies moved through suffer 1 damage.
+  UA: Усі вороги, через яких здійснено рух, зазнають 1 шкоди.
+
+Lions.csv | JOTL_237_B | EN: 75 | UA: 93 | +24.0%
+  EN: <nobr>Loot <sprite name=Loot></nobr> each hex you enter with this movement.
+  UA: <nobr>Здобудьте <sprite name=Loot></nobr> кожен гекс, на який ви заходите під час цього руху.
+
+Lions.csv | JOTL_240_T_3 | EN: 39 | UA: 51 | +30.8%
+  EN: If Fire was consumed, 2 damage instead.
+  UA: Якщо Вогонь був спожитий, натомість завдає 2 Шкоди.
+
+Lions.csv | JOTL_379 | EN: 70 | UA: 83 | +18.6%
+  EN: Create one 3-damage trap in an adjacent empty hex closest to an enemy.
+  UA: Створіть одну пастку з 3 Шкоди в суміжному порожньому гексі, найближчому до ворога.
+
+Lions.csv | JOTL_426 | EN: 23 | UA: 38 | +65.2%
+  EN: Retaliates at any range
+  UA: Завдає Відплати на будь-якій Дальності
+
+
+--- FILE: Solo.csv ---
+Solo.csv | Item_DoctorsCoat | EN: 135 | UA: 172 | +27.4%
+  EN: After you give one or more allies a "Medical Pack" or "Large Medical Pack" card, you may gain one "Medical Pack" card during that turn.
+  UA: Після того як ви даєте одному або кільком союзникам карту «Медичний Набір» або «Великий Медичний Набір», ви можете отримати одну карту «Медичний Набір» протягом цього ходу.
+
+Solo.csv | Item_ElementalBoots | EN: 61 | UA: 84 | +37.7%
+  EN: If you move 3 or more hexes on your turn, create any element.
+  UA: Якщо ви переміщуєтеся на 3 або більше гексів у свій хід, створіть будь-який елемент.
+
+Solo.csv | ITEM_NAME_FocusingRay | EN: 12 | UA: 18 | +50.0%
+  EN: Focusing Ray
+  UA: Фокусуючий Промінь
+
+Solo.csv | Item_FocusingRay | EN: 141 | UA: 167 | +18.4%
+  EN: During your heal ability targeting an ally, add <nobr>+1 Heal <sprite name=Heal></nobr> and <nobr>Strengthen <sprite name=Strengthen></nobr>.
+  UA: Під час вашої здібності лікування, спрямованої на союзника, додайте <nobr>+1 до Лікування <sprite name=Heal></nobr> та <nobr>ПОСИЛЕННЯ <sprite name=Strengthen></nobr>.
+
+Solo.csv | Item_MaskOfDeath | EN: 132 | UA: 150 | +13.6%
+  EN: Any time you perform a melee attack and you have exactly 1 hit point, add <nobr>+2 Attack <sprite name=Attack></nobr> to the attack.
+  UA: Щоразу, коли ви здійснюєте ближню атаку і у вас залишилося рівно 1 очко здоров'я, додайте <nobr>+2 до Атаки <sprite name=Attack></nobr> до цієї атаки.
+
+Solo.csv | Item_PendantOfThePlague | EN: 160 | UA: 188 | +17.5%
+  EN: During your turn, <nobr>POISON <sprite name=Poison></nobr> and <nobr>CURSE <sprite name=Curse></nobr> one enemy within <nobr>Range <sprite name=Range> 3</nobr>.
+  UA: Під час свого ходу накладіть <nobr>ОТРУЄННЯ <sprite name=Poison></nobr> та <nobr>ПРОКЛЯТТЯ <sprite name=Curse></nobr> на одного ворога в межах <nobr>Дальності <sprite name=Range> 3</nobr>.
+
+Solo.csv | ITEM_NAME_PhasingIdol | EN: 12 | UA: 16 | +33.3%
+  EN: Phasing Idol
+  UA: Мерехтливий Ідол
+
+Solo.csv | Item_PhasingIdol | EN: 76 | UA: 88 | +15.8%
+  EN: When a summon you own is damaged by an attack, it suffers no damage instead.
+  UA: Коли прикликана вами істота зазнає шкоди від атаки, вона замість цього не отримує шкоди.
+
+Solo.csv | ITEM_NAME_StoneCharm | EN: 11 | UA: 15 | +36.4%
+  EN: Stone Charm
+  UA: Кам'яний Амулет
+
+Solo.csv | Item_StoneCharm | EN: 116 | UA: 134 | +15.5%
+  EN: Whenever you create an obstacle, all enemies adjacent to the obstacle gain <nobr>MUDDLE <sprite name=Muddle></nobr>.
+  UA: Щоразу, коли ви створюєте перешкоду, всі вороги, суміжні з цією перешкодою, отримують <nobr>ДЕЗОРІЄНТАЦІЮ <sprite name=Muddle></nobr>.
+
+Solo.csv | ITEM_NAME_SmokeElixir | EN: 12 | UA: 15 | +25.0%
+  EN: Smoke Elixir
+  UA: Димовий Еліксир
+
+Solo.csv | Item_SmokeElixir | EN: 70 | UA: 78 | +11.4%
+  EN: During your turn, gain <nobr>INVISIBLE <sprite name=Invisible></nobr>.
+  UA: Під час свого ходу отримайте <nobr>НЕВИДИМІСТЬ <sprite name=Invisible></nobr>.
+
+Solo.csv | ITEM_NAME_SunShield | EN: 10 | UA: 12 | +20.0%
+  EN: Sun Shield
+  UA: Сонячний Щит
+
+Solo.csv | ITEM_NAME_UtilityBelt | EN: 12 | UA: 16 | +33.3%
+  EN: Utility Belt
+  UA: Пояс Спорядження
+
+Solo.csv | Item_UtilityBelt | EN: 121 | UA: 151 | +24.8%
+  EN: During your turn, you or any one ally may <nobr>Refresh <sprite name=Refresh></nobr> one of your spent or consumed items.
+  UA: Під час свого ходу ви або будь-який один союзник можете <nobr>Оновити <sprite name=Refresh></nobr> один зі своїх використаних або витрачених предметів.
+
+Solo.csv | ITEM_NAME_VolatileElixir | EN: 15 | UA: 20 | +33.3%
+  EN: Volatile Elixir
+  UA: Нестабільний Еліксир
+
+Solo.csv | 588606 | EN: 90 | UA: 106 | +17.8%
+  EN: Summon one Normal Living Corpse if the target is not immune to DISARM <sprite name=Disarm>
+  UA: Прикличте одного звичайного Трупа, що ожив, якщо ціль не має імунітету до РОЗЗБРОЄННЯ <sprite name=Disarm>
+
+Solo.csv | 595606 | EN: 88 | UA: 103 | +17.0%
+  EN: Summon one Normal Living Corpse if the target is not immune to CURSE <sprite name=Curse>
+  UA: Прикличте одного звичайного Трупа, що ожив, якщо ціль не має імунітету до ПРОКЛЯТТЯ <sprite name=Curse>
+
+
+Total keys found across all files: 375
