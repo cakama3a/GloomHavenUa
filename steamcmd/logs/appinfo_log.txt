@@ -62,3 +62,30 @@
 [2026-06-17 16:16:45] RequestAppInfoUpdate: AppIDs 228980,780290
 [2026-06-17 16:16:45] Requesting 2 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
 [2026-06-17 16:16:46] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2026-08-04 10:55:04] Client version: 1785799152
+[2026-08-04 10:55:04] ThreadedReadFromDisk: loading appinfo cache from: C:\Users\cakam\Documents\GitHub\GloomHavenUa\steamcmd/appcache/appinfo.vdf
+[2026-08-04 10:55:04] ThreadedReadFromDisk: failed to open file: C:\Users\cakam\Documents\GitHub\GloomHavenUa\steamcmd/appcache/appinfo.vdf
+[2026-08-04 10:55:04] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+[2026-08-04 10:56:26] RequestAppInfoUpdate: AppIDs 7
+[2026-08-04 10:56:26] Change number 0->37754911, apps: 0/0, packages: 0/0
+[2026-08-04 10:56:26] Requesting 1 apps, 141 packages (meta data, 1024 prev attempts, expected 6 KB)
+[2026-08-04 10:56:26] Downloaded 1 apps via HTTP, 15 KB (3 KB compressed)
+[2026-08-04 10:56:26] Requesting 0 apps, 141 packages (full data, 1024 prev attempts, expected 50 KB)
+[2026-08-04 10:56:27] UpdatesJob: finished OK, apps updated 1 (15 KB), packages updated 141 (43 KB)
+[2026-08-04 10:56:27] Requesting 512 apps, 0 packages (meta data, 1024 prev attempts, expected 24 KB)
+[2026-08-04 10:56:28] Requested 111 app access tokens, 101 received, 10 denied
+[2026-08-04 10:56:28] Updated SHAs with 101 new access tokens
+[2026-08-04 10:56:29] Downloaded 109 apps via HTTP, 1557 KB (365 KB compressed)
+[2026-08-04 10:56:29] Requesting 404 apps, 0 packages (full data, 1024 prev attempts, expected 840 KB)
+[2026-08-04 10:56:29] UpdatesJob: finished OK, apps updated 513 (2461 KB), packages updated 0 (0 KB)
+[2026-08-04 10:56:29] UpdatesJob: apps still needs updates, run again
+[2026-08-04 10:56:29] Requesting 10 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2026-08-04 10:56:30] Requested 10 app access tokens, 0 received, 10 denied
+[2026-08-04 10:56:30] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2026-08-04 10:56:31] RequestAppInfoUpdate: AppIDs 228980,780290
+[2026-08-04 10:56:31] Requesting 2 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2026-08-04 10:56:31] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2026-08-04 10:56:34] ThreadedWriteToDisk: writing appinfo cache to: C:\Users\cakam\Documents\GitHub\GloomHavenUa\steamcmd/appcache/appinfo.vdf
+[2026-08-04 10:56:34] App cache write succeeded C:\Users\cakam\Documents\GitHub\GloomHavenUa\steamcmd/appcache/appinfo.vdf (513 apps, 1257 KB) in 20 ms

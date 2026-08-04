@@ -1,19 +1,25 @@
 @echo off
-chcp 1251 > nul
+chcp 65001 > nul
 setlocal enabledelayedexpansion
 
 echo ===================================================
-echo   Onovlennya ta zavantazhennya lokalizacii v Steam
+echo     Gloomhaven Ukrainian Translation Updater
 echo ===================================================
 echo.
 
 :: 1. Copy files
 set "SRC_DIR=C:\Users\cakam\Documents\GitHub\GloomHavenUa"
 set "DEST_DIR=C:\Users\cakam\AppData\LocalLow\FlamingFowlStudios\Gloomhaven\SteamMods\UkraineHaven"
+set "NOTES_FILE=%SRC_DIR%\release_notes.txt"
 
-echo [1/3] Kopiuvannya fajliv lokalizacii...
-echo Dzherelo: %SRC_DIR%\LangPacks
-echo Cil:    %DEST_DIR%\LangPacks
+if not exist "%NOTES_FILE%" (
+    type NUL > "%NOTES_FILE%"
+    echo [INFO] Created empty release_notes.txt
+)
+
+echo [1/3] Copying localization files...
+echo Source: %SRC_DIR%\LangPacks
+echo Target: %DEST_DIR%\LangPacks
 echo.
 
 if not exist "%DEST_DIR%\LangPacks" mkdir "%DEST_DIR%\LangPacks"
@@ -24,16 +30,29 @@ copy /Y "%SRC_DIR%\thumbnail.png" "%DEST_DIR%\preview.png" > nul
 xcopy /E /I /Y "%SRC_DIR%\LangPacks" "%DEST_DIR%\LangPacks" > nul
 
 if %ERRORLEVEL% equ 0 (
-    echo [OK] Fajly uspisno skopiyovano!
+    echo [OK] Files copied successfully!
 ) else (
-    echo [ERROR] Pomylka kopiuvannya fajliv.
+    echo [ERROR] Failed to copy files.
     pause
     exit /b %ERRORLEVEL%
 )
 echo.
 
-:: 2. Credentials
-echo [2/3] Vvedit login Steam:
+:: 2. Load release notes
+set "CHANGE_NOTE=Localization update"
+if exist "%NOTES_FILE%" (
+    for %%I in ("%NOTES_FILE%") do set FILE_SIZE=%%~zI
+    if !FILE_SIZE! gtr 0 (
+        set /p FILE_CONTENT=<"%NOTES_FILE%"
+        if not "!FILE_CONTENT!"=="" (
+            set "CHANGE_NOTE=!FILE_CONTENT!"
+            echo [INFO] Release notes loaded: "!CHANGE_NOTE!"
+        )
+    )
+)
+
+:: 3. Credentials
+echo [2/3] Enter Steam login:
 set /p STEAM_USER="Login: "
 
 :: VDF File
@@ -46,21 +65,35 @@ echo   "appid" "780290"
 echo   "publishedfileid" "3400827393"
 echo   "contentfolder" "%DEST_DIR%"
 echo   "previewfile" "%PREVIEW_FILE%"
-echo   "changenote" "Localization update"
+echo   "changenote" "!CHANGE_NOTE!"
 echo }
 ) > "%VDF_FILE%"
 
 echo.
-echo [3/3] Zapusk zavantazhennya v Steam Workshop...
+echo [3/3] Starting Steam Workshop upload...
 echo.
 
 "%SRC_DIR%\steamcmd\steamcmd.exe" +login "%STEAM_USER%" +workshop_build_item "%VDF_FILE%" +quit
 
+set UPLOAD_ERROR=%ERRORLEVEL%
+
 :: Delete temp VDF
 if exist "%VDF_FILE%" del "%VDF_FILE%"
 
+if %UPLOAD_ERROR% equ 0 (
+    echo.
+    echo [OK] Upload completed successfully!
+    if exist "%NOTES_FILE%" (
+        type NUL > "%NOTES_FILE%"
+        echo [INFO] Cleared release_notes.txt to prevent duplicate uploads.
+    )
+) else (
+    echo.
+    echo [ERROR] SteamCMD upload failed with error code %UPLOAD_ERROR%.
+)
+
 echo.
 echo ===================================================
-echo Process zaversheno.
+echo Process completed.
 echo ===================================================
 pause

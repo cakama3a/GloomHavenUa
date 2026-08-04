@@ -94,3 +94,42 @@ Committing update...
 [2026-06-17 16:16:53] Success.
 [2026-06-17 16:16:53] Unloading Steam API...
 [2026-06-17 16:16:53] OK
+
+
+[2026-08-04 10:55:04] Client version: 1785799152
+[2026-08-04 10:55:04] Loading Steam API...
+[2026-08-04 10:55:04] OK
+[2026-08-04 10:55:04] Cached credentials not found.
+[2026-08-04 10:55:04] 
+password: 
+[2026-08-04 10:55:04] 
+Proceeding with login using username/password.
+[2026-08-04 10:55:04] Logging in user 'IvanPunchUa' [U:1:0] to Steam Public...
+[2026-08-04 10:55:58] 
+This computer has not been authenticated for your account using Steam Guard.
+[2026-08-04 10:55:58] Please check your email for the message from Steam, and enter the Steam Guard
+ code from that message.
+You can also enter this code at any time using 'set_steam_guard_code'
+ at the console.
+Steam Guard code:
+[2026-08-04 10:56:26] OK
+[2026-08-04 10:56:26] Waiting for client config...
+[2026-08-04 10:56:27] OK
+[2026-08-04 10:56:27] Waiting for user info...
+[2026-08-04 10:56:31] OK
+[2026-08-04 10:56:31] 
+Preparing update...
+[2026-08-04 10:56:32] 
+Preparing content...
+[2026-08-04 10:56:33] 
+Uploading content...
+[2026-08-04 10:56:36] .
+[2026-08-04 10:56:37] .
+[2026-08-04 10:56:37] .
+[2026-08-04 10:56:37] 
+Uploading preview image...
+[2026-08-04 10:56:38] 
+Committing update...
+[2026-08-04 10:56:38] Success.
+[2026-08-04 10:56:38] Unloading Steam API...
+[2026-08-04 10:56:38] OK
