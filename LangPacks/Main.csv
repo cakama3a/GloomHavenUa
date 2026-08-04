@@ -4316,7 +4316,7 @@ GUI_OBJECTIVE_FILTER_ACTOR_ENEMY,Вороги
 GUI_OBJECTIVE_FILTER_ACTOR_PLAYER,Найманці
 GUI_OBJECTIVE_FILTER_ACTOR_SUMMON,Союзники
 GUI_OBJECTIVE_KILL_BOSSES_LOSE,"Поразка, якщо всі боси загинуть"
-GUI_OBJECTIVE_KILL_BOSSES_WIN,Учити всіх босів
+GUI_OBJECTIVE_KILL_BOSSES_WIN,Убити всіх босів
 GUI_OBJECTIVE_KILL_ENEMY_LOSE,"Поразка, якщо всі вороги загинуть"
 GUI_OBJECTIVE_KILL_ENEMY_WIN,Убити всіх ворогів у всіх кімнатах
 GUI_OBJECTIVE_KILL_X_LOSE,"Поразка, якщо загине {0} ворогів<br><br>"
@@ -10815,3 +10815,4 @@ times,разів
 to,до
 with,з
 within,в межах
+

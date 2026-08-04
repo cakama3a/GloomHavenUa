@@ -303,7 +303,7 @@
 | Vermling Raider | Вермлінг-нападник |
 | Vermling Raider Elite | Елітний вермлінг-нападник |
 | Head Out | Вирушити |
-| Kill all bosses | Учити всіх босів |
+| Kill all bosses | Убити всіх босів |
 | Lose if all bosses die | Поразка, якщо всі боси загинуть |
 
 ## Персонажі та імена

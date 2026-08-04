@@ -337,3 +337,24 @@
 [2026-08-04 10:55:04] Verification complete
 [2026-08-04 10:56:26] Clearing cached metrics (C:\Users\cakam\Documents\GitHub\GloomHavenUa\steamcmd\package\steam_cmd_metrics.bin)
 [2026-08-04 10:56:38] Shutdown
+
+
+[2026-08-04 12:27:35] Startup - updater built Aug  3 2026 12:41:52
+[2026-08-04 12:27:35] Startup - Steam Client launched with: "C:\Users\cakam\Documents\GitHub\GloomHavenUa\steamcmd\steamcmd.exe"   <+123 truncated>
+[2026-08-04 12:27:35] Windows 10.0.26200.0, 0, 2, 768, 1, 101 
+[2026-08-04 12:27:35] Using the following download hosts for Public, Realm steamglobal
+[2026-08-04 12:27:35] 1. https://client-update.fastly.steamstatic.com, /, Realm 'steamglobal', weight was 900, source = 'update_hosts_cached.vdf'
+[2026-08-04 12:27:35] 2. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 400, source = 'update_hosts_cached.vdf'
+[2026-08-04 12:27:35] 3. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2026-08-04 12:27:35] Checking for update on startup
+[2026-08-04 12:27:35] Checking for available updates...
+[2026-08-04 12:27:35] Downloading manifest: https://client-update.fastly.steamstatic.com/steam_cmd_win64
+[2026-08-04 12:27:35] Manifest download: send request
+[2026-08-04 12:27:35] Manifest download: waiting for download to finish
+[2026-08-04 12:27:36] Manifest download: finished
+[2026-08-04 12:27:36] Download skipped: /steam_cmd_win64 version 1785799152, installed version 1785799152, existing pending version 0
+[2026-08-04 12:27:36] Nothing to do
+[2026-08-04 12:27:36] Verifying installation...
+[2026-08-04 12:27:36] Verifying all executable checksums
+[2026-08-04 12:27:36] Verification complete
+[2026-08-04 12:27:47] Shutdown
