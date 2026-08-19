@@ -379,3 +379,24 @@
 [2026-08-08 20:55:23] Verifying all executable checksums
 [2026-08-08 20:55:23] Verification complete
 [2026-08-08 20:55:34] Shutdown
+
+
+[2026-08-19 11:50:15] Startup - updater built Aug  3 2026 12:41:52
+[2026-08-19 11:50:15] Startup - Steam Client launched with: "C:\Users\cakam\Documents\GitHub\GloomHavenUa\steamcmd\steamcmd.exe"   <+123 truncated>
+[2026-08-19 11:50:15] Windows 10.0.26200.0, 0, 2, 768, 1, 101 
+[2026-08-19 11:50:15] Using the following download hosts for Public, Realm steamglobal
+[2026-08-19 11:50:15] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 400, source = 'update_hosts_cached.vdf'
+[2026-08-19 11:50:15] 2. https://client-update.fastly.steamstatic.com, /, Realm 'steamglobal', weight was 900, source = 'update_hosts_cached.vdf'
+[2026-08-19 11:50:15] 3. https://client-update.steamstatic.com, /, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2026-08-19 11:50:15] Checking for update on startup
+[2026-08-19 11:50:15] Перевірка наявності оновлень…
+[2026-08-19 11:50:15] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win64
+[2026-08-19 11:50:15] Manifest download: send request
+[2026-08-19 11:50:15] Manifest download: waiting for download to finish
+[2026-08-19 11:50:16] Manifest download: finished
+[2026-08-19 11:50:16] Download skipped: /steam_cmd_win64 version 1785799152, installed version 1785799152, existing pending version 0
+[2026-08-19 11:50:16] Nothing to do
+[2026-08-19 11:50:16] Перевірка інсталяції…
+[2026-08-19 11:50:16] Verifying all executable checksums
+[2026-08-19 11:50:16] Verification complete
+[2026-08-19 11:50:29] Shutdown

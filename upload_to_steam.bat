@@ -38,42 +38,24 @@ if %ERRORLEVEL% equ 0 (
 )
 echo.
 
-:: 2. Load release notes
-set "CHANGE_NOTE="
-if exist "%NOTES_FILE%" (
-    for %%I in ("%NOTES_FILE%") do set FILE_SIZE=%%~zI
-    if !FILE_SIZE! gtr 0 (
-        for /f "usebackq delims=" %%A in ("%NOTES_FILE%") do (
-            if defined CHANGE_NOTE (
-                set "CHANGE_NOTE=!CHANGE_NOTE! \n %%A"
-            ) else (
-                set "CHANGE_NOTE=%%A"
-            )
-        )
-        if not "!CHANGE_NOTE!"=="" (
-            echo [INFO] Release notes loaded: "!CHANGE_NOTE!"
-        )
-    )
-)
-if "!CHANGE_NOTE!"=="" set "CHANGE_NOTE=Localization update"
-
-:: 3. Credentials
+:: 2. Credentials
 echo [2/3] Enter Steam login:
 set /p STEAM_USER="Login: "
 
-:: VDF File
+:: 3. Prepare VDF File
 set "VDF_FILE=%SRC_DIR%\steamcmd\workshop_upload.vdf"
 set "PREVIEW_FILE=%DEST_DIR%\preview.png"
-(
-echo "workshopitem"
-echo {
-echo   "appid" "780290"
-echo   "publishedfileid" "3400827393"
-echo   "contentfolder" "%DEST_DIR%"
-echo   "previewfile" "%PREVIEW_FILE%"
-echo   "changenote" "!CHANGE_NOTE!"
-echo }
-) > "%VDF_FILE%"
+
+powershell -ExecutionPolicy Bypass -File "%SRC_DIR%\steamcmd\prepare_upload.ps1" -NotesFile "%NOTES_FILE%" -DestDir "%DEST_DIR%" -PreviewFile "%PREVIEW_FILE%" -VdfFile "%VDF_FILE%"
+
+if exist "%NOTES_FILE%" (
+    for %%I in ("%NOTES_FILE%") do set FILE_SIZE=%%~zI
+    if !FILE_SIZE! gtr 0 (
+        echo [INFO] Loaded release notes from release_notes.txt
+    ) else (
+        echo [INFO] No custom release notes found, using default note.
+    )
+)
 
 echo.
 echo [3/3] Starting Steam Workshop upload...
