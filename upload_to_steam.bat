@@ -39,17 +39,23 @@ if %ERRORLEVEL% equ 0 (
 echo.
 
 :: 2. Load release notes
-set "CHANGE_NOTE=Localization update"
+set "CHANGE_NOTE="
 if exist "%NOTES_FILE%" (
     for %%I in ("%NOTES_FILE%") do set FILE_SIZE=%%~zI
     if !FILE_SIZE! gtr 0 (
-        set /p FILE_CONTENT=<"%NOTES_FILE%"
-        if not "!FILE_CONTENT!"=="" (
-            set "CHANGE_NOTE=!FILE_CONTENT!"
+        for /f "usebackq delims=" %%A in ("%NOTES_FILE%") do (
+            if defined CHANGE_NOTE (
+                set "CHANGE_NOTE=!CHANGE_NOTE! \n %%A"
+            ) else (
+                set "CHANGE_NOTE=%%A"
+            )
+        )
+        if not "!CHANGE_NOTE!"=="" (
             echo [INFO] Release notes loaded: "!CHANGE_NOTE!"
         )
     )
 )
+if "!CHANGE_NOTE!"=="" set "CHANGE_NOTE=Localization update"
 
 :: 3. Credentials
 echo [2/3] Enter Steam login:
