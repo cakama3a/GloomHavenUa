@@ -85,3 +85,15 @@
 [2026-08-04 12:27:40] Flushed store 'userlocal' to 'C:\Users\cakam\Documents\GitHub\GloomHavenUa\steamcmd\userdata\1421648255\config\localconfig.vdf'
 [2026-08-04 12:27:42] Flushed store 'userlocal' to 'C:\Users\cakam\Documents\GitHub\GloomHavenUa\steamcmd\userdata\1421648255\config\localconfig.vdf'
 [2026-08-04 12:27:44] Flushed store 'userlocal' to 'C:\Users\cakam\Documents\GitHub\GloomHavenUa\steamcmd\userdata\1421648255\config\localconfig.vdf'
+
+
+[2026-08-08 20:55:23] Client version: 1785799152
+[2026-08-08 20:55:23] Loaded store 'install' from 'C:\Users\cakam\Documents\GitHub\GloomHavenUa\steamcmd\config\config.vdf' successfully
+[2026-08-08 20:55:23] Loaded store 'install' from 'C:\Users\cakam\Documents\GitHub\GloomHavenUa\steamcmd\config\config.vdf' successfully
+[2026-08-08 20:55:23] Loaded store 'install' from 'C:\Users\cakam\Documents\GitHub\GloomHavenUa\steamcmd\config\config.vdf' successfully
+[2026-08-08 20:55:23] Loaded store 'userlocal' from 'C:\Users\cakam\Documents\GitHub\GloomHavenUa\steamcmd\userdata\1421648255\config\localconfig.vdf' successfully
+[2026-08-08 20:55:23] Loaded store 'install' from 'C:\Users\cakam\Documents\GitHub\GloomHavenUa\steamcmd\config\config.vdf' successfully
+[2026-08-08 20:55:25] Flushed store 'install' to 'C:\Users\cakam\Documents\GitHub\GloomHavenUa\steamcmd\config\config.vdf'
+[2026-08-08 20:55:26] Flushed store 'userlocal' to 'C:\Users\cakam\Documents\GitHub\GloomHavenUa\steamcmd\userdata\1421648255\config\localconfig.vdf'
+[2026-08-08 20:55:27] Flushed store 'userlocal' to 'C:\Users\cakam\Documents\GitHub\GloomHavenUa\steamcmd\userdata\1421648255\config\localconfig.vdf'
+[2026-08-08 20:55:29] Flushed store 'userlocal' to 'C:\Users\cakam\Documents\GitHub\GloomHavenUa\steamcmd\userdata\1421648255\config\localconfig.vdf'

@@ -108,3 +108,24 @@
 [2026-08-04 12:27:40] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
 [2026-08-04 12:27:44] ThreadedWriteToDisk: writing appinfo cache to: C:\Users\cakam\Documents\GitHub\GloomHavenUa\steamcmd/appcache/appinfo.vdf
 [2026-08-04 12:27:44] App cache write succeeded C:\Users\cakam\Documents\GitHub\GloomHavenUa\steamcmd/appcache/appinfo.vdf (513 apps, 1257 KB) in 25 ms
+
+
+[2026-08-08 20:55:23] Client version: 1785799152
+[2026-08-08 20:55:23] ThreadedReadFromDisk: loading appinfo cache from: C:\Users\cakam\Documents\GitHub\GloomHavenUa\steamcmd/appcache/appinfo.vdf
+[2026-08-08 20:55:23] ThreadedReadFromDisk: header version: 0x7564429
+[2026-08-08 20:55:23] ThreadedReadFromDisk: apps updated: 513
+[2026-08-08 20:55:23] CAppInfoCacheReadFromDiskThread took 18 milliseconds to initialize
+[2026-08-08 20:55:25] RequestAppInfoUpdate: AppIDs 7
+[2026-08-08 20:55:26] Packages changed: force all
+[2026-08-08 20:55:26] Apps changed: force all
+[2026-08-08 20:55:26] Change number 37757058->37875892, apps: 0/0, packages: 0/0
+[2026-08-08 20:55:26] Requesting 513 apps, 141 packages (meta data, 1024 prev attempts, expected 30 KB)
+[2026-08-08 20:55:26] Requested 10 app access tokens, 0 received, 10 denied
+[2026-08-08 20:55:27] Downloaded 17 apps via HTTP, 285 KB (66 KB compressed)
+[2026-08-08 20:55:27] Requesting 16 apps, 0 packages (full data, 1024 prev attempts, expected 46 KB)
+[2026-08-08 20:55:27] UpdatesJob: finished OK, apps updated 33 (330 KB), packages updated 0 (0 KB)
+[2026-08-08 20:55:27] RequestAppInfoUpdate: AppIDs 228980,780290
+[2026-08-08 20:55:27] Requesting 2 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2026-08-08 20:55:27] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2026-08-08 20:55:32] ThreadedWriteToDisk: writing appinfo cache to: C:\Users\cakam\Documents\GitHub\GloomHavenUa\steamcmd/appcache/appinfo.vdf
+[2026-08-08 20:55:32] App cache write succeeded C:\Users\cakam\Documents\GitHub\GloomHavenUa\steamcmd/appcache/appinfo.vdf (513 apps, 1258 KB) in 29 ms
